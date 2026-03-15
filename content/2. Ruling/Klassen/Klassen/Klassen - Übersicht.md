@@ -59,7 +59,7 @@ Klassen lassen sich grob in drei Kategorien einteilen:
 
 | Klasse                                  | Key Ability  | HP/Level | Kurzbeschreibung                                                                                    |
 | --------------------------------------- | ------------ | -------- | --------------------------------------------------------------------------------------------------- |
-| [[Fighter\|Fighter]]                    | STR oder DEX | 10       | Meister aller Waffen und Kampftechniken. Größte Auswahl an Kampf-Feats.                             |
+| [[Fighter]]                             | STR oder DEX | 10       | Meister aller Waffen und Kampftechniken. Größte Auswahl an Kampf-Feats.                             |
 | [[Ranger]]                              | STR oder DEX | 10       | Jäger und Spurenleser. Kann einen Favoritenfeind markieren (Hunt Prey). Optionaler Zugang zu Magie. |
 | [[Rogue]]                               | DEX oder STR | 8        | Meister der Heimlichkeit und Hinterhalte. Sneak Attack als Hauptschadensmechanik.                   |
 | [[Klasse - Barbarian\|Barbarian]]       | STR          | 12       | Höchste HP im Spiel. Rage als mächtiger aber eingeschränkter Kampfmodus.                            |
