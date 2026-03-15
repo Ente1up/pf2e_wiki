@@ -1,0 +1,118 @@
+---
+title: "Klassen – Übersicht"
+system: "Pathfinder 2e"
+kategorie: "Klassen"
+tags:
+  - pf2e
+  - klassen
+  - übersicht
+  - grundlagen
+status: "Entwurf"
+verwandte_notizen:
+  - "Attribute & Level System"
+  - "Charaktererstellung"
+  - "Klasse - Fighter"
+  - "Klasse - Ranger"
+  - "Klasse - Rogue"
+  - "Klasse - Barbarian"
+  - "Klasse - Monk"
+  - "Klasse - Champion"
+  - "Klasse - Investigator"
+  - "Klasse - Swashbuckler"
+  - "Klasse - Gunslinger"
+  - "Klasse - Inventor"
+  - "Klasse - Wizard"
+  - "Klasse - Sorcerer"
+  - "Klasse - Cleric"
+  - "Klasse - Druid"
+  - "Klasse - Bard"
+  - "Klasse - Witch"
+  - "Klasse - Oracle"
+  - "Klasse - Magus"
+  - "Klasse - Summoner"
+  - "Klasse - Psychic"
+  - "Klasse - Animist"
+quellen:
+  - "Player Core"
+  - "Player Core 2"
+  - "War of Immortals"
+erstellt: 2026-03-09
+---
+
+# 🧙 Klassen – Übersicht
+
+## Einleitung
+
+In Pathfinder 2e bestimmt die **Klasse** den grundlegenden Spielstil, die Kampfrolle und die Fähigkeiten eines Charakters. Jede Klasse hat ein eigenes **Key Ability** (Schlüsselattribut), einzigartige **Class Features** und einen eigenen **HP-Wert pro Level**.
+
+Klassen lassen sich grob in drei Kategorien einteilen:
+
+- ⚔️ **Martial** – Kampforientiert, wenig oder keine Magie
+- 🔮 **Spellcaster** – Primär magisch, Zauber als Hauptwerkzeug
+- ✨ **Hybrid** – Kombination aus Kampf und Magie
+
+---
+
+## ⚔️ Martial Classes
+
+> Charaktere die primär durch physische Stärke, Geschick oder Taktik kämpfen.
+
+| Klasse                                  | Key Ability  | HP/Level | Kurzbeschreibung                                                                                    |
+| --------------------------------------- | ------------ | -------- | --------------------------------------------------------------------------------------------------- |
+| [[Fighter\|Fighter]]                    | STR oder DEX | 10       | Meister aller Waffen und Kampftechniken. Größte Auswahl an Kampf-Feats.                             |
+| [[Ranger]]                              | STR oder DEX | 10       | Jäger und Spurenleser. Kann einen Favoritenfeind markieren (Hunt Prey). Optionaler Zugang zu Magie. |
+| [[Rogue]]                               | DEX oder STR | 8        | Meister der Heimlichkeit und Hinterhalte. Sneak Attack als Hauptschadensmechanik.                   |
+| [[Klasse - Barbarian\|Barbarian]]       | STR          | 12       | Höchste HP im Spiel. Rage als mächtiger aber eingeschränkter Kampfmodus.                            |
+| [[Klasse - Monk\|Monk]]                 | STR oder DEX | 10       | Waffenloser Kämpfer mit hoher Mobilität. Einzige Klasse mit Strikes die als Agile & Finesse gelten. |
+| [[Klasse - Swashbuckler\|Swashbuckler]] | DEX          | 10       | Eleganter Duellant. Baut Panache auf für mächtige Finisher-Angriffe.                                |
+| [[Klasse - Gunslinger\|Gunslinger]]     | DEX          | 8        | Schusswaffen-Spezialist. Nutzt Reload-Mechaniken und Deed-Fähigkeiten.                              |
+| [[Klasse - Inventor\|Inventor]]         | INT          | 8        | Erfindet und modifiziert Ausrüstung. Kann Waffe, Rüstung oder Begleiter als Erfindung wählen.       |
+| [[Klasse - Investigator\|Investigator]] | INT          | 8        | Detektiv-Archetyp. Devise-System zum Analysieren von Feinden für Bonusschaden.                      |
+
+---
+
+## 🔮 Spellcaster Classes
+
+> Charaktere deren Hauptwerkzeug Magie ist. Unterteilt nach **Zaubertradition**.
+
+| Klasse | Tradition | Key Ability | HP/Level | Kurzbeschreibung |
+|--------|-----------|-------------|----------|-----------------|
+| [[Klasse - Wizard\|Wizard]] | Arcane | INT | 6 | Prepared Caster. Größte Zauberauswahl (Arcane). Spezialisierung in Zauberschulen. |
+| [[Klasse - Sorcerer\|Sorcerer]] | Arcane / Divine / Occult / Primal | CHA | 6 | Spontaneous Caster. Tradition abhängig von der gewählten Bloodline. |
+| [[Klasse - Cleric\|Cleric]] | Divine | WIS | 8 | Göttlicher Zauberer. Kann zwischen Prepared & Spontaneous wählen. Heal/Harm als Kernelement. |
+| [[Klasse - Druid\|Druid]] | Primal | WIS | 8 | Naturmagie. Flexible Spezialisierung (Wildshape, Tiergefährte, Wetterzauber etc.). |
+| [[Klasse - Bard\|Bard]] | Occult | CHA | 8 | Spontaneous Caster. Support-Fokus durch Compositions (Inspire Courage etc.). |
+| [[Klasse - Witch\|Witch]] | Arcane / Divine / Occult / Primal | INT oder WIS oder CHA | 6 | Prepared Caster. Tradition und Key Ability durch Patron bestimmt. Hexes als Bonus-Aktionen. |
+| [[Klasse - Oracle\|Oracle]] | Divine | CHA | 8 | Spontaneous Caster. Mächtige Fähigkeiten, aber gebunden an einen **Curse** der mit der Nutzung wächst. |
+| [[Klasse - Psychic\|Psychic]] | Occult | INT oder CHA | 6 | Spontaneous Caster. Amps verstärken Cantrips auf Kosten von Fokuspunkten. |
+| [[Klasse - Animist\|Animist]] | Primal / Occult | WIS | 8 | Channelt Geister (Apparitions) für wechselnde Fähigkeiten und Zauber. Sehr flexibel. |
+
+---
+
+## ✨ Hybrid Classes
+
+> Klassen die physisches Kämpfen und Magie gleichwertig kombinieren.
+
+| Klasse | Tradition | Key Ability | HP/Level | Kurzbeschreibung |
+|--------|-----------|-------------|----------|-----------------|
+| [[Klasse - Champion\|Champion]] | Divine | STR oder DEX | 10 | Gottgeweihter Krieger. Reaktionsfähigkeiten zum Schutz von Verbündeten. Cause bestimmt Ausrichtung. |
+| [[Klasse - Magus\|Magus]] | Arcane | STR oder DEX | 8 | Kombiniert Nahkampf und Arkane Magie. Spellstrike als Kernmechanik: Zauber in einen Angriff laden. |
+| [[Klasse - Summoner\|Summoner]] | Arcane / Divine / Occult / Primal | CHA | 10 | Beschwört einen mächtigen **Eidolon** als permanenten Begleiter. Teilt Aktionen und Ressourcen mit ihm. |
+
+---
+
+## 📌 Hinweise zur Klassenwahl
+
+- **Rolle im Team**: PF2e hat keine strikte Rollenverteilung, aber Klassen haben klare Stärken (Tank, Damage, Support, Control)
+- **Komplexität**: Fighter und Barbarian sind einsteigerfreundlich; Oracle, Witch und Summoner haben steilere Lernkurven
+- **Multiclassing**: In PF2e gibt es kein klassisches Multiclassing – stattdessen funktioniert es über **Archetype Dedication Feats**
+
+---
+
+## 🔗 Verwandte Themen
+
+- [[Attribute & Level System]] – Key Abilities und Proficiency im Kontext
+- [[Charaktererstellung]] – Wie die Klasse in den Build-Prozess einfließt
+- [[Feats & Talente]] – Class Feats, Skill Feats, General Feats
+- [[Zauberschulen & Traditionen]] – Arcane, Divine, Occult, Primal im Detail
+- [[Archetypen & Multiclassing]] – Klassen kombinieren über Archetypes
