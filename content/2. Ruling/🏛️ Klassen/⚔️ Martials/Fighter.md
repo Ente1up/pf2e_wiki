@@ -207,7 +207,7 @@ Der Fighter ist mit **jeder Waffe** spielbar, aber einige Builds kristallisieren
 
 - [[Klassen – Übersicht]] – Alle Klassen im Vergleich
 - [[Attribute & Level System]] – Ability Boosts, Proficiency-Tabellen
-- [[Grundlegende Kampfregeln (Physische Waffen)]] – Strike, MAP, Erfolgsstufen
+- [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Erfolgsstufen
 - [[Waffeneigenschaften]] – Agile, Reach, Two-Hand, Finesse etc.
 - [[Feats & Talente]] – Fighter Class Feats im Detail
 - [[Rüstungen & AC]] – Rüstungstypen und ihre Boni

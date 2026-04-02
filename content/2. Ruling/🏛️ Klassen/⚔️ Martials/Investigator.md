@@ -296,7 +296,7 @@ Beide Klassen sind DEX/INT-adjacent, Skill-fokussiert und mit 8 HP/Level – abe
 - [[Klasse - Rogue]] – Direkter Vergleich (beide Skill-Martials)
 - [[Klasse - Inventor]] – Direkter Vergleich (beide INT-Klassen)
 - [[Attribute & Level System]] – HP, Proficiency, Ability Boosts
-- [[Grundlegende Kampfregeln (Physische Waffen)]] – Strike, MAP, Aktionen
+- [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Aktionen
 - [[Fertigkeiten & Skills]] – Recall Knowledge, Skill-System im Detail
 - [[Waffeneigenschaften]] – Finesse, Agile
 - [[Feats & Talente]] – Investigator Class Feats im Detail

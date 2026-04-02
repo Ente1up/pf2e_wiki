@@ -284,7 +284,7 @@ Der Inventor verbessert seine Innovation durch **Modification-Feats** die bei ge
 - [[Klasse - Gunslinger]] – Ähnliche Herkunft (Guns & Gears), Überschneidungen
 - [[Klasse - Ranger]] – Construct Innovation ähnelt Animal Companion
 - [[Attribute & Level System]] – HP, Proficiency, Ability Boosts
-- [[Grundlegende Kampfregeln (Physische Waffen)]] – Strike, MAP, Aktionen
+- [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Aktionen
 - [[Waffeneigenschaften]] – Modifikations-Traits der Innovation
 - [[Feats & Talente]] – Inventor Class Feats & Modification Feats im Detail
 - [[Archetypen & Multiclassing]] – Inventor als Dedication-Archetype

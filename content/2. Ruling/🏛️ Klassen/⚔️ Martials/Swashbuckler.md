@@ -290,7 +290,7 @@ Ein **Finisher** ist eine spezielle Angriffsaktion die nur mit aktivem **Panache
 - [[Klasse - Barbarian]] – Vergleich Martial
 - [[Klasse - Monk]] – Vergleich Martial
 - [[Attribute & Level System]] – HP, Proficiency, Ability Boosts
-- [[Grundlegende Kampfregeln (Physische Waffen)]] – Flanking, MAP, Strikes
+- [[Grundlegende Kampfregeln (physische Waffen)]] – Flanking, MAP, Strikes
 - [[Waffeneigenschaften]] – Finesse, Agile, Reach
 - [[Feats & Talente]] – Swashbuckler Class Feats im Detail
 - [[Fertigkeiten & Skills]] – Acrobatics, Deception, Intimidation, Athletics

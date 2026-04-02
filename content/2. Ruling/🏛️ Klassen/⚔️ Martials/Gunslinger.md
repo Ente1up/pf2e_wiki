@@ -277,7 +277,7 @@ Mächtigere Versionen der Deeds mit verstärkten Effekten.
 - [[Klasse - Rogue]] – Vergleich Martial (DEX-Fokus, ähnliche HP)
 - [[Klasse - Swashbuckler]] – Vergleich Martial (DEX, ähnliche Saves)
 - [[Attribute & Level System]] – HP, Proficiency, Ability Boosts
-- [[Grundlegende Kampfregeln (Physische Waffen)]] – Strike, MAP, Reload
+- [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Reload
 - [[Waffeneigenschaften]] – Reload, Kickback, Concussive, Capacity
 - [[Feats & Talente]] – Gunslinger Class Feats im Detail
 - [[Archetypen & Multiclassing]] – Gunslinger als Dedication-Archetype

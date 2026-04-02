@@ -250,7 +250,7 @@ Bei Level 1 wählt der Ranger eine **Hunter's Edge**, die seinen Kampfstil grund
 - [[Klassen – Übersicht]] – Alle Klassen im Vergleich
 - [[Klasse - Fighter]] – Direkter Vergleich Martial vs. Martial
 - [[Attribute & Level System]] – Ability Boosts, Weapon Specialization
-- [[Grundlegende Kampfregeln (Physische Waffen)]] – Strike, MAP, Erfolgsstufen
+- [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Erfolgsstufen
 - [[Waffeneigenschaften]] – Agile, Volley, Deadly etc.
 - [[Tiergefährten]] – Animal Companion im Detail
 - [[Feats & Talente]] – Ranger Class Feats im Detail

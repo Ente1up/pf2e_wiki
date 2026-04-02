@@ -119,4 +119,4 @@ Beispiel: Ein **Level 5 Fighter** mit **STR +3** und **Expert** in Longswords:
 - [[Klassen & Klassenmerkmale]] – Welche Proficiencies jede Klasse mitbringt
 - [[Feats & Talente]] – Was man pro Level wählen kann
 - [[Rettungswürfe]] – Fortitude, Reflex, Will und wie Proficiency dort greift
-- [[Grundlegende Kampfregeln (Physische Waffen)]] – Proficiency im Kampfkontext
+- [[Grundlegende Kampfregeln (physische Waffen)]] – Proficiency im Kampfkontext

@@ -147,7 +147,7 @@ Zaubern in der Nähe eines Feindes ist riskant:
 
 ## 🔗 Verwandte Themen
 
-- [[Grundlegende Kampfregeln (Physische Waffen)]] – Vergleich mit physischen Angriffen
+- [[Grundlegende Kampfregeln (physische Waffen)]] – Vergleich mit physischen Angriffen
 - [[Zauberschulen & Traditionen]] – Arcane, Divine, Occult, Primal
 - [[Zauberslots & Vorbereitung]] – Prepared vs. Spontaneous Caster
 - [[Rettungswürfe]] – Fortitude, Reflex, Will im Detail
