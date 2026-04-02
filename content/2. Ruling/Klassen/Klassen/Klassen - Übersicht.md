@@ -57,17 +57,17 @@ Klassen lassen sich grob in drei Kategorien einteilen:
 
 > Charaktere die primär durch physische Stärke, Geschick oder Taktik kämpfen.
 
-| Klasse                                  | Key Ability  | HP/Level | Kurzbeschreibung                                                                                    |
-| --------------------------------------- | ------------ | -------- | --------------------------------------------------------------------------------------------------- |
-| [[Fighter]]                             | STR oder DEX | 10       | Meister aller Waffen und Kampftechniken. Größte Auswahl an Kampf-Feats.                             |
-| [[Ranger]]                              | STR oder DEX | 10       | Jäger und Spurenleser. Kann einen Favoritenfeind markieren (Hunt Prey). Optionaler Zugang zu Magie. |
-| [[Rogue]]                               | DEX oder STR | 8        | Meister der Heimlichkeit und Hinterhalte. Sneak Attack als Hauptschadensmechanik.                   |
-| [[Klasse - Barbarian\|Barbarian]]       | STR          | 12       | Höchste HP im Spiel. Rage als mächtiger aber eingeschränkter Kampfmodus.                            |
-| [[Klasse - Monk\|Monk]]                 | STR oder DEX | 10       | Waffenloser Kämpfer mit hoher Mobilität. Einzige Klasse mit Strikes die als Agile & Finesse gelten. |
-| [[Klasse - Swashbuckler\|Swashbuckler]] | DEX          | 10       | Eleganter Duellant. Baut Panache auf für mächtige Finisher-Angriffe.                                |
-| [[Klasse - Gunslinger\|Gunslinger]]     | DEX          | 8        | Schusswaffen-Spezialist. Nutzt Reload-Mechaniken und Deed-Fähigkeiten.                              |
-| [[Klasse - Inventor\|Inventor]]         | INT          | 8        | Erfindet und modifiziert Ausrüstung. Kann Waffe, Rüstung oder Begleiter als Erfindung wählen.       |
-| [[Klasse - Investigator\|Investigator]] | INT          | 8        | Detektiv-Archetyp. Devise-System zum Analysieren von Feinden für Bonusschaden.                      |
+| Klasse                    | Key Ability  | HP/Level | Kurzbeschreibung                                                                                    |
+| ------------------------- | ------------ | -------- | --------------------------------------------------------------------------------------------------- |
+| [[Fighter]]               | STR oder DEX | 10       | Meister aller Waffen und Kampftechniken. Größte Auswahl an Kampf-Feats.                             |
+| [[Ranger]]                | STR oder DEX | 10       | Jäger und Spurenleser. Kann einen Favoritenfeind markieren (Hunt Prey). Optionaler Zugang zu Magie. |
+| [[Rogue]]                 | DEX oder STR | 8        | Meister der Heimlichkeit und Hinterhalte. Sneak Attack als Hauptschadensmechanik.                   |
+| [[ Barbarian\|Barbarian]] | STR          | 12       | Höchste HP im Spiel. Rage als mächtiger aber eingeschränkter Kampfmodus.                            |
+| [[Monk]]                  | STR oder DEX | 10       | Waffenloser Kämpfer mit hoher Mobilität. Einzige Klasse mit Strikes die als Agile & Finesse gelten. |
+| [[Swashbuckler]]          | DEX          | 10       | Eleganter Duellant. Baut Panache auf für mächtige Finisher-Angriffe.                                |
+| [[Gunslinger]]            | DEX          | 8        | Schusswaffen-Spezialist. Nutzt Reload-Mechaniken und Deed-Fähigkeiten.                              |
+| [[Inventor]]              | INT          | 8        | Erfindet und modifiziert Ausrüstung. Kann Waffe, Rüstung oder Begleiter als Erfindung wählen.       |
+| [[Investigator]]          | INT          | 8        | Detektiv-Archetyp. Devise-System zum Analysieren von Feinden für Bonusschaden.                      |
 
 ---
 
@@ -75,17 +75,17 @@ Klassen lassen sich grob in drei Kategorien einteilen:
 
 > Charaktere deren Hauptwerkzeug Magie ist. Unterteilt nach **Zaubertradition**.
 
-| Klasse | Tradition | Key Ability | HP/Level | Kurzbeschreibung |
-|--------|-----------|-------------|----------|-----------------|
-| [[Klasse - Wizard\|Wizard]] | Arcane | INT | 6 | Prepared Caster. Größte Zauberauswahl (Arcane). Spezialisierung in Zauberschulen. |
-| [[Klasse - Sorcerer\|Sorcerer]] | Arcane / Divine / Occult / Primal | CHA | 6 | Spontaneous Caster. Tradition abhängig von der gewählten Bloodline. |
-| [[Klasse - Cleric\|Cleric]] | Divine | WIS | 8 | Göttlicher Zauberer. Kann zwischen Prepared & Spontaneous wählen. Heal/Harm als Kernelement. |
-| [[Klasse - Druid\|Druid]] | Primal | WIS | 8 | Naturmagie. Flexible Spezialisierung (Wildshape, Tiergefährte, Wetterzauber etc.). |
-| [[Klasse - Bard\|Bard]] | Occult | CHA | 8 | Spontaneous Caster. Support-Fokus durch Compositions (Inspire Courage etc.). |
-| [[Klasse - Witch\|Witch]] | Arcane / Divine / Occult / Primal | INT oder WIS oder CHA | 6 | Prepared Caster. Tradition und Key Ability durch Patron bestimmt. Hexes als Bonus-Aktionen. |
-| [[Klasse - Oracle\|Oracle]] | Divine | CHA | 8 | Spontaneous Caster. Mächtige Fähigkeiten, aber gebunden an einen **Curse** der mit der Nutzung wächst. |
-| [[Klasse - Psychic\|Psychic]] | Occult | INT oder CHA | 6 | Spontaneous Caster. Amps verstärken Cantrips auf Kosten von Fokuspunkten. |
-| [[Klasse - Animist\|Animist]] | Primal / Occult | WIS | 8 | Channelt Geister (Apparitions) für wechselnde Fähigkeiten und Zauber. Sehr flexibel. |
+| Klasse                        | Tradition                         | Key Ability           | HP/Level | Kurzbeschreibung                                                                                       |
+| ----------------------------- | --------------------------------- | --------------------- | -------- | ------------------------------------------------------------------------------------------------------ |
+| [[Wizard]]                    | Arcane                            | INT                   | 6        | Prepared Caster. Größte Zauberauswahl (Arcane). Spezialisierung in Zauberschulen.                      |
+| [[Sorcerer]]                  | Arcane / Divine / Occult / Primal | CHA                   | 6        | Spontaneous Caster. Tradition abhängig von der gewählten Bloodline.                                    |
+| [[Cleric]]                    | Divine                            | WIS                   | 8        | Göttlicher Zauberer. Kann zwischen Prepared & Spontaneous wählen. Heal/Harm als Kernelement.           |
+| [[Druid]]                     | Primal                            | WIS                   | 8        | Naturmagie. Flexible Spezialisierung (Wildshape, Tiergefährte, Wetterzauber etc.).                     |
+| [[Bard]]                      | Occult                            | CHA                   | 8        | Spontaneous Caster. Support-Fokus durch Compositions (Inspire Courage etc.).                           |
+| [[Witch]]                     | Arcane / Divine / Occult / Primal | INT oder WIS oder CHA | 6        | Prepared Caster. Tradition und Key Ability durch Patron bestimmt. Hexes als Bonus-Aktionen.            |
+| [[Klasse - Oracle\|Oracle]]   | Divine                            | CHA                   | 8        | Spontaneous Caster. Mächtige Fähigkeiten, aber gebunden an einen **Curse** der mit der Nutzung wächst. |
+| [[Klasse - Psychic\|Psychic]] | Occult                            | INT oder CHA          | 6        | Spontaneous Caster. Amps verstärken Cantrips auf Kosten von Fokuspunkten.                              |
+| [[Klasse - Animist\|Animist]] | Primal / Occult                   | WIS                   | 8        | Channelt Geister (Apparitions) für wechselnde Fähigkeiten und Zauber. Sehr flexibel.                   |
 
 ---
 
