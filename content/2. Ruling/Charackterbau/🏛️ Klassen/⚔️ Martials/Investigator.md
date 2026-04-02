@@ -1,25 +1,25 @@
 ---
-title: "Klasse - Investigator"
-system: "Pathfinder 2e"
-kategorie: "Klassen"
+title: Investigator
+system: Pathfinder 2e
+kategorie: Klassen
 tags:
   - pf2e
   - klassen
   - investigator
   - martial
-status: "Entwurf"
+status: Entwurf
 verwandte_notizen:
-  - "Klassen – Übersicht"
-  - "Attribute & Level System"
-  - "Grundlegende Kampfregeln (Physische Waffen)"
-  - "Waffeneigenschaften"
-  - "Feats & Talente"
-  - "Fertigkeiten & Skills"
-  - "Rüstungen & AC"
-  - "Zustände & Conditions"
-  - "Archetypen & Multiclassing"
+  - Klassen – Übersicht
+  - Attribute & Level System
+  - Grundlegende Kampfregeln (Physische Waffen)
+  - Waffeneigenschaften
+  - Feats & Talente
+  - Fertigkeiten & Skills
+  - Rüstungen & AC
+  - Zustände & Conditions
+  - Archetypen & Multiclassing
 quellen:
-  - "Advanced Player's Guide (Seite 56 ff.)"
+  - Advanced Player's Guide (Seite 56 ff.)
 erstellt: 2026-03-09
 ---
 

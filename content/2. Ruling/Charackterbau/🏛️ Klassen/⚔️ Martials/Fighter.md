@@ -1,23 +1,23 @@
 ---
-title: "Klasse - Fighter"
-system: "Pathfinder 2e"
-kategorie: "Klassen"
+title: Fighter
+system: Pathfinder 2e
+kategorie: Klassen
 tags:
   - pf2e
   - klassen
   - fighter
   - martial
-status: "Entwurf"
+status: Entwurf
 verwandte_notizen:
-  - "Klassen – Übersicht"
-  - "Attribute & Level System"
-  - "Grundlegende Kampfregeln (Physische Waffen)"
-  - "Waffeneigenschaften"
-  - "Feats & Talente"
-  - "Rüstungen & AC"
-  - "Archetypen & Multiclassing"
+  - Klassen – Übersicht
+  - Attribute & Level System
+  - Grundlegende Kampfregeln (Physische Waffen)
+  - Waffeneigenschaften
+  - Feats & Talente
+  - Rüstungen & AC
+  - Archetypen & Multiclassing
 quellen:
-  - "Player Core (Seite 140 ff.)"
+  - Player Core (Seite 140 ff.)
 erstellt: 2026-03-09
 ---
 

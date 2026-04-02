@@ -1,26 +1,26 @@
 ---
-title: "Klasse - Wizard"
-system: "Pathfinder 2e"
-kategorie: "Klassen"
+title: Wizard
+system: Pathfinder 2e
+kategorie: Klassen
 tags:
   - pf2e
   - klassen
   - wizard
   - spellcaster
   - arcane
-status: "Entwurf"
+status: Entwurf
 verwandte_notizen:
-  - "Klassen – Übersicht"
-  - "Attribute & Level System"
-  - "Grundlegende Kampfregeln (Magie)"
-  - "Zauberschulen & Traditionen"
-  - "Zauberslots & Vorbereitung"
-  - "Konzentration & Fokuszauber"
-  - "Rettungswürfe"
-  - "Feats & Talente"
-  - "Archetypen & Multiclassing"
+  - Klassen – Übersicht
+  - Attribute & Level System
+  - Grundlegende Kampfregeln (Magie)
+  - Zauberschulen & Traditionen
+  - Zauberslots & Vorbereitung
+  - Konzentration & Fokuszauber
+  - Rettungswürfe
+  - Feats & Talente
+  - Archetypen & Multiclassing
 quellen:
-  - "Player Core (Seite 238 ff.)"
+  - Player Core (Seite 238 ff.)
 erstellt: 2026-03-09
 ---
 

@@ -1,24 +1,24 @@
 ---
-title: "Klasse - Monk"
-system: "Pathfinder 2e"
-kategorie: "Klassen"
+title: Monk
+system: Pathfinder 2e
+kategorie: Klassen
 tags:
   - pf2e
   - klassen
   - monk
   - martial
-status: "Entwurf"
+status: Entwurf
 verwandte_notizen:
-  - "Klassen – Übersicht"
-  - "Attribute & Level System"
-  - "Grundlegende Kampfregeln (Physische Waffen)"
-  - "Waffeneigenschaften"
-  - "Feats & Talente"
-  - "Konzentration & Fokuszauber"
-  - "Zustände & Conditions"
-  - "Archetypen & Multiclassing"
+  - Klassen – Übersicht
+  - Attribute & Level System
+  - Grundlegende Kampfregeln (Physische Waffen)
+  - Waffeneigenschaften
+  - Feats & Talente
+  - Konzentration & Fokuszauber
+  - Zustände & Conditions
+  - Archetypen & Multiclassing
 quellen:
-  - "Player Core (Seite 160 ff.)"
+  - Player Core (Seite 160 ff.)
 erstellt: 2026-03-09
 ---
 

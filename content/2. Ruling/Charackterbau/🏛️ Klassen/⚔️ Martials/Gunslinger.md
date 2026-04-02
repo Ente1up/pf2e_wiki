@@ -1,24 +1,24 @@
 ---
-title: "Klasse - Gunslinger"
-system: "Pathfinder 2e"
-kategorie: "Klassen"
+title: Gunslinger
+system: Pathfinder 2e
+kategorie: Klassen
 tags:
   - pf2e
   - klassen
   - gunslinger
   - martial
-status: "Entwurf"
+status: Entwurf
 verwandte_notizen:
-  - "Klassen – Übersicht"
-  - "Attribute & Level System"
-  - "Grundlegende Kampfregeln (Physische Waffen)"
-  - "Waffeneigenschaften"
-  - "Feats & Talente"
-  - "Rüstungen & AC"
-  - "Zustände & Conditions"
-  - "Archetypen & Multiclassing"
+  - Klassen – Übersicht
+  - Attribute & Level System
+  - Grundlegende Kampfregeln (Physische Waffen)
+  - Waffeneigenschaften
+  - Feats & Talente
+  - Rüstungen & AC
+  - Zustände & Conditions
+  - Archetypen & Multiclassing
 quellen:
-  - "Guns & Gears (Seite 8 ff.)"
+  - Guns & Gears (Seite 8 ff.)
 erstellt: 2026-03-09
 ---
 

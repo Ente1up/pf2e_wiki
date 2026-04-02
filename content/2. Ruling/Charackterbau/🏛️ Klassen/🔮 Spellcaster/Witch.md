@@ -1,7 +1,7 @@
 ---
-title: "Klasse - Witch"
-system: "Pathfinder 2e"
-kategorie: "Klassen"
+title: Witch
+system: Pathfinder 2e
+kategorie: Klassen
 tags:
   - pf2e
   - klassen
@@ -11,22 +11,22 @@ tags:
   - divine
   - occult
   - primal
-status: "Entwurf"
+status: Entwurf
 verwandte_notizen:
-  - "Klassen – Übersicht"
-  - "Klasse - Wizard"
-  - "Klasse - Bard"
-  - "Klasse - Sorcerer"
-  - "Attribute & Level System"
-  - "Grundlegende Kampfregeln (Magie)"
-  - "Zauberschulen & Traditionen"
-  - "Zauberslots & Vorbereitung"
-  - "Konzentration & Fokuszauber"
-  - "Rettungswürfe"
-  - "Feats & Talente"
-  - "Archetypen & Multiclassing"
+  - Klassen – Übersicht
+  - Klasse - Wizard
+  - Klasse - Bard
+  - Klasse - Sorcerer
+  - Attribute & Level System
+  - Grundlegende Kampfregeln (Magie)
+  - Zauberschulen & Traditionen
+  - Zauberslots & Vorbereitung
+  - Konzentration & Fokuszauber
+  - Rettungswürfe
+  - Feats & Talente
+  - Archetypen & Multiclassing
 quellen:
-  - "Player Core 2 (Seite 116 ff.)"
+  - Player Core 2 (Seite 116 ff.)
 erstellt: 2026-03-09
 ---
 

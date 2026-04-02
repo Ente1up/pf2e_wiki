@@ -1,7 +1,7 @@
 ---
-title: "Klasse - Sorcerer"
-system: "Pathfinder 2e"
-kategorie: "Klassen"
+title: Sorcerer
+system: Pathfinder 2e
+kategorie: Klassen
 tags:
   - pf2e
   - klassen
@@ -11,20 +11,20 @@ tags:
   - divine
   - occult
   - primal
-status: "Entwurf"
+status: Entwurf
 verwandte_notizen:
-  - "Klassen – Übersicht"
-  - "Klasse - Wizard"
-  - "Attribute & Level System"
-  - "Grundlegende Kampfregeln (Magie)"
-  - "Zauberschulen & Traditionen"
-  - "Zauberslots & Vorbereitung"
-  - "Konzentration & Fokuszauber"
-  - "Rettungswürfe"
-  - "Feats & Talente"
-  - "Archetypen & Multiclassing"
+  - Klassen – Übersicht
+  - Klasse - Wizard
+  - Attribute & Level System
+  - Grundlegende Kampfregeln (Magie)
+  - Zauberschulen & Traditionen
+  - Zauberslots & Vorbereitung
+  - Konzentration & Fokuszauber
+  - Rettungswürfe
+  - Feats & Talente
+  - Archetypen & Multiclassing
 quellen:
-  - "Player Core (Seite 210 ff.)"
+  - Player Core (Seite 210 ff.)
 erstellt: 2026-03-09
 ---
 

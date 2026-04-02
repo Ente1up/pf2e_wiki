@@ -1,24 +1,24 @@
 ---
-title: "Klasse - Ranger"
-system: "Pathfinder 2e"
-kategorie: "Klassen"
+title: Ranger
+system: Pathfinder 2e
+kategorie: Klassen
 tags:
   - pf2e
   - klassen
   - ranger
   - martial
-status: "Entwurf"
+status: Entwurf
 verwandte_notizen:
-  - "Klassen – Übersicht"
-  - "Attribute & Level System"
-  - "Grundlegende Kampfregeln (Physische Waffen)"
-  - "Waffeneigenschaften"
-  - "Feats & Talente"
-  - "Rüstungen & AC"
-  - "Tiergefährten"
-  - "Archetypen & Multiclassing"
+  - Klassen – Übersicht
+  - Attribute & Level System
+  - Grundlegende Kampfregeln (Physische Waffen)
+  - Waffeneigenschaften
+  - Feats & Talente
+  - Rüstungen & AC
+  - Tiergefährten
+  - Archetypen & Multiclassing
 quellen:
-  - "Player Core (Seite 174 ff.)"
+  - Player Core (Seite 174 ff.)
 erstellt: 2026-03-09
 ---
 

@@ -1,24 +1,24 @@
 ---
-title: "Klasse - Rogue"
-system: "Pathfinder 2e"
-kategorie: "Klassen"
+title: Rogue
+system: Pathfinder 2e
+kategorie: Klassen
 tags:
   - pf2e
   - klassen
   - rogue
   - martial
-status: "Entwurf"
+status: Entwurf
 verwandte_notizen:
-  - "Klassen – Übersicht"
-  - "Attribute & Level System"
-  - "Grundlegende Kampfregeln (Physische Waffen)"
-  - "Waffeneigenschaften"
-  - "Feats & Talente"
-  - "Fertigkeiten & Skills"
-  - "Rüstungen & AC"
-  - "Archetypen & Multiclassing"
+  - Klassen – Übersicht
+  - Attribute & Level System
+  - Grundlegende Kampfregeln (Physische Waffen)
+  - Waffeneigenschaften
+  - Feats & Talente
+  - Fertigkeiten & Skills
+  - Rüstungen & AC
+  - Archetypen & Multiclassing
 quellen:
-  - "Player Core (Seite 194 ff.)"
+  - Player Core (Seite 194 ff.)
 erstellt: 2026-03-09
 ---
 

@@ -1,28 +1,28 @@
 ---
-title: "Klasse - Cleric"
-system: "Pathfinder 2e"
-kategorie: "Klassen"
+title: Cleric
+system: Pathfinder 2e
+kategorie: Klassen
 tags:
   - pf2e
   - klassen
   - cleric
   - spellcaster
   - divine
-status: "Entwurf"
+status: Entwurf
 verwandte_notizen:
-  - "Klassen – Übersicht"
-  - "Klasse - Wizard"
-  - "Klasse - Sorcerer"
-  - "Attribute & Level System"
-  - "Grundlegende Kampfregeln (Magie)"
-  - "Zauberschulen & Traditionen"
-  - "Zauberslots & Vorbereitung"
-  - "Konzentration & Fokuszauber"
-  - "Rettungswürfe"
-  - "Feats & Talente"
-  - "Archetypen & Multiclassing"
+  - Klassen – Übersicht
+  - Klasse - Wizard
+  - Klasse - Sorcerer
+  - Attribute & Level System
+  - Grundlegende Kampfregeln (Magie)
+  - Zauberschulen & Traditionen
+  - Zauberslots & Vorbereitung
+  - Konzentration & Fokuszauber
+  - Rettungswürfe
+  - Feats & Talente
+  - Archetypen & Multiclassing
 quellen:
-  - "Player Core (Seite 120 ff.)"
+  - Player Core (Seite 120 ff.)
 erstellt: 2026-03-09
 ---
 

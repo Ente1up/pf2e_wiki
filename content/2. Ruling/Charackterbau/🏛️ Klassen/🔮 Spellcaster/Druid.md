@@ -1,29 +1,29 @@
 ---
-title: "Klasse - Druid"
-system: "Pathfinder 2e"
-kategorie: "Klassen"
+title: Druid
+system: Pathfinder 2e
+kategorie: Klassen
 tags:
   - pf2e
   - klassen
   - druid
   - spellcaster
   - primal
-status: "Entwurf"
+status: Entwurf
 verwandte_notizen:
-  - "Klassen – Übersicht"
-  - "Klasse - Cleric"
-  - "Klasse - Ranger"
-  - "Attribute & Level System"
-  - "Grundlegende Kampfregeln (Magie)"
-  - "Zauberschulen & Traditionen"
-  - "Zauberslots & Vorbereitung"
-  - "Konzentration & Fokuszauber"
-  - "Tiergefährten"
-  - "Rettungswürfe"
-  - "Feats & Talente"
-  - "Archetypen & Multiclassing"
+  - Klassen – Übersicht
+  - Klasse - Cleric
+  - Klasse - Ranger
+  - Attribute & Level System
+  - Grundlegende Kampfregeln (Magie)
+  - Zauberschulen & Traditionen
+  - Zauberslots & Vorbereitung
+  - Konzentration & Fokuszauber
+  - Tiergefährten
+  - Rettungswürfe
+  - Feats & Talente
+  - Archetypen & Multiclassing
 quellen:
-  - "Player Core (Seite 134 ff.)"
+  - Player Core (Seite 134 ff.)
 erstellt: 2026-03-09
 ---
 

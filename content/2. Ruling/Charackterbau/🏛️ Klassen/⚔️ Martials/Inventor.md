@@ -1,24 +1,24 @@
 ---
-title: "Klasse - Inventor"
-system: "Pathfinder 2e"
-kategorie: "Klassen"
+title: Inventor
+system: Pathfinder 2e
+kategorie: Klassen
 tags:
   - pf2e
   - klassen
   - inventor
   - martial
-status: "Entwurf"
+status: Entwurf
 verwandte_notizen:
-  - "Klassen – Übersicht"
-  - "Attribute & Level System"
-  - "Grundlegende Kampfregeln (Physische Waffen)"
-  - "Waffeneigenschaften"
-  - "Feats & Talente"
-  - "Rüstungen & AC"
-  - "Zustände & Conditions"
-  - "Archetypen & Multiclassing"
+  - Klassen – Übersicht
+  - Attribute & Level System
+  - Grundlegende Kampfregeln (Physische Waffen)
+  - Waffeneigenschaften
+  - Feats & Talente
+  - Rüstungen & AC
+  - Zustände & Conditions
+  - Archetypen & Multiclassing
 quellen:
-  - "Guns & Gears (Seite 56 ff.)"
+  - Guns & Gears (Seite 56 ff.)
 erstellt: 2026-03-09
 ---
 
