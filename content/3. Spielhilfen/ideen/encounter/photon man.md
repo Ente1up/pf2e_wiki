@@ -1,0 +1,1 @@
+Jemand der nur sichtbar ist, wenn man ihn ansieht, sonst überall. Ähnlich wie die photonen beim doubble slit experiment mit und ohne observer
