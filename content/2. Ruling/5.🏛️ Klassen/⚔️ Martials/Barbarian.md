@@ -263,10 +263,10 @@ Das **Instinct** definiert die Quelle und den Flavour der Rage sowie einen einzi
 
 ## 🔗 Verwandte Themen
 
-- [[Klassen – Übersicht]] – Alle Klassen im Vergleich
-- [[Klasse - Fighter]] – Vergleich Martial
-- [[Klasse - Ranger]] – Vergleich Martial
-- [[Klasse - Rogue]] – Vergleich Martial
+- [[1. Klassen - Übersicht]] – Alle Klassen im Vergleich
+- [[Fighter]] – Vergleich Martial
+- [[Ranger]] – Vergleich Martial
+- [[Rogue]] – Vergleich Martial
 - [[Attribute & Level System]] – HP, Proficiency, Ability Boosts
 - [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Erfolgsstufen
 - [[Zustände & Conditions]] – Fatigued, Flat-Footed, Slowed

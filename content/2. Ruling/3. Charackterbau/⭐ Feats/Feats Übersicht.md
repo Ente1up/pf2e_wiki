@@ -1,0 +1,271 @@
+---
+title:  📄 Feats – Übersicht   
+system: Pathfinder 2e
+kategorie: Charakterbau
+tags:
+  - pf2e
+  - feats
+  - talente
+  - charakterbau
+  - übersicht
+status: Entwurf
+verwandte_notizen:
+  - Attribute & Level System
+  - Charaktererstellung
+  - General Feats
+  - Skill Feats – Übersicht
+  - Class Feats – Fighter
+  - Class Feats – Ranger
+  - Class Feats – Rogue
+  - Class Feats – Barbarian
+  - Class Feats – Monk
+  - Class Feats – Swashbuckler
+  - Class Feats – Gunslinger
+  - Class Feats – Inventor
+  - Class Feats – Investigator
+  - Class Feats – Wizard
+  - Class Feats – Sorcerer
+  - Class Feats – Cleric
+  - Class Feats – Druid
+  - Class Feats – Bard
+  - Class Feats – Witch
+  - Class Feats – Oracle
+  - Class Feats – Psychic
+  - Class Feats – Animist
+  - Archetypen & Multiclassing
+quellen:
+  - Player Core
+  - Player Core 2
+erstellt: 2026-03-09
+---
+
+# 🏅 Feats & Talente – Übersicht
+
+## Was sind Feats?
+
+**Feats** (Talente) sind die wichtigste Methode in PF2e einen Charakter über das Grundgerüst seiner Klasse hinaus zu **individualisieren**. Jeder Charakter wählt bei fast jedem Level einen oder mehrere Feats – sie sind der Hauptmechanismus durch den zwei Charaktere derselben Klasse sich fundamental unterscheiden können.
+
+Feats können Kampffähigkeiten verbessern, Fertigkeiten auf neue Ebenen heben, soziale Optionen erweitern oder völlig neue Spielmechaniken erschließen.
+
+---
+
+## 📊 Die vier Feat-Kategorien
+
+PF2e unterscheidet vier grundlegende Feat-Typen die an verschiedenen Stellen der Level-Progression vergeben werden:
+
+| Feat-Typ | Wer bekommt ihn | Wann | Quelle |
+|----------|----------------|------|--------|
+| **Class Feat** | Jede Klasse | Jede gerade Levelnummer (2, 4, 6...) + Level 1 | Klassenliste |
+| **Skill Feat** | Alle Charaktere | Jede gerade Levelnummer (2, 4, 6...) | Skill Feat-Liste |
+| **General Feat** | Alle Charaktere | Level 3, 7, 11, 15, 19 | General Feat-Liste |
+| **Ancestry Feat** | Alle Charaktere | Level 1, 5, 9, 13, 17 | Abstammungs-Liste |
+
+> 💡 Das bedeutet: Bei jedem geraden Level wählt ein Charakter **sowohl** einen Class Feat **als auch** einen Skill Feat. Bei Level 3, 7, 11, 15, 19 kommt zusätzlich ein General Feat dazu.
+
+---
+
+## 🔢 Feat-Vergabe nach Level – Übersichtstabelle
+
+| Level | Class Feat | Skill Feat | General Feat | Ancestry Feat |
+|-------|-----------|------------|--------------|--------------|
+| 1 | ✅ | ✅ (manche Klassen) | — | ✅ |
+| 2 | ✅ | ✅ | — | — |
+| 3 | — | — | ✅ | — |
+| 4 | ✅ | ✅ | — | — |
+| 5 | — | — | — | ✅ |
+| 6 | ✅ | ✅ | — | — |
+| 7 | — | — | ✅ | — |
+| 8 | ✅ | ✅ | — | — |
+| 9 | — | — | — | ✅ |
+| 10 | ✅ | ✅ | — | — |
+| 11 | — | — | ✅ | — |
+| 12 | ✅ | ✅ | — | — |
+| 13 | — | — | — | ✅ |
+| 14 | ✅ | ✅ | — | — |
+| 15 | — | — | ✅ | — |
+| 16 | ✅ | ✅ | — | — |
+| 17 | — | — | — | ✅ |
+| 18 | ✅ | ✅ | — | — |
+| 19 | — | — | ✅ | — |
+| 20 | ✅ | ✅ | — | — |
+
+> Bis Level 20 sammelt ein Charakter insgesamt: **10 Class Feats** + **10 Skill Feats** + **5 General Feats** + **5 Ancestry Feats** = **30 Feats**
+
+---
+
+## ⚔️ Class Feats
+
+**Class Feats** sind die mächtigsten und charakteristischsten Feats – sie kommen aus der exklusiven Liste der eigenen Klasse und definieren wie die Klasse gespielt wird.
+
+### Was Class Feats tun:
+- Erschließen neue **Kampfaktionen** (z. B. Power Attack, Whirlwind Strike)
+- Verbessern bestehende **Klassenmerkmale** (z. B. stärkere Rage, besserer Sneak Attack)
+- Geben Zugang zu **Archetypen** (über Dedication Feats)
+- Fügen völlig neue **Spielmechaniken** hinzu
+
+### Voraussetzungen:
+- Viele Class Feats haben **Level-Voraussetzungen** (z. B. nur ab Level 6 wählbar)
+- Manche erfordern andere Feats als Voraussetzung (**Feat-Ketten**)
+- Einige erfordern bestimmte **Proficiency-Stufen**
+
+### Class Feats nach Klasse:
+
+#### ⚔️ Martial Classes
+| Klasse       | Notiz                          |
+| ------------ | ------------------------------ |
+| Fighter      | [[Class Feats – Fighter]]      |
+| Ranger       | [[Class Feats – Ranger]]       |
+| Rogue        | [[Class Feats – Rogue]]        |
+| Barbarian    | [[Class Feats – Barbarian]]    |
+| Monk         | [[Class Feats – Monk]]         |
+| Swashbuckler | [[Class Feats – Swashbuckler]] |
+| Gunslinger   | [[Class Feats – Gunslinger]]   |
+| Inventor     | [[Class Feats – Inventor]]     |
+| Investigator | [[Class Feats – Investigator]] |
+
+#### 🔮 Spellcaster Classes
+| Klasse | Notiz |
+|--------|-------|
+| Wizard | [[Class Feats – Wizard]] |
+| Sorcerer | [[Class Feats – Sorcerer]] |
+| Cleric | [[Class Feats – Cleric]] |
+| Druid | [[Class Feats – Druid]] |
+| Bard | [[Class Feats – Bard]] |
+| Witch | [[Class Feats – Witch]] |
+| Oracle | [[Class Feats – Oracle]] |
+| Psychic | [[Class Feats – Psychic]] |
+| Animist | [[Class Feats – Animist]] |
+
+---
+
+## 🎓 Skill Feats
+
+**Skill Feats** erweitern was ein Charakter mit seinen Fertigkeiten tun kann – oft auf überraschend mächtige oder kreative Weise.
+
+### Was Skill Feats tun:
+- Ermöglichen neue **Nutzungsarten** einer Fertigkeit (z. B. Battle Medicine ohne Kit)
+- Geben **Boni** auf bestimmte Skill-Checks
+- Erschließen neue **Aktionen** die an Fertigkeiten gebunden sind
+- Entfernen manchmal **Einschränkungen** (z. B. Untrained Improvisation)
+
+### Voraussetzungen:
+- Meist eine bestimmte **Proficiency-Stufe** in der Fertigkeit (Trained, Expert etc.)
+- Manchmal ein **Level-Minimum**
+- Manchmal andere Feats als Voraussetzung
+
+### Skill Feats nach Fertigkeit:
+→ Siehe [[Skill Feats – Übersicht]] für die vollständige Liste aller Fertigkeiten und ihre Feats
+
+---
+
+## 🌟 General Feats
+
+**General Feats** sind klassenunabhängige Feats die jeder Charakter wählen kann. Sie decken ein breites Spektrum ab – von kampfbezogenen Boni bis zu sozialen und explorativen Fähigkeiten.
+
+### Was General Feats tun:
+- Geben **universelle Kampfboni** (z. B. Toughness für mehr HP)
+- Verbessern **Reaktionsfähigkeiten** (z. B. Incredible Initiative)
+- Bieten **Utility** abseits des Kampfes (z. B. Multilingual für mehr Sprachen)
+- Manchmal Zugang zu **Rüstungs- oder Waffenproficiencies**
+
+→ Siehe [[General Feats]] für die vollständige Liste
+
+---
+
+## 🧬 Ancestry Feats
+
+**Ancestry Feats** kommen aus der gewählten Abstammung (Ancestry) des Charakters und repräsentieren Merkmale seiner Herkunft und seines Erbes.
+
+### Was Ancestry Feats tun:
+- Geben **rassische Fähigkeiten** (z. B. Elfen-Nachtsicht verbessern, Zwerg-Rüstungsbonus)
+- Erschließen **Heritage-spezifische** Fähigkeiten
+- Können teilweise **Klassen-Features** ergänzen oder ersetzen
+- Manche sind sehr mächtig und kampfrelevant
+
+### Verfügbare Ancestries (Core):
+| Ancestry | Tradition | Typische Stärken |
+|----------|-----------|-----------------|
+| Human | Variabel | Bonusfeat bei Level 1, maximale Flexibilität |
+| Elf | Arcane | Wahrnehmung, Magie, Geschwindigkeit |
+| Dwarf | Divine/Primal | Robustheit, Resistenzen, Handwerk |
+| Gnome | Primal/Occult | Magie, Neugier, Kommunikation |
+| Halfling | Variabel | Glück, Geschick, soziale Fähigkeiten |
+| Goblin | Variabel | Feuer, Geschwindigkeit, Chaos |
+| Leshy | Primal | Natur, Pflanzen, Heilung |
+| Catfolk | Variabel | Beweglichkeit, Wahrnehmung |
+| Tengu | Variabel | Waffen, soziale Fähigkeiten |
+
+→ Siehe jeweilige Ancestry-Notiz für Details
+
+---
+
+## 🔗 Feat-Ketten verstehen
+
+Viele mächtige Feats sind in **Ketten** organisiert – jeder Feat baut auf dem vorherigen auf:
+
+### Beispiel: Fighter Weapon Mastery-Kette
+```
+Weapon Focus (Level 4)
+    └── Improved Weapon Focus (Level 12)
+            └── Weapon Supremacy (Level 18)
+```
+
+### Beispiel: Skill-Kette (Medicine)
+```
+Battle Medicine (Trained, Level 1)
+    └── Continual Recovery (Expert, Level 2)
+            └── Legendary Medic (Legendary, Level 15)
+```
+
+> ⚠️ Beim Charakterbau immer prüfen welche Feats als **Voraussetzung** für spätere Feats benötigt werden – ein verpasster Feat kann eine ganze Kette blockieren.
+
+---
+
+## 🔄 Archetype Dedication Feats
+
+Eine besondere Kategorie von Class Feats sind **Dedication Feats** – sie geben Zugang zu einem **Archetype** (einer Sekundärklasse):
+
+- **Kosten**: 1 Class Feat (der Dedication Feat selbst)
+- **Voraussetzung**: Meist Level 2+, oft bestimmte Attribut-Werte
+- **Effekt**: Gibt grundlegende Fähigkeiten einer anderen Klasse
+- **Weitere Feats**: Zusätzliche Archetype-Feats vertiefen die Fähigkeiten
+
+### Wichtige Regeln:
+- Man kann nicht denselben Archetype zweimal nehmen
+- Manche Klassen haben **Einschränkungen** welche Archetypes sie nutzen können
+- Nach einem Dedication Feat muss man **2 weitere Feats** aus dem Archetype wählen bevor man einen neuen Archetype beginnen kann
+
+→ Siehe [[Archetypen & Multiclassing]] für Details
+
+---
+
+## 💡 Tipps zur Feat-Auswahl
+
+### Für Einsteiger:
+- **Zuerst**: Class Feats die die Kernmechanik der Klasse verstärken
+- **Dann**: Skill Feats die im Alltag und in Erkundung nützlich sind
+- **General Feats**: Toughness ist fast immer eine gute Wahl für mehr Überlebensfähigkeit
+
+### Häufige Fehler:
+- Feats wählen ohne die Voraussetzungs-Ketten zu kennen
+- Zu viele situative Feats statt solider Grundlagen
+- Skill Feats vernachlässigen – sie sind abseits des Kampfes entscheidend
+
+### Ressourcen-Priorisierung:
+| Priorität | Feat-Typ | Warum |
+|-----------|----------|-------|
+| 1 | Class Feats | Definieren den Kampfstil |
+| 2 | Skill Feats | Utility und Exploration |
+| 3 | General Feats | Defensive Basics (Toughness etc.) |
+| 4 | Ancestry Feats | Flavour + spezifische Boni |
+
+---
+
+## 🔗 Verwandte Themen
+
+- [[Attribute & Level System]] – Wann welche Feats vergeben werden
+- [[Charaktererstellung]] – Feats im Kontext des gesamten Builds
+- [[General Feats]] – Alle universellen Feats
+- [[Skill Feats – Übersicht]] – Alle Skill Feats nach Fertigkeit
+- [[Archetypen & Multiclassing]] – Dedication Feats und Archetype-System
+- [[Fertigkeiten & Skills]] – Welche Feats welche Fertigkeiten aufwerten

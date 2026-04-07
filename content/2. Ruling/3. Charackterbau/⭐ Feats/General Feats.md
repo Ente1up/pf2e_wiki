@@ -1,0 +1,517 @@
+---
+title: "General Feats"
+system: "Pathfinder 2e"
+kategorie: "Charakterbau"
+unterordner: "Feats"
+tags:
+  - pf2e
+  - feats
+  - general-feats
+  - charakterbau
+status: "Entwurf"
+verwandte_notizen:
+  - "Feats & Talente – Übersicht"
+  - "Attribute & Level System"
+  - "Fertigkeiten & Skills"
+  - "Zustände & Conditions"
+  - "Grundlegende Kampfregeln (Physische Waffen)"
+quellen:
+  - "Player Core"
+  - "Player Core 2"
+erstellt: 2026-03-09
+---
+
+# 🏅 General Feats
+
+## Überblick
+
+**General Feats** sind klassenunabhängige Feats die **jeder Charakter** wählen kann – unabhängig von Klasse, Abstammung oder Fertigkeit. Sie werden bei Level **3, 7, 11, 15 und 19** vergeben.
+
+Da sie für alle verfügbar sind, sind General Feats oft eine gute Wahl für **Lücken im Build** zu füllen – sei es mehr Überlebensfähigkeit, bessere Initiative oder nützliche Utility-Fähigkeiten.
+
+---
+
+## 📑 Schnellübersicht
+
+| | | | |
+|--|--|--|--|
+| [[#Adopted Ancestry\|Adopted Ancestry]] | [[#Ancestral Paragon\|Ancestral Paragon]] | [[#Armor Proficiency\|Armor Proficiency]] | [[#Breath Control\|Breath Control]] |
+| [[#Canny Acumen\|Canny Acumen]] | [[#Diehard\|Diehard]] | [[#Expeditious Search\|Expeditious Search]] | [[#Experienced Smuggler\|Experienced Smuggler]] |
+| [[#Experienced Tracker\|Experienced Tracker]] | [[#Fascinating Performance\|Fascinating Performance]] | [[#Fast Recovery\|Fast Recovery]] | [[#Feather Step\|Feather Step]] |
+| [[#Fleet\|Fleet]] | [[#Incredible Initiative\|Incredible Initiative]] | [[#Incredible Investiture\|Incredible Investiture]] | [[#Kip Up\|Kip Up]] |
+| [[#Multilingual\|Multilingual]] | [[#Natural Ambulation\|Natural Ambulation]] | [[#Noticed\|Noticed]] | [[#Robust Recovery\|Robust Recovery]] |
+| [[#Shield Block\|Shield Block]] | [[#Skill Training\|Skill Training]] | [[#Toughness\|Toughness]] | [[#Uncanny Acumen\|Uncanny Acumen]] |
+| [[#Untrained Improvisation\|Untrained Improvisation]] | [[#Weapon Proficiency\|Weapon Proficiency]] | | |
+
+---
+
+## 📋 Alle General Feats im Detail
+
+---
+
+### Adopted Ancestry
+**Level**: 1
+**Voraussetzungen**: Keine
+
+Du identifizierst dich stark mit einer anderen Ancestry als deiner eigenen und hast deren Bräuche, Traditionen und körperliche Merkmale angenommen.
+
+- Du kannst **Ancestry Feats** einer anderen Ancestry wählen als deiner eigenen
+- Die gewählte Ancestry muss bei Charaktererstellung festgelegt werden
+- Du musst die kulturellen Hintergründe dieser Ancestry kennen (narrativ begründet)
+
+**Synergie:**
+- Besonders wertvoll für **Human**-Charaktere die sowieso flexible Feats haben
+- Ermöglicht z. B. einem Menschen Zwergen-spezifische Feats zu nehmen
+
+---
+
+### Ancestral Paragon
+**Level**: 1
+**Voraussetzungen**: Keine
+
+Du bist tief in deiner Abstammung verwurzelt und erhältst einen zusätzlichen Ancestry Feat.
+
+- Wähle sofort einen **zusätzlichen Ancestry Feat** deiner eigenen Ancestry
+- Dieser Feat unterliegt den normalen Level-Voraussetzungen
+
+**Synergie:**
+- Stark für Ancestries mit besonders mächtigen Ancestry Feats
+- Besonders nützlich für **Elfen** (frühere Zugang zu High-Level Ancestry Feats) und **Zwerge**
+
+---
+
+### Armor Proficiency
+**Level**: 1
+**Voraussetzungen**: Keine
+
+Du hast Erfahrung mit einer Rüstungsklasse die deine Klasse normalerweise nicht unterstützt.
+
+- Wähle eine Rüstungskategorie: Light, Medium oder Heavy
+- Du wirst **Trained** in dieser Rüstungskategorie
+- Kann mehrfach genommen werden (je einmal pro Kategorie)
+
+**Synergie:**
+- Unverzichtbar für **Wizard, Sorcerer, Witch** die Medium Armor wollen
+- Nützlich für **Rogue** der gerne Medium Armor trüge
+- Weniger relevant für Klassen die bereits breite Rüstungsproficiencies haben
+
+---
+
+### Breath Control
+**Level**: 1
+**Voraussetzungen**: Keine
+
+Du hast außergewöhnliche Kontrolle über deinen Atem und kannst ihn weit länger anhalten als normal.
+
+- Kannst Atem **25× länger** anhalten als normal (statt Runden, jetzt Minuten)
+- +1 Circumstance Bonus auf Saves gegen **Inhaled Poisons und Gaseffekte**
+- Bonus steigt auf +4 wenn der Effekt anhält während du den Atem anhältst
+
+**Synergie:**
+- Nützlich in Dungeons mit Gasfallen oder Gift-Encounters
+- Besonders wertvoll für **Unterwasser-Kampagnen**
+- Jede Klasse profitiert gleich
+
+---
+
+### Canny Acumen
+**Level**: 1
+**Voraussetzungen**: Keine
+
+Du hast außergewöhnliche Schärfe in einem bestimmten Bereich.
+
+- Wähle: **Perception, Will-Save, Fortitude-Save oder Reflex-Save**
+- Diese Proficiency wird auf **Expert** erhöht (falls noch nicht höher)
+- Bei Level 17: Steigt automatisch auf **Master**
+
+**Synergie:**
+- **Wizard/Witch/Sorcerer**: Canny Acumen (Fortitude) für bessere körperliche Resistenz
+- **Barbarian/Fighter**: Canny Acumen (Perception) für bessere Initiative
+- **Rogue**: Bereits starke Saves – Fortitude ist die Schwachstelle → Canny Acumen (Fortitude)
+- Einer der **stärksten General Feats** überhaupt – fast immer eine gute Wahl
+
+> ⭐ **Canny Acumen ist eine der besten Wahlen für fast jede Klasse** – ein schwacher Save auf Expert zu heben ist immer wertvoll.
+
+---
+
+### Diehard
+**Level**: 1
+**Voraussetzungen**: Keine
+
+Du kämpfst bis zum letzten Atemzug und stirbst schwerer als andere.
+
+- Du stirbst erst bei **Dying 5** statt Dying 4
+- Gibt effektiv eine extra Chance den Tod zu verhindern
+
+**Synergie:**
+- Besonders wertvoll kombiniert mit **Toughness** für maximale Zähigkeit
+- **Barbarian** profitiert doppelt – bereits hohe HP + noch länger am Leben
+- **Frontline-Kämpfer** aller Klassen profitieren stark
+- Weniger relevant für hinten bleibende Caster
+
+---
+
+### Expeditious Search
+**Level**: 1
+**Voraussetzungen**: Perception: **Expert**
+
+Du durchsuchst Gebiete mit außergewöhnlicher Gründlichkeit und Geschwindigkeit.
+
+- Beim **Suchen** (Search Exploration-Aktivität): Doppelte Bewegungsgeschwindigkeit
+- Entdeckst versteckte Objekte, Fallen und Türen doppelt so schnell
+- Kannst während der Bewegung suchen ohne Abzug
+
+**Synergie:**
+- Stark für **Ranger, Investigator** die oft die Vorhut spielen
+- Nützlich für jede Klasse mit hoher Perception
+- Besonders wertvoll in Dungeon-lastigen Kampagnen
+
+---
+
+### Experienced Smuggler
+**Level**: 1
+**Voraussetzungen**: Stealth: **Trained**
+
+Du bist ein erfahrener Schmuggler und weißt wie man Dinge versteckt.
+
+- +2 Circumstance Bonus auf Stealth-Checks um **Gegenstände zu verbergen**
+- Kannst Gegenstände verstecken ohne einen gesonderten Stealth-Check wenn sie klein genug sind
+
+**Synergie:**
+- Nützlich für **Rogue, Investigator** in Kampagnen mit sozialer Intrige
+- Situativ aber in den richtigen Kampagnen sehr wertvoll
+
+---
+
+### Experienced Tracker
+**Level**: 1
+**Voraussetzungen**: Survival: **Trained**
+
+Du bist ein erfahrener Spurenleser der selbst schwierige Spuren verfolgen kann.
+
+- Kannst **Tracks** ohne Abzug bei normaler Bewegungsgeschwindigkeit folgen
+- Kein Malus mehr für Spurenverfolgung während der Bewegung
+- +2 Circumstance Bonus auf Survival-Checks zum Spuren verfolgen in schwierigem Gelände
+
+**Synergie:**
+- Unverzichtbar für **Ranger**-Builds die auf Verfolgung setzen
+- Nützlich für **Investigator** in Detektiv-Kampagnen
+- Situativ – je nach Kampagnenstil sehr wertvoll oder kaum nutzbar
+
+---
+
+### Fascinating Performance
+**Level**: 1
+**Voraussetzungen**: Performance: **Trained**
+
+Du beherrschst die Kunst der Ablenkung durch Darbietung.
+
+- Kann die **Perform**-Aktion nutzen um Kreaturen zu **faszinieren** (Fascinated Condition)
+- DC ist die höchste Perception der Kreaturen in der Nähe
+- Nützlich um Wachen abzulenken oder Zeit zu gewinnen
+
+**Synergie:**
+- **Bard** profitiert am meisten – bereits hohe Performance-Kompetenz
+- Gut für **Swashbuckler (Wit)** und soziale Charaktere
+- Kombiniert gut mit Stealth-basierten Gruppenaktionen
+
+---
+
+### Fast Recovery
+**Level**: 1
+**Voraussetzungen**: CON: 14+
+
+Du erholst dich außergewöhnlich schnell von körperlichen Einschränkungen.
+
+- Wenn du dich von **Fatigued oder Sickened** erholst: Wert sinkt um 2 statt 1
+- Kurze Rast (10 Minuten): Reduziert Fatigued um 1 zusätzlich
+
+**Synergie:**
+- Sehr wertvoll für **Barbarian** der nach Rage Fatigued wird
+- Gut für Klassen die oft Sickened-Effekten ausgesetzt sind
+- Kombiniert gut mit **Robust Recovery**
+
+---
+
+### Feather Step
+**Level**: 1
+**Voraussetzungen**: DEX: 14+
+
+Du bewegst dich mit außergewöhnlicher Leichtigkeit durch schwieriges Gelände.
+
+- Kann **Step** (1 Aktion, 5 Fuß Bewegung) in **schwierigem Gelände** nutzen
+- Normal wäre Step in schwierigem Gelände nicht möglich
+- Sehr nützlich in Kämpfen mit viel Umgebungshindernis
+
+**Synergie:**
+- **Monk** profitiert stark – bereits hohe Mobilität noch weiter verbessert
+- **Swashbuckler, Rogue** die oft repositionieren müssen
+- Weniger relevant für schwere Frontline-Kämpfer
+
+---
+
+### Fleet
+**Level**: 1
+**Voraussetzungen**: Keine
+
+Du bewegst dich schneller als der Durchschnitt.
+
+- +5 Fuß **Bewegungsgeschwindigkeit** permanent
+- Kumulativ mit anderen Speed-Boni
+
+**Synergie:**
+- Gut für **Monk** (bereits hohe Speed + Fleet = noch schneller)
+- Nützlich für **Barbarian** der in den Nahkampf kommen muss
+- Weniger wichtig für Fernkämpfer und Caster
+
+---
+
+### Incredible Initiative
+**Level**: 1
+**Voraussetzungen**: Keine
+
+Du reagierst in Gefahrensituationen außergewöhnlich schnell.
+
+- **+2 Circumstance Bonus** auf Initiative-Würfe
+- Gilt für alle Arten von Initiative (Perception, Stealth, etc.)
+
+**Synergie:**
+- Wertvoll für **fast alle Klassen** – früher dran zu sein ist immer gut
+- Besonders stark für **Rogue** (Surprise Attack bei hoher Initiative)
+- **Wizard/Sorcerer** können früher Kontrolle etablieren
+
+> 💡 Eine der häufigsten General Feat-Wahlen überhaupt – Initiative ist immer relevant.
+
+---
+
+### Incredible Investiture
+**Level**: 11
+**Voraussetzungen**: CHA: 16+
+
+Du kannst mehr magische Gegenstände gleichzeitig investiert halten als normal.
+
+- Kann bis zu **12 investierte magische Gegenstände** halten (statt normal 10)
+- Nützlich in späteren Levels wenn viele mächtige Items verfügbar sind
+
+**Synergie:**
+- Relevant für **alle Klassen** in Item-reichen Kampagnen ab Level 11+
+- Besonders nützlich wenn der GM großzügig mit magischen Items ist
+
+---
+
+### Kip Up
+**Level**: 1
+**Voraussetzungen**: DEX: 14+, Acrobatics: **Expert**
+
+Du kannst mit einer flüssigen Bewegung vom Boden aufstehen.
+
+- Aufstehen (**Stand Up**) kostet nur **freie Aktion** statt 1 Aktion
+- Provoziert keine Attack of Opportunity beim Aufstehen
+- Enormer Vorteil wenn man oft Prone wird
+
+**Synergie:**
+- **Monk** – oft Trip-Ziel, profitiert massiv
+- **Swashbuckler** – Mobilität ist Kernkonzept
+- **Barbarian** – wird oft getroffen und zu Boden geworfen
+- Jede Klasse die oft Prone wird
+
+---
+
+### Multilingual
+**Level**: 1
+**Voraussetzungen**: Keine
+
+Du hast ein Talent für Sprachen und lernst sie schneller als andere.
+
+- Lerne **2 zusätzliche Sprachen** deiner Wahl
+- Kann mehrfach genommen werden
+
+**Synergie:**
+- Besonders wertvoll für **soziale Charaktere** (Bard, Investigator)
+- Nützlich in Kampagnen mit vielen verschiedenen Kulturen und Völkern
+- **Rogue, Investigator** profitieren für Undercover-Arbeit
+
+---
+
+### Natural Ambulation
+**Level**: 1
+**Voraussetzungen**: Keine
+
+Du bewegst dich mit einer natürlichen Leichtigkeit die andere verblüfft.
+
+- Kein Malus auf Stealth-Checks während normaler Bewegung
+- Kann dich bewegen ohne automatisch entdeckt zu werden
+
+**Synergie:**
+- **Rogue** – Kern des Schleich-Spielstils
+- **Ranger** – Spurenverfolgung und Erkundung
+- Gut für jeden der häufig Stealth nutzt
+
+---
+
+### Robust Recovery
+**Level**: 1
+**Voraussetzungen**: CON: 14+
+
+Dein Körper kämpft aktiv gegen Krankheiten und Gifte.
+
+- Bei **Fortitude-Saves gegen andauernde Krankheiten und Gifte**:
+  - Erfolg = Zustand verbessert sich um 2 Stufen statt 1
+  - Kritischer Erfolg = komplett geheilt
+- Kombiniert stark mit **Fast Recovery**
+
+**Synergie:**
+- Wertvoll in Kampagnen mit vielen Gift- und Krankheits-Encountern
+- **Barbarian, Fighter** die oft im Nahkampf Gift-Treffern ausgesetzt sind
+- Weniger relevant in Kampagnen ohne viele Gift/Krankheits-Effekte
+
+---
+
+### Shield Block
+**Level**: 1
+**Voraussetzungen**: Einen Schild halten
+
+Du kannst eingehenden Schaden mit deinem Schild abfangen.
+
+- **Reaktion**: Wenn du Schaden nimmst und einen Schild hältst
+- Reduziert den Schaden um den **Hardness des Schilds**
+- Der Schild nimmt den abgefangenen Schaden (kann brechen)
+
+**Synergie:**
+- **Fighter (Sword & Board)** – definitives Kern-Feat für diesen Build
+- **Champion** – Schild ist oft Teil des Konzepts
+- **Cleric (Warpriest)** – Schild + göttliche Macht
+- ⚠️ Nur nützlich wenn man tatsächlich einen Schild führt
+
+---
+
+### Skill Training
+**Level**: 1
+**Voraussetzungen**: Keine
+
+Du hast dich in einer zusätzlichen Fertigkeit ausgebildet.
+
+- Werde **Trained** in einer Fertigkeit deiner Wahl
+- Kann mehrfach genommen werden (je andere Fertigkeit)
+
+**Synergie:**
+- Nützlich für **Klassen mit wenigen Startfertigkeiten** (Fighter, Barbarian)
+- Gut um spezifische Skill Feats freizuschalten die eine Trained-Voraussetzung haben
+- Flexibelster General Feat – immer situativ sinnvoll
+
+---
+
+### Toughness
+**Level**: 1
+**Voraussetzungen**: Keine
+
+Du bist außergewöhnlich zäh und widerstandsfähig.
+
+- **+Level zusätzliche HP** (bei Level 1: +1 HP, bei Level 10: +10 HP, etc.)
+- Bei **Recovery Checks** (Dying): DC sinkt um 1 (DC 9 statt 10)
+
+**Synergie:**
+- **Universell wertvoll** – mehr HP ist immer gut
+- Besonders stark für zerbrechliche Caster (**Wizard, Witch, Sorcerer**)
+- Kombiniert stark mit **Diehard** für maximale Überlebensfähigkeit
+- Der **beliebteste General Feat** im Spiel – kaum eine schlechte Wahl
+
+> ⭐ **Toughness ist fast immer die beste Wahl** wenn man unsicher ist was man nehmen soll.
+
+---
+
+### Uncanny Acumen
+**Level**: 17
+**Voraussetzungen**: Canny Acumen (dieselbe Option)
+
+Du hast die Fähigkeit aus Canny Acumen auf das höchste Niveau gebracht.
+
+- Die durch **Canny Acumen** erhöhte Proficiency steigt auf **Legendary**
+- Nur verfügbar wenn Canny Acumen bereits genommen wurde
+
+**Synergie:**
+- Konsequente Weiterführung von Canny Acumen
+- Besonders stark für **Saves** die Legendary werden (z. B. Will für Caster)
+
+---
+
+### Untrained Improvisation
+**Level**: 3
+**Voraussetzungen**: Keine
+
+Du bist gut darin Dinge zu tun für die du keine formale Ausbildung hast.
+
+- Bei **Untrained Skill-Checks**: Kein voller Untrained-Malus mehr
+- Unter Level 7: +Level/2 (aufgerundet) statt +0
+- Ab Level 7: Voller Level-Bonus auch Untrained
+
+**Synergie:**
+- **Investigator** – Deductive Improvisation macht das später vollständig
+- Nützlich für Klassen mit wenigen Fertigkeiten (**Fighter, Barbarian**)
+- Ermöglicht Situationen meistern die außerhalb des Kompetenzbereichs liegen
+
+---
+
+### Weapon Proficiency
+**Level**: 1
+**Voraussetzungen**: Keine
+
+Du hast Erfahrung mit einer Waffenkategorie die deine Klasse normalerweise nicht unterstützt.
+
+- Wähle: **Simple, Martial oder Advanced Weapons**
+- Du wirst **Trained** in dieser Waffenkategorie
+- Kann mehrfach genommen werden (je andere Kategorie)
+
+**Synergie:**
+- Wertvoll für **Wizard, Sorcerer, Witch** die Martial Weapons wollen
+- Nützlich für **Bard** der eine spezifische Waffe führen will
+- Weniger relevant für Klassen die bereits breite Waffenproficiencies haben
+
+---
+
+## 📊 General Feats nach Verwendungszweck
+
+### 🛡️ Überlebensfähigkeit
+| Feat | Effekt | Beste Klassen |
+|------|--------|--------------|
+| **Toughness** | +Level HP, besserer Recovery Check | Alle, besonders Caster |
+| **Diehard** | Stirbt erst bei Dying 5 | Frontline-Kämpfer |
+| **Fast Recovery** | Erholt sich schneller von Fatigued/Sickened | Barbarian, alle |
+| **Robust Recovery** | Bessere Saves gegen Gift/Krankheit | Alle in Gift-lastigen Kampagnen |
+
+### ⚡ Kampf & Initiative
+| Feat | Effekt | Beste Klassen |
+|------|--------|--------------|
+| **Incredible Initiative** | +2 auf Initiative | Fast alle |
+| **Canny Acumen** | Schwachen Save/Perception auf Expert | Fast alle |
+| **Shield Block** | Schaden mit Schild abfangen | Fighter, Champion, Cleric |
+| **Kip Up** | Aufstehen als freie Aktion | Monk, Swashbuckler |
+| **Fleet** | +5 Fuß Speed | Monk, Barbarian |
+| **Feather Step** | Step in schwierigem Gelände | Monk, Swashbuckler, Rogue |
+
+### 🎭 Utility & Exploration
+| Feat | Effekt | Beste Klassen |
+|------|--------|--------------|
+| **Skill Training** | +1 Trained Fertigkeit | Fighter, Barbarian |
+| **Weapon Proficiency** | +1 Waffenkategorie | Caster-Klassen |
+| **Armor Proficiency** | +1 Rüstungskategorie | Caster-Klassen |
+| **Multilingual** | +2 Sprachen | Soziale Charaktere |
+| **Untrained Improvisation** | Kein Untrained-Malus | Alle mit wenig Skills |
+| **Expeditious Search** | Doppelte Suchgeschwindigkeit | Ranger, Investigator |
+
+### 🧬 Ancestry & Charakter
+| Feat | Effekt | Beste Klassen |
+|------|--------|--------------|
+| **Adopted Ancestry** | Andere Ancestry Feats wählen | Human, flexible Builds |
+| **Ancestral Paragon** | Zusätzlicher Ancestry Feat | Starke Ancestry-Linien |
+
+---
+
+## 🔗 Verwandte Themen
+
+- [[Feats & Talente – Übersicht]] – Das gesamte Feat-System
+- [[Skill Feats – Übersicht]] – Feats die Fertigkeiten erweitern
+- [[Attribute & Level System]] – Wann General Feats vergeben werden
+- [[Zustände & Conditions]] – Fatigued, Sickened, Dying etc.
+- [[Grundlegende Kampfregeln (physische Waffen)]] – Shield Block, Kip Up im Kontext
+- [[Fertigkeiten & Skills]] – Welche Fertigkeiten durch Feats aufgewertet werden
