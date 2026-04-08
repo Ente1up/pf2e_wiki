@@ -1,5 +1,5 @@
 ---
-title: Skill Feats – Stealth
+title: 🥷 Skill Feats – Stealth
 system: Pathfinder 2e
 kategorie: Charakterbau
 unterordner: Feats/Skill Feats
@@ -311,13 +311,13 @@ Du kannst dich selbst unter direkter Beobachtung verstecken.
 
 ## 🔗 Verwandte Themen
 
-- [[Feats & Talente – Übersicht]] – Das gesamte Feat-System
+- [[Feats Übersicht]] – Das gesamte Feat-System
 - [[General Feats]] – Experienced Smuggler auch als General Feat
-- [[Skill Feats – Acrobatics]] – Mobilität und Ausweichen als Ergänzung
-- [[Skill Feats – Athletics]] – Körperliche Kontrolle im Kampf
+- [[Acrobatics]] – Mobilität und Ausweichen als Ergänzung
+- [[Athletics]] – Körperliche Kontrolle im Kampf
 - [[Fertigkeiten & Skills]] – Stealth im Detail
-- [[Klasse - Rogue]] – Stealth als Kernmechanik
-- [[Klasse - Ranger]] – Terrain-Stealth und Erkundung
-- [[Klasse - Investigator]] – Stealth für Ermittlungen
+- [[Rogue]] – Stealth als Kernmechanik
+- [[Ranger]] – Terrain-Stealth und Erkundung
+- [[Investigator]] – Stealth für Ermittlungen
 - [[Grundlegende Kampfregeln (Physische Waffen)]] – Hidden, Undetected im Kampf
 - [[Zustände & Conditions]] – Hidden, Undetected, Concealed erklärt

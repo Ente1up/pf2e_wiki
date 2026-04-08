@@ -270,13 +270,13 @@ Du kannst magische Gegenstände benutzen die eigentlich eine Spellcasting-Fähig
 
 ## 🔗 Verwandte Themen
 
-- [[Feats & Talente – Übersicht]] – Das gesamte Feat-System
+- [[Feats Übersicht]] – Das gesamte Feat-System
 - [[General Feats]] – Canny Acumen als Ergänzung für INT-Builds
 - [[Fertigkeiten & Skills]] – Arcana im Detail
 - [[Zauberschulen & Traditionen]] – Arcane Tradition im Kontext
-- [[Grundlegende Kampfregeln (Magie)]] – Zauber identifizieren im Kampf
-- [[Klasse - Wizard]] – Hauptnutzer aller Arcana-Feats
-- [[Klasse - Witch]] – Familiar und Zauberbuch-Synergien
-- [[Klasse - Magus]] – Arkaner Kämpfer mit Arcana-Fokus
-- [[Klasse - Sorcerer]] – Arcane Bloodlines und Arcana
-- [[Klasse - Investigator]] – Recall Knowledge als Kernmechanik
+- [[Grundlegende Kampfregeln Magie]] – Za(Muber identifizieren im Kampf
+- [[Wizard]] – Hauptnutzer aller Arcana-Feats
+- [[Witch]] – Familiar und Zauberbuch-Synergien
+- ([[Magus]] – Arkaner Kämpfer mit Arcana-Fokus)
+- [[Sorcerer]] – Arcane Bloodlines und Arcana
+- [[Investigator]] – Recall Knowledge als Kernmechanik

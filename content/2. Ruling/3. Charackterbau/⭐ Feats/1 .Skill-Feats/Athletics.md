@@ -435,13 +435,13 @@ Du springst mit legendärer Kraft über scheinbar unmögliche Distanzen.
 
 ## 🔗 Verwandte Themen
 
-- [[Feats & Talente – Übersicht]] – Das gesamte Feat-System
-- [[Skill Feats – Acrobatics]] – Mobilität und Ausweichen
+- [[Feats Übersicht]] – Das gesamte Feat-System
+- [[Acrobatics]] – Mobilität und Ausweichen
 - [[General Feats]] – Toughness, Canny Acumen als Ergänzung
 - [[Fertigkeiten & Skills]] – Athletics im Detail
-- [[Klasse - Fighter]] – Grapple, Trip, Shove als Kernstrategie
-- [[Klasse - Barbarian]] – STR-Manöver + Rage
-- [[Klasse - Monk]] – Unarmed + Manöver-Kombos
-- [[Klasse - Swashbuckler]] – Gymnast Style nutzt Athletics
+- [[Fighter]] – Grapple, Trip, Shove als Kernstrategie
+- [[Barbarian]] – STR-Manöver + Rage
+- [[Monk]] – Unarmed + Manöver-Kombos
+- [[Swashbuckler]] – Gymnast Style nutzt Athletics
 - [[Grundlegende Kampfregeln (Physische Waffen)]] – Manöver im Kampfkontext
 - [[Zustände & Conditions]] – Grabbed, Restrained, Prone, Prone erklärt

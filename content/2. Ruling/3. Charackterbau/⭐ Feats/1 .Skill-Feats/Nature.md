@@ -259,12 +259,12 @@ Du hast alle magischen Traditionen durch Naturwissen vereint.
 
 ## 🔗 Verwandte Themen
 
-- [[Feats & Talente – Übersicht]] – Das gesamte Feat-System
+- [[Feats Übersicht]] – Das gesamte Feat-System
 - [[General Feats]] – Canny Acumen als WIS-Ergänzung
-- [[Skill Feats – Arcana]] – Analoges System für Arcane-Tradition
-- [[Skill Feats – Religion]] – Analoges System für Divine-Tradition
-- [[Skill Feats – Occultism]] – Analoges System für Occult-Tradition
-- [[Skill Feats – Survival]] – Ergänzung für Wildnis-Charaktere
+- [[Arcana]] – Analoges System für Arcane-Tradition
+- [[Religion]] – Analoges System für Divine-Tradition
+- [[Occultism]] – Analoges System für Occult-Tradition
+- [[Survival]] – Ergänzung für Wildnis-Charaktere
 - [[Fertigkeiten & Skills]] – Nature im Detail
 - [[Tiergefährten]] – Animal Companion vs. Bonded Animal
 - [[Zauberschulen & Traditionen]] – Primal Tradition im Kontext
