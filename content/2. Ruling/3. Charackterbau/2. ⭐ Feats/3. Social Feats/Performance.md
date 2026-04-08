@@ -90,7 +90,7 @@ Deine Darbietung fesselt das Publikum vollständig.
 - ⭐ **Bard**: Kombiniert mit Compositions – Publikum faszinieren während Verbündete handeln
 - **Rogue**: Ablenkung für Stealth-Aktionen schaffen
 - **Swashbuckler**: Panache-Aufbau durch soziale Performance
-- → Auch als [[General Feats#Fascinating Performance]] verfügbar
+- → Auch als [[2. General Feats#Fascinating Performance]] verfügbar
 
 > 💡 **Fascinating Performance** ist eine der wertvollsten sozialen Optionen – Wachen für mehrere Runden ablenken kann einen kompletten Schleichplan ermöglichen.
 
@@ -170,7 +170,7 @@ Dein Ruf als Performer ist legendär – Menschen reisen von weit her um dich zu
 ## 🔗 Verwandte Themen
 
 - [[Feats & Talente – Übersicht]] – Das gesamte Feat-System
-- [[General Feats]] – Fascinating Performance auch als General Feat
+- [[2. General Feats]] – Fascinating Performance auch als General Feat
 - [[Diplomacy]] – Soziale Überzeugung als Ergänzung
 - [[Deception]] – Schauspielerei und Täuschung überschneiden sich
 - [[Fertigkeiten & Skills]] – Performance im Detail

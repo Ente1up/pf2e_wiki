@@ -256,7 +256,7 @@ Du kannst selbst die unmöglichsten Verhandlungen zum Erfolg führen.
 
 ## 🔗 Verwandte Themen
 
-- [[Feats Übersicht]] – Das gesamte Feat-System
+- [[1. Feats Übersicht]] – Das gesamte Feat-System
 - [[Deception]] – Täuschung als soziale Alternative
 - [[Intimidation]] – Einschüchterung als aggressivere Alternative
 - [[Society]] – Courtly Graces und Connections als Ergänzung

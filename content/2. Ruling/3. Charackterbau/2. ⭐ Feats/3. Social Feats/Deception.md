@@ -229,7 +229,7 @@ Du verbirgst deine wahren Absichten selbst vor magischer Untersuchung.
 
 ## 🔗 Verwandte Themen
 
-- [[Feats Übersicht]] – Das gesamte Feat-System
+- [[1. Feats Übersicht]] – Das gesamte Feat-System
 - [[Diplomacy]] – Ehrliche soziale Überzeugung als Ergänzung
 - [[Intimidation]] – Einschüchterung als Alternative
 - [[Society]] – Confabulator-Synergie

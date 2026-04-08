@@ -311,8 +311,8 @@ Du kannst dich selbst unter direkter Beobachtung verstecken.
 
 ## 🔗 Verwandte Themen
 
-- [[Feats Übersicht]] – Das gesamte Feat-System
-- [[General Feats]] – Experienced Smuggler auch als General Feat
+- [[1. Feats Übersicht]] – Das gesamte Feat-System
+- [[2. General Feats]] – Experienced Smuggler auch als General Feat
 - [[Acrobatics]] – Mobilität und Ausweichen als Ergänzung
 - [[Athletics]] – Körperliche Kontrolle im Kampf
 - [[Fertigkeiten & Skills]] – Stealth im Detail

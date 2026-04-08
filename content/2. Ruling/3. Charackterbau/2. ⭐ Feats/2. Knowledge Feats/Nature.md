@@ -259,8 +259,8 @@ Du hast alle magischen Traditionen durch Naturwissen vereint.
 
 ## 🔗 Verwandte Themen
 
-- [[Feats Übersicht]] – Das gesamte Feat-System
-- [[General Feats]] – Canny Acumen als WIS-Ergänzung
+- [[1. Feats Übersicht]] – Das gesamte Feat-System
+- [[2. General Feats]] – Canny Acumen als WIS-Ergänzung
 - [[Arcana]] – Analoges System für Arcane-Tradition
 - [[Religion]] – Analoges System für Divine-Tradition
 - [[Occultism]] – Analoges System für Occult-Tradition

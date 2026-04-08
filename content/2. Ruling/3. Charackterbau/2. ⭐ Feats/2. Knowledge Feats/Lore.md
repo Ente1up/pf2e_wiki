@@ -170,8 +170,8 @@ Lore-Fertigkeiten können durch **Skill Increases** wie normale Fertigkeiten auf
 
 ## 🔗 Verwandte Themen
 
-- [[Feats Übersicht]] – Das gesamte Feat-System
-- [[General Feats]] – Skill Training für zusätzliche Lore-Feats
+- [[1. Feats Übersicht]] – Das gesamte Feat-System
+- [[2. General Feats]] – Skill Training für zusätzliche Lore-Feats
 - [[Arcana]] – Breites Wissen über Arkane Magie
 - [[Society]] – Dubious Knowledge als universeller Wissens-Feat
 - [[Fertigkeiten & Skills]] – Lore im Detail

@@ -109,7 +109,7 @@ Du hast ein Talent für Sprachen und lernst sie schneller als andere.
 **Synergie:**
 - **Bard, Investigator**: Kommunikation mit einer breiten Auswahl von NPCs
 - In Kampagnen mit vielen Völkern und Kulturen sehr wertvoll
-- → Auch als [[General Feats#Multilingual]] verfügbar
+- → Auch als [[2. General Feats#Multilingual]] verfügbar
 
 ---
 
@@ -310,8 +310,8 @@ Du verstehst jede Sprache die du hörst oder siehst.
 
 ## 🔗 Verwandte Themen
 
-- [[Feats Übersicht]] – Das gesamte Feat-System
-- [[General Feats]] – Multilingual auch als General Feat
+- [[1. Feats Übersicht]] – Das gesamte Feat-System
+- [[2. General Feats]] – Multilingual auch als General Feat
 - [[Skill Feats – Deception]] – Soziale Täuschung als Ergänzung
 - [[Skill Feats – Diplomacy]] – Soziale Überzeugung als Ergänzung
 - [[Fertigkeiten & Skills]] – Society im Detail

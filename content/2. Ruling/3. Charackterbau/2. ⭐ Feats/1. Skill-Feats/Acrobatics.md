@@ -335,8 +335,8 @@ Du überwindest scheinbar die Schwerkraft mit atemberaubenden Sprüngen.
 
 ## 🔗 Verwandte Themen
 
-- [[Feats Übersicht]] – Das gesamte Feat-System
-- [[General Feats]] – Kip Up auch als General Feat verfügbar
+- [[1. Feats Übersicht]] – Das gesamte Feat-System
+- [[2. General Feats]] – Kip Up auch als General Feat verfügbar
 - [[Fertigkeiten & Skills]] – Acrobatics im Detail
 - [[Monk]] – Profitiert am stärksten von Acrobatics Feats
 - [[Swashbuckler]] – Tumble Through als Panache-Quelle

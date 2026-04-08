@@ -435,9 +435,9 @@ Du springst mit legendärer Kraft über scheinbar unmögliche Distanzen.
 
 ## 🔗 Verwandte Themen
 
-- [[Feats Übersicht]] – Das gesamte Feat-System
+- [[1. Feats Übersicht]] – Das gesamte Feat-System
 - [[Acrobatics]] – Mobilität und Ausweichen
-- [[General Feats]] – Toughness, Canny Acumen als Ergänzung
+- [[2. General Feats]] – Toughness, Canny Acumen als Ergänzung
 - [[Fertigkeiten & Skills]] – Athletics im Detail
 - [[Fighter]] – Grapple, Trip, Shove als Kernstrategie
 - [[Barbarian]] – STR-Manöver + Rage

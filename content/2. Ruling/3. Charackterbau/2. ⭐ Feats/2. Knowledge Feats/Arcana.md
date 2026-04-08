@@ -270,8 +270,8 @@ Du kannst magische Gegenstände benutzen die eigentlich eine Spellcasting-Fähig
 
 ## 🔗 Verwandte Themen
 
-- [[Feats Übersicht]] – Das gesamte Feat-System
-- [[General Feats]] – Canny Acumen als Ergänzung für INT-Builds
+- [[1. Feats Übersicht]] – Das gesamte Feat-System
+- [[2. General Feats]] – Canny Acumen als Ergänzung für INT-Builds
 - [[Fertigkeiten & Skills]] – Arcana im Detail
 - [[Zauberschulen & Traditionen]] – Arcane Tradition im Kontext
 - [[Grundlegende Kampfregeln Magie]] – Za(Muber identifizieren im Kampf

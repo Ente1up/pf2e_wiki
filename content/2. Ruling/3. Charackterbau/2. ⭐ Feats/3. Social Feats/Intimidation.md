@@ -206,7 +206,7 @@ Deine Präsenz ist so überwältigend dass Feinde schon bei deinem Anblick zitte
 
 ## 🔗 Verwandte Themen
 
-- [[Feats Übersicht]] – Das gesamte Feat-System
+- [[1. Feats Übersicht]] – Das gesamte Feat-System
 - [[Deception]] – Täuschung als soziale Alternative
 - [[Diplomacy]] – Friedliche Überzeugung als Gegenstück
 - [[Fertigkeiten & Skills]] – Intimidation im Detail
