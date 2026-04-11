@@ -309,4 +309,4 @@ Der Wizard erhält Spell-Slots nach folgendem Schema:
 - [[Konzentration & Fokuszauber]] – Arcane School Fokuszauber
 - [[Rettungswürfe]] – Wie Feinde gegen Wizard-Zauber würfeln
 - [[Feats & Talente]] – Wizard Class Feats im Detail
-- [[Archetypen & Multiclassing]] – Wizard als Dedication-Archetype
+- [[2. Archetypen & Multiclassing]] – Wizard als Dedication-Archetype

@@ -280,4 +280,4 @@ Mächtigere Versionen der Deeds mit verstärkten Effekten.
 - [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Reload
 - [[Waffeneigenschaften]] – Reload, Kickback, Concussive, Capacity
 - [[Feats & Talente]] – Gunslinger Class Feats im Detail
-- [[Archetypen & Multiclassing]] – Gunslinger als Dedication-Archetype
+- [[2. Archetypen & Multiclassing]] – Gunslinger als Dedication-Archetype

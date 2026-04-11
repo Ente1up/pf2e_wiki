@@ -319,5 +319,5 @@ Du kannst dich selbst unter direkter Beobachtung verstecken.
 - [[Rogue]] – Stealth als Kernmechanik
 - [[Ranger]] – Terrain-Stealth und Erkundung
 - [[Investigator]] – Stealth für Ermittlungen
-- [[Grundlegende Kampfregeln (Physische Waffen)]] – Hidden, Undetected im Kampf
+- [[Grundlegende Kampfregeln (physische Waffen)]] – Hidden, Undetected im Kampf
 - [[Zustände & Conditions]] – Hidden, Undetected, Concealed erklärt

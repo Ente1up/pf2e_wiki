@@ -115,7 +115,7 @@ Beispiel: Ein **Level 5 Fighter** mit **STR +3** und **Expert** in Longswords:
 
 ## 🔗 Verwandte Themen
 
-- [[Charaktererstellung]] – Wie Attribute beim Start festgelegt werden (Boosts & Flaws)
+- [[1. Charaktererstellung]] – Wie Attribute beim Start festgelegt werden (Boosts & Flaws)
 - [[Klassen & Klassenmerkmale]] – Welche Proficiencies jede Klasse mitbringt
 - [[Feats & Talente]] – Was man pro Level wählen kann
 - [[Rettungswürfe]] – Fortitude, Reflex, Will und wie Proficiency dort greift

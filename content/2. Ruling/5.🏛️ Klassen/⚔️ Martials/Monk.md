@@ -291,4 +291,4 @@ Der Monk ist der **schnellste Kämpfer** im Spiel:
 - [[Konzentration & Fokuszauber]] – Ki-Fokuszauber im Detail
 - [[Waffeneigenschaften]] – Agile, Finesse, Monk
 - [[Feats & Talente]] – Monk Class Feats im Detail
-- [[Archetypen & Multiclassing]] – Monk als Dedication-Archetype
+- [[2. Archetypen & Multiclassing]] – Monk als Dedication-Archetype

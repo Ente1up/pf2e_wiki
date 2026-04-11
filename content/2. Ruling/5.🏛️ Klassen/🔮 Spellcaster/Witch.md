@@ -299,4 +299,4 @@ Beide sind Prepared Caster mit 6 HP – aber fundamental unterschiedlich im Flav
 - [[Zauberslots & Vorbereitung]] – Prepared Caster erklärt
 - [[Konzentration & Fokuszauber]] – Hexes und Patron-Fokuszauber im Detail
 - [[Feats & Talente]] – Witch Class Feats im Detail
-- [[Archetypen & Multiclassing]] – Witch als Dedication-Archetype
+- [[2. Archetypen & Multiclassing]] – Witch als Dedication-Archetype

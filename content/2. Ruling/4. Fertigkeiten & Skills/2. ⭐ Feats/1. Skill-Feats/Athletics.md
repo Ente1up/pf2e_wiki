@@ -443,5 +443,5 @@ Du springst mit legendärer Kraft über scheinbar unmögliche Distanzen.
 - [[Barbarian]] – STR-Manöver + Rage
 - [[Monk]] – Unarmed + Manöver-Kombos
 - [[Swashbuckler]] – Gymnast Style nutzt Athletics
-- [[Grundlegende Kampfregeln (Physische Waffen)]] – Manöver im Kampfkontext
+- [[Grundlegende Kampfregeln (physische Waffen)]] – Manöver im Kampfkontext
 - [[Zustände & Conditions]] – Grabbed, Restrained, Prone, Prone erklärt

@@ -320,4 +320,4 @@ Beide sind WIS-basierte Prepared Caster mit 8 HP – aber fundamental unterschie
 - [[Konzentration & Fokuszauber]] – Order Fokuszauber im Detail
 - [[Tiergefährten]] – Animal Companion im Detail
 - [[Feats & Talente]] – Druid Class Feats im Detail
-- [[Archetypen & Multiclassing]] – Druid als Dedication-Archetype
+- [[2. Archetypen & Multiclassing]] – Druid als Dedication-Archetype

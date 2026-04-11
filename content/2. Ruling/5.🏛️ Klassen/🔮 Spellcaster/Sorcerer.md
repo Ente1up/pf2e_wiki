@@ -299,4 +299,4 @@ Jede Bloodline gibt spezifische Fähigkeiten – hier am Beispiel der **Draconic
 - [[Zauberslots & Vorbereitung]] – Prepared vs. Spontaneous Caster erklärt
 - [[Konzentration & Fokuszauber]] – Bloodline Fokuszauber
 - [[Feats & Talente]] – Sorcerer Class Feats im Detail
-- [[Archetypen & Multiclassing]] – Sorcerer als Dedication-Archetype
+- [[2. Archetypen & Multiclassing]] – Sorcerer als Dedication-Archetype
