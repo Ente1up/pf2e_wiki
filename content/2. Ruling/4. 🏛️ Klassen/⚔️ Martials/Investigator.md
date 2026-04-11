@@ -300,4 +300,4 @@ Beide Klassen sind DEX/INT-adjacent, Skill-fokussiert und mit 8 HP/Level – abe
 - [[Fertigkeiten & Skills]] – Recall Knowledge, Skill-System im Detail
 - [[Waffeneigenschaften]] – Finesse, Agile
 - [[Feats & Talente]] – Investigator Class Feats im Detail
-- [[2. Archetypen & Multiclassing]] – Investigator als Dedication-Archetype
+- [[2. ]] – Investigator als Dedication-Archetype

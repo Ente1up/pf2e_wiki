@@ -320,4 +320,4 @@ Beide nutzen die **Occult Tradition** und sind Spontaneous Caster – aber völl
 - [[Konzentration & Fokuszauber]] – Amps und Fokuspunkte im Detail
 - [[Zustände & Conditions]] – Stupefied erklärt
 - [[Feats & Talente]] – Psychic Class Feats im Detail
-- [[2. Archetypen & Multiclassing]] – Psychic als Dedication-Archetype
+- [[2. ]] – Psychic als Dedication-Archetype

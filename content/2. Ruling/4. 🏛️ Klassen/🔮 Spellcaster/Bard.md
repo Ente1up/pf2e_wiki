@@ -313,4 +313,4 @@ Der Bard ist der stärkste **soziale Charakter** im Spiel:
 - [[Konzentration & Fokuszauber]] – Composition Spells im Detail
 - [[Fertigkeiten & Skills]] – Performance, Diplomacy, Deception
 - [[Feats & Talente]] – Bard Class Feats im Detail
-- [[2. Archetypen & Multiclassing]] – Bard als Dedication-Archetype
+- [[2. ]] – Bard als Dedication-Archetype

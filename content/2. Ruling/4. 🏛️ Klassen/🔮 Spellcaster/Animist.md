@@ -327,4 +327,4 @@ Beide sind WIS-basierte Prepared Caster mit 8 HP und Naturverbindung – aber fu
 - [[Zauberslots & Vorbereitung]] – Prepared Caster erklärt
 - [[Konzentration & Fokuszauber]] – Apparition-Fokuszauber im Detail
 - [[Feats & Talente]] – Animist Class Feats im Detail
-- [[2. Archetypen & Multiclassing]] – Animist als Dedication-Archetype
+- [[2. ]] – Animist als Dedication-Archetype

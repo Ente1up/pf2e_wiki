@@ -317,4 +317,4 @@ Die **Mystery** ist die Quelle der göttlichen Heimsuchung des Oracles. Sie best
 - [[Konzentration & Fokuszauber]] – Revelation Spells im Detail
 - [[Zustände & Conditions]] – Curse-Effekte und ihre Auswirkungen
 - [[Feats & Talente]] – Oracle Class Feats im Detail
-- [[2. Archetypen & Multiclassing]] – Oracle als Dedication-Archetype
+- [[2. ]] – Oracle als Dedication-Archetype

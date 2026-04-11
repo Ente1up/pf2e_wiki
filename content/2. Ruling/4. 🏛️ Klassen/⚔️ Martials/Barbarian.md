@@ -272,4 +272,4 @@ Das **Instinct** definiert die Quelle und den Flavour der Rage sowie einen einzi
 - [[Zustände & Conditions]] – Fatigued, Flat-Footed, Slowed
 - [[Waffeneigenschaften]] – Two-Hand, Brutal, etc.
 - [[Feats & Talente]] – Barbarian Class Feats im Detail
-- [[2. Archetypen & Multiclassing]] – Barbarian als Dedication-Archetype
+- [[2. ]] – Barbarian als Dedication-Archetype

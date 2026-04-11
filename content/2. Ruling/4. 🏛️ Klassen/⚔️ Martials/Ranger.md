@@ -254,4 +254,4 @@ Bei Level 1 wählt der Ranger eine **Hunter's Edge**, die seinen Kampfstil grund
 - [[Waffeneigenschaften]] – Agile, Volley, Deadly etc.
 - [[Tiergefährten]] – Animal Companion im Detail
 - [[Feats & Talente]] – Ranger Class Feats im Detail
-- [[2. Archetypen & Multiclassing]] – Ranger als Dedication-Archetype
+- [[2. ]] – Ranger als Dedication-Archetype
