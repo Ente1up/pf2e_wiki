@@ -100,3 +100,4 @@ Zwerge leben primär in Bergfestungen und unterirdischen Städten:
 - [[Völker – Übersicht]] – Alle spielbaren Ancestries
 - [[Charaktererstellung]] – Ancestry im Build-Prozess
 - [[Attribute & Level System]] – Attribut-Boosts erklärt
+- [[⛏️ Lore - Zwerge]]- tiefere Lore
