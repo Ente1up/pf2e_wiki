@@ -10,7 +10,7 @@ tags:
   - personen
   - kreaturen
   - wesen
-status: Entwurf
+draft: false
 erstellt: 2026-04-17
 verwandte_notizen: []
 quellen: []

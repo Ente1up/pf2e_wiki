@@ -10,7 +10,7 @@ tags:
   - zwerge
   - darklands
   - unterreich
-status: Entwurf
+draft: false
 verwandte_notizen:
   - "⛏️ Lore - Zwerge"
   - "📜 Der Lange Marsch der Zwerge"

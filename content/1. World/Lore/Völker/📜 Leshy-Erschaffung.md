@@ -8,7 +8,7 @@ tags:
   - leshy
   - druiden
   - magie
-status: "Entwurf"
+draft: false
 verwandte_notizen:
   - "🌱 Leshy"
 quellen:

@@ -6,7 +6,7 @@ tags:
   - pf2e
   - ancestry
   - kobold
-status: Entwurf
+draft: false
 verwandte_notizen:
   - Völker – Übersicht
   - Charaktererstellung

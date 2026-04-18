@@ -9,7 +9,7 @@ tags:
   - level
   - proficiency
   - grundlagen
-status: "Entwurf"
+draft: false
 verwandte_notizen:
   - "Grundlegende Kampfregeln (Physische Waffen)"
   - "Grundlegende Kampfregeln (Magie)"

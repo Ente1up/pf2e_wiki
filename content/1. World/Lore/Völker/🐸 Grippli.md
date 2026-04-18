@@ -7,7 +7,7 @@ tags:
   - lore
   - völker
   - grippli
-status: "Entwurf"
+draft: false
 verwandte_notizen:
   - "🌿 Mwangi Expanse"
   - "🐸 Grippli"

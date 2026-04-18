@@ -10,7 +10,7 @@ tags:
   - zwerge
   - errinorn
   - quest-for-sky
-status: Entwurf
+draft: false
 verwandte_notizen:
   - "⛏️ Lore - Zwerge"
   - "📜 Der Lange Marsch der Zwerge"

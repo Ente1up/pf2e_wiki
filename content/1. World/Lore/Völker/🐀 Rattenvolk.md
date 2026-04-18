@@ -8,7 +8,7 @@ tags:
   - völker
   - rattenvolk
   - ysoki
-status: "Entwurf"
+draft: false
 verwandte_notizen:
   - "🏙️ Absalom"
   - "🏙️ Katapesh"

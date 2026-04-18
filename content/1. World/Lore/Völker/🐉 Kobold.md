@@ -7,7 +7,7 @@ tags:
   - lore
   - völker
   - kobold
-status: "Entwurf"
+draft: false
 verwandte_notizen:
   - "🐉 Kobold"
   - "🕳️ Darklands"

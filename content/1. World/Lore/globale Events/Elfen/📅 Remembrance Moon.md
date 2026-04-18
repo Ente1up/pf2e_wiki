@@ -11,7 +11,7 @@ tags:
   - remembrance-moon
   - exil
   - rueckkehr
-status: Entwurf
+draft: false
 verwandte_notizen:
   - "🧝 Lore - Elfen"
   - "🌍 Der Starfall"

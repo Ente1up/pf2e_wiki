@@ -7,7 +7,7 @@ tags:
   - ancestry
   - catfolk
   - amurrun
-status: Entwurf
+draft: false
 verwandte_notizen:
   - Völker – Übersicht
   - Charaktererstellung

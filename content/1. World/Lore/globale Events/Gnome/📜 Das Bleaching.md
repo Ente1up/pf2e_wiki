@@ -9,7 +9,7 @@ tags:
   - bleaching
   - phänomen
   - first-world
-status: Entwurf
+draft: false
 verwandte_notizen:
   - "🌈 Lore - Gnome"
   - "✨ Ort - First World"

@@ -8,7 +8,7 @@ tags:
   - bard
   - spellcaster
   - occult
-status: Entwurf
+draft: false
 verwandte_notizen:
   - Klassen – Übersicht
   - Klasse - Sorcerer

@@ -8,7 +8,7 @@ tags:
   - conditions
   - zustände
   - status
-status: "Entwurf"
+draft: false
 verwandte_notizen:
   - "Grundlegende Kampfregeln (Physische Waffen)"
   - "Grundlegende Kampfregeln (Magie)"

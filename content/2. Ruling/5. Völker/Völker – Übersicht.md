@@ -7,7 +7,7 @@ tags:
   - völker
   - ancestry
   - übersicht
-status: "Entwurf"
+draft: false
 verwandte_notizen:
   - "Charaktererstellung"
   - "Attribute & Level System"

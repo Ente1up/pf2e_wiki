@@ -9,7 +9,7 @@ tags:
   - skill-feats
   - religion
   - charakterbau
-status: Entwurf
+draft: false
 verwandte_notizen:
   - Feats & Talente – Übersicht
   - General Feats

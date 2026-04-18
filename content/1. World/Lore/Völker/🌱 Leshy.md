@@ -7,7 +7,7 @@ tags:
   - lore
   - völker
   - leshy
-status: "Entwurf"
+draft: false
 verwandte_notizen:
   - "📜 Leshy-Erschaffung"
   - "✨ First World"

@@ -11,7 +11,7 @@ tags:
   - isger
   - cheliax
   - goblinblood-wars
-status: "Entwurf"
+draft: false
 verwandte_notizen:
   - "⚔️ Hobgoblin"
   - "👺 Goblin"

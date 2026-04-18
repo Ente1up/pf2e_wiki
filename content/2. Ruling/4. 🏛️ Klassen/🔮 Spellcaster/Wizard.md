@@ -8,7 +8,7 @@ tags:
   - wizard
   - spellcaster
   - arcane
-status: Entwurf
+draft: false
 verwandte_notizen:
   - Klassen – Übersicht
   - Attribute & Level System

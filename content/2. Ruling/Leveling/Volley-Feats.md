@@ -5,7 +5,7 @@ kategorie: "Ruling/Leveling"
 tags:
   - pf2e
   - feats
-status: "Entwurf"
+draft: false
 verwandte_notizen: []
 quellen: []
 erstellt: 2026-04-18

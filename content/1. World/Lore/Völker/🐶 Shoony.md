@@ -7,7 +7,7 @@ tags:
   - lore
   - völker
   - shoony
-status: "Entwurf"
+draft: false
 verwandte_notizen:
   - "🐶 Shoony"
 quellen:

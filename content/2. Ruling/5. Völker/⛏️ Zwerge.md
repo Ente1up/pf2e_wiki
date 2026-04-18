@@ -7,7 +7,7 @@ tags:
   - ancestry
   - zwerge
   - dwarf
-status: Entwurf
+draft: false
 verwandte_notizen:
   - Völker – Übersicht
   - Charaktererstellung

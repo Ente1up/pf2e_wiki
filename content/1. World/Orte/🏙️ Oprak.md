@@ -10,7 +10,7 @@ tags:
   - hobgoblin
   - mindspin-mountains
   - königreich
-status: "Entwurf"
+draft: false
 verwandte_notizen:
   - "⚔️ Hobgoblin"
   - "📜 Die Goblinblut-Kriege"

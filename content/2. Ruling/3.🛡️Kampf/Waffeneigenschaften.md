@@ -5,7 +5,7 @@ kategorie: "Ruling/Kampf"
 tags:
   - pf2e
   - kampf
-status: "Entwurf"
+draft: false
 verwandte_notizen: []
 quellen: []
 erstellt: 2026-04-18

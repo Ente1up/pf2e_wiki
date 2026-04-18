@@ -11,7 +11,7 @@ tags:
   - dwarf
   - ranger
   - iconic
-status: Entwurf
+draft: false
 verwandte_notizen:
   - Lore_Zwerge
   - Gottheit - Torag

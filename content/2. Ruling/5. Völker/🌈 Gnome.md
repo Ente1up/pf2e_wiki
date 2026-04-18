@@ -6,7 +6,7 @@ tags:
   - pf2e
   - ancestry
   - gnome
-status: Entwurf
+draft: false
 verwandte_notizen:
   - Völker – Übersicht
   - Charaktererstellung

@@ -11,7 +11,7 @@ tags:
   - earthfall
   - globales-event
   - age-of-darkness
-status: Entwurf
+draft: false
 verwandte_notizen:
   - "🧝 Lore - Elfen"
   - "🌐 Ort - Sovyrian"

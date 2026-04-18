@@ -5,7 +5,7 @@ kategorie: "Index"
 tags:
   - pf2e
   - index
-status: "Entwurf"
+draft: false
 verwandte_notizen: []
 quellen: []
 erstellt: 2026-04-18

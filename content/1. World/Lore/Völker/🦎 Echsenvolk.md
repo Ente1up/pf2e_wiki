@@ -9,7 +9,7 @@ tags:
   - echsenvolk
   - iruxi
 erstellt: 2026-04-16
-status: "Entwurf"
+draft: false
 verwandte_notizen: []
 quellen: []
 ---

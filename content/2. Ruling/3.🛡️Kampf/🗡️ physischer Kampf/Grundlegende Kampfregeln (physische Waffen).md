@@ -8,7 +8,7 @@ tags:
   - waffen
   - regeln
   - grundlagen
-status: "Entwurf"
+draft: false
 verwandte_notizen:
   - "Aktionen & Aktionssymbole"
   - "Trefferchance & Rüstungsklasse"

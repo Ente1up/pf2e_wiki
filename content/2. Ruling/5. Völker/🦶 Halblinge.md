@@ -7,7 +7,7 @@ tags:
   - ancestry
   - halblinge
   - halfling
-status: Entwurf
+draft: false
 verwandte_notizen:
   - Völker – Übersicht
   - Charaktererstellung

@@ -11,7 +11,7 @@ tags:
   - rache
   - trickery
   - lust
-status: Entwurf
+draft: false
 verwandte_notizen:
   - "🧝 Lore - Elfen"
   - "👑 Person - Telandia Edasseril"

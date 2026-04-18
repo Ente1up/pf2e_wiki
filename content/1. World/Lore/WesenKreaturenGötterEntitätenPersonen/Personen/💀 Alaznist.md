@@ -12,7 +12,7 @@ tags:
   - thassilon
   - historisch
   - warnung
-status: Entwurf
+draft: false
 verwandte_notizen:
   - "🧝 Lore - Elfen"
   - "🌍 Der Starfall"
