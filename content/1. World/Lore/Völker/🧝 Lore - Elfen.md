@@ -29,20 +29,20 @@ Der Massenexodus der Elfen nach **Sovyrian** ist bis heute eines der rätselhaft
 
 Nach dem Starfall kehrten die Elfen langsam zurück. Sie fanden eine veränderte Welt vor: Menschen dominierten, ihre alten Städte lagen in Trümmern, und die Verbindung zur Natur hatte sich verändert. Die Rückkehr ist ein andauernder, schmerzlicher Prozess.
 
-> Mehr zur Geschichte des Starfalls → [[🌍 Globales Event - Der Starfall]]
-> Mehr zu Sovyrian → [[🌐 Ort - Sovyrian]]
+> Mehr zur Geschichte des Starfalls → [[🌍 Der Starfall]]
+> Mehr zu Sovyrian → [[🌐 Sovyrian]]
 
 ---
 
 ## 🏛️ Kulturen & Nationen
 
-**Kyonin** – Das einzige echte elfische Königreich in Avistan. Abgeschirmt von einem mystischen Wald, regiert von Königin Telandia Edasseril. Nur wenige Nicht-Elfen werden eingelassen. → [[🏙️ Ort - Kyonin]]
+**Kyonin** – Das einzige echte elfische Königreich in Avistan. Abgeschirmt von einem mystischen Wald, regiert von Königin Telandia Edasseril. Nur wenige Nicht-Elfen werden eingelassen. → [[🏙️ Kyonin]]
 
 **Wildnis-Elfen** – Elfen die nie nach Sovyrian gingen und in den Wäldern Golarions lebten. Sie sind naturverbundener, misstrauischer und oft spiritueller als ihre Kyonin-Verwandten.
 
 **Stadtleben-Elfen** – Viele Elfen leben in menschlichen Städten, oft als Gelehrte, Magier oder Händler. Sie passen sich an, behalten aber immer eine gewisse Distanz.
 
-**Ekujae** – Ein stolzer Elfenstamm der Mwangi-Expanse der nie nach Sovyrian ging. Sie haben eine eigenständige Kultur entwickelt die sich stark von anderen Elfen unterscheidet. → [[🌿 Ort - Mwangi Expanse]]
+**Ekujae** – Ein stolzer Elfenstamm der Mwangi-Expanse der nie nach Sovyrian ging. Sie haben eine eigenständige Kultur entwickelt die sich stark von anderen Elfen unterscheidet. → [[🌿 Mwangi Expanse]]
 
 ---
 
@@ -71,9 +71,9 @@ Elfische Namen klingen fließend und haben oft mehrere Silben:
 
 ## 🏆 Bekannte Persönlichkeiten
 
-- **Telandia Edasseril** – Königin von Kyonin, eine der mächtigsten elfischen Herrscherinnen der Gegenwart → [[👑 Person - Telandia Edasseril]]
-- **Merisiel** – Elfen-Schurkin und Ikone des Abenteurertums → [[👤 Person - Merisiel]]
-- **Alaznist** – Runenlord aus Azlantischer Zeit, ein Mahnmal elfischer Hybris → [[💀 Person - Alaznist]]
+- **Telandia Edasseril** – Königin von Kyonin, eine der mächtigsten elfischen Herrscherinnen der Gegenwart → [[👑 Telandia Edasseril]]
+- **Merisiel** – Elfen-Schurkin und Ikone des Abenteurertums → [[👤 Merisiel]]
+- **Alaznist** – Runenlord aus Azlantischer Zeit, ein Mahnmal elfischer Hybris → [[💀 Alaznist]]
 
 ---
 
@@ -98,3 +98,16 @@ Diese Eigenheit macht Elfen zu exzellenten Nachtwachen und erklärt teilweise ih
 ## 💡 Warum Elf spielen?
 
 Elfen bieten eine einzigartige Perspektive: **Ein Charakter der die Welt als langen, langsamen Fluss sieht** statt als schnelle Abfolge von Ereignissen. Mechanisch profitieren sie von hoher DEX und INT, ihrer Geschwindigkeit und Low-Light Vision. Narrativ bieten sie die Möglichkeit Verbindungen zu weit zurückliegenden Ereignissen zu haben – dein Elf könnte die alten Ruinen noch aus eigener Erinnerung kennen.
+
+---
+
+## 🔗 Verwandte Themen
+
+- [[Ancestry-Elfen]] – Stats der Elfen
+- [[🌍 Der Starfall]] – Das Ereignis das die elfische Geschichte spaltete
+- [[🌐 Sovyrian]] – Die Heimat des Exils
+- [[🏙️ Kyonin]] – Das elfische Königreich in Avistan
+- [[👑 Telandia Edasseril]] – Königin von Kyonin
+- [[👤 Merisiel]] – Ikonische Elfen-Schurkin
+- [[🌙 Calistria]] – Die Hauptgottheit der Elfen
+- [[📅 Feiertag - Remembrance Moon]] – Das jährliche Gedenken an Exil und Rückkehr

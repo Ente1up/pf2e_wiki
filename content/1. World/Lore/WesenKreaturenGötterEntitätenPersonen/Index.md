@@ -24,6 +24,7 @@ Dieser Ordner sammelt alle Einträge zu konkreten Charakteren, Wesen und Mächte
 | Name | Domäne | Note |
 |------|--------|------|
 | Torag | Handwerk, Schutz, Zwerge | [[⛪ Torag]] |
+| Calistria | Rache, Begehren, Tücke, Elfen | [[🌙 Calistria]] |
 
 ---
 
@@ -33,6 +34,9 @@ Dieser Ordner sammelt alle Einträge zu konkreten Charakteren, Wesen und Mächte
 |------|------|-------|------|
 | Harsk | Zwerg | Ranger, Ikone | [[👤 Harsk]] |
 | Borogrim der Schwere | Zwerg | Historischer Anführer | [[👑 Borogrim der Schwere]] |
+| Telandia Edasseril | Elf | Königin von Kyonin | [[👑 Telandia Edasseril]] |
+| Merisiel | Elf | Schurkin, Ikone | [[👤 Merisiel]] |
+| Alaznist | Elf | Runelord der Wut, historisch | [[💀 Alaznist]] |
 
 ---
 
@@ -51,3 +55,4 @@ Dieser Ordner sammelt alle Einträge zu konkreten Charakteren, Wesen und Mächte
 ## 🔗 Verwandte Themen
 
 - [[⛏️ Lore - Zwerge]]
+- [[🧝 Lore - Elfen]]

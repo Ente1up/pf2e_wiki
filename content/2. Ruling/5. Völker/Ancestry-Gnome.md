@@ -107,3 +107,4 @@ Das **Bleaching** ist ein gnomisches Phänomen:
 - [[Völker – Übersicht]] – Alle spielbaren Ancestries
 - [[Charaktererstellung]] – Ancestry im Build-Prozess
 - [[Attribute & Level System]] – Attribut-Boosts erklärt
+- [[🌈 Lore - Gnome]] – Tiefere Lore zum Gnomenvolk

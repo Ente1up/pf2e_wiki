@@ -66,7 +66,7 @@ Gnomische Namen sind oft lang, fließend und voller unerwarteter Silben:
 ## 🏆 Bekannte Persönlichkeiten
 
 - **Jubilost Narthropple** – Berühmter gnomischer Entdecker und Kartograph → [[👤 Person - Jubilost Narthropple]]
-- **Felu** – Gnomische Alchemistin bekannt für ihre explosiven Experimente → [[👤 Person - Felu]]
+- **Felu** – Gnomische Alchemistin bekannt für ihre explosiven Experimente → [[👤 Felu]]
 
 ---
 
