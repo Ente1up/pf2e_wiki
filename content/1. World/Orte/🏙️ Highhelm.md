@@ -3,6 +3,7 @@ title: "🏙️ Highhelm"
 system: "Pathfinder 2e"
 kategorie: "Lore/Orte"
 tags:
+  - pf2e
   - lore
   - ort
   - highhelm
@@ -76,7 +77,7 @@ Die fünf Clans konkurrieren intern um Einfluss, präsentieren nach außen aber 
 
 ## 🔗 Verwandte Themen
 
-- [[⛏️ Lore - Zwerge]] – Das Zwergenvolk
+- [[⛏️ Zwerge]] – Das Zwergenvolk
 - [[📜 Der Lange Marsch der Zwerge]] – Die Geschichte die Highhelm erst möglich machte
 - [[⛪ Torag]] – Hauptgottheit, zentral für die Stadt
 - [[🏚️ Tar Taargadth]] – Das alte unterirdische Reich im Vergleich

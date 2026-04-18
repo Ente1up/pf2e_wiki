@@ -3,6 +3,7 @@ title: 👤 Harsk
 system: Pathfinder 2e
 kategorie: Lore/Personen
 tags:
+  - pf2e
   - lore
   - person
   - harsk
@@ -81,6 +82,6 @@ Als Iconic ist Harsk eine nützliche Referenz für zwergische Ranger-Charaktere.
 
 ## 🔗 Verwandte Themen
 
-- [[Lore_Zwerge]] – Das Zwergenvolk
+- [[⛏️ Zwerge]] – Das Zwergenvolk
 - [[⛪ Torag]] – Harsks Gottheit
-- [[⛏️ Ancestry-Zwerge]] – Mechanische Grundlage
+- [[⛏️ Zwerge]] – Mechanische Grundlage

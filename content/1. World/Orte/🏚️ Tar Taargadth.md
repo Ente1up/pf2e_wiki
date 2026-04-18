@@ -3,6 +3,7 @@ title: "🏚️ Tar Taargadth"
 system: "Pathfinder 2e"
 kategorie: "Lore/Orte"
 tags:
+  - pf2e
   - lore
   - ort
   - tar-taargadth
@@ -75,7 +76,7 @@ Tar Taargadth ist noch traditioneller als Highhelm – hier haben Jahrtausende I
 
 ## 🔗 Verwandte Themen
 
-- [[⛏️ Lore - Zwerge]] – Das Zwergenvolk
+- [[⛏️ Zwerge]] – Das Zwergenvolk
 - [[🕳️ Darklands]] – Die Unterwelt in der Tar Taargadth liegt
 - [[📜 Der Lange Marsch der Zwerge]] – Warum ein Teil des Volkes zurückblieb
 - [[🏙️ Highhelm]] – Das Oberflächengegenstück

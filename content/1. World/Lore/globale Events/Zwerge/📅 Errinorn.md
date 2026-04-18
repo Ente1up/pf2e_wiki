@@ -3,6 +3,7 @@ title: "📅 Errinorn"
 system: "Pathfinder 2e"
 kategorie: "Lore/Feiertage"
 tags:
+  - pf2e
   - lore
   - feiertag
   - tradition
@@ -70,7 +71,7 @@ Die richtige Reaktion: Schweigen, zuhören, die Namen-Verlesung respektieren. We
 
 ## 🔗 Verwandte Themen
 
-- [[⛏️ Lore - Zwerge]] – Das Zwergenvolk
+- [[⛏️ Zwerge]] – Das Zwergenvolk
 - [[📜 Der Lange Marsch der Zwerge]] – Das Ereignis das Errinorn gedenkt
 - [[👑 Borogrim der Schwere]] – Zentralfigur der Errinorn-Geschichten
 - [[⛪ Torag]] – Die Gottheit zu deren Ehren das Nachtfeuer brennt

@@ -37,27 +37,27 @@ Die **Ancestry** (Abstammung) ist einer der drei Grundpfeiler der Charaktererste
 
 | Ancestry     | Größe  | HP  | Besonderheit                     | Link                         |
 | ------------ | ------ | --- | -------------------------------- | ---------------------------- |
-| 👤 Menschen  | Medium | 8   | Bonus-Feat, flexibelste Ancestry | [[12. 👤 Ancestry-Menschen]] |
-| 🧝 Elfen     | Medium | 6   | 30 Fuß Speed, Low-Light Vision   | [[4. 🧝 Ancestry-Elfen]]     |
-| ⛏️ Zwerge    | Medium | 10  | Darkvision, Clan Dagger          | [[17. ⛏️ Ancestry-Zwerge]]   |
-| 🌈 Gnome     | Small  | 8   | Fey-Verbindung, Low-Light Vision | [[5. 🌈 Ancestry-Gnome]]     |
-| 🦶 Halblinge | Small  | 6   | Keen Eyes, Halfling Luck         | [[8. 🦶 Ancestry-Halblinge]] |
-| 👺 Goblin    | Small  | 6   | Darkvision, Goblin Scuttle       | [[6. 👺 Ancestry-Goblin]]    |
+| 👤 Menschen  | Medium | 8   | Bonus-Feat, flexibelste Ancestry | [[👤 Menschen]]  |
+| 🧝 Elfen     | Medium | 6   | 30 Fuß Speed, Low-Light Vision   | [[🧝 Elfen]]     |
+| ⛏️ Zwerge    | Medium | 10  | Darkvision, Clan Dagger          | [[⛏️ Zwerge]]    |
+| 🌈 Gnome     | Small  | 8   | Fey-Verbindung, Low-Light Vision | [[🌈 Gnome]]     |
+| 🦶 Halblinge | Small  | 6   | Keen Eyes, Halfling Luck         | [[🦶 Halblinge]] |
+| 👺 Goblin    | Small  | 6   | Darkvision, Goblin Scuttle       | [[👺 Goblin]]    |
 
 ### Player Core 2
 
 | Ancestry      | Größe  | HP  | Besonderheit                         | Link                           |
 | ------------- | ------ | --- | ------------------------------------ | ------------------------------ |
-| 🌱 Leshy      | Small  | 8   | Lebende Pflanze, Sonnenlicht-Heilung | [[11. 🌱 Ancestry-Leshy]]      |
-| 🐱 Catfolk    | Medium | 8   | Low-Light Vision, Cat Fall           | [[2. 🐱 Ancestry-Katzenvolk]]  |
-| 🐦 Tengu      | Medium | 6   | Sprachtalent, Schnabel-Angriff       | [[16. 🐦 Ancestry-Tengu]]      |
-| ⚔️ Hobgoblin  | Medium | 8   | Darkvision, militärische Ausbildung  | [[9. ⚔️ Ancestry-Hobgoblin]]   |
-| 🐉 Kobold     | Small  | 6   | Darkvision, Draconic Exemplar        | [[10. 🐉 Ancestry-Kobold]]     |
-| 💪 Ork        | Medium | 10  | Darkvision, Ferocity                 | [[13. 💪 Ancestry-Ork]]        |
-| 🐀 Ratfolk    | Small  | 6   | Darkvision, Cheek Pouches            | [[14. 🐀 Ancestry-Rattenvolk]] |
-| 🦎 Echsenvolk | Medium | 8   | Klauen, Schwimmen                    | [[3. 🦎 Ancestry-Echsenvolk]]  |
-| 🐶 Shoony     | Small  | 6   | Biss-Angriff, Gemeinschaftsfokus     | [[15. 🐶 Ancestry-Shoony]]     |
-| 🐸 Grippli    | Small  | 6   | Klettern, Giftaffinität              | [[7. 🐸 Ancestry-Grippli]]     |
+| 🌱 Leshy      | Small  | 8   | Lebende Pflanze, Sonnenlicht-Heilung | [[🌱 Leshy]]      |
+| 🐱 Catfolk    | Medium | 8   | Low-Light Vision, Cat Fall           | [[🐱 Katzenvolk]] |
+| 🐦 Tengu      | Medium | 6   | Sprachtalent, Schnabel-Angriff       | [[🐦 Tengu]]      |
+| ⚔️ Hobgoblin  | Medium | 8   | Darkvision, militärische Ausbildung  | [[⚔️ Hobgoblin]]  |
+| 🐉 Kobold     | Small  | 6   | Darkvision, Draconic Exemplar        | [[🐉 Kobold]]     |
+| 💪 Ork        | Medium | 10  | Darkvision, Ferocity                 | [[💪 Ork]]        |
+| 🐀 Ratfolk    | Small  | 6   | Darkvision, Cheek Pouches            | [[🐀 Rattenvolk]] |
+| 🦎 Echsenvolk | Medium | 8   | Klauen, Schwimmen                    | [[🦎 Echsenvolk]] |
+| 🐶 Shoony     | Small  | 6   | Biss-Angriff, Gemeinschaftsfokus     | [[🐶 Shoony]]     |
+| 🐸 Grippli    | Small  | 6   | Klettern, Giftaffinität              | [[🐸 Grippli]]    |
 
 ---
 

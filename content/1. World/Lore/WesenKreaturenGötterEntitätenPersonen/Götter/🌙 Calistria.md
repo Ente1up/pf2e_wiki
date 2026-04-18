@@ -3,6 +3,7 @@ title: "🌙 Calistria"
 system: "Pathfinder 2e"
 kategorie: "Lore/Götter"
 tags:
+  - pf2e
   - lore
   - gottheit
   - calistria
@@ -105,7 +106,7 @@ Als Göttin der Täuschung lehrt sie: **Manchmal ist Intelligenz das einzige Wer
 
 ## 🔗 Verwandte Themen
 
-- [[🧝 Lore - Elfen]] – Das Elfenvolk
-- [[👑 Person - Telandia Edasseril]] – Kyonins Königin, Calistria-Devotee
-- [[👤 Person - Merisiel]] – Ikonische Calistria-Anhängerin
-- [[🏙️ Ort - Kyonin]] – Haupttempel in Iadara
+- [[🧝 Elfen]] – Das Elfenvolk
+- [[👑 Telandia Edasseril]] – Kyonins Königin, Calistria-Devotee
+- [[👤 Merisiel]] – Ikonische Calistria-Anhängerin
+- [[🏙️ Kyonin]] – Haupttempel in Iadara

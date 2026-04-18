@@ -3,6 +3,7 @@ title: "🏙️ Kyonin"
 system: "Pathfinder 2e"
 kategorie: "Lore/Orte"
 tags:
+  - pf2e
   - lore
   - ort
   - kyonin
@@ -39,7 +40,7 @@ Kyonin ist kein offenes Land. Es ist ein **bewusst abgeschirmtes Refugium** – 
 | **Typ** | Elfisches Königreich |
 | **Größe** | Mittelgroßes Königreich |
 | **Hauptstadt** | Iadara |
-| **Herrscherin** | Königin [[👑 Person - Telandia Edasseril]] |
+| **Herrscherin** | Königin [[👑 Telandia Edasseril]] |
 | **Gottheit** | [[🌙 Calistria]] (Haupttempel), verschiedene weitere |
 | **Zugang** | Streng reglementiert; Nicht-Elfen nur auf Einladung |
 
@@ -65,7 +66,7 @@ Für Nicht-Elfen die Iadara sehen dürfen ist es ein überwältigender Anblick �
 
 ## 👑 Politik & Gesellschaft
 
-Kyonin wird von einer **Monarchie** geführt – aber einer elfischen. Entscheidungen werden über Jahrhunderte diskutiert. Königin **Telandia Edasseril** regiert seit Jahrhunderten mit einem Mix aus Weisheit und harter Hand wenn nötig. → [[👑 Person - Telandia Edasseril]]
+Kyonin wird von einer **Monarchie** geführt – aber einer elfischen. Entscheidungen werden über Jahrhunderte diskutiert. Königin **Telandia Edasseril** regiert seit Jahrhunderten mit einem Mix aus Weisheit und harter Hand wenn nötig. → [[👑 Telandia Edasseril]]
 
 Kyonin hat drei große politische Probleme die immer wieder auftauchen:
 
@@ -89,8 +90,8 @@ Kyonin hat keine stehende Armee im menschlichen Sinne. Stattdessen:
 
 ## 🔗 Verwandte Themen
 
-- [[🧝 Lore - Elfen]] – Das Elfenvolk
-- [[🌐 Ort - Sovyrian]] – Die Heimat des Exils
-- [[👑 Person - Telandia Edasseril]] – Die Königin
+- [[🧝 Elfen]] – Das Elfenvolk
+- [[🌐 Sovyrian]] – Die Heimat des Exils
+- [[👑 Telandia Edasseril]] – Die Königin
 - [[🌍 Der Starfall]] – Warum die Elfen zurückkehrten und Kyonin gründeten
 - [[🌙 Calistria]] – Wichtigste Gottheit in Kyonin

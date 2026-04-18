@@ -1,7 +1,7 @@
 ---
-title: "Grundlegende Kampfregeln (Magie)"
-system: "Pathfinder 2e"
-kategorie: "Kampf"
+title: Grundlegende Kampfregeln (Magie)
+system: Pathfinder 2e
+kategorie: Kampf
 tags:
   - pf2e
   - kampf
@@ -9,18 +9,18 @@ tags:
   - zauber
   - regeln
   - grundlagen
-status: "Entwurf"
+status: Entwurf
 verwandte_notizen:
-  - "Grundlegende Kampfregeln (Physische Waffen)"
-  - "Aktionen & Aktionssymbole"
-  - "Zauberschulen & Traditionen"
-  - "Schadenstypen & Resistenzen"
-  - "Zauberslots & Vorbereitung"
-  - "Konzentration & Fokuszauber"
-  - "Rettungswürfe"
+  - Grundlegende Kampfregeln (Physische Waffen)
+  - Aktionen & Aktionssymbole
+  - Zauberschulen & Traditionen
+  - Schadenstypen & Resistenzen
+  - Zauberslots & Vorbereitung
+  - Konzentration & Fokuszauber
+  - Rettungswürfe
 quellen:
-  - "Player Core (Seite 298 ff.)"
-  - "GM Core"
+  - Player Core (Seite 298 ff.)
+  - GM Core
 erstellt: 2026-03-09
 ---
 

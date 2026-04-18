@@ -3,6 +3,7 @@ title: 📜 Der Lange Marsch der Zwerge
 system: Pathfinder 2e
 kategorie: Lore/Geschichte
 tags:
+  - pf2e
   - lore
   - geschichte
   - zwerge
@@ -92,9 +93,9 @@ Die Zwerge fanden eine Welt im Chaos vor – aber sie hatten das Schlimmste bere
 
 ## 🔗 Verwandte Themen
 
-- [[⛏️ Lore - Zwerge]] – Das Zwergenvolk im Überblick
-- [[🕳️ Ort - Darklands]] – Die Unterwelt aus der sie kamen
-- [[🏚️ Ort - Tar Taargadth]] – Das alte zwergische Unterreich
-- [[👑 Person - Borogrim der Schwere]] – Legendärer Anführer des Marsches
-- [[📅 Feiertag - Errinorn]] – Das jährliche Gedenken
+- [[⛏️ Zwerge]] – Das Zwergenvolk im Überblick
+- [[🕳️ Darklands]] – Die Unterwelt aus der sie kamen
+- [[🏚️ Tar Taargadth]] – Das alte zwergische Unterreich
+- [[👑 Borogrim der Schwere]] – Legendärer Anführer des Marsches
+- [[📅 Errinorn]] – Das jährliche Gedenken
 - [[⛪ Torag]] – Die Gottheit die den Marsch führte

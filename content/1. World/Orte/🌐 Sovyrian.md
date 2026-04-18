@@ -3,6 +3,7 @@ title: "🌐 Sovyrian"
 system: "Pathfinder 2e"
 kategorie: "Lore/Orte"
 tags:
+  - pf2e
   - lore
   - ort
   - sovyrian
@@ -91,7 +92,7 @@ Diese Spaltung erklärt warum manche Elfen auf Golarion einen Hauch von Schuldge
 
 ## 🔗 Verwandte Themen
 
-- [[🧝 Lore - Elfen]] – Das Elfenvolk
+- [[🧝 Elfen]] – Das Elfenvolk
 - [[🌍 Der Starfall]] – Der Grund des Exils
-- [[🏙️ Ort - Kyonin]] – Die Heimkehr-Nation auf Golarion
-- [[📅 Feiertag - Remembrance Moon]] – Das Gedenken an Exil und Rückkehr
+- [[🏙️ Kyonin]] – Die Heimkehr-Nation auf Golarion
+- [[📅 Remembrance Moon]] – Das Gedenken an Exil und Rückkehr

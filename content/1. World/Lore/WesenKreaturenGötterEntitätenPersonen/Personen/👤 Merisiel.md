@@ -3,6 +3,7 @@ title: "👤 Merisiel"
 system: "Pathfinder 2e"
 kategorie: "Lore/Personen"
 tags:
+  - pf2e
   - lore
   - person
   - merisiel
@@ -86,6 +87,6 @@ Merisiel ist ein gutes Referenzmodell für Elfen-SCs die:
 
 ## 🔗 Verwandte Themen
 
-- [[🧝 Lore - Elfen]] – Das Elfenvolk
+- [[🧝 Elfen]] – Das Elfenvolk
 - [[🌙 Calistria]] – Merisiels Gottheit
-- [[🏙️ Ort - Kyonin]] – Das elfische Königreich das sie bewusst mied
+- [[🏙️ Kyonin]] – Das elfische Königreich das sie bewusst mied

@@ -1,5 +1,14 @@
 ---
-title: PF2e Wiki
+title: "PF2e Wiki"
+system: "Pathfinder 2e"
+kategorie: "Index"
+tags:
+  - pf2e
+  - index
+status: "Entwurf"
+verwandte_notizen: []
+quellen: []
+erstellt: 2026-04-18
 ---
 
 # Willkommen im PF2e Wiki

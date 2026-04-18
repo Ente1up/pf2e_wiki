@@ -3,6 +3,7 @@ title: 👤 Felu
 system: Pathfinder 2e
 kategorie: Lore/Personen
 tags:
+  - pf2e
   - lore
   - person
   - gnome
@@ -69,5 +70,5 @@ Felu ist:
 
 ## 🔗 Verwandte Themen
 
-- [[🌈 Lore - Gnome]] – Das Gnomenvolk
-- [[🌈 Ancestry-Gnome]] – Mechanische Grundlage
+- [[🌈 Gnome]] – Das Gnomenvolk
+- [[🌈 Gnome]] – Mechanische Grundlage

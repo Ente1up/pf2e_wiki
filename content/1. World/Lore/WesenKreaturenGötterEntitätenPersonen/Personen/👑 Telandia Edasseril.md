@@ -3,6 +3,7 @@ title: "👑 Telandia Edasseril"
 system: "Pathfinder 2e"
 kategorie: "Lore/Personen"
 tags:
+  - pf2e
   - lore
   - person
   - telandia-edasseril
@@ -96,7 +97,7 @@ Wenn sie spricht, ist jedes Wort gewählt. Wenn sie eine Bitte ablehnt, ist das 
 
 ## 🔗 Verwandte Themen
 
-- [[🧝 Lore - Elfen]] – Das Elfenvolk
-- [[🏙️ Ort - Kyonin]] – Ihr Königreich
+- [[🧝 Elfen]] – Das Elfenvolk
+- [[🏙️ Kyonin]] – Ihr Königreich
 - [[🌙 Calistria]] – Ihre Gottheit
-- [[📅 Feiertag - Remembrance Moon]] – Telandia spricht traditionell beim Ritual
+- [[📅 Remembrance Moon]] – Telandia spricht traditionell beim Ritual

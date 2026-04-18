@@ -3,6 +3,7 @@ title: "🕳️ Darklands"
 system: "Pathfinder 2e"
 kategorie: "Lore/Orte"
 tags:
+  - pf2e
   - lore
   - ort
   - darklands
@@ -76,7 +77,7 @@ Zwergische Festungen an der Oberfläche haben fast immer **versiegelte Tiefzugä
 
 ## 🔗 Verwandte Themen
 
-- [[⛏️ Lore - Zwerge]] – Das Volk das aus den Darklands kam
+- [[⛏️ Zwerge]] – Das Volk das aus den Darklands kam
 - [[📜 Der Lange Marsch der Zwerge]] – Der Exodus nach oben
 - [[🏚️ Tar Taargadth]] – Das alte zwergische Reich in den Darklands
-- [[👺 Lore - Goblins]] – Bewohner der oberen Darklands
+- [[👺 Goblin]] – Bewohner der oberen Darklands

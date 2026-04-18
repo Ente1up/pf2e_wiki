@@ -3,6 +3,7 @@ title: "📅 Clan-Moot"
 system: "Pathfinder 2e"
 kategorie: "Lore/Traditionen"
 tags:
+  - pf2e
   - lore
   - tradition
   - zwerge
@@ -80,7 +81,7 @@ In Krisenzeiten kann ein **außerordentlicher Moot** einberufen werden – ohne 
 
 ## 🔗 Verwandte Themen
 
-- [[⛏️ Lore - Zwerge]] – Das Zwergenvolk
+- [[⛏️ Zwerge]] – Das Zwergenvolk
 - [[🏙️ Highhelm]] – Traditioneller Veranstaltungsort
 - [[⛪ Torag]] – Göttliche Schirmherrschaft des Moots
 - [[📅 Errinorn]] – Der andere große zwergische Gedenktag

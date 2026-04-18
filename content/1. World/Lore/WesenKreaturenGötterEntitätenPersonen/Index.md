@@ -3,6 +3,7 @@ title: "Index – Wesen, Kreaturen, Götter, Entitäten & Personen"
 system: "Pathfinder 2e"
 kategorie: "Lore/Index"
 tags:
+  - pf2e
   - index
   - lore
   - götter
@@ -11,6 +12,8 @@ tags:
   - wesen
 status: Entwurf
 erstellt: 2026-04-17
+verwandte_notizen: []
+quellen: []
 ---
 
 # 🗂️ Index: Wesen, Kreaturen, Götter, Entitäten & Personen
@@ -54,5 +57,5 @@ Dieser Ordner sammelt alle Einträge zu konkreten Charakteren, Wesen und Mächte
 
 ## 🔗 Verwandte Themen
 
-- [[⛏️ Lore - Zwerge]]
-- [[🧝 Lore - Elfen]]
+- [[⛏️ Zwerge]]
+- [[🧝 Elfen]]

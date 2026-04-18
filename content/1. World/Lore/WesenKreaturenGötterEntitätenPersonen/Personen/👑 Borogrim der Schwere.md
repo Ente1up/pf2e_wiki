@@ -3,6 +3,7 @@ title: 👑 Borogrim der Schwere
 system: Pathfinder 2e
 kategorie: Lore/Personen
 tags:
+  - pf2e
   - lore
   - person
   - borogrim
@@ -97,7 +98,7 @@ Als historische Figur taucht Borogrim nicht physisch in einer Kampagne auf – a
 
 ## 🔗 Verwandte Themen
 
-- [[⛏️ Lore - Zwerge]] – Das Zwergenvolk
+- [[⛏️ Zwerge]] – Das Zwergenvolk
 - [[📜 Der Lange Marsch der Zwerge]] – Das Ereignis das ihn definierte
 - [[⛪ Torag]] – Borograims Gottheit
-- [[📅 Feiertag - Errinorn]] – Das Fest in dem er geehrt wird
+- [[📅 Errinorn]] – Das Fest in dem er geehrt wird

@@ -3,6 +3,7 @@ title: "🌿 Mwangi Expanse"
 system: "Pathfinder 2e"
 kategorie: "Lore/Orte"
 tags:
+  - pf2e
   - lore
   - ort
   - mwangi-expanse
@@ -92,5 +93,5 @@ Die Mwangi Expanse ist ein Schauplatz für:
 
 ## 🔗 Verwandte Themen
 
-- [[🧝 Lore - Elfen]] – Das Elfenvolk, inkl. Ekujae
+- [[🧝 Elfen]] – Das Elfenvolk, inkl. Ekujae
 - [[🌍 Der Starfall]] – Das Ereignis das die Ekujae-Elfen durchlebten ohne zu fliehen

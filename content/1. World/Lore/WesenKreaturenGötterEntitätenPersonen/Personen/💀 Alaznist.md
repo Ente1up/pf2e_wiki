@@ -3,6 +3,7 @@ title: "💀 Alaznist"
 system: "Pathfinder 2e"
 kategorie: "Lore/Personen"
 tags:
+  - pf2e
   - lore
   - person
   - alaznist
@@ -93,5 +94,5 @@ Als historische Figur taucht Alaznist nicht direkt auf – aber ihre Schatten li
 
 ## 🔗 Verwandte Themen
 
-- [[🧝 Lore - Elfen]] – Das Elfenvolk und seine Geschichte
+- [[🧝 Elfen]] – Das Elfenvolk und seine Geschichte
 - [[🌍 Der Starfall]] – Das Ereignis das Thassilon beendete

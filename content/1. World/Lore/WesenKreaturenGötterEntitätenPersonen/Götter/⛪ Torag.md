@@ -3,6 +3,7 @@ title: ⛪ Torag
 system: Pathfinder 2e
 kategorie: Lore/Götter
 tags:
+  - pf2e
   - lore
   - gottheit
   - torag
@@ -100,6 +101,6 @@ Torags Kleriker sind deshalb oft ebenso gute Strategen wie Kämpfer.
 
 ## 🔗 Verwandte Themen
 
-- [[⛏️ Lore - Zwerge]] – Das Zwergenvolk
+- [[⛏️ Zwerge]] – Das Zwergenvolk
 - [[📜 Der Lange Marsch der Zwerge]] – Torags Rolle im Exodus
 - [[👤 Harsk]] – Bekannter zwergischer Torag-Verehrer

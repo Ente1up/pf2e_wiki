@@ -3,6 +3,7 @@ title: "🌍 Der Starfall"
 system: "Pathfinder 2e"
 kategorie: "Lore/Geschichte"
 tags:
+  - pf2e
   - lore
   - geschichte
   - elfen
@@ -103,8 +104,8 @@ Ein elfischer Charakter der alt genug ist könnte den **Exodus selbst erlebt** h
 
 ## 🔗 Verwandte Themen
 
-- [[🧝 Lore - Elfen]] – Das Elfenvolk im Überblick
-- [[🌐 Ort - Sovyrian]] – Die elfische Heimat im Exil
-- [[🏙️ Ort - Kyonin]] – Das heutige elfische Königreich
-- [[📅 Feiertag - Remembrance Moon]] – Das jährliche Gedenken an Exodus und Rückkehr
+- [[🧝 Elfen]] – Das Elfenvolk im Überblick
+- [[🌐 Sovyrian]] – Die elfische Heimat im Exil
+- [[🏙️ Kyonin]] – Das heutige elfische Königreich
+- [[📅 Remembrance Moon]] – Das jährliche Gedenken an Exodus und Rückkehr
 - [[📜 Der Lange Marsch der Zwerge]] – Wie derselbe Earthfall die Zwerge formte
