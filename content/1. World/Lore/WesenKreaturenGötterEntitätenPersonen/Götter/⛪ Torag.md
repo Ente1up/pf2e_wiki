@@ -11,7 +11,6 @@ tags:
   - dwarf
   - handwerk
   - schutz
-draft: false
 verwandte_notizen:
   - Lore_Zwerge
   - Geschichte - Der Lange Marsch der Zwerge

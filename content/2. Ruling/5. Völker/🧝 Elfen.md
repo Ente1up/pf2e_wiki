@@ -7,7 +7,6 @@ tags:
   - ancestry
   - elfen
   - elf
-draft: false
 verwandte_notizen:
   - Völker – Übersicht
   - Charaktererstellung

@@ -8,7 +8,6 @@ tags:
   - druid
   - spellcaster
   - primal
-draft: false
 verwandte_notizen:
   - Klassen – Übersicht
   - Klasse - Cleric

@@ -8,7 +8,6 @@ tags:
   - psychic
   - spellcaster
   - occult
-draft: false
 verwandte_notizen:
   - "Klassen – Übersicht"
   - "Klasse - Bard"

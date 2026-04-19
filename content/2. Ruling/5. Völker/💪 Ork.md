@@ -7,7 +7,6 @@ tags:
   - ancestry
   - ork
   - orc
-draft: false
 verwandte_notizen:
   - Völker – Übersicht
   - Charaktererstellung

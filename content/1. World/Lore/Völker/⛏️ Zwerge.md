@@ -10,7 +10,6 @@ tags:
   - dwarf
 erstellt: 2026-04-16
 verwandte_notizen: []
-draft: false
 quellen: []
 ---
 

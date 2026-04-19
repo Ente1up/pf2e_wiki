@@ -11,7 +11,6 @@ tags:
   - kyonin
   - monarchin
   - lebendig
-draft: false
 verwandte_notizen:
   - "🧝 Lore - Elfen"
   - "🏙️ Ort - Kyonin"

@@ -11,7 +11,6 @@ tags:
   - narthropple
   - entdecker
   - kartograph
-draft: false
 verwandte_notizen:
   - "🌈 Lore - Gnome"
   - "🌈 Ancestry-Gnome"

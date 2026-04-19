@@ -10,7 +10,6 @@ tags:
   - elfen
   - koenigreich
   - avistan
-draft: false
 verwandte_notizen:
   - "🧝 Lore - Elfen"
   - "🌐 Ort - Sovyrian"

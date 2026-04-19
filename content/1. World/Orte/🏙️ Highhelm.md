@@ -10,7 +10,6 @@ tags:
   - zwerge
   - five-kings-mountains
   - stadt
-draft: false
 verwandte_notizen:
   - "⛏️ Lore - Zwerge"
   - "📜 Der Lange Marsch der Zwerge"

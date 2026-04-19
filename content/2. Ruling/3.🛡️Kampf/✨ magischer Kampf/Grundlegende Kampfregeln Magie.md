@@ -9,7 +9,6 @@ tags:
   - zauber
   - regeln
   - grundlagen
-draft: false
 verwandte_notizen:
   - Grundlegende Kampfregeln (Physische Waffen)
   - Aktionen & Aktionssymbole

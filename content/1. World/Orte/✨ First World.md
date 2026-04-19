@@ -10,7 +10,6 @@ tags:
   - feenreich
   - gnome
   - magie
-draft: false
 verwandte_notizen:
   - "🌈 Lore - Gnome"
   - "📜 Phänomen - Das Bleaching"

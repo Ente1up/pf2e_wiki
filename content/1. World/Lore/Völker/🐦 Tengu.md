@@ -7,7 +7,6 @@ tags:
   - lore
   - völker
   - tengu
-draft: false
 verwandte_notizen:
   - "🌏 Tian Xia"
   - "🏙️ Absalom"

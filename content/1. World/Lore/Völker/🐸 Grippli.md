@@ -7,7 +7,6 @@ tags:
   - lore
   - völker
   - grippli
-draft: false
 verwandte_notizen:
   - "🌿 Mwangi Expanse"
   - "🐸 Grippli"
@@ -19,9 +18,7 @@ erstellt: 2026-04-16
 
 # 🐸 Lore: Grippli
 
-> [!note] Bild
-> ![[attachments/grippli.png]]
-> *Datei `grippli.png` in den Ordner `attachments/` legen, dann wird sie hier gerendert.*
+![[Pasted image 20260419003706.png]]
 
 ## Wer sind die Grippli?
 

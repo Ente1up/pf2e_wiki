@@ -6,7 +6,6 @@ tags:
   - pf2e
   - ancestry
   - leshy
-draft: false
 verwandte_notizen:
   - Völker – Übersicht
   - Charaktererstellung

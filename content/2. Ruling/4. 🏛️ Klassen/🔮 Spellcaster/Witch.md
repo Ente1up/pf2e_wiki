@@ -11,7 +11,6 @@ tags:
   - divine
   - occult
   - primal
-draft: false
 verwandte_notizen:
   - Klassen – Übersicht
   - Klasse - Wizard

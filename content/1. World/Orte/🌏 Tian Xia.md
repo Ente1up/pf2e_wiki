@@ -8,7 +8,6 @@ tags:
   - orte
   - tian-xia
   - kontinent
-draft: false
 verwandte_notizen:
   - "🐦 Tengu"
   - "🐀 Rattenvolk"

@@ -8,7 +8,6 @@ tags:
   - orte
   - katapesh
   - garund
-draft: false
 verwandte_notizen:
   - "🐀 Rattenvolk"
 quellen:

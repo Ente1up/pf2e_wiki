@@ -11,7 +11,6 @@ tags:
   - schurkin
   - iconic
   - abenteurerin
-draft: false
 verwandte_notizen:
   - "🧝 Lore - Elfen"
   - "🌙 Calistria"

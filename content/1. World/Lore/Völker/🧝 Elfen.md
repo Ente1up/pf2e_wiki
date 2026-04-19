@@ -9,7 +9,6 @@ tags:
   - elfen
   - elf
 erstellt: 2026-04-16
-draft: false
 verwandte_notizen: []
 quellen: []
 ---

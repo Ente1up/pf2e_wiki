@@ -9,7 +9,6 @@ tags:
   - gnome
   - felu
   - alchemist
-draft: false
 verwandte_notizen:
   - 🌈 Lore - Gnome
   - 🌈 Ancestry-Gnome

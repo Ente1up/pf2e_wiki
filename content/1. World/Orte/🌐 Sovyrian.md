@@ -10,7 +10,6 @@ tags:
   - elfen
   - exil
   - elfenheimat
-draft: false
 verwandte_notizen:
   - "🧝 Lore - Elfen"
   - "🌍 Der Starfall"

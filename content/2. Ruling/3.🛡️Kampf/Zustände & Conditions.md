@@ -8,7 +8,6 @@ tags:
   - conditions
   - zustände
   - status
-draft: false
 verwandte_notizen:
   - "Grundlegende Kampfregeln (Physische Waffen)"
   - "Grundlegende Kampfregeln (Magie)"

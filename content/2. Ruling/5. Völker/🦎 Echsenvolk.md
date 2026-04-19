@@ -8,7 +8,6 @@ tags:
   - echsenvolk
   - lizardfolk
   - iruxi
-draft: false
 verwandte_notizen:
   - Völker – Übersicht
   - Charaktererstellung

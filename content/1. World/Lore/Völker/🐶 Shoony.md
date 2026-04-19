@@ -7,7 +7,6 @@ tags:
   - lore
   - völker
   - shoony
-draft: false
 verwandte_notizen:
   - "🐶 Shoony"
 quellen:
@@ -15,7 +14,6 @@ quellen:
   - "Lost Omens World Guide"
 erstellt: 2026-04-16
 ---
-
 # 🐶 Lore: Shoony
 
 ## Wer sind die Shoony?
@@ -25,6 +23,8 @@ Shoony sind ein **kleines, hundeähnliches Volk** bekannt für ihre außergewöh
 In einer Welt voller stolzer Krieger und mächtiger Magier sind Shoony eine Erinnerung daran, dass Stärke nicht immer laut sein muss. Ihre Gemeinschaften wirken auf Außenstehende rührend idyllisch – und sie *sind* es, zumeist. Doch hinter der Sanftmut steht eine zähe Überlebenskraft: Shoony haben Jahrhunderte der Unterdrückung überstanden, ohne ihre Identität zu verlieren.
 
 Körperlich sind Shoony **klein** (etwas größer als Halblinge), mit weichem, meist kurzem Fell in Braun-, Beige- und Grautönen. Ihre **Hängeohren, feuchten Nasen und ausdrucksstarken Augen** machen sie vielen Menschen sofort sympathisch – ein Umstand, den Shoony selbst oft mit leichter Ironie sehen.
+
+![[Pasted image 20260419003753.png]]
 
 ---
 

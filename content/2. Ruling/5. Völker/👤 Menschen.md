@@ -7,7 +7,6 @@ tags:
   - ancestry
   - menschen
   - human
-draft: false
 verwandte_notizen:
   - Völker – Übersicht
   - Charaktererstellung

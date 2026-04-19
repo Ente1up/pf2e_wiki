@@ -9,7 +9,6 @@ tags:
   - skill-feats
   - survival
   - charakterbau
-draft: false
 verwandte_notizen:
   - Feats & Talente – Übersicht
   - General Feats

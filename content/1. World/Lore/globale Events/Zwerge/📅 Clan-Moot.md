@@ -9,7 +9,6 @@ tags:
   - zwerge
   - clan-moot
   - politik
-draft: false
 verwandte_notizen:
   - "⛏️ Lore - Zwerge"
   - "🏙️ Highhelm"

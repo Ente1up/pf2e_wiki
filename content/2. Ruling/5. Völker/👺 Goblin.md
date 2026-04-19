@@ -6,7 +6,6 @@ tags:
   - pf2e
   - ancestry
   - goblin
-draft: false
 verwandte_notizen:
   - Völker – Übersicht
   - Charaktererstellung

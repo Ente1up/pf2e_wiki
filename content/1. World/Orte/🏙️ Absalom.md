@@ -8,7 +8,6 @@ tags:
   - orte
   - absalom
   - inner-sea
-draft: false
 verwandte_notizen:
   - "🐀 Rattenvolk"
 quellen:

@@ -8,7 +8,6 @@ tags:
   - cleric
   - spellcaster
   - divine
-draft: false
 verwandte_notizen:
   - Klassen – Übersicht
   - Klasse - Wizard

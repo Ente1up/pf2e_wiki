@@ -9,7 +9,6 @@ tags:
   - katzenvolk
   - catfolk
   - amurrun
-draft: false
 verwandte_notizen:
   - "🌿 Mwangi Expanse"
   - "🐱 Katzenvolk"

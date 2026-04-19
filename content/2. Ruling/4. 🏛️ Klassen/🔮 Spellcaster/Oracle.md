@@ -8,7 +8,6 @@ tags:
   - oracle
   - spellcaster
   - divine
-draft: false
 verwandte_notizen:
   - Klassen – Übersicht
   - Klasse - Cleric

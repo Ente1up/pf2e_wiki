@@ -9,7 +9,6 @@ tags:
   - tradition
   - gnome
   - grand-prank
-draft: false
 verwandte_notizen:
   - "🌈 Lore - Gnome"
   - "📜 Phänomen - Das Bleaching"

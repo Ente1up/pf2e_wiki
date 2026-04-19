@@ -7,7 +7,6 @@ tags:
   - ancestry
   - ratfolk
   - ysoki
-draft: false
 verwandte_notizen:
   - Völker – Übersicht
   - Charaktererstellung

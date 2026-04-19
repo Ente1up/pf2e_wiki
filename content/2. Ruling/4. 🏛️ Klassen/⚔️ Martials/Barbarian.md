@@ -7,7 +7,6 @@ tags:
   - klassen
   - barbarian
   - martial
-draft: false
 verwandte_notizen:
   - Klassen – Übersicht
   - Attribute & Level System

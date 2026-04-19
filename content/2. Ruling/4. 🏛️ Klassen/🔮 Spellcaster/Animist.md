@@ -9,7 +9,6 @@ tags:
   - spellcaster
   - primal
   - occult
-draft: false
 verwandte_notizen:
   - "Klassen – Übersicht"
   - "Klasse - Druid"

@@ -7,7 +7,6 @@ tags:
   - lore
   - völker
   - hobgoblin
-draft: false
 verwandte_notizen:
   - "📜 Die Goblinblut-Kriege"
   - "🏙️ Oprak"

@@ -11,7 +11,6 @@ tags:
   - ekujae
   - elfen
   - mwangi
-draft: false
 verwandte_notizen:
   - "🧝 Lore - Elfen"
   - "🌍 Der Starfall"

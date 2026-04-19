@@ -10,7 +10,6 @@ tags:
   - dwarf
   - quest-for-sky
   - darklands
-draft: false
 verwandte_notizen:
   - Lore_Zwerge
   - Ort - Darklands

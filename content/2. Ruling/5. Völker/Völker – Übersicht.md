@@ -7,7 +7,6 @@ tags:
   - völker
   - ancestry
   - übersicht
-draft: false
 verwandte_notizen:
   - "Charaktererstellung"
   - "Attribute & Level System"

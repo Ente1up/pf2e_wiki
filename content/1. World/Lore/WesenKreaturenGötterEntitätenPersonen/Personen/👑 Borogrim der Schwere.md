@@ -11,7 +11,6 @@ tags:
   - dwarf
   - historisch
   - quest-for-sky
-draft: false
 verwandte_notizen:
   - Lore_Zwerge
   - Geschichte - Der Lange Marsch der Zwerge

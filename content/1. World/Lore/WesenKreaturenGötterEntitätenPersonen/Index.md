@@ -10,7 +10,6 @@ tags:
   - personen
   - kreaturen
   - wesen
-draft: false
 erstellt: 2026-04-17
 verwandte_notizen: []
 quellen: []

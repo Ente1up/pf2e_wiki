@@ -9,7 +9,6 @@ tags:
   - skill-feats
   - lore
   - charakterbau
-draft: false
 verwandte_notizen:
   - Feats & Talente – Übersicht
   - General Feats
