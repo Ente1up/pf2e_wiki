@@ -5,8 +5,141 @@ kategorie: "Ruling/Grundregeln"
 tags:
   - pf2e
   - grundregeln
-verwandte_notizen: []
-quellen: []
+  - rettungswürfe
+  - saves
+verwandte_notizen:
+  - "Attribute & Level System"
+  - "1. Charaktererstellung"
+quellen:
+  - "Player Core (Seite 448 ff.)"
 erstellt: 2026-04-18
 ---
 
+# 🛡️ Rettungswürfe (Saving Throws)
+
+## Was sind Rettungswürfe?
+
+**Rettungswürfe** sind reaktive Würfe gegen feindliche Effekte — Gifte, Zauber, Fallen, Explosionen. Der Charakter würfelt nicht aktiv; der Feind trifft, der Charakter versucht dem Effekt zu widerstehen.
+
+**Formel:**
+> 1W20 + Proficiency-Bonus + Attribut-Modifier + sonstige Boni
+
+---
+
+## Die drei Rettungswürfe
+
+### 🫀 Fortitude (Konstitution)
+**Attribut:** CON
+
+Widersteht physischen Effekten: Gifte, Krankheiten, extreme Temperaturen, Effekte die den Körper direkt angreifen.
+
+| Klassen mit hohem Fort | Klassen mit niedrigem Fort |
+|---|---|
+| Barbarian, Fighter, Monk, Champion | Wizard, Witch, Sorcerer |
+
+---
+
+### 🦶 Reflex (Geschicklichkeit)
+**Attribut:** DEX
+
+Widersteht Flächeneffekten und schnell reagierbaren Gefahren: Feuerball, Falle, einstürzende Decke.
+
+| Klassen mit hohem Ref | Klassen mit niedrigem Ref |
+|---|---|
+| Rogue, Ranger, Monk, Gunslinger | Barbarian, Cleric, Druid |
+
+---
+
+### 🧠 Will (Weisheit)
+**Attribut:** WIS
+
+Widersteht mentalen Effekten: Furcht, Betäubung, Gedankenkontrolle, Illusionen.
+
+| Klassen mit hohem Will | Klassen mit niedrigem Will |
+|---|---|
+| Cleric, Druid, Bard, Wizard | Fighter, Barbarian |
+
+---
+
+## Ergebnisse: Degree of Success
+
+PF2e hat vier Ergebnisstufen — zwei über und zwei unter dem DC:
+
+| Ergebnis | Bedingung | Effekt |
+|---|---|---|
+| **Critical Success** | Wurf ≥ DC + 10 | Kein Effekt, manchmal Vorteil |
+| **Success** | Wurf ≥ DC | Halber Schaden / abgeschwächter Effekt |
+| **Failure** | Wurf < DC | Voller Effekt |
+| **Critical Failure** | Wurf ≤ DC − 10 | Schlimmstmöglicher Effekt |
+
+> 💡 **Wichtig:** Bei Rettungswürfen verschiebt eine **natürliche 20** das Ergebnis um eine Stufe nach oben (Crit Success möglich), eine **natürliche 1** um eine Stufe nach unten.
+
+---
+
+## Proficiency-Progression nach Klasse
+
+Klassen haben **Expert, Master oder Legendary** in bestimmten Saves vorgeschrieben. Progression passiert automatisch mit dem Level — kein manuelles Upgraden nötig.
+
+| Klasse | Fortitude | Reflex | Will |
+|---|---|---|---|
+| Barbarian | Expert → Master | Trained → Expert | Expert |
+| Fighter | Expert → Master | Expert | Trained → Expert |
+| Ranger | Expert | Expert | Trained → Expert |
+| Rogue | Trained → Expert | Expert → Master | Trained → Expert |
+| Monk | Expert → Master | Expert | Expert |
+| Swashbuckler | Trained → Expert | Expert → Master | Trained → Expert |
+| Gunslinger | Trained → Expert | Expert → Master | Trained → Expert |
+| Champion | Expert → Master | Trained → Expert | Expert |
+| Investigator | Trained → Expert | Expert | Expert |
+| Inventor | Expert | Trained → Expert | Trained → Expert |
+| Wizard | Trained → Expert | Trained → Expert | Expert → Master |
+| Sorcerer | Trained → Expert | Trained → Expert | Expert → Master |
+| Cleric | Expert | Trained → Expert | Expert → Master |
+| Druid | Expert | Trained → Expert | Expert → Master |
+| Bard | Trained → Expert | Trained → Expert | Expert → Master |
+| Witch | Trained → Expert | Trained → Expert | Expert → Master |
+| Oracle | Trained → Expert | Trained → Expert | Expert → Master |
+| Psychic | Trained → Expert | Trained → Expert | Expert → Master |
+| Animist | Trained → Expert | Trained → Expert | Expert → Master |
+
+---
+
+## Boni & Abzüge
+
+Häufige Quellen für Save-Modifikationen:
+
+| Quelle | Effekt |
+|---|---|
+| **Heroic Recovery** (Ancestry Feat) | +1 zu einem Save |
+| **Juggernaut** (Class Feature) | Fortitude wird Master |
+| **Iron Will** (Class Feature) | Will wird Master |
+| **Lightning Reflexes** (Class Feature) | Reflex wird Expert |
+| **Statusmalus (Frightened, Sickened)** | −X auf alle Checks inkl. Saves |
+| **Magische Rüstung / Items** | Circumstance oder Item-Bonus möglich |
+
+> ⚠️ In PF2e stapeln sich nur Boni **unterschiedlicher Typen** (Circumstance + Status + Item). Zwei Status-Boni = nur der höhere zählt.
+
+---
+
+## Abgeleitete Werte berechnen (Level 1)
+
+**Formel zu Level 1:**
+
+| Save | Formel (Trained) |
+|---|---|
+| Fortitude | +3 (Trained) + CON-Mod + 1 (Level) |
+| Reflex | +3 (Trained) + DEX-Mod + 1 (Level) |
+| Will | +3 (Trained) + WIS-Mod + 1 (Level) |
+
+Beispiel: Fighter Level 1, CON +2, DEX +1, WIS +0
+- Fortitude: +3 + 2 + 1 = **+6** (Expert bei Fightern = +4 + Level)
+- Reflex: +3 + 1 + 1 = **+5**
+- Will: +3 + 0 + 1 = **+4**
+
+---
+
+## 🔗 Verwandte Themen
+
+- [[Attribute & Level System]] — Proficiency-Bonus und Attribut-Modifier erklärt
+- [[1. Charaktererstellung]] — Rettungswürfe im Build-Kontext (Schritt 10)
+- [[Aktionen & Aktionssymbole]] — wann Saves ausgelöst werden

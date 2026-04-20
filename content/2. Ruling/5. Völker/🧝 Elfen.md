@@ -70,7 +70,7 @@ Elfen leben in abgelegenen, meist naturverbundenen Gebieten:
 |--------|--------|-------------|
 | **Kyoninische Elfen** | Kyonin | Stolz, isolationistisch, königlich |
 | **Wildnis-Elfen** | Wälder weltweit | Naturverbunden, nomadisch |
-| **Stadtelbfes** | Menschliche Städte | Angepasst, Händler und Gelehrte |
+| **Stadtelfen** | Menschliche Städte | Angepasst, Händler und Gelehrte |
 | **Rückkehrer-Elfen** | Ganz Golarion | Fremd in der eigenen Welt nach dem Exil |
 
 ---
@@ -79,10 +79,10 @@ Elfen leben in abgelegenen, meist naturverbundenen Gebieten:
 
 | Feiertag | Zeitpunkt | Bedeutung |
 |----------|-----------|-----------|
-| **Remembrance Moon** | Vollmond im Herbst | Gedenken an die Zeit des Exils in Sovyrian |
-| **Iadara's Founding** | Frühling | Gründung der Hauptstadt nach der Rückkehr |
-| **The Long Vigil** | Wintersonnenwende | Nacht des Wachens – Elfen schlafen nicht, sie trancen |
-| **Star Remembrance** | Jahreszeitenwechsel | Gedenken an den Starfall der sie vertrieb |
+| [[📅 Remembrance Moon]] | Vollmond im Herbst | Gedenken an die Zeit des Exils in Sovyrian |
+| [[📅 Iadara's Founding]] | Frühling | Gründung der Hauptstadt nach der Rückkehr |
+| [[📅 The Long Vigil]] | Wintersonnenwende | Nacht des Wachens – Elfen schlafen nicht, sie trancen |
+| [[📅 Star Remembrance]] | Jahreszeitenwechsel | Gedenken an den Starfall der sie vertrieb |
 
 ---
 

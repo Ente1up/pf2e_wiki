@@ -9,8 +9,17 @@ tags:
   - elfen
   - elf
 erstellt: 2026-04-16
-verwandte_notizen: []
-quellen: []
+verwandte_notizen:
+  - "🌍 Der Starfall"
+  - "🌐 Sovyrian"
+  - "🏙️ Kyonin"
+  - "👑 Telandia Edasseril"
+  - "👤 Merisiel"
+  - "🌙 Calistria"
+  - "📅 Remembrance Moon"
+quellen:
+  - "Player Core"
+  - "Lost Omens World Guide"
 ---
 
 # 🧝 Lore: Elfen
@@ -84,8 +93,21 @@ Elfische Namen klingen fließend und haben oft mehrere Silben:
 Elfische Traditionen drehen sich oft um Erinnerung, Natur und Magie:
 
 - **Remembrance Moon** – Jährliches Gedenken an das Exil und die Rückkehr. Elfen stehen die ganze Nacht wach und erzählen Geschichten der Vergangenheit → [[📅 Remembrance Moon]]
-- **Die Große Trance** – Keine Feier sondern ein Ritual: Einmal im Jahr gehen Elfen für sieben Tage in tiefe Meditation um ihre Erinnerungen zu ordnen
-- **Sternenbetrachtung** – Elfen messen Zeit nach Sternen. Besondere astronomische Ereignisse werden als heilig betrachtet
+- **The Long Vigil** – Wintersonnenwende: Elfen verzichten auf die Trance und wachen die gesamte Nacht. Konfrontation mit dem ungeordneten Geist – das intimste elfische Ritual → [[📅 The Long Vigil]]
+- **Iadara's Founding** – Frühlingsfest der Rückkehr. Bäume pflanzen, Freude teilen, Rede der Königin. Das fröhliche Gegenstück zur Remembrance Moon → [[📅 Iadara's Founding]]
+- **Star Remembrance** – An jedem Jahreszeitenwechsel treten Elfen unter freien Himmel und gedenken des Starfalls durch Sternbeobachtung. Still, individuell, astronomisch → [[📅 Star Remembrance]]
+
+---
+
+## ⚒️ Handwerk & Kultur
+
+Elfisches Handwerk ist das Gegenteil zwergischer Pragmatik: **Schönheit zuerst, Funktion folgt.** Ein elfisches Schwert ist gleichzeitig Kunstwerk; ein elfisches Haus ein lebender Garten; eine Rüstung aus organischen Materialien die Magie atmet. Für andere Völker sieht elfisches Handwerk zerbrechlich aus – es ist es nicht.
+
+Elfen haben die **ältesten und ausgefeiltesten arkanen Traditionen** Golarions entwickelt. Die Wizardschulen die heute in menschlichen Städten florieren gehen auf elfische Grundlagen zurück. Magie ist für Elfen keine Sonderleistung sondern Hochkultur – wie Musik oder Malerei. Ein Elf ohne Berührung zur Magie ist in der eigenen Gesellschaft eine Seltenheit.
+
+Elfische **Architektur** kennt keinen Widerspruch zwischen Natur und Bauwerk. Gebäude werden um Bäume herum errichtet, Flüsse genutzt statt umgeleitet, Magie eingesetzt um wachsendes Holz zu formen statt es zu fällen. Iadara in Kyonin ist das vollendete Beispiel: eine Stadt die atmet, wächst und sich über Jahrhunderte verändert.
+
+**Musik und Kunst** sind für Elfen keine Freizeitbeschäftigung sondern Lebensaufgabe. Ein Elf der vier Jahrhunderte Zeit hat kann eine einzige Komposition ein Leben lang verfeinern. Elfische **Chroniken und Archive** gelten als präziseste schriftliche Aufzeichnungen Golarions – sie schreiben nicht für die Gegenwart sondern für die nächsten tausend Jahre.
 
 ---
 
@@ -105,7 +127,7 @@ Elfen bieten eine einzigartige Perspektive: **Ein Charakter der die Welt als lan
 
 ## 🔗 Verwandte Themen
 
-- [[🧝 Elfen]] – Stats der Elfen
+- [[🧝 Elfen|Ancestry: Elfen]] – Mechanische Regeln
 - [[🌍 Der Starfall]] – Das Ereignis das die elfische Geschichte spaltete
 - [[🌐 Sovyrian]] – Die Heimat des Exils
 - [[🏙️ Kyonin]] – Das elfische Königreich in Avistan
@@ -113,3 +135,6 @@ Elfen bieten eine einzigartige Perspektive: **Ein Charakter der die Welt als lan
 - [[👤 Merisiel]] – Ikonische Elfen-Schurkin
 - [[🌙 Calistria]] – Die Hauptgottheit der Elfen
 - [[📅 Remembrance Moon]] – Das jährliche Gedenken an Exil und Rückkehr
+- [[📅 The Long Vigil]] – Wintersonnenwende-Wachritual
+- [[📅 Iadara's Founding]] – Frühlingsfest der Rückkehr
+- [[📅 Star Remembrance]] – Sterngedenken an den Starfall

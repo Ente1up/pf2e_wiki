@@ -9,8 +9,14 @@ tags:
   - halblinge
   - halfling
 erstellt: 2026-04-16
-verwandte_notizen: []
-quellen: []
+verwandte_notizen:
+  - "📜 Sklaverei in Cheliax"
+  - "🏛️ Die Freien Halblinge"
+  - "👤 Seelah"
+  - "📅 Firstbloom"
+quellen:
+  - Player Core
+  - Lost Omens World Guide
 ---
 
 # 🦶 Lore: Halblinge
@@ -36,11 +42,11 @@ Was historisch belegt ist: Halblinge haben in **Cheliax** eine lange Geschichte 
 
 ## 🏛️ Kulturen
 
-**Stadthalblinge** – Die häufigste Form. Halblinge in menschlichen Städten arbeiten als Händler, Handwerker, Köche und in sozialen Berufen. Sie sind oft das soziale Gewebe einer Gemeinschaft.
+**Stadthalblinge** – Die häufigste Form. Halblinge in menschlichen Städten arbeiten als Händler, Handwerker, Köche und in sozialen Berufen. Sie sind oft das soziale Gewebe einer Gemeinschaft. Besonders stark vertreten in [[🏙️ Absalom]] und [[🏙️ Cheliax]].
 
-**Wanderhalblinge** – Kleinere Gruppen die in Karawanen reisen. Sie handeln, erzählen Geschichten und tragen Nachrichten zwischen Städten. Ähnlich den Varisianern in ihrer Lebensweise.
+**Wanderhalblinge** – Kleinere Gruppen die in Karawanen reisen. Sie handeln, erzählen Geschichten und tragen Nachrichten zwischen Städten. Ähnlich den Varisianern in ihrer Lebensweise. → [[🏙️ Varisia]]
 
-**Befreite Halblinge** – In bestimmten Regionen haben Halblinge eigene kleine Gemeinschaften aufgebaut, weit von den Städten entfernt. Diese Gruppen sind oft misstrauisch gegenüber Fremden.
+**Befreite Halblinge** – In bestimmten Regionen haben Halblinge eigene kleine Gemeinschaften aufgebaut, weit von den Städten entfernt. Diese Gruppen sind oft misstrauisch gegenüber Fremden. → [[🏛️ Die Freien Halblinge]]
 
 **Landhalblinge** – In ländlichen Gebieten führen Halblinge ein bodenständiges Leben als Bauern, Brauer und Handwerker. Eng verbunden mit der Natur und der lokalen Gemeinschaft.
 
@@ -69,8 +75,8 @@ Halblingsnamen sind oft kurz und einladend:
 
 ## 🏆 Bekannte Persönlichkeiten
 
-- **Seelah** – Halblingspaladinund Symbol des Champion-Archetyps → [[👤 Seelah]]
-- **Fumbus** – Halblings-Alchemist bekannt für seine unberechenbaren Experimente → [[👤 Fumbus]]
+- **Seelah** – Menschliche Paladin von Iomedae, aufgewachsen in Cheliax – verehrt von Halblingen als Symbol des Kampfes gegen Unterdrückung → [[👤 Seelah]]
+- **Fumbus** – Goblin-Alchemist bekannt für unberechenbare Experimente – von Halblingen als Verbündeter und Außenseiter-Ikone geschätzt → [[👤 Fumbus]]
 
 ---
 
@@ -78,7 +84,7 @@ Halblingsnamen sind oft kurz und einladend:
 
 - **Firstbloom** – Frühlingsfest der Erneuerung. Halblinge pflanzen gemeinsam etwas Neues – einen Baum, einen Garten, eine Freundschaft → [[📅 Firstbloom]]
 - **Tale Night** – Monatliche Zusammenkunft wo jeder die beste Geschichte des letzten Monats erzählt. Lügen erlaubt wenn sie gut genug sind
-- **Wanderer's Return** – Feier wenn ein lange abwesender Halblin zurückkehrt. Essen, Musik und Fragen ohne Ende
+- **Wanderer's Return** – Feier wenn ein lange abwesender Halblings zurückkehrt. Essen, Musik und Fragen ohne Ende
 
 ---
 
@@ -91,3 +97,17 @@ Halblinge sind bekannt für ihr außergewöhnliches Glück – und das ist keine
 ## 💡 Warum Halblingen spielen?
 
 Halblinge bieten eine **Geschichte voller Würde trotz Widrigkeiten**. Ein Halbling-Charakter trägt oft eine komplexe soziale Geschichte – von Unterdrückung, Freiheit und dem Finden des eigenen Platzes in einer Welt die buchstäblich größer ist als man selbst. Mechanisch stark in DEX-Builds mit einzigartigem Glücksmechanismus.
+
+---
+
+## 🔗 Verwandte Themen
+
+- [[🦶 Halblinge|Ancestry: Halblinge]] – Mechanische Regeln
+- [[🏙️ Cheliax]] – Hauptort der historischen Halblings-Versklavung
+- [[🏙️ Absalom]] – Bedeutende freie Halblings-Gemeinschaft
+- [[🏙️ Varisia]] – Heimat der Wanderhalblinge
+- [[📜 Sklaverei in Cheliax]] – Historischer Hintergrund der Unterdrückung
+- [[🏛️ Die Freien Halblinge]] – Abolitionist-Bewegung der Halblinge
+- [[👤 Seelah]] – Paladin von Iomedae, Symbol gegen Unterdrückung
+- [[👤 Fumbus]] – Goblin-Alchemist, Außenseiter-Verbündeter
+- [[📅 Firstbloom]] – Frühlingsfest der Halblinge
