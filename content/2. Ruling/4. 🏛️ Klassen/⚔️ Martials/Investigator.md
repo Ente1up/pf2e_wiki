@@ -300,3 +300,5 @@ Beide Klassen sind DEX/INT-adjacent, Skill-fokussiert und mit 8 HP/Level – abe
 - [[Waffeneigenschaften]] – Finesse, Agile
 - [[Feats & Talente]] – Investigator Class Feats im Detail
 - [[2. ]] – Investigator als Dedication-Archetype
+
+- [[🎒 Ausrüstung & Starterkits]] – Starterkit für Investigator

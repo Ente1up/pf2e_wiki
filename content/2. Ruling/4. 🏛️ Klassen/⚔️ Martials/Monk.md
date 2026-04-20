@@ -291,3 +291,5 @@ Der Monk ist der **schnellste Kämpfer** im Spiel:
 - [[Waffeneigenschaften]] – Agile, Finesse, Monk
 - [[Feats & Talente]] – Monk Class Feats im Detail
 - [[2. ]] – Monk als Dedication-Archetype
+
+- [[🎒 Ausrüstung & Starterkits]] – Starterkit für Monk

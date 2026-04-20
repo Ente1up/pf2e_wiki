@@ -299,3 +299,5 @@ Jede Bloodline gibt spezifische Fähigkeiten – hier am Beispiel der **Draconic
 - [[Konzentration & Fokuszauber]] – Bloodline Fokuszauber
 - [[Feats & Talente]] – Sorcerer Class Feats im Detail
 - [[2. ]] – Sorcerer als Dedication-Archetype
+
+- [[🎒 Ausrüstung & Starterkits]] – Starterkit für Sorcerer

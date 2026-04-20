@@ -320,3 +320,5 @@ Beide nutzen die **Occult Tradition** und sind Spontaneous Caster – aber völl
 - [[Zustände & Conditions]] – Stupefied erklärt
 - [[Feats & Talente]] – Psychic Class Feats im Detail
 - [[2. ]] – Psychic als Dedication-Archetype
+
+- [[🎒 Ausrüstung & Starterkits]] – Starterkit für Psychic

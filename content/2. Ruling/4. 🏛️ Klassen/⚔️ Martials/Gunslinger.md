@@ -280,3 +280,5 @@ Mächtigere Versionen der Deeds mit verstärkten Effekten.
 - [[Waffeneigenschaften]] – Reload, Kickback, Concussive, Capacity
 - [[Feats & Talente]] – Gunslinger Class Feats im Detail
 - [[2. ]] – Gunslinger als Dedication-Archetype
+
+- [[🎒 Ausrüstung & Starterkits]] – Starterkit für Gunslinger

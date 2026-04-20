@@ -211,3 +211,5 @@ Der Fighter ist mit **jeder Waffe** spielbar, aber einige Builds kristallisieren
 - [[Feats & Talente]] – Fighter Class Feats im Detail
 - [[Rüstungen & AC]] – Rüstungstypen und ihre Boni
 - [[2. ]] – Fighter als Dedication-Archetype
+
+- [[🎒 Ausrüstung & Starterkits]] – Starterkit für Fighter

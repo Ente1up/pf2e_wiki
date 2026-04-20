@@ -287,3 +287,5 @@ Der Inventor verbessert seine Innovation durch **Modification-Feats** die bei ge
 - [[Waffeneigenschaften]] – Modifikations-Traits der Innovation
 - [[Feats & Talente]] – Inventor Class Feats & Modification Feats im Detail
 - [[2. ]] – Inventor als Dedication-Archetype
+
+- [[🎒 Ausrüstung & Starterkits]] – Starterkit für Inventor

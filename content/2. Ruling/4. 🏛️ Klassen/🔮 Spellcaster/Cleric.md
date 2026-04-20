@@ -316,3 +316,5 @@ Jede Gottheit hat **Domains** – thematische Bereiche die dem Cleric Fokuszaube
 - [[Konzentration & Fokuszauber]] – Domain Fokuszauber im Detail
 - [[Feats & Talente]] – Cleric Class Feats im Detail
 - [[2. ]] – Cleric als Dedication-Archetype
+
+- [[🎒 Ausrüstung & Starterkits]] – Starterkit für Cleric

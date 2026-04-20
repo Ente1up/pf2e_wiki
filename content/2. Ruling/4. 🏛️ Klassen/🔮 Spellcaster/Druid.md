@@ -320,3 +320,5 @@ Beide sind WIS-basierte Prepared Caster mit 8 HP – aber fundamental unterschie
 - [[Tiergefährten]] – Animal Companion im Detail
 - [[Feats & Talente]] – Druid Class Feats im Detail
 - [[2. ]] – Druid als Dedication-Archetype
+
+- [[🎒 Ausrüstung & Starterkits]] – Starterkit für Druid

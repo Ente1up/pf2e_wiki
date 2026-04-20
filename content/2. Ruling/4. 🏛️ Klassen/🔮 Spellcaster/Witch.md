@@ -299,3 +299,5 @@ Beide sind Prepared Caster mit 6 HP – aber fundamental unterschiedlich im Flav
 - [[Konzentration & Fokuszauber]] – Hexes und Patron-Fokuszauber im Detail
 - [[Feats & Talente]] – Witch Class Feats im Detail
 - [[2. ]] – Witch als Dedication-Archetype
+
+- [[🎒 Ausrüstung & Starterkits]] – Starterkit für Witch

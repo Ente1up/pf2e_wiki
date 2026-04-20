@@ -272,3 +272,5 @@ Das **Instinct** definiert die Quelle und den Flavour der Rage sowie einen einzi
 - [[Waffeneigenschaften]] – Two-Hand, Brutal, etc.
 - [[Feats & Talente]] – Barbarian Class Feats im Detail
 - [[2. ]] – Barbarian als Dedication-Archetype
+
+- [[🎒 Ausrüstung & Starterkits]] – Starterkit für Barbarian

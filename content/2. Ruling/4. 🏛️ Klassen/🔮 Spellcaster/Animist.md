@@ -327,3 +327,5 @@ Beide sind WIS-basierte Prepared Caster mit 8 HP und Naturverbindung – aber fu
 - [[Konzentration & Fokuszauber]] – Apparition-Fokuszauber im Detail
 - [[Feats & Talente]] – Animist Class Feats im Detail
 - [[2. ]] – Animist als Dedication-Archetype
+
+- [[🎒 Ausrüstung & Starterkits]] – Starterkit für Animist

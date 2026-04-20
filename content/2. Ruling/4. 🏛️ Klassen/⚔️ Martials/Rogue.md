@@ -255,3 +255,5 @@ Der Rogue ist der **stärkste Skill-Charakter** im Spiel:
 - [[Waffeneigenschaften]] – Finesse, Agile, Deadly
 - [[Feats & Talente]] – Rogue Class Feats im Detail
 - [[2. ]] – Rogue als Dedication-Archetype
+
+- [[🎒 Ausrüstung & Starterkits]] – Starterkit für Rogue

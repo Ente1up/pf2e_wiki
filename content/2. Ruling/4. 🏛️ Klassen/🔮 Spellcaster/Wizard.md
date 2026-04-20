@@ -309,3 +309,5 @@ Der Wizard erhält Spell-Slots nach folgendem Schema:
 - [[Rettungswürfe]] – Wie Feinde gegen Wizard-Zauber würfeln
 - [[Feats & Talente]] – Wizard Class Feats im Detail
 - [[2. ]] – Wizard als Dedication-Archetype
+
+- [[🎒 Ausrüstung & Starterkits]] – Starterkit für Wizard
