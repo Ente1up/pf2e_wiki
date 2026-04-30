@@ -101,6 +101,6 @@ Torags Kleriker sind deshalb oft ebenso gute Strategen wie Kämpfer.
 
 ## 🔗 Verwandte Themen
 
-- [[⛏️ Zwerge]] – Das Zwergenvolk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/⛏️ Zwerge]] – Das Zwergenvolk
 - [[📜 Der Lange Marsch der Zwerge]] – Torags Rolle im Exodus
 - [[👤 Harsk]] – Bekannter zwergischer Torag-Verehrer

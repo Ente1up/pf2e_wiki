@@ -77,7 +77,7 @@ Die fünf Clans konkurrieren intern um Einfluss, präsentieren nach außen aber 
 
 ## 🔗 Verwandte Themen
 
-- [[⛏️ Zwerge]] – Das Zwergenvolk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/⛏️ Zwerge]] – Das Zwergenvolk
 - [[📜 Der Lange Marsch der Zwerge]] – Die Geschichte die Highhelm erst möglich machte
 - [[⛪ Torag]] – Hauptgottheit, zentral für die Stadt
 - [[🏚️ Tar Taargadth]] – Das alte unterirdische Reich im Vergleich

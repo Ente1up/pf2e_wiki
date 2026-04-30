@@ -115,6 +115,6 @@ Außerhalb der Städte dominieren **Varisi-Karawanen** und **Shoanti-Stämme** �
 
 ## 🔗 Verwandte Themen
 
-- [[👤 Menschen]] – Varisier als menschliche Kulturgruppe
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/👤 Menschen]] – Varisier als menschliche Kulturgruppe
 - [[🏙️ Cheliax]] – Kolonialhistorisch wichtige Verbindung
 - [[🌍 Der Starfall]] – Zerstörte Thassilon, das Varisia bis heute prägt

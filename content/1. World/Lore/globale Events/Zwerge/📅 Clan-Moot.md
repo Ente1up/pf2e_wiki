@@ -81,7 +81,7 @@ In Krisenzeiten kann ein **außerordentlicher Moot** einberufen werden – ohne 
 
 ## 🔗 Verwandte Themen
 
-- [[⛏️ Zwerge]] – Das Zwergenvolk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/⛏️ Zwerge]] – Das Zwergenvolk
 - [[🏙️ Highhelm]] – Traditioneller Veranstaltungsort
 - [[⛪ Torag]] – Göttliche Schirmherrschaft des Moots
 - [[📅 Errinorn]] – Der andere große zwergische Gedenktag

@@ -82,6 +82,6 @@ Als Iconic ist Harsk eine nützliche Referenz für zwergische Ranger-Charaktere.
 
 ## 🔗 Verwandte Themen
 
-- [[⛏️ Zwerge]] – Das Zwergenvolk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/⛏️ Zwerge]] – Das Zwergenvolk
 - [[⛪ Torag]] – Harsks Gottheit
-- [[⛏️ Zwerge]] – Mechanische Grundlage
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/⛏️ Zwerge]] – Mechanische Grundlage

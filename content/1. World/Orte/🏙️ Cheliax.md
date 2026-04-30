@@ -114,6 +114,6 @@ Religiös dominiert **Asmodeus**, aber andere Gesetzesgottheiten (Abadar, Iomeda
 
 ## 🔗 Verwandte Themen
 
-- [[👤 Menschen]] – Chelaxianer als menschliche Kulturgruppe
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/👤 Menschen]] – Chelaxianer als menschliche Kulturgruppe
 - [[🏙️ Taldor]] – Mutterreich und Rivale
 - [[📜 Die Goblinblut-Kriege]] – Chelischer Eingriff in Isger

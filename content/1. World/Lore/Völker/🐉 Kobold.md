@@ -118,5 +118,5 @@ Ein Charakter mit **drakonischem Stolz in kleinem Körper** – unterschätzt vo
 
 ## 🔗 Verwandte Notizen
 
-- [[🐉 Kobold|Ancestry: Kobold]] – Mechanische Regeln
+- [[Pathfinder 2e/Pathfinder 2e Wiki/1. World/Lore/Völker/🐉 Kobold|Ancestry: Kobold]] – Mechanische Regeln
 - [[🕳️ Darklands]] – Ursprungsregion mancher Clans

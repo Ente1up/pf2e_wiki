@@ -102,5 +102,5 @@ Seelah ist ideal für Charaktere, die:
 
 - [[🏙️ Cheliax]] – Seelah wuchs hier auf
 - [[📜 Sklaverei in Cheliax]] – Der Kontext ihrer Kindheit
-- [[🦶 Halblinge]] – Das Volk das sie als Symbol der Hoffnung betrachtet
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🦶 Halblinge]] – Das Volk das sie als Symbol der Hoffnung betrachtet
 - [[⛪ Iomedae]] – Ihre Gottheit

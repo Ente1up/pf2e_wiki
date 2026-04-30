@@ -87,6 +87,6 @@ Merisiel ist ein gutes Referenzmodell für Elfen-SCs die:
 
 ## 🔗 Verwandte Themen
 
-- [[🧝 Elfen]] – Das Elfenvolk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🧝 Elfen]] – Das Elfenvolk
 - [[🌙 Calistria]] – Merisiels Gottheit
 - [[🏙️ Kyonin]] – Das elfische Königreich das sie bewusst mied

@@ -89,5 +89,5 @@ Mögliche Konflikte:
 
 ## 🔗 Verwandte Themen
 
-- [[👺 Goblin]] – Moggys Volk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/👺 Goblin]] – Moggys Volk
 - [[🏙️ Absalom]] – Zentrum seiner aktuellen Arbeit

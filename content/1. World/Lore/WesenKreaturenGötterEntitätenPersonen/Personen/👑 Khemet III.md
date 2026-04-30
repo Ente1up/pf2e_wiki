@@ -98,5 +98,5 @@ Mögliche Rollen:
 
 ## 🔗 Verwandte Themen
 
-- [[👤 Menschen]] – Khemets Ancestry
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/👤 Menschen]] – Khemets Ancestry
 - [[🏜️ Osirion]] – Sein Reich

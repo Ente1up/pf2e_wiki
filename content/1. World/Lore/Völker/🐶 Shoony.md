@@ -120,4 +120,4 @@ Ein Charakter, der **Stärke durch Freundlichkeit beweist** – in einer Welt, d
 
 ## 🔗 Verwandte Notizen
 
-- [[🐶 Shoony|Ancestry: Shoony]] – Mechanische Regeln
+- [[Pathfinder 2e/Pathfinder 2e Wiki/1. World/Lore/Völker/🐶 Shoony|Ancestry: Shoony]] – Mechanische Regeln

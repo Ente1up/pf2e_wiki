@@ -85,5 +85,5 @@ Als Iconic ist Valeros das wichtigste Gegenmittel gegen **Overwrought-Backstory-
 
 ## 🔗 Verwandte Themen
 
-- [[👤 Menschen]] – Valeros' Ancestry
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/👤 Menschen]] – Valeros' Ancestry
 - [[🏙️ Taldor]] – Seine Herkunftsregion

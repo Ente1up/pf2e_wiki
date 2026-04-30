@@ -106,7 +106,7 @@ Als Göttin der Täuschung lehrt sie: **Manchmal ist Intelligenz das einzige Wer
 
 ## 🔗 Verwandte Themen
 
-- [[🧝 Elfen]] – Das Elfenvolk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🧝 Elfen]] – Das Elfenvolk
 - [[👑 Telandia Edasseril]] – Kyonins Königin, Calistria-Devotee
 - [[👤 Merisiel]] – Ikonische Calistria-Anhängerin
 - [[🏙️ Kyonin]] – Haupttempel in Iadara

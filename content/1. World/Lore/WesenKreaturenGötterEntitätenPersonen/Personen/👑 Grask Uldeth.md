@@ -101,6 +101,6 @@ Er ist **kein Schurke**. Er ist komplexer Anführer, dessen Ethos Spieler respek
 
 ## 🔗 Verwandte Themen
 
-- [[💪 Ork]] – Sein Volk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/💪 Ork]] – Sein Volk
 - [[🏙️ Hold of Belkzen]] – Sein Reich
 - [[⛪ Gorum]] – Seine Gottheit

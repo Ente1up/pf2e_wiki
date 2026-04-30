@@ -114,5 +114,5 @@ Religiös dominiert traditionell **Zarongel** (goblinoider Kriegsgott), doch in 
 
 ## 🔗 Verwandte Themen
 
-- [[⚔️ Hobgoblin]] – Das tragende Volk des Königreichs
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/⚔️ Hobgoblin]] – Das tragende Volk des Königreichs
 - [[📜 Die Goblinblut-Kriege]] – Historische Grundlage für Opraks Entstehung

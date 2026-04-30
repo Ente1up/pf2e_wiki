@@ -145,6 +145,6 @@ Sie zeigen: Orkische Kultur ist **ritualisiert, nicht primitiv**. Jede Geste hat
 
 ## 🔗 Verwandte Themen
 
-- [[💪 Ork]] – Das Volk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/💪 Ork]] – Das Volk
 - [[🏙️ Hold of Belkzen]] – Kerngebiet der Traditionen
 - [[⛪ Gorum]] – Religiöser Hintergrund Blutfest, Kraft-Prüfung

@@ -98,7 +98,7 @@ Als historische Figur taucht Borogrim nicht physisch in einer Kampagne auf – a
 
 ## 🔗 Verwandte Themen
 
-- [[⛏️ Zwerge]] – Das Zwergenvolk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/⛏️ Zwerge]] – Das Zwergenvolk
 - [[📜 Der Lange Marsch der Zwerge]] – Das Ereignis das ihn definierte
 - [[⛪ Torag]] – Borograims Gottheit
 - [[📅 Errinorn]] – Das Fest in dem er geehrt wird

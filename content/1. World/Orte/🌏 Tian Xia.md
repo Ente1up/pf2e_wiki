@@ -48,6 +48,6 @@ Für Inner-Sea-Bewohner ist Tian Xia der "ferne Osten" – fremd, faszinierend, 
 ---
 
 ## 🔗 Verwandte Notizen
-- [[🐦 Tengu]] – Weit verbreitet in Tian Xia
-- [[🐀 Rattenvolk]] – Vermuteter Ursprungskontinent der Ysoki
-- [[🐱 Katzenvolk]] – Heimat vieler Kitsune/Amurrun-Linien
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🐦 Tengu]] – Weit verbreitet in Tian Xia
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🐀 Rattenvolk]] – Vermuteter Ursprungskontinent der Ysoki
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🐱 Katzenvolk]] – Heimat vieler Kitsune/Amurrun-Linien

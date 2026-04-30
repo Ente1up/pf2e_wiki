@@ -76,7 +76,7 @@ Tar Taargadth ist noch traditioneller als Highhelm – hier haben Jahrtausende I
 
 ## 🔗 Verwandte Themen
 
-- [[⛏️ Zwerge]] – Das Zwergenvolk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/⛏️ Zwerge]] – Das Zwergenvolk
 - [[🕳️ Darklands]] – Die Unterwelt in der Tar Taargadth liegt
 - [[📜 Der Lange Marsch der Zwerge]] – Warum ein Teil des Volkes zurückblieb
 - [[🏙️ Highhelm]] – Das Oberflächengegenstück

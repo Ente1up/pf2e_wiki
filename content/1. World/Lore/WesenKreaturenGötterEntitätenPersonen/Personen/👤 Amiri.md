@@ -83,4 +83,4 @@ Als Iconic ist Amiri ein Referenzmodell für menschliche Barbaren-SCs, besonders
 
 ## 🔗 Verwandte Themen
 
-- [[👤 Menschen]] – Amiris Ancestry
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/👤 Menschen]] – Amiris Ancestry

@@ -78,6 +78,6 @@ Die Spielerin oder der Spieler kann entscheiden wie präsent das Bleaching im Ch
 
 ## 🔗 Verwandte Themen
 
-- [[🌈 Gnome]] – Das Gnomenvolk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🌈 Gnome]] – Das Gnomenvolk
 - [[✨ First World]] – Die verlorene Heimat der Gnome
-- [[🌈 Gnome]] – Mechanische Grundlage
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🌈 Gnome]] – Mechanische Grundlage

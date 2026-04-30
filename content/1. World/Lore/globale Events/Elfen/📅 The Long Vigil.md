@@ -94,6 +94,6 @@ Manche Elfen nutzen dies bewusst – sie gehen mit einer Frage in die Vigil und 
 
 ## 🔗 Verwandte Themen
 
-- [[🧝 Elfen]] – Das Elfenvolk und die Trance-Besonderheit
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🧝 Elfen]] – Das Elfenvolk und die Trance-Besonderheit
 - [[📅 Remembrance Moon]] – Das andere große elfische Ritual
 - [[🏙️ Kyonin]] – Zentrum der elfischen Traditionen

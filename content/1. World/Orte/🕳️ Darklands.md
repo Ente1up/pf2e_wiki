@@ -77,7 +77,7 @@ Zwergische Festungen an der Oberfläche haben fast immer **versiegelte Tiefzugä
 
 ## 🔗 Verwandte Themen
 
-- [[⛏️ Zwerge]] – Das Volk das aus den Darklands kam
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/⛏️ Zwerge]] – Das Volk das aus den Darklands kam
 - [[📜 Der Lange Marsch der Zwerge]] – Der Exodus nach oben
 - [[🏚️ Tar Taargadth]] – Das alte zwergische Reich in den Darklands
-- [[👺 Goblin]] – Bewohner der oberen Darklands
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/👺 Goblin]] – Bewohner der oberen Darklands

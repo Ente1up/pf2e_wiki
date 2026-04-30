@@ -87,5 +87,5 @@ Sie ist kein Darklord-Bösewicht. Sie ist Verkörperung dessen, was Goblin-Vorur
 
 ## 🔗 Verwandte Themen
 
-- [[👺 Goblin]] – Retas Volk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/👺 Goblin]] – Retas Volk
 - [[⛪ Lamashtu]] – Ihre gelegentliche Gottheit

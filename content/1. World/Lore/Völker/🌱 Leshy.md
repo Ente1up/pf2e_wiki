@@ -149,4 +149,4 @@ Stirbt ein Leshy, kann der Geist in einem neuen Pflanzenkörper neu erweckt werd
 - [[📜 Leshy-Erschaffung]] – Wie ein Leshy entsteht
 - [[✨ First World]] – Ursprungsebene der Leshy-Geister
 - [[🌿 Mwangi Expanse]] – Region mit starker Leshy-Tradition
-- [[🌱 Leshy|Ancestry: Leshy]] – Mechanische Regeln
+- [[Pathfinder 2e/Pathfinder 2e Wiki/1. World/Lore/Völker/🌱 Leshy|Ancestry: Leshy]] – Mechanische Regeln

@@ -87,7 +87,7 @@ Diese astronomischen Archive in Kyonin und anderen elfischen Zentren sind unter 
 
 ## 🔗 Verwandte Themen
 
-- [[🧝 Elfen]] – Das Elfenvolk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🧝 Elfen]] – Das Elfenvolk
 - [[🌍 Der Starfall]] – Das Ereignis das erinnert wird
 - [[🌐 Sovyrian]] – Das Exil das folgte
 - [[📅 Remembrance Moon]] – Das größere Gemeinschaftsritual

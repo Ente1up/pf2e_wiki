@@ -43,4 +43,4 @@ slug: "world/orte/absalom"
 ---
 
 ## 🔗 Verwandte Notizen
-- [[🐀 Rattenvolk]] – Große Ysoki-Warren in den Unterstadt-Tunneln
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🐀 Rattenvolk]] – Große Ysoki-Warren in den Unterstadt-Tunneln

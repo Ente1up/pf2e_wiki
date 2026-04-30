@@ -106,5 +106,5 @@ Zwerge bieten eine **Geschichte voller Opfer und Stärke** – ein Charakter der
 
 ## 🔗 Verwandte Themen
 
-- [[⛏️ Zwerge]]- Stats der Zwerge
+- [[Pathfinder 2e/Pathfinder 2e Wiki/1. World/Lore/Völker/⛏️ Zwerge]]- Stats der Zwerge
 

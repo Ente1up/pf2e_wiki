@@ -112,4 +112,4 @@ Für **Spieler-Charaktere** selten direkte Wahl – aber **Ex-Lamashtu-Anhänger
 
 ## 🔗 Verwandte Themen
 
-- [[👺 Goblin]] – Volk mit stärkster Lamashtu-Tradition
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/👺 Goblin]] – Volk mit stärkster Lamashtu-Tradition

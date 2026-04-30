@@ -118,6 +118,6 @@ Ein Charakter mit **militärischer Präzision und dem Kampf gegen das eigene Erb
 
 ## 🔗 Verwandte Notizen
 
-- [[⚔️ Hobgoblin|Ancestry: Hobgoblin]] – Mechanische Regeln
+- [[Pathfinder 2e/Pathfinder 2e Wiki/1. World/Lore/Völker/⚔️ Hobgoblin|Ancestry: Hobgoblin]] – Mechanische Regeln
 - [[📜 Die Goblinblut-Kriege]] – Zentrales historisches Ereignis
 - [[🏙️ Oprak]] – Moderne Hobgoblin-Nation

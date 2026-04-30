@@ -86,5 +86,5 @@ Fumbus ist perfekt für Charaktere die:
 
 ## 🔗 Verwandte Themen
 
-- [[👺 Goblin]] – Fumbus' Volk
-- [[🦶 Halblinge]] – Verbundenes Volk durch gemeinsame Außenseitererfahrung
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/👺 Goblin]] – Fumbus' Volk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🦶 Halblinge]] – Verbundenes Volk durch gemeinsame Außenseitererfahrung

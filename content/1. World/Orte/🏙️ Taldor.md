@@ -112,6 +112,6 @@ Die Gesellschaft ist scharf hierarchisch: Bürgerliche haben Aufstiegswege, aber
 
 ## 🔗 Verwandte Themen
 
-- [[👤 Menschen]] – Taldaner als menschliche Kulturgruppe
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/👤 Menschen]] – Taldaner als menschliche Kulturgruppe
 - [[🏙️ Cheliax]] – Ehemalige Kolonie und Rivale
 - [[🏙️ Absalom]] – Historisch enger Handelspartner

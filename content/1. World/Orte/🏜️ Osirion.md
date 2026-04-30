@@ -124,5 +124,5 @@ Khemet III.s Öffnungspolitik ist hier umstritten: Jede neu geöffnete Pyramide 
 
 ## 🔗 Verwandte Themen
 
-- [[👤 Menschen]] – Osirianer als menschliche Kulturgruppe
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/👤 Menschen]] – Osirianer als menschliche Kulturgruppe
 - [[👑 Khemet III]] – Der aktuelle Rubinfürst

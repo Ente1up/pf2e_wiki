@@ -85,4 +85,4 @@ Er zeigt: Halb-Ork muss nicht zwischen Welten zerrissen sein. Er kann beide Erbs
 
 ## 🔗 Verwandte Themen
 
-- [[💪 Ork]] – Ork-Seite seines Erbes
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/💪 Ork]] – Ork-Seite seines Erbes

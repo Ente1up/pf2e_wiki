@@ -92,5 +92,5 @@ Eine Feenpforte zu durchschreiten ist einfach. Den Weg zurück zu finden ist sch
 
 ## 🔗 Verwandte Themen
 
-- [[🌈 Gnome]] – Das Volk das von hier stammt
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🌈 Gnome]] – Das Volk das von hier stammt
 - [[📜 Das Bleaching]] – Die Konsequenz der Trennung vom First World

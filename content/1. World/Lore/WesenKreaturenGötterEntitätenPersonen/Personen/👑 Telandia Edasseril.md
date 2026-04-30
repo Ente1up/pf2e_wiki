@@ -97,7 +97,7 @@ Wenn sie spricht, ist jedes Wort gewählt. Wenn sie eine Bitte ablehnt, ist das 
 
 ## 🔗 Verwandte Themen
 
-- [[🧝 Elfen]] – Das Elfenvolk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🧝 Elfen]] – Das Elfenvolk
 - [[🏙️ Kyonin]] – Ihr Königreich
 - [[🌙 Calistria]] – Ihre Gottheit
 - [[📅 Remembrance Moon]] – Telandia spricht traditionell beim Ritual

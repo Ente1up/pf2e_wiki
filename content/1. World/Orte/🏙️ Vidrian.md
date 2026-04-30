@@ -112,6 +112,6 @@ Vidrian ist ein Schauplatz für:
 
 ## 🔗 Verwandte Themen
 
-- [[🦎 Echsenvolk]] – Iruxi als gleichberechtigte Bürger Vidrians
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🦎 Echsenvolk]] – Iruxi als gleichberechtigte Bürger Vidrians
 - [[🌿 Mwangi Expanse]] – Die Region in der Vidrian liegt
 - [[🏚️ Droon]] – Kontrast: das traditionelle Iruxi-Gegenstück

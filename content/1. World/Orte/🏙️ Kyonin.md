@@ -90,7 +90,7 @@ Kyonin hat keine stehende Armee im menschlichen Sinne. Stattdessen:
 
 ## 🔗 Verwandte Themen
 
-- [[🧝 Elfen]] – Das Elfenvolk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🧝 Elfen]] – Das Elfenvolk
 - [[🌐 Sovyrian]] – Die Heimat des Exils
 - [[👑 Telandia Edasseril]] – Die Königin
 - [[🌍 Der Starfall]] – Warum die Elfen zurückkehrten und Kyonin gründeten

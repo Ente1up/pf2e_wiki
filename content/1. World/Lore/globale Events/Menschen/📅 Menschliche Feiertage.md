@@ -167,7 +167,7 @@ Menschliche Feste eignen sich besonders gut, weil **regional so verschieden**: E
 
 ## 🔗 Verwandte Themen
 
-- [[👤 Menschen]] – Übergeordnete Lore
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/👤 Menschen]] – Übergeordnete Lore
 - [[🏙️ Cheliax]] – Nacht der Pakte
 - [[🏙️ Taldor]] – Grand Convocation
 - [[🏙️ Varisia]] – Harrowing-Nacht

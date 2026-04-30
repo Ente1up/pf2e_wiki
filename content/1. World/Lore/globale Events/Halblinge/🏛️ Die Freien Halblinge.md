@@ -111,7 +111,7 @@ Der ewige Kampf zwischen Tillers und der Order of the Chain ist eine Geschichte 
 
 ## 🔗 Verwandte Themen
 
-- [[🦶 Halblinge]] – Das Volk das das Netzwerk beschützt
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🦶 Halblinge]] – Das Volk das das Netzwerk beschützt
 - [[📜 Sklaverei in Cheliax]] – Wogegen das Netzwerk kämpft
 - [[🏙️ Cheliax]] – Hauptoperationsgebiet
 - [[👤 Seelah]] – Sympathisantin und gelegentliche Verbündete

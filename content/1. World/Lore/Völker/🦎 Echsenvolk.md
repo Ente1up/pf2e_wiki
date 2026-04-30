@@ -158,7 +158,7 @@ Ein Iruxi-Charakter kann der ruhigste, klügste Verstand am Tisch sein – und g
 
 ## 🔗 Verwandte Notizen
 
-- [[🦎 Echsenvolk|Ancestry: Echsenvolk]] – Mechanische Regeln
+- [[Pathfinder 2e/Pathfinder 2e Wiki/1. World/Lore/Völker/🦎 Echsenvolk|Ancestry: Echsenvolk]] – Mechanische Regeln
 - [[🌿 Mwangi Expanse]] – Hauptsiedlungsgebiet der Iruxi
 - [[🏙️ Vidrian]] – Moderne Nation mit Iruxi-Gleichstellung
 - [[🏚️ Droon]] – Bedeutendste aktive Iruxi-Siedlung

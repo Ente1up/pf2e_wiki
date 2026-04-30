@@ -113,5 +113,5 @@ Als **NPC-Einfluss** eignet er sich für:
 
 ## 🔗 Verwandte Themen
 
-- [[💪 Ork]] – Primäres Verehrer-Volk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/💪 Ork]] – Primäres Verehrer-Volk
 - [[🏙️ Hold of Belkzen]] – Kerngebiet orkischer Gorum-Praxis

@@ -93,5 +93,5 @@ Die Mwangi Expanse ist ein Schauplatz für:
 
 ## 🔗 Verwandte Themen
 
-- [[🧝 Elfen]] – Das Elfenvolk, inkl. Ekujae
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🧝 Elfen]] – Das Elfenvolk, inkl. Ekujae
 - [[🌍 Der Starfall]] – Das Ereignis das die Ekujae-Elfen durchlebten ohne zu fliehen

@@ -84,6 +84,6 @@ Wer zu Firstbloom von einem Halblings-Haushalt eingeladen wird, sollte etwas zum
 
 ## 🔗 Verwandte Themen
 
-- [[🦶 Halblinge]] – Das Volk das Firstbloom feiert
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🦶 Halblinge]] – Das Volk das Firstbloom feiert
 - [[📜 Sklaverei in Cheliax]] – Kontext für die besondere Bedeutung des Festes bei befreiten Halblingen
 - [[🏛️ Die Freien Halblinge]] – Gemeinschaften die Firstbloom als politisches Symbol feiern

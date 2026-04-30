@@ -125,7 +125,7 @@ Religiös dominieren:
 
 ## 🔗 Verwandte Themen
 
-- [[💪 Ork]] – Das tragende Volk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/💪 Ork]] – Das tragende Volk
 - [[👑 Grask Uldeth]] – Aktueller Oberhäuptling
 - [[⛪ Gorum]] – Zentrale Gottheit
 - [[🏙️ Oprak]] – Benachbartes Hobgoblin-Königreich

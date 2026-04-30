@@ -92,7 +92,7 @@ Diese Spaltung erklärt warum manche Elfen auf Golarion einen Hauch von Schuldge
 
 ## 🔗 Verwandte Themen
 
-- [[🧝 Elfen]] – Das Elfenvolk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🧝 Elfen]] – Das Elfenvolk
 - [[🌍 Der Starfall]] – Der Grund des Exils
 - [[🏙️ Kyonin]] – Die Heimkehr-Nation auf Golarion
 - [[📅 Remembrance Moon]] – Das Gedenken an Exil und Rückkehr

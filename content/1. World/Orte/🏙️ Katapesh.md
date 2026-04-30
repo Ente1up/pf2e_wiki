@@ -52,4 +52,4 @@ Sklaverei war über Jahrhunderte eine Säule der katapeshischen Wirtschaft. Offi
 ---
 
 ## 🔗 Verwandte Notizen
-- [[🐀 Rattenvolk]] – Tiefe historische Verbindung, Ysoki-Schutznetzwerke
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🐀 Rattenvolk]] – Tiefe historische Verbindung, Ysoki-Schutznetzwerke

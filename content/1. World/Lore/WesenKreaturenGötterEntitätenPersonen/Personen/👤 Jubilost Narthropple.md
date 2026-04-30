@@ -79,5 +79,5 @@ Jubilost ist:
 
 ## 🔗 Verwandte Themen
 
-- [[🌈 Gnome]] – Das Gnomenvolk
-- [[🌈 Gnome]] – Mechanische Grundlage
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🌈 Gnome]] – Das Gnomenvolk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🌈 Gnome]] – Mechanische Grundlage

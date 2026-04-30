@@ -71,7 +71,7 @@ Die richtige Reaktion: Schweigen, zuhören, die Namen-Verlesung respektieren. We
 
 ## 🔗 Verwandte Themen
 
-- [[⛏️ Zwerge]] – Das Zwergenvolk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/⛏️ Zwerge]] – Das Zwergenvolk
 - [[📜 Der Lange Marsch der Zwerge]] – Das Ereignis das Errinorn gedenkt
 - [[👑 Borogrim der Schwere]] – Zentralfigur der Errinorn-Geschichten
 - [[⛪ Torag]] – Die Gottheit zu deren Ehren das Nachtfeuer brennt

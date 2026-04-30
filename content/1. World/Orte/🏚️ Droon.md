@@ -107,7 +107,7 @@ Droon als Schauplatz bietet:
 
 ## 🔗 Verwandte Themen
 
-- [[🦎 Echsenvolk]] – Das Volk das Droon bewohnt und hütet
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🦎 Echsenvolk]] – Das Volk das Droon bewohnt und hütet
 - [[🌿 Mwangi Expanse]] – Die Region in der Droon liegt
 - [[🏙️ Vidrian]] – Der kulturelle Gegenpol
 - [[📅 Iruxi-Traditionen]] – Die Rituale die in Droon ihren Ursprung haben

@@ -86,5 +86,5 @@ Das Opfer eines Grand Pranks: Wenn es lacht, hat es bestanden. Wenn nicht, war d
 
 ## 🔗 Verwandte Themen
 
-- [[🌈 Gnome]] – Das Gnomenvolk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🌈 Gnome]] – Das Gnomenvolk
 - [[📜 Das Bleaching]] – Warum Erlebnisse für Gnome lebensnotwendig sind

@@ -94,5 +94,5 @@ Als historische Figur taucht Alaznist nicht direkt auf – aber ihre Schatten li
 
 ## 🔗 Verwandte Themen
 
-- [[🧝 Elfen]] – Das Elfenvolk und seine Geschichte
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🧝 Elfen]] – Das Elfenvolk und seine Geschichte
 - [[🌍 Der Starfall]] – Das Ereignis das Thassilon beendete

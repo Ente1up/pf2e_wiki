@@ -57,5 +57,5 @@ Dieser Ordner sammelt alle Einträge zu konkreten Charakteren, Wesen und Mächte
 
 ## 🔗 Verwandte Themen
 
-- [[⛏️ Zwerge]]
-- [[🧝 Elfen]]
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/⛏️ Zwerge]]
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🧝 Elfen]]

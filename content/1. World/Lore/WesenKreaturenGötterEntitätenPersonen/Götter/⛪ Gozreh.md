@@ -112,5 +112,5 @@ Kleriker und Druiden Gozrehs gelten als pragmatisch und erdverbunden. Sie predig
 
 ## 🔗 Verwandte Themen
 
-- [[🦎 Echsenvolk]] – Iruxi als wichtigste Gozreh-Verehrer
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🦎 Echsenvolk]] – Iruxi als wichtigste Gozreh-Verehrer
 - [[🌿 Mwangi Expanse]] – Hauptregion wo Gozreh-Kult bei Iruxi verbreitet ist

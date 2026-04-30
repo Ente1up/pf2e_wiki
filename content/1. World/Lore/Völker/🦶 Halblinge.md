@@ -103,7 +103,7 @@ Halblinge bieten eine **Geschichte voller Würde trotz Widrigkeiten**. Ein Halbl
 
 ## 🔗 Verwandte Themen
 
-- [[🦶 Halblinge|Ancestry: Halblinge]] – Mechanische Regeln
+- [[Pathfinder 2e/Pathfinder 2e Wiki/1. World/Lore/Völker/🦶 Halblinge|Ancestry: Halblinge]] – Mechanische Regeln
 - [[🏙️ Cheliax]] – Hauptort der historischen Halblings-Versklavung
 - [[🏙️ Absalom]] – Bedeutende freie Halblings-Gemeinschaft
 - [[🏙️ Varisia]] – Heimat der Wanderhalblinge

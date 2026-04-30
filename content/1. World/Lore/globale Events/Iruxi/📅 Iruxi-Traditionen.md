@@ -156,6 +156,6 @@ Die Ruinen-Wacht ist der Moment in dem Iruxi am deutlichsten zeigen was diese St
 
 ## 🔗 Verwandte Themen
 
-- [[🦎 Echsenvolk]] – Das Volk hinter diesen Traditionen
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🦎 Echsenvolk]] – Das Volk hinter diesen Traditionen
 - [[🏚️ Droon]] – Zentrum der wichtigsten Ritual-Praktiken
 - [[⛪ Gozreh]] – Gottheit der Natur, eng mit Iruxi-Spiritualität verbunden
