@@ -1,5 +1,4 @@
 ---
-title: "🏙️ Highhelm"
 system: "Pathfinder 2e"
 kategorie: "Lore/Orte"
 tags:
@@ -28,7 +27,6 @@ slug: "world/orte/highhelm"
 Highhelm ist die **bedeutendste zwergische Stadt Avistans** und gilt als das lebende Herz des Zwergvolkes auf der Oberfläche. Sie liegt im Herzen der **Five Kings Mountains** und ist eine der wenigen zwergischen Städte die aktiv Handel mit anderen Völkern betreibt und Außenstehende willkommen heißt – zumindest in bestimmten Vierteln.
 
 Highhelm ist kein Museum der Vergangenheit sondern eine **lebendige, wachsende Metropole** die tief in den Fels gebaut ist. Wer Zwerge verstehen will, kommt nach Highhelm.
-
 ---
 
 ## 📋 Eckdaten

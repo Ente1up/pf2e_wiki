@@ -1,5 +1,4 @@
 ---
-title: "🏙️ Cheliax"
 system: "Pathfinder 2e"
 kategorie: "Lore/Orte"
 tags:
@@ -32,7 +31,6 @@ slug: "world/orte/cheliax"
 Cheliax ist kein einfacher Bösewicht-Staat. Es ist **funktional, gebildet und effizient** – und das macht es gefährlicher als jede offene Tyrannei. Wer in Cheliax lebt, profitiert vom Imperium. Wer widerspricht, verschwindet mit allen juristischen Formvorschriften.
 
 > *„Wir haben nicht die Freiheit verloren. Wir haben aufgehört, sie zu brauchen."* – Chelaxianische Richterin
-
 ---
 
 ## 📋 Eckdaten

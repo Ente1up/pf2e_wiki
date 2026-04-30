@@ -1,5 +1,4 @@
 ---
-title: "🏙️ Varisia"
 system: "Pathfinder 2e"
 kategorie: "Lore/Orte"
 tags:
@@ -32,7 +31,6 @@ slug: "world/orte/varisia"
 Varisia ist der Ort, an dem **chelaxianische Kolonisten, varisische Nomaden und Shoanti-Stämme** parallel existieren – nicht immer friedlich, aber ohne dass ein einzelner Staat sie alle dominiert. Für Abenteurer ist Varisia klassische **Sandbox-Region**: Frontier-Siedlungen, Ruinen, Monster, Politik.
 
 > *„In Varisia begräbt jede Generation ein Imperium – und gräbt ein anderes wieder aus."*
-
 ---
 
 ## 📋 Eckdaten

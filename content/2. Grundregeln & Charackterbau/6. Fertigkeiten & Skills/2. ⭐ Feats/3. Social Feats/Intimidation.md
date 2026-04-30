@@ -1,5 +1,4 @@
 ---
-title: 😤 Skill Feats – Intimidation
 system: Pathfinder 2e
 kategorie: Charakterbau
 unterordner: Feats/Skill Feats
@@ -34,7 +33,6 @@ slug: "ruling/fertigkeiten-skills/feats/social-feats/intimidation"
 
 **Key Ability**: CHA
 **Typische Nutzer**: [[Barbarian]], [[Champion]], [[Fighter]], [[Rogue]], [[Swashbuckler]]
-
 ---
 
 ## 📑 Schnellübersicht

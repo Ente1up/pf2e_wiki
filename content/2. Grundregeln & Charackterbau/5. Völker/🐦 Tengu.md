@@ -1,5 +1,4 @@
 ---
-title: 🐦 Tengu
 system: Pathfinder 2e
 kategorie: Völker
 tags:
@@ -20,7 +19,6 @@ slug: "ruling/völker/tengu"
 ## Überblick
 
 Tengu sind ein **vogelähnliches Volk** mit Schnäbeln, Federn und einem ausgeprägten Talent für Sprachen und Schwertkampf. Sie stammen ursprünglich aus Tian Xia und haben sich über die Welt verbreitet. Tengu sind bekannt für ihre **Sammelleidenschaft** – besonders für glänzende Gegenstände und Wissen.
-
 ---
 
 ## 📋 Eckdaten

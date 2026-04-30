@@ -1,5 +1,4 @@
 ---
-title: "💪 Ork"
 system: "Pathfinder 2e"
 kategorie: "Lore/Völker"
 tags:
@@ -32,7 +31,6 @@ Orks sind **leidenschaftliches, kampferprobtes und tief ehrbewusstes Volk**, lan
 Kernprinzip orkischer Kultur: **Lebe vollständig, jetzt.** Mit durchschnittlicher Lebenserwartung von 60–80 Jahren haben Orks gelernt, jeden Moment zu leben, als wäre er letzter. Das erklärt ihre Intensität: Lieben sie, lieben sie laut. Kämpfen sie, kämpfen sie ganz. Trauern sie, zerreißen sie Kleidung und schreien den Himmel an.
 
 Körperlich sind Orks **groß, muskulös, mit stoßzahnartigen unteren Eckzähnen**. Haut von tiefgrün über grau bis erdbraun. Augen reflektieren wie Raubtieraugen – Darkvision ist orkisches Erbe, nicht Zufall. Viele Orks tragen Narben wie Menschen Medaillen: jede hat Geschichte, jede wird erzählt.
-
 ---
 
 ## 🌍 Herkunft & Geschichte

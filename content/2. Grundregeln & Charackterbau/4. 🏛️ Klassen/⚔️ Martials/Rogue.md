@@ -1,5 +1,4 @@
 ---
-title: Rogue
 system: Pathfinder 2e
 kategorie: Klassen
 tags:
@@ -31,7 +30,6 @@ Der Rogue ist der **Meister der Finesse, Täuschung und des richtigen Moments**.
 Abseits des Kampfes ist der Rogue der vielseitigste **Skill-Charakter** im Spiel: Er bekommt mehr Fertigkeitspunkte als jede andere Klasse, hat Zugang zu einzigartigen **Rogue Feats** die Skills auf neue Ebenen heben, und ist der einzige Charakter der standardmäßig **Legendary** in Skills erreichen kann.
 
 > *„Der Rogue trifft nicht am öftesten – aber wenn er trifft, tut es weh."*
-
 ---
 
 ## 📋 Klassen-Eckdaten

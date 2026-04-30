@@ -1,5 +1,4 @@
 ---
-title: "🏙️ Taldor"
 system: "Pathfinder 2e"
 kategorie: "Lore/Orte"
 tags:
@@ -30,7 +29,6 @@ slug: "world/orte/taldor"
 Doch Taldor ist kein toter Staat. Mit der **Erbfolge-Reform von 4719 AR** – als die erste Kaiserin seit Jahrhunderten den Thron bestieg – hat ein vorsichtiger Aufbruch begonnen. Junge Offiziere, bürgerliche Gelehrte und reformierte Adelige kämpfen um eine Zukunft, die nicht nur Rückblick ist.
 
 > *„Wir haben ein Imperium verloren. Wir haben die Manieren behalten."* – taldanisches Sprichwort
-
 ---
 
 ## 📋 Eckdaten

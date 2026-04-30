@@ -1,5 +1,4 @@
 ---
-title: Fighter
 system: Pathfinder 2e
 kategorie: Klassen
 tags:
@@ -30,7 +29,6 @@ Der Fighter ist der **ultimative Kampfspezialist** in Pathfinder 2e. Keine ander
 Sein größtes Alleinstellungsmerkmal ist der Zugang zu den **meisten und stärksten Kampf-Feats** im gesamten Spiel – und die Fähigkeit, **kritische Treffer früher zu erzielen** als andere Klassen.
 
 > *„Der Fighter ist einsteigerfreundlich zu lernen, aber schwer zu meistern – die schiere Anzahl an Kampfoptionen macht ihn zu einem der tiefsten Builds im Spiel."*
-
 ---
 
 ## 📋 Klassen-Eckdaten

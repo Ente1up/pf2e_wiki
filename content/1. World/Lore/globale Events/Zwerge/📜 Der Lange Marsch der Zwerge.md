@@ -1,5 +1,4 @@
 ---
-title: 📜 Der Lange Marsch der Zwerge
 system: Pathfinder 2e
 kategorie: Lore/Geschichte
 tags:
@@ -30,7 +29,6 @@ slug: "world/lore/globale-events/zwerge/der-lange-marsch-der-zwerge"
 Der **Lange Marsch** – offiziell bekannt als die **Quest for Sky** – ist das prägende Ereignis der zwergischen Geschichte. Es war der generationenlange Exodus des Zwergvolkes aus den Tiefen der **Darklands** an die Oberfläche von Golarion. Kein anderes Ereignis hat die zwergische Kultur, Psyche und Identität so tief geformt wie dieser Marsch.
 
 > *„Wir kamen aus der Dunkelheit. Wir erkämpften das Licht. Und wir werden es nie wieder aufgeben."*
-
 ---
 
 ## 🕰️ Zeitrahmen & Kontext

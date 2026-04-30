@@ -1,5 +1,4 @@
 ---
-title: "🏙️ Oprak"
 system: "Pathfinder 2e"
 kategorie: "Lore/Orte"
 tags:
@@ -30,7 +29,6 @@ Oprak ist das **erste diplomatisch anerkannte Hobgoblin-Königreich Avistans**. 
 Oprak ist kein Utopia. Es ist eine **militarisierte Monarchie** mit strikter Hierarchie, klaren Befehlsketten und einer Gesellschaft die noch immer von Disziplin statt Freiheit lebt. Aber es ist der Beweis, dass Hobgoblins mehr sein können als Krieger.
 
 > *„Wir haben nicht aufgehört Soldaten zu sein. Wir haben nur angefangen, auch Bürger zu sein."* – Azaersi
-
 ---
 
 ## 📋 Eckdaten

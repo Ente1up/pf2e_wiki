@@ -1,5 +1,4 @@
 ---
-title: "🐀 Rattenvolk"
 system: "Pathfinder 2e"
 kategorie: "Lore/Völker"
 tags:
@@ -28,7 +27,6 @@ Das Rattenvolk – in ihrer eigenen Sprache **Ysoki** – sind **kleine, schlaue
 Ihre **Backentaschen** – ein physiologisches Merkmal das es ihnen erlaubt kleine Gegenstände diskret zu transportieren – sind sowohl praktisch als auch kulturell bedeutsam. *"Was trägst du in deinen Taschen?"* ist unter Ysoki eine tiefe persönliche Frage, vergleichbar mit der Frage nach einer Lebensgeschichte.
 
 Ein Ysoki wirkt auf Außenstehende oft zappelig, übermäßig gesprächig oder paranoid. Tatsächlich ist ihr Nervensystem darauf geeicht, **mehrere Reize gleichzeitig zu verarbeiten** – ein Überlebensvorteil in engen Tunneln und belebten Marktplätzen.
-
 ---
 
 ## 🌍 Herkunft & Geschichte

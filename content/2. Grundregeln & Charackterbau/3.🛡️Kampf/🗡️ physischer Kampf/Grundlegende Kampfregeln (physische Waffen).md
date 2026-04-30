@@ -1,5 +1,4 @@
 ---
-title: "Grundlegende Kampfregeln (Physische Waffen)"
 system: "Pathfinder 2e"
 kategorie: "Kampf"
 tags:
@@ -26,7 +25,6 @@ slug: "ruling/kampf/physischer-kampf/grundlegende-kampfregeln-physische-waffen"
 ## Überblick
 
 Der Kampf in Pathfinder 2e läuft in **Runden** ab. Jede Runde besteht aus den Zügen aller Beteiligten, die in der Reihenfolge der **Initiative** agieren.
-
 ---
 
 ## 🎲 Das 3-Aktionen-System

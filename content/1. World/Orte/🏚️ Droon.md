@@ -1,5 +1,4 @@
 ---
-title: "🏚️ Droon"
 system: "Pathfinder 2e"
 kategorie: "Lore/Orte"
 tags:
@@ -28,7 +27,6 @@ slug: "world/orte/droon"
 **Droon** ist die bedeutendste aktive Iruxi-Siedlung der Mwangi Expanse – tief im Dschungel verborgen, halb Siedlung, halb Zeremonialstätte. Wer Droon sucht ohne eingeladen zu sein, findet es nicht. Wer eingeladen wird, findet mehr als er erwartet.
 
 Droon ist nicht die größte Iruxi-Siedlung – es ist die **kulturell wichtigste**. Hier befinden sich die ältesten bekannten Ritual-Archive des Echsenvolks, geführt von einem Rat aus erfahrenen Gedächtnishütern. Droon ist das Herz des kollektiven Gedächtnisses der Iruxi – und es schlägt leise, tief und unbeirrbar.
-
 ---
 
 ## 📋 Eckdaten

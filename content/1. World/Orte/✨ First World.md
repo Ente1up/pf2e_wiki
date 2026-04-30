@@ -1,5 +1,4 @@
 ---
-title: "✨ First World"
 system: "Pathfinder 2e"
 kategorie: "Lore/Orte"
 tags:
@@ -27,7 +26,6 @@ slug: "world/orte/first-world"
 Der **First World** – auch das **Feenreich** oder die **Erste Welt** genannt – ist ein eigenständiges Reich der Existenz jenseits der materiellen Welt Golarions. Er ist das Ursprungsreich der Feen, ein Ort wo Magie nicht angewendet wird sondern einfach **ist**: die Luft selbst ist magisch aufgeladen, Landschaften wandern, Zeit fließt anders, und die Grenzen zwischen Gedanke und Wirklichkeit sind fließend.
 
 Der First World ist kein fester Ort. Er ist **lebendig und instabil** – Ebenen entstehen und vergehen, Seen werden zu Wäldern werden zu Städten, alles pulsiert mit einer rohen Kreativität die keine Ordnung kennt.
-
 ---
 
 ## 📋 Eckdaten

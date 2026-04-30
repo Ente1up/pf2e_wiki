@@ -1,5 +1,4 @@
 ---
-title: Inventor
 system: Pathfinder 2e
 kategorie: Klassen
 tags:
@@ -31,7 +30,6 @@ Der Inventor ist der **geniale Tüftler und Erfinder** unter den Martials. Er k�
 Was den Inventor einzigartig macht ist das **Unstable-System**: Seine mächtigsten Fähigkeiten sind experimentell und riskant – sie können spektakulär funktionieren oder mit einem Knall zurückfeuern. Wer Risiko liebt, ist hier richtig.
 
 > *„Es hat beim ersten Versuch nicht funktioniert. Beim zweiten auch nicht. Beim dritten hat es die halbe Werkstatt in Brand gesetzt. Beim vierten war es perfekt."*
-
 ---
 
 ## 📋 Klassen-Eckdaten

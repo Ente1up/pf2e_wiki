@@ -1,5 +1,4 @@
 ---
-title: "📅 Star Remembrance"
 system: "Pathfinder 2e"
 kategorie: "Lore/Feiertage"
 tags:
@@ -31,7 +30,6 @@ slug: "world/lore/globale-events/elfen/star-remembrance"
 Wo die [[📅 Remembrance Moon]] das Gemeinschafts- und Erinnerungsritual ist, ist Star Remembrance etwas Persönlicheres und Astronomisches: **ein Moment des Innehaltens und des Blickes nach oben** – dorthin woher die Katastrophe kam, und wo die Sterne noch immer stehen, gleichgültig.
 
 Für Elfen die alt genug sind tragen die Sterne eine andere Bedeutung als für andere Völker. Sie sind Zeugen. Sie haben gesehen was geschah.
-
 ---
 
 ## 📋 Eckdaten

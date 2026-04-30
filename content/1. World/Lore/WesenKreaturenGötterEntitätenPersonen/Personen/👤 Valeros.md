@@ -1,5 +1,4 @@
 ---
-title: "👤 Valeros"
 system: "Pathfinder 2e"
 kategorie: "Lore/Personen"
 tags:
@@ -32,7 +31,6 @@ Valeros ist **Pathfinders ikonischer menschlicher Kämpfer** – der Everyman-He
 Genau das macht ihn zum Vorbild: Valeros zeigt, dass **menschliche Helden nicht auserwählt sein müssen**. Sie entscheiden sich jeden Morgen neu, das Richtige zu tun – oder zumindest das weniger Falsche. Das ist genug.
 
 > *„Ich hab' keinen Meisterplan. Ich hab' zwei Klingen, einen Bierdurst und eine gute Truppe. Reicht."*
-
 ---
 
 ## 📋 Eckdaten

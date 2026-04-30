@@ -1,5 +1,4 @@
 ---
-title: Wizard
 system: Pathfinder 2e
 kategorie: Klassen
 tags:
@@ -33,7 +32,6 @@ Der Wizard ist der **klassische Gelehrtenzauberer** – ein Meister der arkanen 
 Was den Wizard auszeichnet ist die **größte Zauberauswahl im Spiel**. Er hat Zugang zur gesamten Arkanen Tradition und führt ein **Zauberbuch** in dem er neue Zauber sammeln und eintragen kann. Er ist der einzige Caster der fast jeden arkanen Zauber lernen kann – vorausgesetzt er findet oder kauft die entsprechenden Formeln.
 
 > *„Magie ist keine Kunst. Sie ist eine Wissenschaft. Und ich habe sie studiert."*
-
 ---
 
 ## 📋 Klassen-Eckdaten

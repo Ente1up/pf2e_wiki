@@ -1,5 +1,4 @@
 ---
-title: "🐦 Tengu"
 system: "Pathfinder 2e"
 kategorie: "Lore/Völker"
 tags:
@@ -27,7 +26,6 @@ Tengu sind **vogelartige Humanoide** mit Schnäbeln, Federn und einem ausgepräg
 Tengu sind keine Einzelgänger, sondern **zutiefst gesellig** – wo ein Tengu ist, folgen meist bald mehr. Ihre Kolonien in fremden Städten sind eng vernetzt, informationshungrig und oft der beste Ort in der Stadt, um ein Gerücht zu kaufen oder zu verkaufen.
 
 Körperlich variieren Tengu stark: Federfarben reichen von schlicht-schwarz (klassisch Krähen-ähnlich) über Elstern-weiß, Pfau-irisierend bis hin zu tropischen Farbmustern. Die Federform markiert oft die Herkunftsregion.
-
 ---
 
 ## 🌍 Herkunft & Geschichte

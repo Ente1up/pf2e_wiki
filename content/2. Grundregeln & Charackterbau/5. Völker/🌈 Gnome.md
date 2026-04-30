@@ -1,5 +1,4 @@
 ---
-title: 🌈 Gnome
 system: Pathfinder 2e
 kategorie: Völker
 tags:
@@ -21,7 +20,6 @@ slug: "ruling/völker/gnome"
 ## Überblick
 
 Gnome sind ein **kleines, lebhaftes und magisch veranlagtes Volk** das ursprünglich aus dem Feenreich (First World) stammt. Ihre Verbindung zu dieser magischen Welt ist noch immer spürbar – in ihrer lebhaften Phantasie, ihrer intensiven Neugier und ihrer Anfälligkeit für **Bleaching**: einen Zustand der Leere wenn sie zu wenig neue Erfahrungen machen.
-
 ---
 
 ## 📋 Eckdaten

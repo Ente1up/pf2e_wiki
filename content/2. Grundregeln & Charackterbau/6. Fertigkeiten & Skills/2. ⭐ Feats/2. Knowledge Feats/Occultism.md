@@ -1,5 +1,4 @@
 ---
-title: 🌀 Skill Feats – Occultism
 system: Pathfinder 2e
 kategorie: Charakterbau
 unterordner: Feats/Skill Feats
@@ -38,7 +37,6 @@ slug: "ruling/fertigkeiten-skills/feats/knowledge-feats/occultism"
 
 **Key Ability**: INT
 **Typische Nutzer**: [[Bard]], [[Witch]], [[Oracle]], [[Psychic]], [[Animist]], [[Investigator]]
-
 ---
 
 ## 📑 Schnellübersicht

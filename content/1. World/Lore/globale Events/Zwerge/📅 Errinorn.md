@@ -1,5 +1,4 @@
 ---
-title: "📅 Errinorn"
 system: "Pathfinder 2e"
 kategorie: "Lore/Feiertage"
 tags:
@@ -29,7 +28,6 @@ slug: "world/lore/globale-events/zwerge/errinorn"
 **Errinorn** ist der wichtigste zwergische Gedenktag – ein jährliches Fest das den **Langen Marsch** und alle die dabei gefallen sind, ehrt. Der Name bedeutet in der alten Zwergsprache ungefähr: *„Die die wir trugen"* – ein Verweis auf die Gefallenen die symbolisch von ihren Überlebenden weitergetragen werden.
 
 Errinorn ist kein fröhliches Fest. Es ist ein **Tag der Stille, der Erinnerung und der Erneuerung** – ein Moment in dem das gesamte Zwergenvolk inne hält und sich bewusst macht: Wir sind hier weil andere es nicht mehr sind.
-
 ---
 
 ## 📋 Eckdaten

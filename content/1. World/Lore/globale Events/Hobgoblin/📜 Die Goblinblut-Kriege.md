@@ -1,5 +1,4 @@
 ---
-title: "📜 Die Goblinblut-Kriege"
 system: "Pathfinder 2e"
 kategorie: "Lore/Geschichte"
 tags:
@@ -31,7 +30,6 @@ Die **Goblinblut-Kriege** (**Goblinblood Wars**, 4697–4701 AR) waren eine Reih
 Die Kriege sind das prägende historische Ereignis moderner Hobgoblin-Identität. Ohne sie gäbe es weder das Königreich **Oprak** noch die heutige diplomatische Wende der hobgoblinischen Kultur.
 
 > *„Sie kamen nicht in Horden. Sie kamen in Regimentern."* – Isgerischer Chronist, 4699 AR
-
 ---
 
 ## 🕰️ Zeitrahmen & Kontext

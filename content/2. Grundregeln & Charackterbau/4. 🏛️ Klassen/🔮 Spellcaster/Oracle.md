@@ -1,5 +1,4 @@
 ---
-title: Oracle
 system: Pathfinder 2e
 kategorie: Klassen
 tags:
@@ -37,7 +36,6 @@ Der Oracle ist der **verfluchte Seher und Kanal göttlicher Macht**. Anders als 
 Was den Oracle einzigartig macht ist das **Mystery & Curse System**: Jede Mystery verleiht ihm einzigartige Fähigkeiten und Offenbarungszauber – aber jedes Mal wenn er seine mächtigsten Fähigkeiten nutzt, verschlimmert sich sein Fluch. Die Kunst des Oracles ist es, seine Fluchstärke zu managen und im richtigen Moment seine volle Kraft zu entfesseln.
 
 > *„Die Götter haben mich nicht erwählt. Sie haben mich heimgesucht."*
-
 ---
 
 ## 📋 Klassen-Eckdaten

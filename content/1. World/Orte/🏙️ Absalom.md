@@ -1,5 +1,4 @@
 ---
-title: "🏙️ Absalom"
 system: "Pathfinder 2e"
 kategorie: "Orte"
 tags:
@@ -22,7 +21,6 @@ slug: "world/orte/absalom"
 ## Überblick
 
 **Absalom** ist die größte Stadt des **Inner Sea** – ein eigenständiger Stadtstaat auf der Isle of Kortos, gegründet vom Gott **Aroden** selbst. Zentrum des Handels, der Magie und der politischen Intrigen. Ein Mikrokosmos aller Völker und Kulturen Golarions.
-
 ---
 
 ## 📋 Eckdaten

@@ -1,5 +1,4 @@
 ---
-title: "👤 Hakon"
 system: "Pathfinder 2e"
 kategorie: "Lore/Personen"
 tags:
@@ -31,7 +30,6 @@ Hakon ist **Pathfinders iconischer Halb-Ork-Investigator** – Krieger aus den *
 Seine Geschichte dreht sich um **zwei Herzen, zwei Welten**: Er ist halb Ulfen, halb Ork, wuchs unter Menschen auf, hat aber nie seine orkische Seite verleugnet. Was andere Halb-Orks als Spaltung erleben, lebt Hakon als **doppelte Schärfe**.
 
 > *„Ich beobachte, bevor ich zuschlage. Dann schlage ich einmal, richtig."*
-
 ---
 
 ## 📋 Eckdaten

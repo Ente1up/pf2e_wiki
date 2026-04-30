@@ -1,5 +1,4 @@
 ---
-title: "👤 Amiri"
 system: "Pathfinder 2e"
 kategorie: "Lore/Personen"
 tags:
@@ -31,7 +30,6 @@ Amiri ist **Pathfinders ikonische menschliche Barbarin** – eine Kriegerin aus 
 Ihr Ursprungsstamm, die **Six Bears**, lehnte sie ab, weil sie sich weigerte, einen Platz als „Frau im Hintergrund" anzunehmen. Sie stahl das Großschwert eines toten Frostriesen – eine Waffe, die kein Mensch tragen sollte – und bewies, dass sie es benutzen konnte. Seitdem trägt sie es als ständiges Mahnmal: *Was ihr mir verweigert habt, habe ich mir genommen.*
 
 > *„Sie haben mir gesagt, ich sei zu schwach. Jetzt erzähle ich es den Riesen."*
-
 ---
 
 ## 📋 Eckdaten

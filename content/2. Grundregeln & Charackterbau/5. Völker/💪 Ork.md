@@ -1,5 +1,4 @@
 ---
-title: 💪 Ork
 system: Pathfinder 2e
 kategorie: Völker
 tags:
@@ -21,7 +20,6 @@ slug: "ruling/völker/ork"
 ## Überblick
 
 Orks sind ein **kräftiges, leidenschaftliches und kampferprobtes Volk** das lange als reine Barbaren abgetan wurde. In Wirklichkeit haben Orks eine reiche Kultur voller Ehre, Stärke und tiefer Verbindung zu ihren Göttern – besonders zu **Gorum (Gott des Krieges)**. Ihre kurze Lebenserwartung und ihr intensives Leben prägen eine Weltanschauung des "lebe vollständig, jetzt".
-
 ---
 
 ## 📋 Eckdaten

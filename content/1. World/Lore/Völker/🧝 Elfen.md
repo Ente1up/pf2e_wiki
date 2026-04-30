@@ -1,5 +1,4 @@
 ---
-title: "🧝 Elfen"
 system: "Pathfinder 2e"
 kategorie: "Lore/Völker"
 tags:
@@ -30,7 +29,6 @@ slug: "world/lore/völker/elfen"
 Elfen sind ein **uraltes, geheimnisvolles und tief in der Magie verwurzeltes Volk**. Sie haben Golarion in einer Zeit gekannt als Menschen noch nicht existierten, und sie werden es noch kennen wenn die meisten heutigen Reiche längst zu Staub geworden sind. Diese Perspektive prägt alles an ihnen – ihre Ruhe, ihre Melancholie, ihren manchmal erschreckend langen Geduldsfaden.
 
 Was Elfen von anderen Völkern unterscheidet ist nicht nur ihr Alter, sondern ihre **Geschichte des Exils**: Als der Starfall drohte, verließen die Elfen Golarion vollständig und zogen in ihre mystische Heimat Sovyrian. Jahrtausende später kehrten sie zurück – in eine Welt die sich ohne sie weiterentwickelt hatte. Viele Elfen kämpfen noch heute mit diesem Fremdheitsgefühl.
-
 ---
 
 ## 🌍 Herkunft & Geschichte

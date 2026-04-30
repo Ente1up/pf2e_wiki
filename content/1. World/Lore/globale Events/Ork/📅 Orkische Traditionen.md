@@ -1,5 +1,4 @@
 ---
-title: "📅 Orkische Traditionen"
 system: "Pathfinder 2e"
 kategorie: "Lore/Feiertage"
 tags:
@@ -29,7 +28,6 @@ slug: "world/lore/globale-events/ork/orkische-traditionen"
 Orkische Kultur hat **keinen festen Festkalender**. Tradition ist **anlass- und tatgebunden**: Ein Ereignis geschieht, dann wird gefeiert. Das Blutfest findet statt nach Sieg, Ahnen-Nacht nach Verlust, Kraft-Prüfung bei Führungsvakuum. Nur wenige Feste folgen zyklischem Rhythmus.
 
 Diese Übersicht sammelt wichtigste orkische Rituale – viele davon übernommen von **Halb-Orks** in Linnorm-Königreichen, urbanen Orks in Magnimar, Absalom, Kaer Maga.
-
 ---
 
 ## 🩸 Blutfest

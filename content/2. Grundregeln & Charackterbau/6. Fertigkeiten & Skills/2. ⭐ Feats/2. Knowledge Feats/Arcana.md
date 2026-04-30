@@ -1,5 +1,4 @@
 ---
-title: 📚 Skill Feats – Arcana
 system: Pathfinder 2e
 kategorie: Charakterbau
 unterordner: Feats/Skill Feats
@@ -33,7 +32,6 @@ slug: "ruling/fertigkeiten-skills/feats/knowledge-feats/arcana"
 
 **Key Ability**: INT
 **Typische Nutzer**: [[Wizard]], [[Witch]], [[Sorcerer]], [[Investigator]]
-
 ---
 
 ## 📑 Schnellübersicht

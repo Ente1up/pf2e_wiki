@@ -1,5 +1,4 @@
 ---
-title: "🦶 Halblinge"
 system: "Pathfinder 2e"
 kategorie: "Lore/Völker"
 tags:
@@ -27,7 +26,6 @@ slug: "world/lore/völker/halblinge"
 Halblinge sind ein **kleines, zähes und überraschend weises Volk** ohne eigene Nation – sie leben seit jeher inmitten anderer Völker und haben gelernt zu gedeihen wo andere nur überleben. Was sie kleiner macht als andere macht sie auch wendiger, diskreter und in mancherlei Hinsicht freier.
 
 Das Besondere an Halblingen ist ihre **Resilienz ohne Bitterkeit**. Viele Halblinge lebten oder leben noch als Hausangestellte, Sklaven oder Abhängige in menschlichen Gesellschaften – und trotzdem bewahren die meisten eine Wärme und Lebensfreude die andere Völker beschämt. Das macht sie nicht naiv. Es macht sie stark.
-
 ---
 
 ## 🌍 Herkunft & Geschichte

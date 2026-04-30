@@ -1,5 +1,4 @@
 ---
-title: "🌿 Mwangi Expanse"
 system: "Pathfinder 2e"
 kategorie: "Lore/Orte"
 tags:
@@ -28,7 +27,6 @@ slug: "world/orte/mwangi-expanse"
 Die **Mwangi Expanse** ist ein riesiges Dschungelgebiet im Süden Golarions – einer der wildesten, artenreichsten und magisch gesättigtsten Landstriche der bekannten Welt. Sie ist keine leere Wildnis: Sie ist das Heimatland **zahlreicher eigenständiger Kulturen**, die trotz jahrhundertelanger Versuche äußerer Mächte nie vollständig unterworfen wurden.
 
 Für die Elfen ist die Mwangi Expanse vor allem der Lebensraum der **Ekujae** – eines Elfenstammes der eine ganz eigene Geschichte hat: Sie gingen nicht nach Sovyrian.
-
 ---
 
 ## 📋 Eckdaten

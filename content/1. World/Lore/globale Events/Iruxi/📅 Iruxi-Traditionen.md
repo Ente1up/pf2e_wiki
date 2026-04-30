@@ -1,5 +1,4 @@
 ---
-title: "📅 Iruxi-Traditionen"
 system: "Pathfinder 2e"
 kategorie: "Lore/Feiertage"
 tags:
@@ -29,7 +28,6 @@ slug: "world/lore/globale-events/iruxi/iruxi-traditionen"
 Iruxi-Traditionen kreisen um ein zentrales Thema: **Gedächtnis als heilige Pflicht**. Feste sind keine Unterbrechung des Alltags – sie sind der Alltag, rituell verdichtet. Jede Zeremonie erfüllt eine Funktion: Erinnerung übertragen, Gemeinschaft stärken, die Verbindung zur natürlichen Welt erneuern.
 
 Ein Iruxi der keine Traditionen kennt, ist – nach Iruxi-Auffassung – kein vollständiger Iruxi.
-
 ---
 
 ## 🧠 Das Ritual des Erinnerns *(Memory Ritual)*

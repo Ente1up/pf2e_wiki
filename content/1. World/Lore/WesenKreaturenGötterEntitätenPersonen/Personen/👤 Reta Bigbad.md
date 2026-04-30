@@ -1,5 +1,4 @@
 ---
-title: "👤 Reta Bigbad"
 system: "Pathfinder 2e"
 kategorie: "Lore/Personen"
 tags:
@@ -29,7 +28,6 @@ Reta Bigbad ist **berüchtigte Goblin-Kriegerin** – größer, stärker und gef
 Reta ist **nicht Iconic** im Paizo-Sinn, aber sie ist eine der bekanntesten antagonistischen Goblin-Figuren – das Gesicht dessen, was Goblins sein können, wenn Brutalität auf Intelligenz trifft.
 
 > *„Ich bin nicht kleine Goblin. Ich bin große Goblin. Bigbad Goblin. Mach Namen-Lied!"*
-
 ---
 
 ## 📋 Eckdaten

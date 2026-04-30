@@ -1,5 +1,4 @@
 ---
-title: "👤 Seelah"
 system: "Pathfinder 2e"
 kategorie: "Lore/Personen"
 tags:
@@ -32,7 +31,6 @@ Seelah ist **Pathfinders ikonische Champion-Paladin** – und eine der bewegends
 Sie ist eine Menschenfrau aus Cheliax, aufgewachsen in einer der brutalsten sklavenhaltenden Gesellschaften der Inneren See. Ihre Reise zur Paladin von Iomedae ist keine Geschichte von Bestimmung – sie ist eine Geschichte von **Scham, Dankbarkeit und dem Entschluss, besser zu werden**.
 
 > *„Ich stahl, um zu überleben. Sie starb, damit ich es konnte. Das Mindeste, was ich tun kann, ist sicherzustellen, dass ihr Tod etwas bedeutet."*
-
 ---
 
 ## 📋 Eckdaten

@@ -1,5 +1,4 @@
 ---
-title: 🔨 Skill Feats – Crafting
 system: Pathfinder 2e
 kategorie: Charakterbau
 unterordner: Feats/Skill Feats
@@ -32,7 +31,6 @@ slug: "ruling/fertigkeiten-skills/feats/handwerker-überleben/crafting"
 
 **Key Ability**: INT
 **Typische Nutzer**: [[Inventor]], [[Investigator]], [[Wizard]], [[Alchemist]]
-
 ---
 
 ## 📑 Schnellübersicht

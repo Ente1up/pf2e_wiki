@@ -1,5 +1,4 @@
 ---
-title: 🌲 Skill Feats – Survival
 system: Pathfinder 2e
 kategorie: Charakterbau
 unterordner: Feats/Skill Feats
@@ -32,7 +31,6 @@ slug: "ruling/fertigkeiten-skills/feats/handwerker-überleben/survival"
 
 **Key Ability**: WIS
 **Typische Nutzer**: [[Ranger]], [[Druid]], [[Animist]], [[Barbarian]]
-
 ---
 
 ## 📑 Schnellübersicht

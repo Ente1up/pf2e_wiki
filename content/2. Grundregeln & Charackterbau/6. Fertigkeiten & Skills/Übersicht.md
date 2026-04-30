@@ -1,5 +1,4 @@
 ---
-title: "Übersicht"
 system: "Pathfinder 2e"
 kategorie: "Ruling/Fertigkeiten & Skills"
 tags:

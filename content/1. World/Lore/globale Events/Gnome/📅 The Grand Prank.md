@@ -1,5 +1,4 @@
 ---
-title: "📅 The Grand Prank"
 system: "Pathfinder 2e"
 kategorie: "Lore/Feiertage"
 tags:
@@ -26,7 +25,6 @@ slug: "world/lore/globale-events/gnome/the-grand-prank"
 **The Grand Prank** ist keine Feier mit festem Datum – es ist eine **gnomische Spontantradition**: Wenn ein Gnom einen Streich plant der wirklich grandios ist, so außergewöhnlich dass er es alleine nicht durchziehen kann oder will, lädt er andere Gnome ein mitzumachen. Was folgt, ist kollektiver Irrsinn mit sozialem Zusammenhalt.
 
 Der Grand Prank ist gleichzeitig Unterhaltung, Anti-Bleaching-Ritual und sozialer Klebstoff der gnomischen Gemeinschaft.
-
 ---
 
 ## 📋 Eckdaten

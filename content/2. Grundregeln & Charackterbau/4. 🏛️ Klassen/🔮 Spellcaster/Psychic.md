@@ -1,5 +1,4 @@
 ---
-title: "Psychic"
 system: "Pathfinder 2e"
 kategorie: "Klassen"
 tags:
@@ -36,7 +35,6 @@ Der Psychic ist der **Meister mentaler und psychischer Magie**. Seine Kraft komm
 Der Psychic ist die **Cantrip-zentrierteste Klasse im Spiel**. Wo andere Caster Cantrips als Füller zwischen echten Zaubern nutzen, sind Cantrips beim Psychic die **Hauptwaffe** – verstärkt durch Amps zu Effekten die normale Zauber übertreffen können.
 
 > *„Ich brauche keine Worte, keine Gesten, keine Komponenten. Ich brauche nur meinen Willen."*
-
 ---
 
 ## 📋 Klassen-Eckdaten

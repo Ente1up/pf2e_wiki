@@ -1,5 +1,4 @@
 ---
-title: "🏙️ Kyonin"
 system: "Pathfinder 2e"
 kategorie: "Lore/Orte"
 tags:
@@ -29,7 +28,6 @@ slug: "world/orte/kyonin"
 Kyonin ist das **einzige echte elfische Königreich in Avistan** – das Herzland der zurückgekehrten Elfen und Symbol für alles was das Volk auf Golarion noch hat. Es liegt in den Wäldern im Westen Avistans, umgeben von einem mystischen Wald der jeden Eindringling ohne Erlaubnis aufhält.
 
 Kyonin ist kein offenes Land. Es ist ein **bewusst abgeschirmtes Refugium** – die Elfen haben gelernt was passiert wenn man sich zu weit öffnet. Wer eingelassen wird ist auserwählt; wer ausgewiesen wird, kommt nicht zurück.
-
 ---
 
 ## 📋 Eckdaten

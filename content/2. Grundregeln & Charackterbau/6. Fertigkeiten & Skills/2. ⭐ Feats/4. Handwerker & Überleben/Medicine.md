@@ -1,5 +1,4 @@
 ---
-title: 🏥 Skill Feats – Medicine
 system: Pathfinder 2e
 kategorie: Charakterbau
 unterordner: Feats/Skill Feats
@@ -35,7 +34,6 @@ slug: "ruling/fertigkeiten-skills/feats/handwerker-überleben/medicine"
 **Typische Nutzer**: [[Cleric]], [[Champion]], [[Investigator]], [[Ranger]]
 
 > 💡 Medicine ist eine der wichtigsten Fertigkeiten für jede Gruppe – selbst ohne Heiler-Klasse kann ein Charakter mit hoher Medicine die Gruppe am Leben halten.
-
 ---
 
 ## 📑 Schnellübersicht

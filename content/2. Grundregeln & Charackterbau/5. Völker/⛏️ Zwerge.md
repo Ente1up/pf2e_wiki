@@ -1,5 +1,4 @@
 ---
-title: ⛏️ Zwerge
 system: Pathfinder 2e
 kategorie: Völker
 tags:
@@ -22,7 +21,6 @@ slug: "ruling/völker/zwerge"
 ## Überblick
 
 Zwerge sind ein **robustes, traditionsbewusstes Volk** das tief in den Bergen lebt und für seine Handwerkskunst, Sturheit und Loyalität bekannt ist. Sie haben eine lange Geschichte des Kampfes gegen Dunkelheit und Untote – besonders gegen die Urfeinde ihrer Vorfahren. Ihr **Anathema gegen Goblins** ist tief in ihrer Kultur verwurzelt.
-
 ---
 
 ## 📋 Eckdaten

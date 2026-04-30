@@ -1,5 +1,4 @@
 ---
-title: "💀 Alaznist"
 system: "Pathfinder 2e"
 kategorie: "Lore/Personen"
 tags:
@@ -31,7 +30,6 @@ Alaznist war die **Runenlord der Wut** – eine der mächtigsten Magierin des al
 Sie ist keine Heldin und keine Sympathieträgerin. Sie ist das Beispiel das elfische Älteste ihren Jungen erzählen wenn sie von Hybris warnen: **Mehr Macht zu wollen als man tragen kann.** Und dass die elfische Langlebigkeit das nur schlimmer macht – du hast mehr Zeit Fehler zu machen. Und tiefer zu fallen.
 
 > *„Sie lebte Jahrhunderte. Jedes davon dem falschen Ziel gewidmet."*
-
 ---
 
 ## 📋 Eckdaten

@@ -1,5 +1,4 @@
 ---
-title: 🤸 Skill Feats – Acrobatics
 system: Pathfinder 2e
 kategorie: Charakterbau
 unterordner: Feats/Skill Feats
@@ -32,7 +31,6 @@ slug: "ruling/fertigkeiten-skills/feats/skill-feats/acrobatics"
 
 **Key Ability**: DEX
 **Typische Nutzer**: [[Monk]], [[Swashbuckler]], [[Rogue]], [[Ranger]]
-
 ---
 
 ## 📑 Schnellübersicht

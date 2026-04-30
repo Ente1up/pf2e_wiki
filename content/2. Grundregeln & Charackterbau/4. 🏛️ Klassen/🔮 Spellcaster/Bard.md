@@ -1,5 +1,4 @@
 ---
-title: Bard
 system: Pathfinder 2e
 kategorie: Klassen
 tags:
@@ -35,7 +34,6 @@ Der Bard ist der **Meister der Kunst, Musik und okkulten Magie**. Er inspiriert,
 Was den Bard einzigartig macht ist sein **Composition-System**: Mächtige Zauber die als Bonus-Aktionen gewirkt werden und die ganze Gruppe gleichzeitig buffern. Er ist der stärkste **Support-Caster** im Spiel – aber unterschätze seinen offensiven und kontrollierenden Beitrag nicht.
 
 > *„Ich kämpfe nicht mit Klingen. Ich kämpfe mit Worten – und Worte sind mächtiger."*
-
 ---
 
 ## 📋 Klassen-Eckdaten

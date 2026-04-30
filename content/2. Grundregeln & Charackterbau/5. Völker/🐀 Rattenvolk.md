@@ -1,5 +1,4 @@
 ---
-title: 🐀 Rattenvolk
 system: Pathfinder 2e
 kategorie: Völker
 tags:
@@ -21,7 +20,6 @@ slug: "ruling/völker/rattenvolk"
 ## Überblick
 
 Ratfolk (auch **Ysoki** genannt) sind ein **kleines, cleveres und geselliges Volk** das für seinen Handel, sein Handwerk und seine Fähigkeit bekannt ist überall zu überleben. Sie leben in engen Gemeinschaften und sind Meister des **Schmuggels, Handelns und Erfindens**. Ihre Backentaschen ermöglichen es ihnen kleine Gegenstände zu verstecken.
-
 ---
 
 ## 📋 Eckdaten

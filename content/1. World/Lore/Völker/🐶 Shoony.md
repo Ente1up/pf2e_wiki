@@ -1,5 +1,4 @@
 ---
-title: "🐶 Shoony"
 system: "Pathfinder 2e"
 kategorie: "Lore/Völker"
 tags:
@@ -26,7 +25,6 @@ In einer Welt voller stolzer Krieger und mächtiger Magier sind Shoony eine Erin
 Körperlich sind Shoony **klein** (etwas größer als Halblinge), mit weichem, meist kurzem Fell in Braun-, Beige- und Grautönen. Ihre **Hängeohren, feuchten Nasen und ausdrucksstarken Augen** machen sie vielen Menschen sofort sympathisch – ein Umstand, den Shoony selbst oft mit leichter Ironie sehen.
 
 ![[Pasted image 20260419003753.png]]
-
 ---
 
 ## 🌍 Herkunft & Geschichte

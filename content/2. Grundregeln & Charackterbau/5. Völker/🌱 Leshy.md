@@ -1,5 +1,4 @@
 ---
-title: 🌱 Leshy
 system: Pathfinder 2e
 kategorie: Völker
 tags:
@@ -20,7 +19,6 @@ slug: "ruling/völker/leshy"
 ## Überblick
 
 Leshys sind **lebende Pflanzen** – kleine humanoide Wesen die von Druiden oder natürlichen Kräften erschaffen wurden und ein Bewusstsein entwickelt haben. Sie sind zutiefst mit der Natur verbunden, neugierig auf die Welt der Sterblichen und existieren außerhalb des normalen Kreislaufs von Leben und Tod.
-
 ---
 
 ## 📋 Eckdaten

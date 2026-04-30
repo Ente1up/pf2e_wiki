@@ -1,5 +1,4 @@
 ---
-title: 🌿 Skill Feats – Nature
 system: Pathfinder 2e
 kategorie: Charakterbau
 unterordner: Feats/Skill Feats
@@ -34,7 +33,6 @@ slug: "ruling/fertigkeiten-skills/feats/knowledge-feats/nature"
 
 **Key Ability**: WIS
 **Typische Nutzer**: [[Druid]], [[Ranger]], [[Animist]], [[Cleric]] (Nature-Domäne)
-
 ---
 
 ## 📑 Schnellübersicht

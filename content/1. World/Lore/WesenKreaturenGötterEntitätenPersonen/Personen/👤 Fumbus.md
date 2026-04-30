@@ -1,5 +1,4 @@
 ---
-title: "👤 Fumbus"
 system: "Pathfinder 2e"
 kategorie: "Lore/Personen"
 tags:
@@ -28,7 +27,6 @@ Fumbus ist **Pathfinders ikonischer Goblin-Alchemist** – und das lebende Argum
 Er ist kein Wissenschaftler im klassischen Sinn. Er ist jemand, der Dinge mischt um zu sehen was passiert – und dessen Überlebensrate bei diesen Experimenten statistisch gesehen viel zu hoch ist.
 
 > *„Wenn nichts explodiert, habe ich wahrscheinlich etwas falsch gemacht."*
-
 ---
 
 ## 📋 Eckdaten

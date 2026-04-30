@@ -1,5 +1,4 @@
 ---
-title: Swashbuckler
 system: Pathfinder 2e
 kategorie: Klassen
 tags:
@@ -31,7 +30,6 @@ Der Swashbuckler ist der **elegante Duellant und Showkämpfer** unter den Martia
 Der Swashbuckler ist die verkörperte Fantasie von Zorro, d'Artagnan oder Jack Sparrow: leichtfüßig, charismatisch, immer einen Kommentar auf den Lippen – und tödlich präzise wenn es darauf ankommt.
 
 > *„Ein Swashbuckler verliert nie – manchmal gewinnt er einfach nur später."*
-
 ---
 
 ## 📋 Klassen-Eckdaten

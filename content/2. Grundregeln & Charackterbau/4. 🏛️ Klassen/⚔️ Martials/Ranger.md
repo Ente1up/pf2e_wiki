@@ -1,5 +1,4 @@
 ---
-title: Ranger
 system: Pathfinder 2e
 kategorie: Klassen
 tags:
@@ -31,7 +30,6 @@ Der Ranger ist ein **kampferfahrener Jäger und Überlebenskünstler**, der sich
 Im Gegensatz zum Fighter hat der Ranger eine **enge Verbindung zur Natur**: Er liest Spuren, navigiert Wildnis, und kann optional einen **Tiergefährten** oder sogar limitierte **Waldmagie** einsetzen. Er ist flexibel zwischen Fernkampf, Nahkampf und Erkundung.
 
 > *„Der Ranger ist der Spezialist für ein einzelnes Ziel – einmal markiert, gibt es kaum ein Entkommen."*
-
 ---
 
 ## 📋 Klassen-Eckdaten

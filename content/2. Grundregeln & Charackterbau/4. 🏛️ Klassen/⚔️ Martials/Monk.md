@@ -1,5 +1,4 @@
 ---
-title: Monk
 system: Pathfinder 2e
 kategorie: Klassen
 tags:
@@ -31,7 +30,6 @@ Der Monk ist der **Meister des eigenen Körpers**. Er braucht keine Waffen, kein
 Was den Monk einzigartig macht: Seine **Unarmed Attacks** (Fäuste, Tritte, etc.) sind die einzigen Strikes im Spiel die gleichzeitig **Agile und Finesse** sind – er kann also sowohl mit STR als auch mit DEX angreifen und hat dabei reduzierten MAP. Hinzu kommt ein einzigartiges **Ki-System** für übernatürliche Fähigkeiten.
 
 > *„Der Monk braucht nichts außer sich selbst – und das reicht."*
-
 ---
 
 ## 📋 Klassen-Eckdaten

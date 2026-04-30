@@ -1,5 +1,4 @@
 ---
-title: "📅 The Long Vigil"
 system: "Pathfinder 2e"
 kategorie: "Lore/Feiertage"
 tags:
@@ -31,7 +30,6 @@ slug: "world/lore/globale-events/elfen/the-long-vigil"
 Für andere Völker klingt es trivial – eine Nacht nicht schlafen. Für Elfen ist es etwas anderes. Die Trance ist ihre Art zu ruhen, ihre Art Erinnerungen zu ordnen. Sie zu verweigern ist kein einfaches Wachbleiben; es ist eine **bewusste Konfrontation mit dem ungeordneten Geist** – mit allem was ungeklärt, unverarbeitet, unverstanden geblieben ist.
 
 The Long Vigil ist deshalb das intimste elfische Ritual: keine Gemeinschaft, keine Geschichten, kein Licht. Nur Stille und das, was man in sich trägt.
-
 ---
 
 ## 📋 Eckdaten

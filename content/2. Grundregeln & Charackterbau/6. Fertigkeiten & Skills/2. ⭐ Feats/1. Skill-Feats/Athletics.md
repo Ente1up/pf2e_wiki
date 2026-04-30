@@ -1,5 +1,4 @@
 ---
-title: 💪 Skill Feats – Athletics
 system: Pathfinder 2e
 kategorie: Charakterbau
 unterordner: Feats/Skill Feats
@@ -35,7 +34,6 @@ slug: "ruling/fertigkeiten-skills/feats/skill-feats/athletics"
 
 **Key Ability**: STR
 **Typische Nutzer**: [[Fighter]], [[Barbarian]], [[Monk]], [[Ranger]], [[Champion]]
-
 ---
 
 ## 📑 Schnellübersicht

@@ -1,5 +1,4 @@
 ---
-title: "🏚️ Tar Taargadth"
 system: "Pathfinder 2e"
 kategorie: "Lore/Orte"
 tags:
@@ -29,7 +28,6 @@ slug: "world/orte/tar-taargadth"
 Tar Taargadth ist das **älteste noch existierende Zwergreich** – ein unterirdisches Imperium das tief in den Darklands liegt und bis heute von Zwergen bewohnt und regiert wird. Während Highhelm das moderne Gesicht des Zwergvolkes zeigt, ist Tar Taargadth sein **uraltes, verborgenes Herz**.
 
 Kaum ein Nicht-Zwerg hat Tar Taargadth je betreten. Kaum ein Zwerg spricht offen darüber. Aber jeder Zwerg weiß: Es existiert, es hält stand, und es erinnert sich.
-
 ---
 
 ## 📋 Eckdaten

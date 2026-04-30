@@ -1,5 +1,4 @@
 ---
-title: "Völker – Übersicht"
 system: "Pathfinder 2e"
 kategorie: "Völker"
 tags:
@@ -28,7 +27,6 @@ Die **Ancestry** (Abstammung) ist einer der drei Grundpfeiler der Charaktererste
 - **Sinne** (Darkvision, Low-Light Vision etc.)
 - **Sprachen**
 - **Ancestry Feats** (bei Level 1, 5, 9, 13, 17)
-
 ---
 
 ## 📋 Alle spielbaren Ancestries

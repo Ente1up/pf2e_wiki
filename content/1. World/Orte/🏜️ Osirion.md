@@ -1,5 +1,4 @@
 ---
-title: "🏜️ Osirion"
 system: "Pathfinder 2e"
 kategorie: "Lore/Orte"
 tags:
@@ -30,7 +29,6 @@ slug: "world/orte/osirion"
 Nach Jahrhunderten kelishitischer Fremdherrschaft wurde Osirion vor weniger als zweihundert Jahren wieder unabhängig. Seitdem hat der amtierende **Rubinfürst Khemet III.** die Wiedererweckung der alten osirianischen Kultur zu seiner Lebensaufgabe gemacht – inklusive der Erforschung jener alten Gruften, die seine Vorfahren vor Jahrtausenden versiegelten.
 
 > *„Die Wüste erinnert sich. Wer Osirion beherrschen will, muss zuerst die Wüste besänftigen."*
-
 ---
 
 ## 📋 Eckdaten

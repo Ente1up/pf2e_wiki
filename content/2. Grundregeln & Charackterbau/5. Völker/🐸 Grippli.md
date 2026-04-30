@@ -1,5 +1,4 @@
 ---
-title: 🐸 Grippli
 system: Pathfinder 2e
 kategorie: Völker
 tags:
@@ -20,7 +19,6 @@ slug: "ruling/völker/grippli"
 ## Überblick
 
 Gripplis sind ein **kleines, froschähnliches Volk** das in tropischen Sümpfen und Regenwäldern lebt. Sie sind bekannt für ihre **Kletterfertigkeiten, ihr Gift** und ihre tiefe Verbindung zur Natur. Gripplis sind vorsichtige, beobachtende Wesen die lieber aus dem Hinterhalt agieren als direkt zu konfrontieren.
-
 ---
 
 ## 📋 Eckdaten

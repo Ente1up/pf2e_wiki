@@ -1,5 +1,4 @@
 ---
-title: "👑 Grask Uldeth"
 system: "Pathfinder 2e"
 kategorie: "Lore/Personen"
 tags:
@@ -32,7 +31,6 @@ Grask Uldeth ist **Oberhäuptling von Urgir und faktischer Reform-Herrscher des 
 Grask ist kein friedlicher Ork. Er hat seinen Thron in Urgir **mit Gewalt genommen** und hält ihn mit derselben Klinge. Aber er versteht, was seine Vorgänger nicht verstanden: **Orkische Stärke allein reicht nicht mehr**, wenn Gravelands im Osten mit untoten Heeren drohen und Oprak im Süden zeigt, dass goblinoide Völker diplomatisch existieren können.
 
 > *„Ich bin Ork. Ich bin Häuptling. Ich bin nicht dumm. Wir brauchen Freunde – oder wir sterben in Kampf, der keinen Ruhm bringt."*
-
 ---
 
 ## 📋 Eckdaten

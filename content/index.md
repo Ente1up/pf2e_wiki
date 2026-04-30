@@ -1,5 +1,4 @@
 ---
-title: "PF2e Wiki"
 system: "Pathfinder 2e"
 kategorie: "Index"
 tags:

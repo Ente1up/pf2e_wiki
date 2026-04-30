@@ -1,5 +1,4 @@
 ---
-title: 🐱 Katzenvolk
 system: Pathfinder 2e
 kategorie: Völker
 tags:
@@ -21,7 +20,6 @@ slug: "ruling/völker/katzenvolk"
 ## Überblick
 
 Catfolk (auch **Amurrun** genannt) sind ein **katzenhaftes, neugieriges und freiheitsliebend Volk** das für seine Beweglichkeit, seine Sinne und seinen unstillbaren Wandertrieb bekannt ist. Sie folgen dem **Wanderlust** – einem inneren Ruf der sie in die Welt treibt um neue Orte zu entdecken.
-
 ---
 
 ## 📋 Eckdaten

@@ -1,5 +1,4 @@
 ---
-title: "Animist"
 system: "Pathfinder 2e"
 kategorie: "Klassen"
 tags:
@@ -37,7 +36,6 @@ Der Animist ist der **Geistermittler und Kanal spiritueller Mächte**. Er percei
 Was den Animist einzigartig macht ist sein **Apparition-System**: Er lädt täglich eine Auswahl von Geistern in sich ein die ihm verschiedene Zauber, Fähigkeiten und Fokuszauber gewähren. Je mehr Geister er channelt, desto mächtiger wird er – aber auch instabiler. Er ist der **flexibelste Caster im Spiel** da sein Zauberzugang sich täglich komplett verändern kann.
 
 > *„Ihr seht eine verlassene Ruine. Ich sehe hundert Stimmen die alle gleichzeitig sprechen."*
-
 ---
 
 ## 📋 Klassen-Eckdaten

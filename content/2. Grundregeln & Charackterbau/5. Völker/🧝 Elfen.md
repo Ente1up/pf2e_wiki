@@ -1,5 +1,4 @@
 ---
-title: 🧝 Elfen
 system: Pathfinder 2e
 kategorie: Völker
 tags:
@@ -22,7 +21,6 @@ slug: "ruling/völker/elfen"
 ## Überblick
 
 Elfen sind ein **uraltes, langlebiges Volk** das die Welt Golarion seit Äonen kennt und einst verschwand – nur um Jahrtausende später zurückzukehren. Sie sind bekannt für ihre übernatürliche Anmut, ihr tiefes Wissen und ihre enge Verbindung zur Magie und Natur. Ihre lange Lebensspanne gibt ihnen eine Perspektive auf die Welt die Kurzlebige kaum verstehen können.
-
 ---
 
 ## 📋 Eckdaten

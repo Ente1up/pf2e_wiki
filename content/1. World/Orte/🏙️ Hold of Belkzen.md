@@ -1,5 +1,4 @@
 ---
-title: "🏙️ Hold of Belkzen"
 system: "Pathfinder 2e"
 kategorie: "Lore/Orte"
 tags:
@@ -32,7 +31,6 @@ slug: "world/orte/hold-of-belkzen"
 Unter **Grask Uldeth**, Oberhäuptling von **Urgir**, beginnt sich das zu ändern. Zum ersten Mal seit Gründung Belkzens wird diplomatische Anerkennung ernsthaft verfolgt – nicht als Schwäche, sondern als neue Form orkischer Stärke.
 
 > *„Wir haben Land erobert. Jetzt lernen wir, es zu halten – nicht durch Klinge allein."* – Grask Uldeth
-
 ---
 
 ## 📋 Eckdaten

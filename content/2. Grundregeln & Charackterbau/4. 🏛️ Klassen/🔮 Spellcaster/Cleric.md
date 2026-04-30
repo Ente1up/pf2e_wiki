@@ -1,5 +1,4 @@
 ---
-title: Cleric
 system: Pathfinder 2e
 kategorie: Klassen
 tags:
@@ -35,7 +34,6 @@ Der Cleric ist der **Gottgeweihte und Kanalisierer göttlicher Macht**. Er zieht
 Was den Cleric einzigartig macht ist das **Divine Font-System**: Er kann entweder **Heal** oder **Harm** als quasi-unbegrenzte Ressource nutzen – was ihn zum besten Heiler *oder* zum effektivsten Untotenbekämpfer/-beschwörer im Spiel macht. Zusätzlich wählt er eine **Doktrin** die bestimmt ob er Prepared oder Spontaneous castet.
 
 > *„Meine Stärke kommt nicht von mir – sie kommt von meinem Gott. Und mein Gott ist sehr, sehr mächtig."*
-
 ---
 
 ## 📋 Klassen-Eckdaten

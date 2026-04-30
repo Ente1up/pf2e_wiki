@@ -1,5 +1,4 @@
 ---
-title: "🐉 Kobold"
 system: "Pathfinder 2e"
 kategorie: "Lore/Völker"
 tags:
@@ -25,7 +24,6 @@ Kobolds sind **kleine, drakonische Humanoide** die sich als direkte Nachfahren v
 Was Kobolds fehlt an körperlicher Stärke, kompensieren sie durch **Intelligenz, Fallenbauen und schiere Zahlenstärke**. Ein einzelner Kobold ist ungefährlich. Hundert Kobolds in einem gut präparierten Tunnel? Eine ernsthafte Bedrohung.
 
 Ein erwachsener Kobold wird kaum größer als ein menschliches Kind, erreicht aber ein Alter von **bis zu 120 Jahren**. Ihre Schuppenfarben – rot, blau, grün, schwarz, weiß, messing, bronze – spiegeln oft den Drachen wider, von dem ihre Linie abstammt.
-
 ---
 
 ## 🌍 Herkunft & Geschichte

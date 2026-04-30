@@ -1,5 +1,4 @@
 ---
-title: "📅 Burn Night"
 system: "Pathfinder 2e"
 kategorie: "Lore/Feiertage"
 tags:
@@ -29,7 +28,6 @@ slug: "world/lore/globale-events/goblin/burn-night"
 Für Außenstehende ist Burn Night alarmierend, gefährlich und oft teuer. Für Goblins ist es gleichzeitig **Religion, Party, Wettbewerb und Gemeinschaftsritus** – zentrale Ausdrucksform goblinischer Kultur.
 
 > *„Feuer ist schön. Feuer ist warm. Feuer ist Freund, der nie widerspricht. Brenn Nacht, brenn Leben, brenn Angst!"*
-
 ---
 
 ## 📋 Eckdaten

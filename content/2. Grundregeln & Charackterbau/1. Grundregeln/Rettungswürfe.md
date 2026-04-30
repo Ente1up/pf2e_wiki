@@ -1,5 +1,4 @@
 ---
-title: "Rettungswürfe"
 system: "Pathfinder 2e"
 kategorie: "Ruling/Grundregeln"
 tags:
@@ -24,7 +23,6 @@ slug: "ruling/grundregeln/rettungswürfe"
 
 **Formel:**
 > 1W20 + Proficiency-Bonus + Attribut-Modifier + sonstige Boni
-
 ---
 
 ## Die drei Rettungswürfe

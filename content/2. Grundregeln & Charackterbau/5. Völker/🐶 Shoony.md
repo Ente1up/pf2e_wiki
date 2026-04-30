@@ -1,5 +1,4 @@
 ---
-title: 🐶 Shoony
 system: Pathfinder 2e
 kategorie: Völker
 tags:
@@ -20,7 +19,6 @@ slug: "ruling/völker/shoony"
 ## Überblick
 
 Shoonys sind ein **kleines, hundeähnliches Volk** das für seine **Freundlichkeit, Loyalität und Friedensliebe** bekannt ist. Sie sind keine Kämpfer von Natur aus – sie bevorzugen Landwirtschaft, Handel und Gemeinschaft. Wenn sie kämpfen, dann um ihre Gemeinschaft zu schützen, niemals aus Aggression.
-
 ---
 
 ## 📋 Eckdaten

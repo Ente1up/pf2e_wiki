@@ -1,5 +1,4 @@
 ---
-title: 👺 Goblin
 system: Pathfinder 2e
 kategorie: Völker
 tags:
@@ -21,7 +20,6 @@ slug: "ruling/völker/goblin"
 ## Überblick
 
 Goblins sind ein **kleines, chaotisches und überraschend überlebensfähiges Volk** das lange als reine Feinde der Zivilisation galt. In der modernen Zeit haben sich viele Goblins von ihrer gewaltsamen Vergangenheit gelöst und versuchen ihren Platz in der zivilisierten Welt zu finden – mit wechselndem Erfolg und viel Chaos. Sie lieben **Feuer, Essen und Lieder** (auch wenn ihre Lieder meist schrecklich sind).
-
 ---
 
 ## 📋 Eckdaten

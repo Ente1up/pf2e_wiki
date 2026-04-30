@@ -1,5 +1,4 @@
 ---
-title: "🕳️ Darklands"
 system: "Pathfinder 2e"
 kategorie: "Lore/Orte"
 tags:
@@ -27,7 +26,6 @@ slug: "world/orte/darklands"
 Die **Darklands** sind das riesige unterirdische Höhlen- und Tunnelnetz unterhalb der Oberfläche von Golarion. Sie erstrecken sich unter fast dem gesamten Kontinent Avistan und Teilen von Garund – ein eigenes Ökosystem aus Dunkelheit, Gefahr und uralten Geheimnissen.
 
 Die Darklands sind kein einfacher Dungeon. Sie sind eine **vollständige Unterwelt** mit eigenen Zivilisationen, Ökosystemen und politischen Mächten – und nahezu überall lebensfeindlich für Oberflächenbewohner.
-
 ---
 
 ## 🗺️ Die drei Schichten

@@ -1,5 +1,4 @@
 ---
-title: Druid
 system: Pathfinder 2e
 kategorie: Klassen
 tags:
@@ -36,7 +35,6 @@ Der Druid ist der **Hüter der Natur und Kanal der Urmagie**. Seine Kraft kommt 
 Was den Druid einzigartig macht ist seine **Druidic Order** – eine Spezialisierung die seinen Spielstil radikal verändert: Er kann ein reiner Tierflüsterer sein, ein formwandelnder Kämpfer, ein Wetterkontrolleur oder ein mächtiger Beschwörer. Kein anderer Caster hat eine so breite thematische Vielfalt.
 
 > *„Ich brauche keine Götter. Die Natur selbst spricht zu mir – und ich antworte."*
-
 ---
 
 ## 📋 Klassen-Eckdaten

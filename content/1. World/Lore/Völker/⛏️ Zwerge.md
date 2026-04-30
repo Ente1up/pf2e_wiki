@@ -1,5 +1,4 @@
 ---
-title: ⛏️ Zwerge
 system: Pathfinder 2e
 kategorie: Lore/Völker
 tags:
@@ -21,7 +20,6 @@ slug: "world/lore/völker/zwerge"
 Zwerge sind ein **robustes, traditionsgebundenes und unerschütterlich loyales Volk** das tief in den Bergen lebt und für seine Handwerkskunst, seine Sturheit und seinen unbrechbaren Gemeinschaftssinn bekannt ist. Sie sind keine schroffen Einzelgänger wie manche Legenden behaupten – sie sind ein Volk mit tiefer Wärme, aber nur für jene die ihr Vertrauen verdient haben.
 
 Das Definierende an den Zwergen ist ihr **Langer Marsch** – ein Exodus aus den Tiefen der Welt der ihr kollektives Gedächtnis bis heute prägt. Zwerge sind das Volk das aus der Dunkelheit kam und das Licht der Oberfläche erkämpfte. Diese Geschichte sitzt so tief dass selbst Stadtzwerge die noch nie eine Mine betreten haben von ihr geformt sind.
-
 ---
 
 ## 🌍 Herkunft & Geschichte

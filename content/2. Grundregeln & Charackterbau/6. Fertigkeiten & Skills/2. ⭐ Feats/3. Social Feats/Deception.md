@@ -1,5 +1,4 @@
 ---
-title: 🎭 Skill Feats – Deception
 system: Pathfinder 2e
 kategorie: Charakterbau
 unterordner: Feats/Skill Feats
@@ -33,7 +32,6 @@ slug: "ruling/fertigkeiten-skills/feats/social-feats/deception"
 
 **Key Ability**: CHA
 **Typische Nutzer**: [[Rogue]], [[Bard]], [[Investigator]], [[Swashbuckler]], [[Witch]]
-
 ---
 
 ## 📑 Schnellübersicht

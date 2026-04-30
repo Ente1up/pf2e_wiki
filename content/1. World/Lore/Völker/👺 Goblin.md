@@ -1,5 +1,4 @@
 ---
-title: "👺 Goblin"
 system: "Pathfinder 2e"
 kategorie: "Lore/Völker"
 tags:
@@ -29,7 +28,6 @@ Goblins sind **klein, chaotisch, feuerverliebt und überraschend tiefgründig** 
 Goblins sind Volk im **Wandel**. Alte Stämme existieren noch, wild und gefährlich in den Hinterlands. Aber wachsende Zahl Goblins hat ihren Weg in zivilisierte Welt gefunden – mit gemischtem Erfolg, viel Enthusiasmus und gelegentlichen Brandkatastrophen.
 
 Körperlich sind Goblins klein (oft unter einem Meter), großköpfig, spitzohrig. Haut von grün über gelb bis grau-blau. Zähne nadelspitz – Goblins sind **Allesfresser** im extremen Sinn: sie verdauen Leder, Holz, Knochen, manchmal Metall.
-
 ---
 
 ## 🌍 Herkunft & Geschichte

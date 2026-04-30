@@ -1,5 +1,4 @@
 ---
-title: "⚔️ Hobgoblin"
 system: "Pathfinder 2e"
 kategorie: "Lore/Völker"
 tags:
@@ -26,7 +25,6 @@ Hobgoblins sind die **disziplinierten, militaristischen großen Geschwister der 
 In jüngerer Zeit versuchen viele Hobgoblins diese kriegerische Vergangenheit zu überwinden – manche als Söldner, andere als Händler, wieder andere als schlichte Abenteurer. Die Gründung des Königreichs **Oprak** unter **General Azaersi** markiert für viele Hobgoblins den Übergang vom gefürchteten Stammeskrieger zum diplomatisch anerkannten Volk.
 
 Körperlich sind Hobgoblins **größer, stärker und disziplinierter** als ihre goblinischen Verwandten. Ihre Haut reicht von orange-rot bis tiefgrau, ihre Körperhaare oft borstig und pigmentiert.
-
 ---
 
 ## 🌍 Herkunft & Geschichte

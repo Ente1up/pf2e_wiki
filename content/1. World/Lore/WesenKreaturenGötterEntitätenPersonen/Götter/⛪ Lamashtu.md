@@ -1,5 +1,4 @@
 ---
-title: "⛪ Lamashtu"
 system: "Pathfinder 2e"
 kategorie: "Lore/Götter"
 tags:
@@ -30,7 +29,6 @@ Lamashtu ist die **Mutter der Monster** – Göttin des Wahnsinns, der Albträum
 Lamashtu ist keine reine Böse-Gottheit. Für ihre Anhänger ist sie **Mutter** – jene, die das Monströse nicht verachtet, sondern umarmt. Wer anders geboren wurde, wer aus der Form fiel, wer Welt als Feind erlebt, findet bei Lamashtu Platz.
 
 > *„Sei, was sie fürchten. Sei, was sie niemals sein können. Sei mein Kind."*
-
 ---
 
 ## 📋 Göttliche Eckdaten

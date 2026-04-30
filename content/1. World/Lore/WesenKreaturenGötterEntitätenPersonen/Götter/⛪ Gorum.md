@@ -1,5 +1,4 @@
 ---
-title: "⛪ Gorum"
 system: "Pathfinder 2e"
 kategorie: "Lore/Götter"
 tags:
@@ -29,7 +28,6 @@ Gorum ist **Gott des Kampfes** – nicht des strategischen Krieges, nicht der eh
 Gorum ist nicht ausschließlich böse, nicht ausschließlich gut. Er ist **Kampf** – und Kampf ist moralisch neutral, solange er ehrlich geführt wird. Feigheit verachtet er, List nutzt er mit Abneigung, Überlegenheit respektiert er bedingungslos.
 
 > *„Friede ist, was Schwache träumen, wenn sie keine Feinde mehr haben. Ich kümmere mich um beides."*
-
 ---
 
 ## 📋 Göttliche Eckdaten

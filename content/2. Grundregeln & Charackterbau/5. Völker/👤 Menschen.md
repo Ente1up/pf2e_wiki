@@ -1,5 +1,4 @@
 ---
-title: 👤 Menschen
 system: Pathfinder 2e
 kategorie: Völker
 tags:
@@ -22,7 +21,6 @@ slug: "ruling/völker/menschen"
 ## Überblick
 
 Menschen sind die **vielseitigste und am weitesten verbreitete** Ancestry in Golarion. Sie sind bekannt für ihre Anpassungsfähigkeit, ihren Ehrgeiz und ihre kurze aber intensive Lebenserwartung. Keine andere Ancestry hat so viele verschiedene Kulturen, Nationen und Traditionen hervorgebracht.
-
 ---
 
 ## 📋 Eckdaten

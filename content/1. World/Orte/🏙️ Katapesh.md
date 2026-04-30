@@ -1,5 +1,4 @@
 ---
-title: "🏙️ Katapesh"
 system: "Pathfinder 2e"
 kategorie: "Orte"
 tags:
@@ -22,7 +21,6 @@ slug: "world/orte/katapesh"
 ## Überblick
 
 **Katapesh** ist eine Handels- und Hafennation an der Nordküste **Garunds**. Bekannt als eines der größten Marktzentren des Inner Sea – hier wird alles gehandelt: Gewürze, Magie, exotische Waren und in der dunklen Vergangenheit auch Sklaven. Regiert wird das Land von der rätselhaften **Pactmaster-Oligarchie**.
-
 ---
 
 ## 📋 Eckdaten

@@ -1,5 +1,4 @@
 ---
-title: "🏙️ Vidrian"
 system: "Pathfinder 2e"
 kategorie: "Lore/Orte"
 tags:
@@ -29,7 +28,6 @@ slug: "world/orte/vidrian"
 **Vidrian** ist eine junge Nation an der Südküste der Mwangi Expanse – entstanden 4717 AR aus dem Sturz der chelianischen Kolonialherrschaft **Sargava**. Was einst ein Außenposten imperialer Ausbeutung war, ist heute eines der progressivsten Länder Avistans: ein Staat in dem **mehrere Völker gleichberechtigt** zusammenleben – darunter die Iruxi, die hier zum ersten Mal in der Geschichte vollwertige Staatsbürger sind.
 
 Vidrian ist kein fertiges Projekt. Es ist ein **laufendes Experiment** – mit allen Spannungen, Rückschlägen und Hoffnungen die dazugehören.
-
 ---
 
 ## 📋 Eckdaten

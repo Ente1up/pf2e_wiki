@@ -1,5 +1,4 @@
 ---
-title: "Zustände & Conditions"
 system: "Pathfinder 2e"
 kategorie: "Grundregeln"
 tags:
@@ -30,7 +29,6 @@ slug: "ruling/kampf/zustände-conditions"
 **Conditions** (Zustände) sind anhaltende Effekte die einen Charakter oder eine Kreatur auf verschiedene Arten einschränken oder verändern. Sie entstehen durch Zauber, Angriffe, Fallen, Umgebung oder Klassenfähigkeiten.
 
 Conditions haben immer eine **Quelle** und eine **Dauer** – sie enden entweder automatisch, durch eine bestimmte Aktion oder durch Heilung.
-
 ---
 
 ## 📑 Alle Conditions – Schnellübersicht

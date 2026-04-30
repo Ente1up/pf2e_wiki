@@ -1,5 +1,4 @@
 ---
-title: 👤 Harsk
 system: Pathfinder 2e
 kategorie: Lore/Personen
 tags:
@@ -31,7 +30,6 @@ Harsk ist einer der **offiziellen Iconics von Pathfinder** – eine der Figuren 
 Harsk ist kein strahlender Held. Er ist ein Zwerg der durch Verlust gebrochen wurde und sich neu zusammengesetzt hat – nicht durch Heilung, sondern durch Zweck.
 
 > *„Ich brauche keine Armee. Ich brauche nur genug Zeit."*
-
 ---
 
 ## 📋 Eckdaten

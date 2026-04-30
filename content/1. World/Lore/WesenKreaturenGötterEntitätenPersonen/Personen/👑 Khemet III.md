@@ -1,5 +1,4 @@
 ---
-title: "👑 Khemet III"
 system: "Pathfinder 2e"
 kategorie: "Lore/Personen"
 tags:
@@ -31,7 +30,6 @@ slug: "world/lore/wesenkreaturengötterentitätenpersonen/personen/khemet-iii"
 Unter seinen beiden Vorgängern blieb Osirion nach der Unabhängigkeit von Kelesh zurückhaltend – Khemet III. hat diesen Kurs umgestoßen. Er öffnet jahrtausendealte Pyramiden, holt ausländische Pathfinder-Gesellschaften ins Land, fördert die Wiederbelebung alter Riten, und fordert Paizo-typisch einen Balanceakt zwischen **Erforschung und Gefahr**.
 
 > *„Meine Vorfahren versiegelten diese Tore. Ich öffne sie wieder. Die Zeit hat entschieden, dass sie uns mehr schaden als nutzen können."*
-
 ---
 
 ## 📋 Eckdaten

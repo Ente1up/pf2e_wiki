@@ -1,5 +1,4 @@
 ---
-title: "🌱 Leshy"
 system: "Pathfinder 2e"
 kategorie: "Lore/Völker"
 tags:
@@ -26,7 +25,6 @@ Leshy sind **lebende Pflanzen mit einem Bewusstsein** – kleine humanoide Wesen
 Was Leshy einzigartig macht ist ihre **Verbindung zur Natur als buchstäblichem Teil ihrer selbst**. Sie heilen durch Sonnenlicht, fühlen Wurzeln unter der Erde und sprechen eine instinktive Sprache mit anderen Pflanzen. Für sie ist die Trennung zwischen "lebendig" und "nicht-lebendig" nicht so klar wie für andere Völker – ein umgestürzter Baum ist kein toter Gegenstand, sondern ein schlafender Geist.
 
 Ein Leshy altert nicht. Solange sein Körper gepflegt wird, kann er über Jahrzehnte oder Jahrhunderte bestehen – bis Dürre, Frost oder Klinge ihn zerstören. Selbst dann muss das nicht das Ende sein.
-
 ---
 
 ## 🌍 Herkunft & Geschichte

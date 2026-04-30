@@ -1,5 +1,4 @@
 ---
-title: "🌐 Sovyrian"
 system: "Pathfinder 2e"
 kategorie: "Lore/Orte"
 tags:
@@ -29,7 +28,6 @@ slug: "world/orte/sovyrian"
 Sovyrian ist die **elfische Heimatwelt jenseits des Meeres** – ein Reich das die Elfen Jahrtausende vor dem Starfall als Rückzugsort schufen oder entdeckten, und in das sie sich beim Earthfall flüchteten. Es liegt weit im Südosten, jenseits der bekannten Seekarten der meisten menschlichen Reiche.
 
 Für Elfen auf Golarion ist Sovyrian mehr als ein geografischer Ort. Es ist ihr **Gewissen, ihre Wunde und ihr Maßstab** – ein Paradies das sie verließen, und zu dem sie nie vollständig zurückkehren können.
-
 ---
 
 ## 📋 Eckdaten

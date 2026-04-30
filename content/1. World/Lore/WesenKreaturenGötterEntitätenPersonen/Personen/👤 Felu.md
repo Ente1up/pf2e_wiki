@@ -1,5 +1,4 @@
 ---
-title: 👤 Felu
 system: Pathfinder 2e
 kategorie: Lore/Personen
 tags:
@@ -25,7 +24,6 @@ slug: "world/lore/wesenkreaturengötterentitätenpersonen/personen/felu"
 **Felu** ist eine gnomische **Alchemistin** bekannt für ihre Vorliebe für explosive Experimente, ihre pragmatische Herangehensweise an Probleme und ihren vollständigen Mangel an Respekt für konventionelle Sicherheitsstandards. Sie gilt als brillant, gefährlich und schwer zu fassen – manchmal wörtlich, wenn gerade etwas brennt.
 
 > *„Wenn die Explosion kleiner ist als erwartet, war das Experiment ein Misserfolg."*
-
 ---
 
 ## 📋 Eckdaten

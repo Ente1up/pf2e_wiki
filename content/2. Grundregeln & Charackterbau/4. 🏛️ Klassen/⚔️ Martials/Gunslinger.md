@@ -1,5 +1,4 @@
 ---
-title: Gunslinger
 system: Pathfinder 2e
 kategorie: Klassen
 tags:
@@ -31,7 +30,6 @@ Der Gunslinger ist der **Schusswaffen-Spezialist** in Pathfinder 2e – ein Käm
 Was den Gunslinger von Bogenschützen oder anderen Fernkämpfern unterscheidet ist der **Reload-Mechanismus**: Schusswaffen müssen nach jedem Schuss (oder je nach Waffe nach mehreren) neu geladen werden. Das erzeugt ein einzigartiges **Aktionsmanagement** das den Gunslinger taktisch interessant und fordernd macht.
 
 > *„Ein Schuss. Ein Treffer. Kein zweiter Versuch nötig."*
-
 ---
 
 ## 📋 Klassen-Eckdaten

@@ -1,5 +1,4 @@
 ---
-title: ⚔️ Hobgoblin
 system: Pathfinder 2e
 kategorie: Völker
 tags:
@@ -20,7 +19,6 @@ slug: "ruling/völker/hobgoblin"
 ## Überblick
 
 Hobgoblins sind ein **größeres, disziplinierteres und militaristischeres Gegenstück zu Goblins**. Sie haben über Generationen eine strenge Kriegskultur entwickelt und gelten als eines der gefährlichsten organisierten Völker Golarions. In jüngerer Zeit versuchen manche Hobgoblins diese kriegerische Vergangenheit hinter sich zu lassen.
-
 ---
 
 ## 📋 Eckdaten

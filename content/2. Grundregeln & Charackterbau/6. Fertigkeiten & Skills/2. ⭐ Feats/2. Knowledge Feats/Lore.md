@@ -1,5 +1,4 @@
 ---
-title: 📜 Skill Feats – Lore
 system: Pathfinder 2e
 kategorie: Charakterbau
 unterordner: Feats/Skill Feats
@@ -35,7 +34,6 @@ Im Gegensatz zu den anderen Fertigkeiten gibt es **keine eigenen Lore-spezifisch
 
 **Key Ability**: INT
 **Typische Nutzer**: [[Investigator]], [[Bard]], [[Wizard]], jede Klasse mit INT-Fokus
-
 ---
 
 ## 🔍 Was ist Lore?

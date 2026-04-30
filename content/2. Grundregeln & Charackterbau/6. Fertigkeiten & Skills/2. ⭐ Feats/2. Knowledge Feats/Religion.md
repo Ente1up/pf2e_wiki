@@ -1,5 +1,4 @@
 ---
-title: ✝️ Skill Feats – Religion
 system: Pathfinder 2e
 kategorie: Charakterbau
 unterordner: Feats/Skill Feats
@@ -37,7 +36,6 @@ slug: "ruling/fertigkeiten-skills/feats/knowledge-feats/religion"
 
 **Key Ability**: WIS
 **Typische Nutzer**: [[Cleric]], [[Champion]], [[Oracle]], [[Animist]]
-
 ---
 
 ## 📑 Schnellübersicht

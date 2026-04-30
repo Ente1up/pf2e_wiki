@@ -1,5 +1,4 @@
 ---
-title: Barbarian
 system: Pathfinder 2e
 kategorie: Klassen
 tags:
@@ -31,7 +30,6 @@ Der Barbarian ist der **rohe Kraftprotz** unter den Martial-Klassen. Mit den **h
 Anders als der Fighter verzichtet der Barbarian auf taktische Finesse – er setzt auf **Überlegenheit durch schiere Stärke**. Sein **Instinct-System** erlaubt dabei verschiedene Flavours: vom wilden Berserker über den totemistischen Naturkrieger bis zum dämonisch besessenen Kämpfer.
 
 > *„Der Barbarian ist kein Werkzeug des Krieges – er ist der Krieg selbst."*
-
 ---
 
 ## 📋 Klassen-Eckdaten

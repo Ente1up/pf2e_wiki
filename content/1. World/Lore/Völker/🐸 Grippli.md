@@ -1,5 +1,4 @@
 ---
-title: "🐸 Grippli"
 system: "Pathfinder 2e"
 kategorie: "Lore/Völker"
 tags:
@@ -28,7 +27,6 @@ Gripplis sind ein **kleines, froschähnliches Volk**, das in tropischen Regenwä
 Gripplis agieren lieber aus dem Hinterhalt als direkt. Das ist keine Feigheit – es ist Weisheit. Warum kämpfen, wenn man warten kann, bis der Moment perfekt ist?
 
 Körperlich sind Gripplis **schlank, feuchthäutig und erstaunlich agil**. Ihre Hautfarben reichen von giftig-leuchtend (Warnfärbung) bis tarn-gefleckt (Jagdtypus) und markieren oft Stamm und Lebensweise. Viele Gripplis können **die Hautfarbe situationsbedingt anpassen**, ähnlich einem Chamäleon – ein biologisches Erbe aus ihrer Schöpfungsgeschichte.
-
 ---
 
 ## 🌍 Herkunft & Geschichte

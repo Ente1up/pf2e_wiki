@@ -1,5 +1,4 @@
 ---
-title: "📜 Sklaverei in Cheliax"
 system: "Pathfinder 2e"
 kategorie: "Lore/Geschichte"
 tags:
@@ -29,7 +28,6 @@ slug: "world/lore/globale-events/halblinge/sklaverei-in-cheliax"
 **Cheliax** ist eine der wohlhabendsten und mächtigsten Nationen der Inneren See – und eine der brutalsten. Seit dem **Pakt mit Asmodeus** im Jahr 4640 AR, der das Haus Thrune an die Macht brachte, ist Cheliax ein Staat der Ordnung durch Unterwerfung kennt. Sklaverei ist hier kein Randphänomen – sie ist **rechtlich verankert, wirtschaftlich fundamental und sozial normalisiert**.
 
 Unter den versklavten Völkern sind **Halblinge überproportional stark vertreten**. Ihre kleine Statur, ihre Geschicklichkeit und ihre historische Eingebettetheit in menschliche Haushalte machte sie zur bevorzugten Gruppe für Haushalts- und Handwerksarbeit.
-
 ---
 
 ## 🕰️ Historische Entwicklung

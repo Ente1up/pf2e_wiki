@@ -1,5 +1,4 @@
 ---
-title: "🌙 Calistria"
 system: "Pathfinder 2e"
 kategorie: "Lore/Götter"
 tags:
@@ -32,7 +31,6 @@ Calistria ist die **Elfen-Göttin der Rache, des Begehrens und der Tücke** – 
 Für Elfen ist sie mehr als eine Gottheit – sie ist ein Spiegel. Die Elfen sind ein Volk das Jahrhunderte im Exil lebte, zurückkehrte um seine Welt zerstört zu finden, und trotzdem weiterging. Calistria sagt: *Vergib nicht wenn du nicht vergeben willst. Räche dich mit Köpfchen. Lebe für dich.*
 
 > *„Sie nimmt keine Entschuldigungen an – sie nimmt Zinsen."*
-
 ---
 
 ## 📋 Göttliche Eckdaten

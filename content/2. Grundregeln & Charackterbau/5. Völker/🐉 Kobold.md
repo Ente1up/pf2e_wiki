@@ -1,5 +1,4 @@
 ---
-title: 🐉 Kobold
 system: Pathfinder 2e
 kategorie: Völker
 tags:
@@ -20,7 +19,6 @@ slug: "ruling/völker/kobold"
 ## Überblick
 
 Kobolds sind ein **kleines, schlaues und drakonisches Volk** das sich als Nachfahren von Drachen betrachtet – und tatsächlich sind viele Kobold-Clans eng mit echten Drachen verbunden. Sie sind Meister des **Fallenbaus** und der Untergrund-Kriegsführung, auch wenn ihre geringe Größe sie körperlich schwach macht.
-
 ---
 
 ## 📋 Eckdaten

@@ -1,5 +1,4 @@
 ---
-title: "🌏 Tian Xia"
 system: "Pathfinder 2e"
 kategorie: "Orte"
 tags:
@@ -26,7 +25,6 @@ slug: "world/orte/tian-xia"
 **Tian Xia** – der östliche Kontinent Golarions, getrennt von der Inner Sea durch den Crown of the World. Heimat uralter Imperien, vielfältiger Völker und einer tiefen Tradition von Magie und Philosophie, die sich unabhängig von der Inner Sea entwickelt hat.
 
 Für Inner-Sea-Bewohner ist Tian Xia der "ferne Osten" – fremd, faszinierend, weitgehend unbekannt.
-
 ---
 
 ## 📋 Eckdaten

@@ -1,5 +1,4 @@
 ---
-title: "🌍 Der Starfall"
 system: "Pathfinder 2e"
 kategorie: "Lore/Geschichte"
 tags:
@@ -32,7 +31,6 @@ Der **Starfall** – auf Golarion auch **Earthfall** genannt – ist die größt
 Für die Elfen war der Starfall kein Überraschungsangriff – ihre Wahrsager und Sterndeuter **sahen ihn kommen**. Diese Vorwarnung ermöglichte den elfischen Exodus nach Sovyrian, machte ihn aber auch zu einer moralisch schwierigen Entscheidung: Sie gingen und ließen andere zurück.
 
 > *„Sie sagten, wir seien Feiglinge. Vielleicht. Aber wir sind die Einzigen, die noch da sind, um uns daran zu erinnern."*
-
 ---
 
 ## 🕰️ Zeitrahmen & Kontext

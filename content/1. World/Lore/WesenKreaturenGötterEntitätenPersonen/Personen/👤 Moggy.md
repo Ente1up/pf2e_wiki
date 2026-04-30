@@ -1,5 +1,4 @@
 ---
-title: "👤 Moggy"
 system: "Pathfinder 2e"
 kategorie: "Lore/Personen"
 tags:
@@ -29,7 +28,6 @@ Moggy ist **Goblin-Schamane und inoffizieller Diplomat** – einer der bekanntes
 Moggy reist zwischen Stämmen und Städten, vermittelt zwischen Goblin-Anführern und menschlichen Bürgermeistern, und hat mehr Waffenstillstände ausgehandelt als die meisten Diplomaten mit Papieren und Wappen.
 
 > *„Ihr große Leute denken, Worte kommen aus Kopf. Goblin weiß: Worte kommen aus Magen. Gut essen, gut reden."*
-
 ---
 
 ## 📋 Eckdaten

@@ -1,5 +1,4 @@
 ---
-title: "🐱 Katzenvolk"
 system: "Pathfinder 2e"
 kategorie: "Lore/Völker"
 tags:
@@ -28,7 +27,6 @@ Das Katzenvolk – in ihrer eigenen Sprache **Amurrun** – sind **katzenhafte H
 Amurrun sind **zutiefst individualistisch, aber nie einsam**. Ihre Familien und Freundschaften sind eng, ihr Ehrgefühl ausgeprägt, und ihr Sinn für Humor oft trocken und spitz. Wer einen Amurrun zum Freund hat, hat ihn für Jahrzehnte – wer einen zum Feind macht, ebenso.
 
 Körperlich variieren Amurrun stark: Fellmuster von schlicht-grau über getigert bis tropisch-gescheckt, Ohrenformen von spitz bis rundlich, Schwanzlängen von stummel bis peitschenlang. Diese Vielfalt spiegelt oft die Herkunftsregion.
-
 ---
 
 ## 🌍 Herkunft & Geschichte

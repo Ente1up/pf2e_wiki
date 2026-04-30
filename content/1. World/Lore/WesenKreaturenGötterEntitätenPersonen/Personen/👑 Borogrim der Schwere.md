@@ -1,5 +1,4 @@
 ---
-title: 👑 Borogrim der Schwere
 system: Pathfinder 2e
 kategorie: Lore/Personen
 tags:
@@ -32,7 +31,6 @@ Borogrim der Schwere ist eine **legendäre Figur der zwergischen Geschichte** �
 Der Beiname **„der Schwere"** hat eine doppelte Bedeutung: Er war körperlich massiv selbst für einen Zwerg – aber vor allem trug er die **Schwere der Verantwortung** für Tausende von Leben über Generationen hinweg.
 
 > *„Er sagte nie: Es wird gut. Er sagte: Wir gehen weiter. Das war genug."*
-
 ---
 
 ## 📋 Eckdaten

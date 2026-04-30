@@ -1,5 +1,4 @@
 ---
-title: Investigator
 system: Pathfinder 2e
 kategorie: Klassen
 tags:
@@ -32,7 +31,6 @@ Der Investigator ist der **Detektiv und Analytiker** unter den Martials. Er käm
 Er ist die einzige Martial-Klasse die **INT als primäres Kampfattribut** nutzen kann – sein **Devise-System** erlaubt ihm, einen Feind zu analysieren und dann mit INT-basiertem Präzisionsschaden anzugreifen. Abseits des Kampfes ist er der vielseitigste und kompetenteste Wissenscharakter im gesamten Spiel.
 
 > *„Der Kampf war längst entschieden, bevor das erste Schwert gezogen wurde."*
-
 ---
 
 ## 📋 Klassen-Eckdaten

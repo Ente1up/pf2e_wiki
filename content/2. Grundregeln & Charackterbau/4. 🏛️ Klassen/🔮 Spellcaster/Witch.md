@@ -1,5 +1,4 @@
 ---
-title: Witch
 system: Pathfinder 2e
 kategorie: Klassen
 tags:
@@ -39,7 +38,6 @@ Die Witch ist der **geheimnisvolle Paktmacher** unter den Zauberern. Ihre Magie 
 Was die Witch einzigartig macht ist ihr **Familiar** – ein magisches Tier das gleichzeitig Begleiter, Zauberbuch und Verbindungsglied zum Patron ist. Alle Zauber der Witch werden durch das Familiar übertragen. Verliert sie es, verliert sie den Zugang zu ihrer Magie. Dazu kommt das **Hex-System**: mächtige Fluch-Fokuszauber die Feinde debuffern oder Verbündete schützen – und dabei keine normalen Aktionen kosten.
 
 > *„Mein Patron flüstert mir Dinge. Dinge die du nicht hören willst."*
-
 ---
 
 ## 📋 Klassen-Eckdaten

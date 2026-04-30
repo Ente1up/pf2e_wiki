@@ -1,5 +1,4 @@
 ---
-title: Sorcerer
 system: Pathfinder 2e
 kategorie: Klassen
 tags:
@@ -37,7 +36,6 @@ Der Sorcerer ist der **geborene Zauberer** – Magie fließt durch sein Blut, ni
 Was den Sorcerer einzigartig macht ist sein **Spontaneous Casting**: Er bereitet keine Zauber vor – er kennt eine feste Auswahl und kann jeden davon **beliebig oft** wirken solange er noch Spell Slots hat. Das macht ihn zum **flexibelsten Caster im Kampf**, auf Kosten einer kleineren Gesamtauswahl.
 
 > *„Ich habe das nie gelernt. Es ist einfach... in mir."*
-
 ---
 
 ## 📋 Klassen-Eckdaten

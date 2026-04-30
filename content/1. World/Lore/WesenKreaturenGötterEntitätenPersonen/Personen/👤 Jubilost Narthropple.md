@@ -1,5 +1,4 @@
 ---
-title: "👤 Jubilost Narthropple"
 system: "Pathfinder 2e"
 kategorie: "Lore/Personen"
 tags:
@@ -30,7 +29,6 @@ slug: "world/lore/wesenkreaturengötterentitätenpersonen/personen/jubilost-nart
 Jubilost lebt nach dem Prinzip: **Eine unbekannte Karte ist ein persönlicher Angriff auf ihn.**
 
 > *„Ich erforsche nicht weil es schön ist. Ich erforsche weil ich es nicht lassen kann."*
-
 ---
 
 ## 📋 Eckdaten

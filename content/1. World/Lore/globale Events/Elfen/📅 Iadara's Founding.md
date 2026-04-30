@@ -1,5 +1,4 @@
 ---
-title: "📅 Iadara's Founding"
 system: "Pathfinder 2e"
 kategorie: "Lore/Feiertage"
 tags:
@@ -32,7 +31,6 @@ slug: "world/lore/globale-events/elfen/iadaras-founding"
 **Iadara's Founding** ist das elfische Frühlingsfest – eine Feier der Rückkehr, des Neubeginns und der Hoffnung. Es gedenkt dem Tag an dem die zurückgekehrten Elfen in den Wäldern West-Avistans ihre neue Hauptstadt **Iadara** gründeten und damit bewiesen: Wir sind nicht nur zurückgekehrt – wir sind geblieben.
 
 Anders als die [[📅 Remembrance Moon]] – die Nacht der Trauer und des Gedenkens – ist Iadara's Founding ein **ausdrücklich frohes Fest**. Das Verlieren wurde geehrt; hier wird das Aufbauen gefeiert. Neues Leben, neue Wurzeln, neue Bäume.
-
 ---
 
 ## 📋 Eckdaten

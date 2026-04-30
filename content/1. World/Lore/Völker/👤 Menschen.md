@@ -1,5 +1,4 @@
 ---
-title: "👤 Menschen"
 system: "Pathfinder 2e"
 kategorie: "Lore/Völker"
 tags:
@@ -34,7 +33,6 @@ Menschen sind das **jüngste und zugleich einflussreichste Volk Golarions**. Wo 
 Sie sind überall. In den Eiswüsten des Nordens, in den Dschungeln des Südens, in den Meeren und Wüsten – Menschen haben jeden Winkel Golarions besiedelt und beansprucht. Das macht sie zur **dominanten politischen Kraft der Gegenwart**, auch wenn sie weder die ältesten noch die mächtigsten Wesen der Welt sind.
 
 Was andere Völker an ihnen irritiert ist zugleich ihre größte Stärke: ihre **Anpassungsfähigkeit**. Ein Mensch kann in einer einzigen Biographie Bauer, Soldat, Kaufmann und Magier sein. Wo ein Zwerg jahrzehntelang eine Tradition perfektioniert, erfindet ein Mensch drei neue. Das produziert Geniale, Katastrophen – und alles dazwischen.
-
 ---
 
 ## 🌍 Herkunft & Geschichte

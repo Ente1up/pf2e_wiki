@@ -1,5 +1,4 @@
 ---
-title: "📅 Firstbloom"
 system: "Pathfinder 2e"
 kategorie: "Lore/Feiertage"
 tags:
@@ -25,7 +24,6 @@ slug: "world/lore/globale-events/halblinge/firstbloom"
 **Firstbloom** ist das wichtigste Frühlingsfest der Halblinge – ein Tag der **Erneuerung, Hoffnung und gemeinsamen Anfänge**. Der Name beschreibt das Prinzip: der erste Blüte des Frühlings widmen Halblinge einen Moment der Absicht. Etwas Neues beginnen. Etwas Lebendiges pflanzen.
 
 Es ist kein religiöses Fest an eine bestimmte Gottheit – es gehört dem Volk selbst.
-
 ---
 
 ## 📋 Eckdaten

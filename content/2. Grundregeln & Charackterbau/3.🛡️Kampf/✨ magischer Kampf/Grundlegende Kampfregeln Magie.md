@@ -1,5 +1,4 @@
 ---
-title: Grundlegende Kampfregeln (Magie)
 system: Pathfinder 2e
 kategorie: Kampf
 tags:
@@ -29,7 +28,6 @@ slug: "ruling/kampf/magischer-kampf/grundlegende-kampfregeln-magie"
 ## Überblick
 
 Zauberei im Kampf funktioniert grundlegend anders als physische Angriffe. Statt eines Angriffswurfs gegen die AC nutzen viele Zauber entweder einen **Spell Attack Roll** oder erzwingen einen **Saving Throw** beim Ziel.
-
 ---
 
 ## ✨ Zauber wirken – Aktionskosten

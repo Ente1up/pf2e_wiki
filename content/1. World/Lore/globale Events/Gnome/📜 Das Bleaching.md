@@ -1,5 +1,4 @@
 ---
-title: "📜 Das Bleaching"
 system: "Pathfinder 2e"
 kategorie: "Lore/Geschichte"
 tags:
@@ -28,7 +27,6 @@ Das **Bleaching** ist ein langsam fortschreitender Verfall der Gnome befällt we
 Gnome stammen ursprünglich aus dem First World, einem Reich konstanter Veränderung, intensiver Magie und endloser Neuheit. Als sie in die materielle Welt gespült wurden, verloren sie den direkten Zugang zu diesem Strom. Seitdem sind sie darauf angewiesen, diesen Hunger nach dem Neuen durch eigene Erfahrungen zu stillen. Tun sie das nicht, beginnt der Prozess.
 
 > *„Ein gebleachter Gnom lacht nicht mehr. Er hat aufgehört zu fragen. Das ist das Schlimmste."*
-
 ---
 
 ## 🎨 Stadien des Bleachings

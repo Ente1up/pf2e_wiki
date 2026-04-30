@@ -1,5 +1,4 @@
 ---
-title: "Aktionen & Aktionssymbole"
 system: "Pathfinder 2e"
 kategorie: "Ruling/Grundregeln"
 tags:

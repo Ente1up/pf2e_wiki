@@ -1,5 +1,4 @@
 ---
-title: "Waffeneigenschaften"
 system: "Pathfinder 2e"
 kategorie: "Ruling/Kampf"
 tags:

@@ -1,5 +1,4 @@
 ---
-title: "Index – Wesen, Kreaturen, Götter, Entitäten & Personen"
 system: "Pathfinder 2e"
 kategorie: "Lore/Index"
 tags:
@@ -19,7 +18,6 @@ slug: "world/lore/wesenkreaturengötterentitätenpersonen/index"
 # 🗂️ Index: Wesen, Kreaturen, Götter, Entitäten & Personen
 
 Dieser Ordner sammelt alle Einträge zu konkreten Charakteren, Wesen und Mächten der Welt – unterteilt nach Kategorie.
-
 ---
 
 ## ⛪ Götter

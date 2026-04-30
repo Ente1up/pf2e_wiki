@@ -1,5 +1,4 @@
 ---
-title: 🥷 Skill Feats – Stealth
 system: Pathfinder 2e
 kategorie: Charakterbau
 unterordner: Feats/Skill Feats
@@ -34,7 +33,6 @@ slug: "ruling/fertigkeiten-skills/feats/skill-feats/stealth"
 
 **Key Ability**: DEX
 **Typische Nutzer**: [[Rogue]], [[Ranger]], [[Investigator]], [[Monk]], [[Swashbuckler]]
-
 ---
 
 ## 📑 Schnellübersicht

@@ -1,5 +1,4 @@
 ---
-title: ⛪ Torag
 system: Pathfinder 2e
 kategorie: Lore/Götter
 tags:
@@ -31,7 +30,6 @@ Torag ist der **Vater der Zwerge** – der Gott des Schutzes, des Handwerks und 
 Seine Anhänger glauben dass er seinen Schmiedehammer nie ablegt – er erschafft und er verteidigt. Beides ist für Torag dasselbe.
 
 > *„Jeder Schlag des Hammers ist ein Gebet. Jede Mauer die du baust schützt deine Familie. Das ist Torags Weg."*
-
 ---
 
 ## 📋 Göttliche Eckdaten

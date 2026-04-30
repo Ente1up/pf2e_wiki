@@ -1,5 +1,4 @@
 ---
-title: 🎵 Skill Feats – Performance
 system: Pathfinder 2e
 kategorie: Charakterbau
 unterordner: Feats/Skill Feats
@@ -32,7 +31,6 @@ slug: "ruling/fertigkeiten-skills/feats/social-feats/performance"
 
 **Key Ability**: CHA
 **Typische Nutzer**: [[Bard]], [[Swashbuckler]], [[Rogue]], [[Sorcerer]]
-
 ---
 
 ## 📑 Schnellübersicht

@@ -1,5 +1,4 @@
 ---
-title: "📅 Clan-Moot"
 system: "Pathfinder 2e"
 kategorie: "Lore/Traditionen"
 tags:
@@ -28,7 +27,6 @@ slug: "world/lore/globale-events/zwerge/clan-moot"
 Der **Clan-Moot** ist die höchste politische Versammlung des Zwergvolkes – ein Rat aller Clan-Ältesten der alle **zehn Jahre** einberufen wird um Entscheidungen zu treffen die das gesamte Volk betreffen. Er findet traditionell in **Highhelm** statt und kann Wochen oder sogar Monate dauern.
 
 Der Clan-Moot ist kein Parlament und keine Demokratie. Es ist ein **Rat von Gleichen unter Gleichen** – jeder Clan hat eine Stimme, jede Stimme hat gleiches Gewicht, und Entscheidungen erfordern Einigkeit. Das macht den Clan-Moot langsam, manchmal quälend langsam – aber seine Beschlüsse sind von absolutem Gewicht.
-
 ---
 
 ## 📋 Eckdaten

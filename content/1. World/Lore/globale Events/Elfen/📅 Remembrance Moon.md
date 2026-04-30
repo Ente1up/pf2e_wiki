@@ -1,5 +1,4 @@
 ---
-title: "📅 Remembrance Moon"
 system: "Pathfinder 2e"
 kategorie: "Lore/Feiertage"
 tags:
@@ -33,7 +32,6 @@ Die **Remembrance Moon** ist der bedeutendste elfische Gedenktag – eine jährl
 Der Name bezieht sich auf die Vollmondnacht unter der – der Überlieferung nach – die letzten großen Elfenkonvois Sovyrian verließen und den Weg zurück nach Golarion antraten. Der Mond war Zeuge; deshalb gehört er ihnen.
 
 Es ist kein fröhliches Fest. Es ist eine **Nacht des Wachens, der Geschichten und der bewussten Trauer** – aber auch eine Nacht der stillen Stärke: Wir sind zurückgekehrt. Wir sind noch hier.
-
 ---
 
 ## 📋 Eckdaten

@@ -1,5 +1,4 @@
 ---
-title: "📅 Menschliche Feiertage"
 system: "Pathfinder 2e"
 kategorie: "Lore/Events"
 tags:
@@ -29,7 +28,6 @@ slug: "world/lore/globale-events/menschen/menschliche-feiertage"
 ## Überblick
 
 Menschen haben **keine gemeinsame Festkultur** – jede Nation, jede Region, oft jede Stadt pflegt eigene Traditionen. Einige Feste sind aber weit verbreitet oder prägen so stark, dass sie über Grenzen hinweg bekannt sind. Diese Übersicht sammelt die wichtigsten.
-
 ---
 
 ## 🌍 Übergreifende Feste

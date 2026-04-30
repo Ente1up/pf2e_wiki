@@ -1,5 +1,4 @@
 ---
-title: 🕊️ Skill Feats – Diplomacy
 system: Pathfinder 2e
 kategorie: Charakterbau
 unterordner: Feats/Skill Feats
@@ -33,7 +32,6 @@ slug: "ruling/fertigkeiten-skills/feats/social-feats/diplomacy"
 
 **Key Ability**: CHA
 **Typische Nutzer**: [[Bard]], [[Champion]], [[Cleric]], [[Investigator]], [[Sorcerer]]
-
 ---
 
 ## 📑 Schnellübersicht

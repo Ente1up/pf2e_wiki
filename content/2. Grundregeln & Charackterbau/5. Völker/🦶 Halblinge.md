@@ -1,5 +1,4 @@
 ---
-title: 🦶 Halblinge
 system: Pathfinder 2e
 kategorie: Völker
 tags:
@@ -22,7 +21,6 @@ slug: "ruling/völker/halblinge"
 ## Überblick
 
 Halblinge sind ein **kleines, anpassungsfähiges und geselliges Volk** ohne eigene Nation – sie leben fast immer inmitten anderer Völker. Was ihnen an Größe fehlt, machen sie durch **außergewöhnliches Glück, Wendigkeit und soziales Geschick** mehr als wett. Sie gelten als das Volk mit den meisten Glücksbringern und Aberglauben.
-
 ---
 
 ## 📋 Eckdaten

@@ -1,5 +1,4 @@
 ---
-title: "🏛️ Die Freien Halblinge"
 system: "Pathfinder 2e"
 kategorie: "Lore/Geschichte"
 tags:
@@ -31,7 +30,6 @@ slug: "world/lore/globale-events/halblinge/die-freien-halblinge"
 Sie sind kein Heer. Kein Staat. Keine Kirche. Sie sind ein **Netzwerk aus Schmugglern, Sympathisanten, ehemaligen Sklaven und Taktikern**, das im Verborgenen operiert und seit Generationen Menschenleben rettet.
 
 > *„Wir pflanzen keine Fahnen. Wir pflanzen Samen."*
-
 ---
 
 ## 📋 Eckdaten

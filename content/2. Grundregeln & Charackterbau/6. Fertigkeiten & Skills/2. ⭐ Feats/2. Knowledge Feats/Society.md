@@ -1,5 +1,4 @@
 ---
-title: 🏛️ Skill Feats – Society
 system: Pathfinder 2e
 kategorie: Charakterbau
 unterordner: Feats/Skill Feats
@@ -33,7 +32,6 @@ slug: "ruling/fertigkeiten-skills/feats/knowledge-feats/society"
 
 **Key Ability**: INT
 **Typische Nutzer**: [[Bard]], [[Investigator]], [[Rogue]], [[Sorcerer]], [[Witch]]
-
 ---
 
 ## 📑 Schnellübersicht

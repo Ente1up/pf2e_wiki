@@ -1,5 +1,4 @@
 ---
-title: "👑 Telandia Edasseril"
 system: "Pathfinder 2e"
 kategorie: "Lore/Personen"
 tags:
@@ -32,7 +31,6 @@ Telandia Edasseril ist die **Königin von Kyonin** – die Herrscherin des einzi
 Sie ist keine strahlende Heldenkönigin und kein sanfter Diplomatenmagneten. Telandia ist **kalt, präzise und kompromisslos** wenn es um den Schutz ihres Volkes geht – und warmherzig, geduldig und weise wenn das der richtige Weg ist. Die Elfen folgen ihr nicht aus Pflicht sondern weil sie es immer wieder verdient.
 
 > *„Sie spricht selten. Aber wenn sie spricht, hört der Wald zu."*
-
 ---
 
 ## 📋 Eckdaten

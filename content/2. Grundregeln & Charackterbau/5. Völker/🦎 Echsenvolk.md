@@ -1,5 +1,4 @@
 ---
-title: 🦎 Echsenvolk
 system: Pathfinder 2e
 kategorie: Völker
 tags:
@@ -22,7 +21,6 @@ slug: "ruling/völker/echsenvolk"
 ## Überblick
 
 Das Echsenvolk (auch **Iruxi** in ihrer eigenen Sprache) ist ein **uraltes, naturverbundenes Volk** das die Welt lange vor Menschen und Elfen kannte. Sie sind bekannt für ihre **kollektive Erinnerung** – Wissen wird über Generationen durch rituelles Essen der Gehirne ihrer Ahnen weitergegeben. Sie sind ruhig, weise und haben eine tiefe Verbindung zu Wasser und Sümpfen.
-
 ---
 
 ## 📋 Eckdaten

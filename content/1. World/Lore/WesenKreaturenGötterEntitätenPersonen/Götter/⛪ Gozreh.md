@@ -1,5 +1,4 @@
 ---
-title: "⛪ Gozreh"
 system: "Pathfinder 2e"
 kategorie: "Lore/Götter"
 tags:
@@ -31,7 +30,6 @@ Gozreh ist die **Gottheit der Natur, des Windes und des Wetters** – eine duale
 Gozreh ist kein Gott der Zivilisation. Gozreh ist die **Welt vor und nach dem Menschen** – die Kraft die existiert unabhängig davon ob irgendwer sie verehrt oder nicht.
 
 > *„Gozreh braucht keine Tempel. Der Wald ist der Tempel. Der Sturm ist die Predigt."*
-
 ---
 
 ## 📋 Göttliche Eckdaten

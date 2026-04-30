@@ -1,5 +1,4 @@
 ---
-title: "👤 Merisiel"
 system: "Pathfinder 2e"
 kategorie: "Lore/Personen"
 tags:
@@ -31,7 +30,6 @@ Merisiel ist **Pathfinders ikonische Elfen-Schurkin** – das Gesicht des Elfen-
 Was Merisiel interessant macht ist nicht dass sie besonders mächtig ist, sondern dass sie **einer der wenigen Elfen ist der das Fremdheitsgefühl offen annimmt**. Sie weiß dass sie die Welt langsamer wahrnimmt als ihre kurzlebigen Gefährten – also kompensiert sie mit Bewegung: Wenn du nie anhältst, merkst du nicht dass die Zeit rennt.
 
 > *„Warum plane ich? Ich bin Elf. Wenn der Plan scheitert, bin ich immer noch hier wenn du schon gestorben bist."*
-
 ---
 
 ## 📋 Eckdaten

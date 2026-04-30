@@ -1,5 +1,4 @@
 ---
-title: "🦎 Echsenvolk"
 system: "Pathfinder 2e"
 kategorie: "Lore/Völker"
 tags:
@@ -30,7 +29,6 @@ Das Echsenvolk – **Iruxi** in ihrer eigenen Sprache – ist eines der **ältes
 Das Definierende an den Iruxi ist das **Rituelle Erinnern** – eine heilige Zeremonie, bei der ältere Iruxi die Erinnerungen ihrer Vorfahren durch Gesang, Bewegung und Meditation an die jüngere Generation weitergeben. Für die Iruxi ist Geschichte keine abstrakte Wissenschaft. Sie ist ein lebendiges Erbe, das buchstäblich im Körper getragen wird.
 
 Körperlich sind Iruxi **schuppige, aufrecht gehende Echsenwesen** mit kräftigen Schwänzen, scharfen Klauen und einem Farbenspektrum das von leuchtendem Grün über tiefes Braun bis hin zu schiefergrauem Blau reicht. Ihre Schuppen sind glatt oder leicht gekielt – je nach Herkunftsregion. Ihre Augen haben schmale, vertikale Pupillen die auch in der Dunkelheit gut sehen. Iruxi wachsen langsam, gelten mit 20 Jahren als erwachsen und können über 100 Jahre alt werden.
-
 ---
 
 ## 🌍 Herkunft & Geschichte
