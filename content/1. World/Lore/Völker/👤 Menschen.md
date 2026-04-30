@@ -22,6 +22,7 @@ quellen:
   - "Player Core"
   - "Lost Omens World Guide"
 erstellt: 2026-04-16
+slug: "world/lore/völker/menschen"
 ---
 
 # 👤 Lore: Menschen

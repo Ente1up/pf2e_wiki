@@ -13,6 +13,7 @@ quellen:
   - "Lost Omens Ancestry Guide"
   - "Lost Omens World Guide"
 erstellt: 2026-04-16
+slug: "world/lore/völker/shoony"
 ---
 # 🐶 Lore: Shoony
 

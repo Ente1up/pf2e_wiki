@@ -19,6 +19,7 @@ quellen:
   - Lost Omens World Guide
   - Inner Sea World Guide
 erstellt: 2026-04-18
+slug: "world/orte/kyonin"
 ---
 
 # 🏙️ Kyonin

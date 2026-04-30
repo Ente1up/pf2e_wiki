@@ -18,6 +18,7 @@ quellen:
   - "Player Core 2"
   - "Mwangi Expanse Sourcebook"
 erstellt: 2026-04-16
+slug: "world/lore/völker/echsenvolk"
 ---
 
 # 🦎 Lore: Echsenvolk (Iruxi)

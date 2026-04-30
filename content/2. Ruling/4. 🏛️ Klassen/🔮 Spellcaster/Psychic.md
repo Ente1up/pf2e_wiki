@@ -24,6 +24,7 @@ verwandte_notizen:
 quellen:
   - "Dark Archive (Seite 10 ff.)"
 erstellt: 2026-03-09
+slug: "ruling/klassen/spellcaster/psychic"
 ---
 
 # 🧠 Klasse: Psychic

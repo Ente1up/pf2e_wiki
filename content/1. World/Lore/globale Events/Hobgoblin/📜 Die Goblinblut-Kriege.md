@@ -19,6 +19,7 @@ quellen:
   - "Lost Omens World Guide"
   - "Player Core 2"
 erstellt: 2026-04-18
+slug: "world/lore/globale-events/hobgoblin/die-goblinblut-kriege"
 ---
 
 # 📜 Geschichte: Die Goblinblut-Kriege

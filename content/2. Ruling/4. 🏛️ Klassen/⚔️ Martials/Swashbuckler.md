@@ -19,6 +19,7 @@ verwandte_notizen:
 quellen:
   - Player Core 2 (Seite 90 ff.)
 erstellt: 2026-03-09
+slug: "ruling/klassen/martials/swashbuckler"
 ---
 
 # 🤺 Klasse: Swashbuckler

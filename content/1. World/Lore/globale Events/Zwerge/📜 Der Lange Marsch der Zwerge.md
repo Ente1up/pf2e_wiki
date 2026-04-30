@@ -20,6 +20,7 @@ quellen:
   - Lost Omens World Guide
   - Highhelm (Sourcebook)
 erstellt: 2026-04-17
+slug: "world/lore/globale-events/zwerge/der-lange-marsch-der-zwerge"
 ---
 
 # 📜 Geschichte: Der Lange Marsch der Zwerge

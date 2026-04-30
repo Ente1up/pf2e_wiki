@@ -13,6 +13,7 @@ verwandte_notizen:
 quellen:
   - Player Core
 erstellt: 2026-03-09
+slug: "ruling/völker/gnome"
 ---
 
 # 🌈 Ancestry: Gnome

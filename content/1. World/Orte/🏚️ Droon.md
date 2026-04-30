@@ -18,6 +18,7 @@ verwandte_notizen:
 quellen:
   - "Lost Omens The Mwangi Expanse"
 erstellt: 2026-04-20
+slug: "world/orte/droon"
 ---
 
 # 🏚️ Droon

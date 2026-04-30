@@ -17,6 +17,7 @@ quellen:
   - "Lost Omens Gods & Magic"
   - "Player Core"
 erstellt: 2026-04-19
+slug: "world/lore/wesenkreaturengötterentitätenpersonen/götter/gorum"
 ---
 
 # ⛪ Gottheit: Gorum

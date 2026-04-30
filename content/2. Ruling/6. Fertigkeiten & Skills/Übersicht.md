@@ -8,5 +8,6 @@ tags:
 verwandte_notizen: []
 quellen: []
 erstellt: 2026-04-18
+slug: "ruling/fertigkeiten-skills/übersicht"
 ---
 

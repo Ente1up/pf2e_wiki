@@ -20,6 +20,7 @@ quellen:
   - Player Core
   - Lost Omens Character Guide
 erstellt: 2026-04-20
+slug: "world/lore/wesenkreaturengötterentitätenpersonen/personen/seelah"
 ---
 
 # 👤 Person: Seelah

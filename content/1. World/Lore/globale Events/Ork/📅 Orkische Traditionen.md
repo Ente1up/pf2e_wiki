@@ -19,6 +19,7 @@ quellen:
   - "Lost Omens Character Guide"
   - "Player Core 2"
 erstellt: 2026-04-19
+slug: "world/lore/globale-events/ork/orkische-traditionen"
 ---
 
 # 📅 Orkische Traditionen

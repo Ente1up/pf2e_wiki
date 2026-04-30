@@ -21,6 +21,7 @@ quellen:
   - "Lost Omens World Guide"
   - "Pathfinder Campaign Setting: Faiths & Philosophies"
 erstellt: 2026-04-19
+slug: "world/lore/globale-events/menschen/menschliche-feiertage"
 ---
 
 # 📅 Menschliche Feiertage

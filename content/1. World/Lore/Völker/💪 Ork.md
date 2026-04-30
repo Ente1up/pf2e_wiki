@@ -20,6 +20,7 @@ quellen:
   - "Lost Omens Character Guide"
   - "Lost Omens World Guide"
 erstellt: 2026-04-16
+slug: "world/lore/völker/ork"
 ---
 
 # 💪 Lore: Orks

@@ -19,6 +19,7 @@ quellen:
   - Player Core
   - Lost Omens Character Guide
 erstellt: 2026-04-18
+slug: "world/lore/wesenkreaturengötterentitätenpersonen/personen/merisiel"
 ---
 
 # 👤 Person: Merisiel

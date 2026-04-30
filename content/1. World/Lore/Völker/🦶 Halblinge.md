@@ -17,6 +17,7 @@ verwandte_notizen:
 quellen:
   - Player Core
   - Lost Omens World Guide
+slug: "world/lore/völker/halblinge"
 ---
 
 # 🦶 Lore: Halblinge

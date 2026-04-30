@@ -27,6 +27,7 @@ verwandte_notizen:
 quellen:
   - Player Core 2 (Seite 116 ff.)
 erstellt: 2026-03-09
+slug: "ruling/klassen/spellcaster/witch"
 ---
 
 # 🧙‍♀️ Klasse: Witch

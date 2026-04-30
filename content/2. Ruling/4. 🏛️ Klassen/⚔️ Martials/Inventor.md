@@ -19,6 +19,7 @@ verwandte_notizen:
 quellen:
   - Guns & Gears (Seite 56 ff.)
 erstellt: 2026-03-09
+slug: "ruling/klassen/martials/inventor"
 ---
 
 # ⚙️ Klasse: Inventor

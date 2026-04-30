@@ -21,6 +21,7 @@ quellen:
   - Lost Omens World Guide
   - Lost Omens Ancestry Guide
 erstellt: 2026-04-18
+slug: "world/lore/globale-events/elfen/remembrance-moon"
 ---
 
 # 📅 Remembrance Moon

@@ -25,6 +25,7 @@ verwandte_notizen:
 quellen:
   - "War of Immortals (Seite 10 ff.)"
 erstellt: 2026-03-09
+slug: "ruling/klassen/spellcaster/animist"
 ---
 
 # 👻 Klasse: Animist

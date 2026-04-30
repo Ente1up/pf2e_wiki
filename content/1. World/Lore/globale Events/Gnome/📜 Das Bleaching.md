@@ -16,6 +16,7 @@ quellen:
   - Player Core
   - Lost Omens Character Guide
 erstellt: 2026-04-18
+slug: "world/lore/globale-events/gnome/das-bleaching"
 ---
 
 # 📜 Phänomen: Das Bleaching

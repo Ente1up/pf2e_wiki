@@ -20,6 +20,7 @@ quellen:
   - Lost Omens World Guide
   - Player Core
 erstellt: 2026-04-18
+slug: "world/lore/globale-events/elfen/der-starfall"
 ---
 
 # 🌍 Geschichte: Der Starfall

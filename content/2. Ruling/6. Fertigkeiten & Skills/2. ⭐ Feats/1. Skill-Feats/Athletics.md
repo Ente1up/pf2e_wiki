@@ -24,6 +24,7 @@ quellen:
   - Player Core
   - Player Core 2
 erstellt: 2026-03-09
+slug: "ruling/fertigkeiten-skills/feats/skill-feats/athletics"
 ---
 
 # 💪 Skill Feats – Athletics

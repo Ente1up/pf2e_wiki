@@ -31,6 +31,7 @@ quellen:
   - "Player Core (Seite 271 ff.)"
   - "Player Core 2"
 erstellt: 2026-04-20
+slug: "ruling/charackterbau/ausrüstung-starterkits"
 ---
 
 # 🎒 Ausrüstung & Starterkits

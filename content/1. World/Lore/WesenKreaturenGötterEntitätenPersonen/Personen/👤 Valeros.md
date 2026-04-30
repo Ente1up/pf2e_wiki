@@ -20,6 +20,7 @@ quellen:
   - "Pathfinder Iconics Lore"
   - "Lost Omens Character Guide"
 erstellt: 2026-04-19
+slug: "world/lore/wesenkreaturengötterentitätenpersonen/personen/valeros"
 ---
 
 # 👤 Person: Valeros

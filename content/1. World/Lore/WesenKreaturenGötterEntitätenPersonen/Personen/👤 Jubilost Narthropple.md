@@ -18,6 +18,7 @@ quellen:
   - Pathfinder Kingmaker (CRPG)
   - Lost Omens Character Guide
 erstellt: 2026-04-18
+slug: "world/lore/wesenkreaturengötterentitätenpersonen/personen/jubilost-narthropple"
 ---
 
 # 👤 Person: Jubilost Narthropple

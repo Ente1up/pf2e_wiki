@@ -16,6 +16,7 @@ quellen:
   - "Player Core 2"
   - "Lost Omens Mwangi Expanse"
 erstellt: 2026-04-16
+slug: "world/lore/völker/katzenvolk"
 ---
 
 # 🐱 Lore: Katzenvolk (Amurrun)

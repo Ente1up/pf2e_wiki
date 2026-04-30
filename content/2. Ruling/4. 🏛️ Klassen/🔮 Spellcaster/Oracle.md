@@ -25,6 +25,7 @@ verwandte_notizen:
 quellen:
   - Player Core 2 (Seite 60 ff.)
 erstellt: 2026-03-09
+slug: "ruling/klassen/spellcaster/oracle"
 ---
 
 # 🔯 Klasse: Oracle

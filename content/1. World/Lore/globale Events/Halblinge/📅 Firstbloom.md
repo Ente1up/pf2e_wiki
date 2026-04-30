@@ -15,6 +15,7 @@ verwandte_notizen:
 quellen:
   - Lost Omens World Guide
 erstellt: 2026-04-20
+slug: "world/lore/globale-events/halblinge/firstbloom"
 ---
 
 # 📅 Firstbloom

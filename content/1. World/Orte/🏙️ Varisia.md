@@ -20,6 +20,7 @@ quellen:
   - "Lost Omens Impossible Lands"
   - "Pathfinder Chronicles: Varisia"
 erstellt: 2026-04-19
+slug: "world/orte/varisia"
 ---
 
 # 🏙️ Varisia

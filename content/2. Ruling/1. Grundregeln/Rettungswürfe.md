@@ -13,6 +13,7 @@ verwandte_notizen:
 quellen:
   - "Player Core (Seite 448 ff.)"
 erstellt: 2026-04-18
+slug: "ruling/grundregeln/rettungswürfe"
 ---
 
 # 🛡️ Rettungswürfe (Saving Throws)

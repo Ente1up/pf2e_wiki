@@ -19,6 +19,7 @@ verwandte_notizen:
 quellen:
   - Player Core (Seite 160 ff.)
 erstellt: 2026-03-09
+slug: "ruling/klassen/martials/monk"
 ---
 
 # 👊 Klasse: Monk

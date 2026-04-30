@@ -23,6 +23,7 @@ verwandte_notizen:
 quellen:
   - Player Core (Seite 120 ff.)
 erstellt: 2026-03-09
+slug: "ruling/klassen/spellcaster/cleric"
 ---
 
 # ✝️ Klasse: Cleric

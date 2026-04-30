@@ -14,6 +14,7 @@ verwandte_notizen:
 quellen:
   - "Player Core 2"
 erstellt: 2026-04-16
+slug: "world/lore/völker/hobgoblin"
 ---
 
 # ⚔️ Lore: Hobgoblin

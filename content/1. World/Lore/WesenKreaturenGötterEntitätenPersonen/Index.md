@@ -13,6 +13,7 @@ tags:
 erstellt: 2026-04-17
 verwandte_notizen: []
 quellen: []
+slug: "world/lore/wesenkreaturengötterentitätenpersonen/index"
 ---
 
 # 🗂️ Index: Wesen, Kreaturen, Götter, Entitäten & Personen

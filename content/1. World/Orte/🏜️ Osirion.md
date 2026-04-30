@@ -18,6 +18,7 @@ quellen:
   - "Lost Omens World Guide"
   - "Osirion, Legacy of Pharaohs"
 erstellt: 2026-04-19
+slug: "world/orte/osirion"
 ---
 
 # 🏜️ Osirion

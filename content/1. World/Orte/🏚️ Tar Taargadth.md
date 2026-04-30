@@ -19,6 +19,7 @@ quellen:
   - Lost Omens World Guide
   - Highhelm (Sourcebook)
 erstellt: 2026-04-17
+slug: "world/orte/tar-taargadth"
 ---
 
 # 🏚️ Tar Taargadth

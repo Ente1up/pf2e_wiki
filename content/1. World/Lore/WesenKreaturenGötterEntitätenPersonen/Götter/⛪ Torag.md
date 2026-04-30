@@ -19,6 +19,7 @@ quellen:
   - Lost Omens Gods & Magic
   - Player Core
 erstellt: 2026-04-17
+slug: "world/lore/wesenkreaturengötterentitätenpersonen/götter/torag"
 ---
 
 # ⛪ Gottheit: Torag

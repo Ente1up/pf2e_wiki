@@ -19,6 +19,7 @@ quellen:
   - Lost Omens World Guide
   - Pathfinder Adventure Path - Rise of the Runelords
 erstellt: 2026-04-18
+slug: "world/lore/wesenkreaturengötterentitätenpersonen/personen/alaznist"
 ---
 
 # 💀 Person: Alaznist

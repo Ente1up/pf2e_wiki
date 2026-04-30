@@ -15,6 +15,7 @@ quellen:
   - "Player Core 2"
   - "Lost Omens Tian Xia World Guide"
 erstellt: 2026-04-16
+slug: "world/lore/völker/tengu"
 ---
 
 # 🐦 Lore: Tengu

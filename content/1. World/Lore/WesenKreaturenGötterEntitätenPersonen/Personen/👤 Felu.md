@@ -15,6 +15,7 @@ verwandte_notizen:
 quellen:
   - Player Core
 erstellt: 2026-04-18
+slug: "world/lore/wesenkreaturengötterentitätenpersonen/personen/felu"
 ---
 
 # 👤 Person: Felu

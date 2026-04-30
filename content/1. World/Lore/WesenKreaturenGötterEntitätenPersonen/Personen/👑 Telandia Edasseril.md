@@ -20,6 +20,7 @@ quellen:
   - Lost Omens World Guide
   - Inner Sea World Guide
 erstellt: 2026-04-18
+slug: "world/lore/wesenkreaturengötterentitätenpersonen/personen/telandia-edasseril"
 ---
 
 # 👑 Person: Telandia Edasseril

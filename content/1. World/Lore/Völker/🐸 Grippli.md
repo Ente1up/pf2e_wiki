@@ -14,6 +14,7 @@ quellen:
   - "Lost Omens Ancestry Guide"
   - "Lost Omens Mwangi Expanse"
 erstellt: 2026-04-16
+slug: "world/lore/völker/grippli"
 ---
 
 # 🐸 Lore: Grippli

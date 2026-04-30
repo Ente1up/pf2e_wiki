@@ -19,6 +19,7 @@ quellen:
   - Lost Omens World Guide
   - Lost Omens Character Guide
 erstellt: 2026-04-20
+slug: "world/lore/globale-events/halblinge/die-freien-halblinge"
 ---
 
 # 🏛️ Die Freien Halblinge

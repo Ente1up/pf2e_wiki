@@ -18,6 +18,7 @@ quellen:
   - "Lost Omens World Guide"
   - "Taldor, the First Empire"
 erstellt: 2026-04-19
+slug: "world/orte/taldor"
 ---
 
 # 🏙️ Taldor

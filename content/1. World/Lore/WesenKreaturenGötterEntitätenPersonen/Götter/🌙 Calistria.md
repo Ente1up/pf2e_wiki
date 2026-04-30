@@ -20,6 +20,7 @@ quellen:
   - Lost Omens Gods & Magic
   - Player Core
 erstellt: 2026-04-18
+slug: "world/lore/wesenkreaturengötterentitätenpersonen/götter/calistria"
 ---
 
 # 🌙 Gottheit: Calistria

@@ -19,6 +19,7 @@ quellen:
   - Lost Omens World Guide
   - Lost Omens Ancestry Guide
 erstellt: 2026-04-18
+slug: "world/orte/sovyrian"
 ---
 
 # 🌐 Sovyrian

@@ -11,6 +11,7 @@ tags:
 erstellt: 2026-04-16
 verwandte_notizen: []
 quellen: []
+slug: "world/lore/völker/zwerge"
 ---
 
 # ⛏️ Lore: Zwerge

@@ -14,6 +14,7 @@ quellen:
   - "Player Core"
   - "Absalom, City of Lost Omens"
 erstellt: 2026-04-18
+slug: "world/orte/absalom"
 ---
 
 # 🏙️ Absalom

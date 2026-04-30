@@ -19,6 +19,7 @@ quellen:
   - "Lost Omens World Guide"
   - "Lost Omens The Mwangi Expanse"
 erstellt: 2026-04-20
+slug: "world/orte/vidrian"
 ---
 
 # 🏙️ Vidrian

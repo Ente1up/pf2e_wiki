@@ -19,6 +19,7 @@ verwandte_notizen:
 quellen:
   - Player Core (Seite 194 ff.)
 erstellt: 2026-03-09
+slug: "ruling/klassen/martials/rogue"
 ---
 
 # 🗡️ Klasse: Rogue

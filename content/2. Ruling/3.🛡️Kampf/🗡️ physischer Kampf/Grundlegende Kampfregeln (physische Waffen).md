@@ -18,6 +18,7 @@ quellen:
   - "Player Core (Seite 408 ff.)"
   - "GM Core"
 erstellt: 2026-03-09
+slug: "ruling/kampf/physischer-kampf/grundlegende-kampfregeln-physische-waffen"
 ---
 
 # ⚔️ Grundlegende Kampfregeln – Physische Waffen

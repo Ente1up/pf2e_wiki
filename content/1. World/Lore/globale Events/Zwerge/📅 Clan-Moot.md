@@ -18,6 +18,7 @@ quellen:
   - Lost Omens World Guide
   - Highhelm (Sourcebook)
 erstellt: 2026-04-17
+slug: "world/lore/globale-events/zwerge/clan-moot"
 ---
 
 # 📅 Clan-Moot

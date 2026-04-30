@@ -17,6 +17,7 @@ quellen:
   - "Player Core"
   - "Lost Omens Character Guide"
 erstellt: 2026-04-19
+slug: "world/lore/globale-events/goblin/burn-night"
 ---
 
 # 📅 Tradition: Burn Night

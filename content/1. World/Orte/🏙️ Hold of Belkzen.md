@@ -20,6 +20,7 @@ quellen:
   - "Hold of Belkzen"
   - "Player Core 2"
 erstellt: 2026-04-19
+slug: "world/orte/hold-of-belkzen"
 ---
 
 # 🏙️ Hold of Belkzen

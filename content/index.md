@@ -8,6 +8,7 @@ tags:
 verwandte_notizen: []
 quellen: []
 erstellt: 2026-04-18
+slug: "index"
 ---
 
 # Willkommen im PF2e Wiki

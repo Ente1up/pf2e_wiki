@@ -18,6 +18,7 @@ quellen:
   - "Lost Omens Character Guide"
   - "Player Core 2"
 erstellt: 2026-04-18
+slug: "world/orte/oprak"
 ---
 
 # 🏙️ Oprak

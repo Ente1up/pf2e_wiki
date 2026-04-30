@@ -19,6 +19,7 @@ quellen:
   - "Lost Omens World Guide"
   - "Osirion, Legacy of Pharaohs"
 erstellt: 2026-04-19
+slug: "world/lore/wesenkreaturengötterentitätenpersonen/personen/khemet-iii"
 ---
 
 # 👑 Person: Khemet III

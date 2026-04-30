@@ -18,6 +18,7 @@ quellen:
   - Lost Omens World Guide
   - Lost Omens The Mwangi Expanse
 erstellt: 2026-04-18
+slug: "world/orte/mwangi-expanse"
 ---
 
 # 🌿 Mwangi Expanse

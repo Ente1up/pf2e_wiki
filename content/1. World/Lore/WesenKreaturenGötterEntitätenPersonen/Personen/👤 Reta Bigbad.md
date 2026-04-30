@@ -17,6 +17,7 @@ quellen:
   - "Lost Omens Character Guide"
   - "Pathfinder Iconics Lore"
 erstellt: 2026-04-19
+slug: "world/lore/wesenkreaturengötterentitätenpersonen/personen/reta-bigbad"
 ---
 
 # 👤 Person: Reta Bigbad

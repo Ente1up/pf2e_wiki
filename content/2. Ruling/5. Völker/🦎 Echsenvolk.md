@@ -14,6 +14,7 @@ verwandte_notizen:
 quellen:
   - Player Core 2
 erstellt: 2026-03-09
+slug: "ruling/völker/echsenvolk"
 ---
 
 # 🦎 Ancestry: Echsenvolk (Iruxi)

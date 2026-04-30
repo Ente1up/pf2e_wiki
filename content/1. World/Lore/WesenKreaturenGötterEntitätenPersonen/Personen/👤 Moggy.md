@@ -17,6 +17,7 @@ verwandte_notizen:
 quellen:
   - "Lost Omens Character Guide"
 erstellt: 2026-04-19
+slug: "world/lore/wesenkreaturengötterentitätenpersonen/personen/moggy"
 ---
 
 # 👤 Person: Moggy

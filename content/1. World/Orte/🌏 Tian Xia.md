@@ -16,6 +16,7 @@ quellen:
   - "Tian Xia World Guide"
   - "Tian Xia Character Guide"
 erstellt: 2026-04-18
+slug: "world/orte/tian-xia"
 ---
 
 # 🌏 Tian Xia

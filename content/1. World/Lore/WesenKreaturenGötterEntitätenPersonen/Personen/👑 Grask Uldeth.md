@@ -20,6 +20,7 @@ quellen:
   - "Lost Omens World Guide"
   - "Hold of Belkzen"
 erstellt: 2026-04-19
+slug: "world/lore/wesenkreaturengötterentitätenpersonen/personen/grask-uldeth"
 ---
 
 # 👑 Person: Grask Uldeth

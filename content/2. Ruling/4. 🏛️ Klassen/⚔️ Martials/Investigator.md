@@ -20,6 +20,7 @@ verwandte_notizen:
 quellen:
   - Advanced Player's Guide (Seite 56 ff.)
 erstellt: 2026-03-09
+slug: "ruling/klassen/martials/investigator"
 ---
 
 # 🔍 Klasse: Investigator

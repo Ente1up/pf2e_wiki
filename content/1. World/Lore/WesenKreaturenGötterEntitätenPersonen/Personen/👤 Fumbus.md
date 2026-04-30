@@ -16,6 +16,7 @@ quellen:
   - Player Core 2
   - Lost Omens Character Guide
 erstellt: 2026-04-20
+slug: "world/lore/wesenkreaturengötterentitätenpersonen/personen/fumbus"
 ---
 
 # 👤 Person: Fumbus

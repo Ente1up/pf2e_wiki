@@ -14,6 +14,7 @@ quellen:
   - "Player Core"
   - "Lost Omens World Guide"
 erstellt: 2026-04-18
+slug: "world/orte/katapesh"
 ---
 
 # 🏙️ Katapesh

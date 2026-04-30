@@ -18,6 +18,7 @@ quellen:
   - Highhelm (Sourcebook)
   - Lost Omens World Guide
 erstellt: 2026-04-17
+slug: "world/orte/highhelm"
 ---
 
 # 🏙️ Highhelm

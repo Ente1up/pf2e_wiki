@@ -20,6 +20,7 @@ quellen:
   - "Lost Omens Impossible Lands"
   - "Cheliax, the Infernal Empire"
 erstellt: 2026-04-19
+slug: "world/orte/cheliax"
 ---
 
 # 🏙️ Cheliax

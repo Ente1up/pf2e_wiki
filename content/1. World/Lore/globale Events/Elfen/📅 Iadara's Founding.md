@@ -22,6 +22,7 @@ quellen:
   - Lost Omens World Guide
   - Inner Sea World Guide
 erstellt: 2026-04-20
+slug: "world/lore/globale-events/elfen/iadaras-founding"
 ---
 
 # 📅 Iadara's Founding

@@ -19,6 +19,7 @@ quellen:
   - "Player Core 2"
   - "Lost Omens The Mwangi Expanse"
 erstellt: 2026-04-20
+slug: "world/lore/globale-events/iruxi/iruxi-traditionen"
 ---
 
 # 📅 Iruxi-Traditionen & Feste

@@ -19,6 +19,7 @@ quellen:
   - Player Core
   - Lost Omens Ancestry Guide
 erstellt: 2026-04-20
+slug: "world/lore/globale-events/elfen/the-long-vigil"
 ---
 
 # 📅 The Long Vigil

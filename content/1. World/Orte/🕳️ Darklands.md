@@ -17,6 +17,7 @@ quellen:
   - Lost Omens World Guide
   - Darklands (Sourcebook)
 erstellt: 2026-04-17
+slug: "world/orte/darklands"
 ---
 
 # 🕳️ Darklands
