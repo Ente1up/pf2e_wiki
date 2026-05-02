@@ -73,4 +73,4 @@ Proficiency-Ränge steigen **nur** durch Klassenfähigkeiten und Feats — nie d
 
 ## Schnellübersicht
 
-→ [[Grundregeln Übersicht]] (Canvas)
+→ [[Grundregeln Übersicht.canvas|Grundregeln Übersicht]] (Canvas)

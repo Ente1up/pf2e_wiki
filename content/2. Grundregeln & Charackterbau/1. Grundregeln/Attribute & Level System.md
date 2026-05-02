@@ -26,6 +26,8 @@ slug: "ruling/grundregeln/attribute-level-system"
 ## Überblick
 
 Das Charakter-System in Pathfinder 2e basiert auf zwei Säulen: den **sechs Attributen (Ability Scores)** und dem **Proficiency-System**, das eng mit dem **Charakterlevel (1–20)** verknüpft ist.
+
+
 ---
 
 ## 💪 Die sechs Attribute (Ability Scores)
