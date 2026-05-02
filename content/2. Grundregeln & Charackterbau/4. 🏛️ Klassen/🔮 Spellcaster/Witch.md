@@ -288,15 +288,10 @@ Beide sind Prepared Caster mit 6 HP – aber fundamental unterschiedlich im Flav
 
 ## 🔗 Verwandte Themen
 
-- [[Klassen – Übersicht]] – Alle Klassen im Vergleich
-- [[Klasse - Wizard]] – Direkter Vergleich (beide Prepared, ähnliche HP)
-- [[Klasse - Sorcerer]] – Vergleich (beide variable Tradition)
-- [[Klasse - Bard]] – Vergleich Support/Debuff-Fokus
-- [[Grundlegende Kampfregeln (Magie)]] – Spell Attack Roll, Saving Throws, DC
+- [[1. Klassen - Übersicht]]
+- [[Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
 - [[Zauberschulen & Traditionen]] – Alle vier Traditionen im Detail
 - [[Zauberslots & Vorbereitung]] – Prepared Caster erklärt
 - [[Konzentration & Fokuszauber]] – Hexes und Patron-Fokuszauber im Detail
 - [[Feats & Talente]] – Witch Class Feats im Detail
-- [[2. ]] – Witch als Dedication-Archetype
-
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Witch

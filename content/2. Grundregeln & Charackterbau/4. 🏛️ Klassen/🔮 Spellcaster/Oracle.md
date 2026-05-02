@@ -305,16 +305,11 @@ Die **Mystery** ist die Quelle der göttlichen Heimsuchung des Oracles. Sie best
 
 ## 🔗 Verwandte Themen
 
-- [[Klassen – Übersicht]] – Alle Klassen im Vergleich
-- [[Klasse - Cleric]] – Direkter Vergleich (beide Divine)
-- [[Klasse - Sorcerer]] – Vergleich Spontaneous Caster (beide CHA)
-- [[Klasse - Witch]] – Vergleich komplexe Caster mit einzigartiger Mechanik
-- [[Grundlegende Kampfregeln (Magie)]] – Spell Attack Roll, Saving Throws, DC
+- [[1. Klassen - Übersicht]]
+- [[Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
 - [[Zauberschulen & Traditionen]] – Divine Tradition im Detail
 - [[Zauberslots & Vorbereitung]] – Spontaneous Caster erklärt
 - [[Konzentration & Fokuszauber]] – Revelation Spells im Detail
 - [[Zustände & Conditions]] – Curse-Effekte und ihre Auswirkungen
 - [[Feats & Talente]] – Oracle Class Feats im Detail
-- [[2. ]] – Oracle als Dedication-Archetype
-
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Oracle

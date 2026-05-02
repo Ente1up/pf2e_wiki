@@ -278,9 +278,7 @@ Der Inventor verbessert seine Innovation durch **Modification-Feats** die bei ge
 
 ## 🔗 Verwandte Themen
 
-- [[Klassen – Übersicht]] – Alle Klassen im Vergleich
-- [[Klasse - Gunslinger]] – Ähnliche Herkunft (Guns & Gears), Überschneidungen
-- [[Klasse - Ranger]] – Construct Innovation ähnelt Animal Companion
+- [[1. Klassen - Übersicht]]
 - [[Attribute & Level System]] – HP, Proficiency, Ability Boosts
 - [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Aktionen
 - [[Waffeneigenschaften]] – Modifikations-Traits der Innovation

@@ -316,15 +316,11 @@ Beide sind WIS-basierte Prepared Caster mit 8 HP und Naturverbindung – aber fu
 
 ## 🔗 Verwandte Themen
 
-- [[Klassen – Übersicht]] – Alle Klassen im Vergleich
-- [[Klasse - Druid]] – Direkter Vergleich (beide WIS, beide Primal)
-- [[Klasse - Oracle]] – Vergleich (beide göttlich beeinflusst, beide flexibel)
-- [[Klasse - Witch]] – Vergleich (beide Prepared mit externem Verbindungsglied)
-- [[Grundlegende Kampfregeln (Magie)]] – Spell Attack Roll, Saving Throws, DC
+
+- [[1. Klassen - Übersicht]]
+- [[Grundlegende Kampfregeln Magie]]
 - [[Zauberschulen & Traditionen]] – Primal und Occult Tradition im Detail
 - [[Zauberslots & Vorbereitung]] – Prepared Caster erklärt
 - [[Konzentration & Fokuszauber]] – Apparition-Fokuszauber im Detail
 - [[Feats & Talente]] – Animist Class Feats im Detail
-- [[2. ]] – Animist als Dedication-Archetype
-
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Animist

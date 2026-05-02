@@ -308,16 +308,11 @@ Beide nutzen die **Occult Tradition** und sind Spontaneous Caster – aber völl
 
 ## 🔗 Verwandte Themen
 
-- [[Klassen – Übersicht]] – Alle Klassen im Vergleich
-- [[Klasse - Bard]] – Direkter Vergleich (beide Occult Spontaneous)
-- [[Klasse - Oracle]] – Vergleich (ähnliches Risikosystem)
-- [[Klasse - Witch]] – Vergleich (beide komplexere Caster)
-- [[Grundlegende Kampfregeln (Magie)]] – Spell Attack Roll, Saving Throws, DC
+- [[1. Klassen - Übersicht]]
+- [[Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
 - [[Zauberschulen & Traditionen]] – Occult Tradition im Detail
 - [[Zauberslots & Vorbereitung]] – Spontaneous Caster erklärt
 - [[Konzentration & Fokuszauber]] – Amps und Fokuspunkte im Detail
 - [[Zustände & Conditions]] – Stupefied erklärt
 - [[Feats & Talente]] – Psychic Class Feats im Detail
-- [[2. ]] – Psychic als Dedication-Archetype
-
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Psychic

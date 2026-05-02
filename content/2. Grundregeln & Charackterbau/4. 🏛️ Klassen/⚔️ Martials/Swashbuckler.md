@@ -281,17 +281,10 @@ Ein **Finisher** ist eine spezielle Angriffsaktion die nur mit aktivem **Panache
 
 ## 🔗 Verwandte Themen
 
-- [[Klassen – Übersicht]] – Alle Klassen im Vergleich
-- [[Klasse - Fighter]] – Vergleich Martial
-- [[Klasse - Ranger]] – Vergleich Martial
-- [[Klasse - Rogue]] – Vergleich Martial (ähnlicher DEX-Fokus)
-- [[Klasse - Barbarian]] – Vergleich Martial
-- [[Klasse - Monk]] – Vergleich Martial
+- [[1. Klassen - Übersicht]]
 - [[Attribute & Level System]] – HP, Proficiency, Ability Boosts
 - [[Grundlegende Kampfregeln (physische Waffen)]] – Flanking, MAP, Strikes
 - [[Waffeneigenschaften]] – Finesse, Agile, Reach
 - [[Feats & Talente]] – Swashbuckler Class Feats im Detail
 - [[Fertigkeiten & Skills]] – Acrobatics, Deception, Intimidation, Athletics
-- [[2. ]] – Swashbuckler als Dedication-Archetype
-
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Swashbuckler

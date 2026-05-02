@@ -262,14 +262,9 @@ Das **Instinct** definiert die Quelle und den Flavour der Rage sowie einen einzi
 ## 🔗 Verwandte Themen
 
 - [[1. Klassen - Übersicht]] – Alle Klassen im Vergleich
-- [[Fighter]] – Vergleich Martial
-- [[Ranger]] – Vergleich Martial
-- [[Rogue]] – Vergleich Martial
 - [[Attribute & Level System]] – HP, Proficiency, Ability Boosts
 - [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Erfolgsstufen
 - [[Zustände & Conditions]] – Fatigued, Flat-Footed, Slowed
 - [[Waffeneigenschaften]] – Two-Hand, Brutal, etc.
 - [[Feats & Talente]] – Barbarian Class Feats im Detail
-- [[2. ]] – Barbarian als Dedication-Archetype
-
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Barbarian

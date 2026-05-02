@@ -301,16 +301,11 @@ Der Bard ist der stärkste **soziale Charakter** im Spiel:
 
 ## 🔗 Verwandte Themen
 
-- [[Klassen – Übersicht]] – Alle Klassen im Vergleich
-- [[Klasse - Sorcerer]] – Direkter Vergleich (beide CHA, beide Spontaneous)
-- [[Klasse - Oracle]] – Weiterer Spontaneous Divine Caster
-- [[Klasse - Witch]] – Weiterer Support-orientierter Caster
-- [[Grundlegende Kampfregeln (Magie)]] – Spell Attack Roll, Saving Throws, DC
+- [[1. Klassen - Übersicht]]
+- [[Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
 - [[Zauberschulen & Traditionen]] – Occult Tradition im Detail
 - [[Zauberslots & Vorbereitung]] – Spontaneous Caster erklärt
 - [[Konzentration & Fokuszauber]] – Composition Spells im Detail
 - [[Fertigkeiten & Skills]] – Performance, Diplomacy, Deception
 - [[Feats & Talente]] – Bard Class Feats im Detail
-- [[2. ]] – Bard als Dedication-Archetype
-
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Bard

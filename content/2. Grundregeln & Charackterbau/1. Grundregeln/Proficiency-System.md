@@ -1,0 +1,76 @@
+---
+system: "Pathfinder 2e"
+kategorie: "Ruling/Grundregeln"
+tags:
+  - pf2e
+  - grundregeln
+  - proficiency
+verwandte_notizen:
+  - "Attribute & Level System"
+  - "Würfeln & DC-Konzept"
+  - "Rettungswürfe"
+quellen:
+  - "Player Core (Seite 28 ff.)"
+erstellt: 2026-05-02
+slug: "ruling/grundregeln/proficiency-system"
+---
+
+# Proficiency-System
+
+Proficiency misst, wie gut ein Charakter in einer Fertigkeit, einem Angriff, einer Rüstung oder einem Zauber ausgebildet ist. Es ist der wichtigste Skalierungsmechanismus in PF2e — Proficiency wächst mit dem Level.
+
+---
+
+## Formel
+
+**Gesamtbonus = d20 + Attributsmodifikator + Profizienzbonus + sonstige Boni**
+
+Der Profizienzbonus setzt sich zusammen aus **Level + Rangbonus**:
+
+| Rang | Rangbonus | Profizienzbonus bei Level 5 |
+|---|---|---|
+| Untrained | +0 (kein Level) | +0 |
+| Trained | Level + 2 | +7 |
+| Expert | Level + 4 | +9 |
+| Master | Level + 6 | +11 |
+| Legendary | Level + 8 | +13 |
+
+> **Wichtig:** Untrained addiert das Level nicht — nur den Attributsmodifikator. Das erzeugt eine wachsende Lücke zwischen trainierten und untrainierten Charakteren.
+
+---
+
+## Was Proficiency betrifft
+
+- **Skills** (Acrobatics, Athletics, Stealth, Medicine …)
+- **Angriffswürfe** (nach Waffengruppe, z. B. Simple/Martial/Advanced)
+- **Rüstungsklasse** (AC — Light/Medium/Heavy Armor)
+- **Rettungswürfe** (Fortitude, Reflex, Will)
+- **Perception**
+- **Zaubern** (Spell Attack Roll, Spell DC)
+- **Class DC** (für Klassenfeats die einen DC nutzen)
+
+---
+
+## Untrained
+
+Untrained = kein Profizienzbonus, kein Level. Die meisten Checks sind trotzdem möglich — nur mit deutlichem Nachteil gegen trainierte Charaktere.
+
+Manche Aktionen erfordern mindestens Trained (z. B. viele Skill-Feats). Zaubern ist ohne entsprechende Klasse/Feat grundsätzlich nicht möglich.
+
+---
+
+## Proficiency steigern
+
+Proficiency-Ränge steigen **nur** durch Klassenfähigkeiten und Feats — nie durch bloßes Üben. Jede Klasse gibt automatische Steigerungen zu bestimmten Levels:
+
+- Fighter: Martial Weapons auf Expert (Level 5), Master (Level 13)
+- Rogue: Perception auf Master (Level 7), Legendary (Level 15)
+- Wizard: Spell Attacks und DC auf Expert (Level 7)
+
+→ Klassendetails: [[1. Klassen - Übersicht]]
+
+---
+
+## Schnellübersicht
+
+→ [[Grundregeln Übersicht]] (Canvas)

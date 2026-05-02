@@ -279,16 +279,10 @@ Der Monk ist der **schnellste Kämpfer** im Spiel:
 
 ## 🔗 Verwandte Themen
 
-- [[Klassen – Übersicht]] – Alle Klassen im Vergleich
-- [[Klasse - Fighter]] – Vergleich Martial
-- [[Klasse - Ranger]] – Vergleich Martial
-- [[Klasse - Rogue]] – Vergleich Martial
-- [[Klasse - Barbarian]] – Vergleich Martial
+- [[1. Klassen - Übersicht]]
 - [[Attribute & Level System]] – HP, Proficiency, Ability Boosts
 - [[Grundlegende Kampfregeln (physische Waffen)]] – MAP, Flanking, Strikes
 - [[Konzentration & Fokuszauber]] – Ki-Fokuszauber im Detail
 - [[Waffeneigenschaften]] – Agile, Finesse, Monk
 - [[Feats & Talente]] – Monk Class Feats im Detail
-- [[2. ]] – Monk als Dedication-Archetype
-
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Monk

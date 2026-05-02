@@ -308,16 +308,11 @@ Beide sind WIS-basierte Prepared Caster mit 8 HP – aber fundamental unterschie
 
 ## 🔗 Verwandte Themen
 
-- [[Klassen – Übersicht]] – Alle Klassen im Vergleich
-- [[Klasse - Cleric]] – Direkter Vergleich (beide WIS, beide Prepared)
-- [[Klasse - Ranger]] – Vergleich Tiergefährte (Animal Order)
-- [[Klasse - Summoner]] – Vergleich Begleiter-Mechanik
-- [[Grundlegende Kampfregeln (Magie)]] – Spell Attack Roll, Saving Throws, DC
+- [[1. Klassen - Übersicht]]
+- [[Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
 - [[Zauberschulen & Traditionen]] – Primal Tradition im Detail
 - [[Zauberslots & Vorbereitung]] – Prepared Caster erklärt
 - [[Konzentration & Fokuszauber]] – Order Fokuszauber im Detail
 - [[Tiergefährten]] – Animal Companion im Detail
 - [[Feats & Talente]] – Druid Class Feats im Detail
-- [[2. ]] – Druid als Dedication-Archetype
-
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Druid

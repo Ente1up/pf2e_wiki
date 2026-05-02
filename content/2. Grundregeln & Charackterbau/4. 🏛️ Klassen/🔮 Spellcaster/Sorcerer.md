@@ -288,15 +288,10 @@ Jede Bloodline gibt spezifische Fähigkeiten – hier am Beispiel der **Draconic
 
 ## 🔗 Verwandte Themen
 
-- [[Klassen – Übersicht]] – Alle Klassen im Vergleich
-- [[Klasse - Wizard]] – Direkter Vergleich (Prepared vs. Spontaneous)
-- [[Klasse - Bard]] – Weiterer Spontaneous Caster (Occult)
-- [[Klasse - Oracle]] – Weiterer Spontaneous Caster (Divine, mit Curse)
-- [[Grundlegende Kampfregeln (Magie)]] – Spell Attack Roll, Saving Throws, DC
+- [[1. Klassen - Übersicht]]
+- [[Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
 - [[Zauberschulen & Traditionen]] – Alle vier Traditionen im Detail
 - [[Zauberslots & Vorbereitung]] – Prepared vs. Spontaneous Caster erklärt
 - [[Konzentration & Fokuszauber]] – Bloodline Fokuszauber
 - [[Feats & Talente]] – Sorcerer Class Feats im Detail
-- [[2. ]] – Sorcerer als Dedication-Archetype
-
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Sorcerer

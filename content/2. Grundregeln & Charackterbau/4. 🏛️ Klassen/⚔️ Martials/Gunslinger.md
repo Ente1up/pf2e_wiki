@@ -269,15 +269,9 @@ Mächtigere Versionen der Deeds mit verstärkten Effekten.
 
 ## 🔗 Verwandte Themen
 
-- [[Klassen – Übersicht]] – Alle Klassen im Vergleich
-- [[Klasse - Fighter]] – Vergleich Martial (Waffenmeisterschaft)
-- [[Klasse - Ranger]] – Vergleich Martial (Fernkampf-Overlap)
-- [[Klasse - Rogue]] – Vergleich Martial (DEX-Fokus, ähnliche HP)
-- [[Klasse - Swashbuckler]] – Vergleich Martial (DEX, ähnliche Saves)
+- [[1. Klassen - Übersicht]] – Alle Klassen im Vergleich
 - [[Attribute & Level System]] – HP, Proficiency, Ability Boosts
 - [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Reload
 - [[Waffeneigenschaften]] – Reload, Kickback, Concussive, Capacity
 - [[Feats & Talente]] – Gunslinger Class Feats im Detail
-- [[2. ]] – Gunslinger als Dedication-Archetype
-
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Gunslinger

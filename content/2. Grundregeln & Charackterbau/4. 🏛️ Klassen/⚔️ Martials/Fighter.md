@@ -203,12 +203,10 @@ Der Fighter ist mit **jeder Waffe** spielbar, aber einige Builds kristallisieren
 
 ## 🔗 Verwandte Themen
 
-- [[Klassen – Übersicht]] – Alle Klassen im Vergleich
+- [[1. Klassen - Übersicht]] – Alle Klassen im Vergleich
 - [[Attribute & Level System]] – Ability Boosts, Proficiency-Tabellen
 - [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Erfolgsstufen
 - [[Waffeneigenschaften]] – Agile, Reach, Two-Hand, Finesse etc.
-- [[Feats & Talente]] – Fighter Class Feats im Detail
+- [[Fighter Feats]] – Fighter Class Feats im Detail
 - [[Rüstungen & AC]] – Rüstungstypen und ihre Boni
-- [[2. ]] – Fighter als Dedication-Archetype
-
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Fighter

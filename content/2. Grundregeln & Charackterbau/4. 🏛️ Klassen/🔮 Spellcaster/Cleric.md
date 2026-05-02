@@ -304,16 +304,10 @@ Jede Gottheit hat **Domains** – thematische Bereiche die dem Cleric Fokuszaube
 
 ## 🔗 Verwandte Themen
 
-- [[Klassen – Übersicht]] – Alle Klassen im Vergleich
-- [[Klasse - Wizard]] – Vergleich Prepared Caster
-- [[Klasse - Sorcerer]] – Vergleich Spontaneous Caster
-- [[Klasse - Druid]] – Weiterer WIS-basierter Prepared Caster
-- [[Klasse - Champion]] – Gottgeweihter Kämpfer (Hybrid)
-- [[Grundlegende Kampfregeln (Magie)]] – Spell Attack Roll, Saving Throws, DC
+- [[1. Klassen - Übersicht]]
+- [[Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
 - [[Zauberschulen & Traditionen]] – Divine Tradition im Detail
 - [[Zauberslots & Vorbereitung]] – Prepared vs. Spontaneous erklärt
 - [[Konzentration & Fokuszauber]] – Domain Fokuszauber im Detail
 - [[Feats & Talente]] – Cleric Class Feats im Detail
-- [[2. ]] – Cleric als Dedication-Archetype
-
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Cleric
