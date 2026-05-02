@@ -327,4 +327,4 @@ Als **Divine Caster** nutzt der Cleric die göttliche Zauberliste – Schwerpunk
 - [[📖 Zauberslots & Vorbereitung]] – Prepared vs. Spontaneous erklärt
 - [[✨ Konzentration & Fokuszauber]] – Domain Fokuszauber im Detail
 - [[1. Feats Übersicht]] – Cleric Class Feats im Detail
-- [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Cleric
+- [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Cleric

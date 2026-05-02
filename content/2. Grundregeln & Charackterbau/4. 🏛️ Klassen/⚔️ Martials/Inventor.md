@@ -285,4 +285,4 @@ Der Inventor verbessert seine Innovation durch **Modification-Feats** die bei ge
 - [[1. Feats Übersicht]] – Inventor Class Feats & Modification Feats im Detail
 - [[2. ]] – Inventor als Dedication-Archetype
 
-- [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Inventor
+- [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Inventor

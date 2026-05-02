@@ -315,4 +315,4 @@ Beide sind WIS-basierte Prepared Caster mit 8 HP – aber fundamental unterschie
 - [[✨ Konzentration & Fokuszauber]] – Order Fokuszauber im Detail
 - [[Tiergefährten]] – Animal Companion im Detail
 - [[1. Feats Übersicht]] – Druid Class Feats im Detail
-- [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Druid
+- [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Druid

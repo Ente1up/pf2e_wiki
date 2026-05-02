@@ -294,4 +294,4 @@ Jede Bloodline gibt spezifische Fähigkeiten – hier am Beispiel der **Draconic
 - [[📖 Zauberslots & Vorbereitung]] – Prepared vs. Spontaneous Caster erklärt
 - [[✨ Konzentration & Fokuszauber]] – Bloodline Fokuszauber
 - [[1. Feats Übersicht]] – Sorcerer Class Feats im Detail
-- [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Sorcerer
+- [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Sorcerer

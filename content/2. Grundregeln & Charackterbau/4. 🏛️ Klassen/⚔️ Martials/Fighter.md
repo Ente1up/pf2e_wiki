@@ -209,4 +209,4 @@ Der Fighter ist mit **jeder Waffe** spielbar, aber einige Builds kristallisieren
 - [[Waffeneigenschaften]] – Agile, Reach, Two-Hand, Finesse etc.
 - [[Fighter Feats]] – Fighter Class Feats im Detail
 - [[Rüstungen & AC]] – Rüstungstypen und ihre Boni
-- [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Fighter
+- [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Fighter

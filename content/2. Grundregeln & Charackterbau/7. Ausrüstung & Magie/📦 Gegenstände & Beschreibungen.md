@@ -16,7 +16,7 @@ slug: "ruling/ausrüstung/gegenstände-beschreibungen"
 
 # 📦 Gegenstände & Beschreibungen
 
-Nachschlagewerk für häufige Ausrüstungsgegenstände. Starterkits → [[6. 🎒 Ausrüstung & Starterkits]].
+Nachschlagewerk für häufige Ausrüstungsgegenstände. Starterkits → [[4. 🎒 Ausrüstung & Starterkits]].
 
 ---
 
@@ -120,5 +120,5 @@ Einmalige Nutzung eines Zaubers — auch ohne Klasse dieses Zauberers. Rang-1-Sc
 
 ## 🔗 Verwandte Themen
 
-- [[6. 🎒 Ausrüstung & Starterkits]] — Starterkits pro Klasse
+- [[4. 🎒 Ausrüstung & Starterkits]] — Starterkits pro Klasse
 - [[1. Charaktererstellung]] — Ausrüstung im Build-Prozess

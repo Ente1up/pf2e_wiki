@@ -253,4 +253,4 @@ Bei Level 1 wählt der Ranger eine **Hunter's Edge**, die seinen Kampfstil grund
 - [[1. Feats Übersicht]] – Ranger Class Feats im Detail
 - [[2. ]] – Ranger als Dedication-Archetype
 
-- [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Ranger
+- [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Ranger

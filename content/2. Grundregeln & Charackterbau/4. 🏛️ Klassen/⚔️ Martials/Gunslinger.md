@@ -274,4 +274,4 @@ Mächtigere Versionen der Deeds mit verstärkten Effekten.
 - [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Reload
 - [[Waffeneigenschaften]] – Reload, Kickback, Concussive, Capacity
 - [[1. Feats Übersicht]] – Gunslinger Class Feats im Detail
-- [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Gunslinger
+- [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Gunslinger

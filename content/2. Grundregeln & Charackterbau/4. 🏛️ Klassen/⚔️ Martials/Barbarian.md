@@ -267,4 +267,4 @@ Das **Instinct** definiert die Quelle und den Flavour der Rage sowie einen einzi
 - [[Zustände & Conditions]] – Fatigued, Flat-Footed, Slowed
 - [[Waffeneigenschaften]] – Two-Hand, Brutal, etc.
 - [[1. Feats Übersicht]] – Barbarian Class Feats im Detail
-- [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Barbarian
+- [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Barbarian

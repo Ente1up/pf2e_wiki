@@ -325,4 +325,4 @@ Beide nutzen die **Occult Tradition** und sind Spontaneous Caster – aber völl
 - [[✨ Konzentration & Fokuszauber]] – Amps und Fokuspunkte im Detail
 - [[Zustände & Conditions]] – Stupefied erklärt
 - [[1. Feats Übersicht]] – Psychic Class Feats im Detail
-- [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Psychic
+- [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Psychic

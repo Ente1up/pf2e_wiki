@@ -307,4 +307,4 @@ Der Wizard erhält Spell-Slots nach folgendem Schema:
 - [[✨ Konzentration & Fokuszauber]] – Arcane School Fokuszauber
 - [[Rettungswürfe]] – Wie Feinde gegen Wizard-Zauber würfeln
 - [[1. Feats Übersicht]] – Wizard Class Feats im Detail
-- [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Wizard
+- [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Wizard

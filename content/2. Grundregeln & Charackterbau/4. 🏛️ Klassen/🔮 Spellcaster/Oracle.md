@@ -322,4 +322,4 @@ Die **Mystery** bestimmt welche Divine-Zauber besonders betont werden – eine B
 - [[✨ Konzentration & Fokuszauber]] – Revelation Spells im Detail
 - [[Zustände & Conditions]] – Curse-Effekte und ihre Auswirkungen
 - [[1. Feats Übersicht]] – Oracle Class Feats im Detail
-- [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Oracle
+- [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Oracle

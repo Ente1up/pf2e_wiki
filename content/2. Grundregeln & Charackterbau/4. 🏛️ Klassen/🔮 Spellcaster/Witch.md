@@ -294,4 +294,4 @@ Beide sind Prepared Caster mit 6 HP – aber fundamental unterschiedlich im Flav
 - [[📖 Zauberslots & Vorbereitung]] – Prepared Caster erklärt
 - [[✨ Konzentration & Fokuszauber]] – Hexes und Patron-Fokuszauber im Detail
 - [[1. Feats Übersicht]] – Witch Class Feats im Detail
-- [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Witch
+- [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Witch

@@ -323,4 +323,4 @@ Beide sind WIS-basierte Prepared Caster mit 8 HP und Naturverbindung – aber fu
 - [[📖 Zauberslots & Vorbereitung]] – Prepared Caster erklärt
 - [[✨ Konzentration & Fokuszauber]] – Apparition-Fokuszauber im Detail
 - [[1. Feats Übersicht]] – Animist Class Feats im Detail
-- [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Animist
+- [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Animist
