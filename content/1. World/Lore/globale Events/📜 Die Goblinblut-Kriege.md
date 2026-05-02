@@ -93,6 +93,6 @@ Die Goblinblut-Kriege erklären viel an der modernen goblinoiden Welt:
 
 ## 🔗 Verwandte Themen
 
-- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/⚔️ Hobgoblin]] – Das Volk das die Kriege prägte
-- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/👺 Goblin]] – Kleinere Verbündete im Konflikt
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/⚔️ Hobgoblin|⚔️ Hobgoblin]] – Das Volk das die Kriege prägte
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/👺 Goblin|👺 Goblin]] – Kleinere Verbündete im Konflikt
 - [[🏙️ Oprak]] – Das Nachkriegs-Königreich

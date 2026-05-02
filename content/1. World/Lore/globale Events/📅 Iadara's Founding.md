@@ -78,7 +78,7 @@ Wildnis-Elfen feiern ihre eigene Version: das Pflanzen bleibt, aber die Feier gi
 
 ## 🔗 Verwandte Themen
 
-- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🧝 Elfen]] – Das Elfenvolk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🧝 Elfen|🧝 Elfen]] – Das Elfenvolk
 - [[🏙️ Kyonin]] – Ort der Feierlichkeiten
 - [[👑 Telandia Edasseril]] – Hält die Festrede
 - [[📅 Remembrance Moon]] – Das Pendant: Trauer statt Freude

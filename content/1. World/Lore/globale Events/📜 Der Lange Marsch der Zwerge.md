@@ -91,7 +91,7 @@ Die Zwerge fanden eine Welt im Chaos vor – aber sie hatten das Schlimmste bere
 
 ## 🔗 Verwandte Themen
 
-- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/⛏️ Zwerge]] – Das Zwergenvolk im Überblick
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/⛏️ Zwerge|⛏️ Zwerge]] – Das Zwergenvolk im Überblick
 - [[🕳️ Darklands]] – Die Unterwelt aus der sie kamen
 - [[🏚️ Tar Taargadth]] – Das alte zwergische Unterreich
 - [[👑 Borogrim der Schwere]] – Legendärer Anführer des Marsches

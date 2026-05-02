@@ -116,5 +116,5 @@ Burn Night eignet sich ideal für:
 
 ## 🔗 Verwandte Themen
 
-- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/👺 Goblin]] – Das Goblin-Volk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/👺 Goblin|👺 Goblin]] – Das Goblin-Volk
 - [[⛪ Lamashtu]] – Religiöse Dimension der Tradition

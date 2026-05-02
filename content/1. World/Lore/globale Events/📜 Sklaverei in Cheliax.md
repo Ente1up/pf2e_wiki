@@ -124,7 +124,7 @@ Die Geschichte der Versklavung prägt halblingische Kultur bis heute – auch be
 
 ## 🔗 Verwandte Themen
 
-- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🦶 Halblinge]] – Das hauptsächlich betroffene Volk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🦶 Halblinge|🦶 Halblinge]] – Das hauptsächlich betroffene Volk
 - [[🏙️ Cheliax]] – Der Staat wo Sklaverei gilt
 - [[🏛️ Die Freien Halblinge]] – Abolitionist-Bewegung
 - [[👤 Seelah]] – Aufgewachsen in Cheliax, kämpft gegen Unterdrückung

@@ -99,7 +99,7 @@ Wer den Mond respektvoll miterlebt, hat einen tiefen Einblick in die elfische Se
 
 ## 🔗 Verwandte Themen
 
-- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🧝 Elfen]] – Das Elfenvolk
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🧝 Elfen|🧝 Elfen]] – Das Elfenvolk
 - [[🌍 Der Starfall]] – Das Ereignis das dieser Feiertag gedenkt
 - [[🌐 Sovyrian]] – Das Exil das erinnert wird
 - [[🏙️ Kyonin]] – Zentrum der Feierlichkeiten

@@ -122,7 +122,7 @@ Iruxi-Namen bestehen aus **Zischlauten, harten Konsonanten und kurzen Vokalfolge
 
 ## 🎉 Feiertage & Traditionen
 
-Detailreiche Übersicht → [[📅 Iruxi-Traditionen]]
+Detailreiche Übersicht → [[📅 Iruxi Traditionen]]
 
 Kurzfassung:
 
@@ -161,4 +161,4 @@ Ein Iruxi-Charakter kann der ruhigste, klügste Verstand am Tisch sein – und g
 - [[🏙️ Vidrian]] – Moderne Nation mit Iruxi-Gleichstellung
 - [[🏚️ Droon]] – Bedeutendste aktive Iruxi-Siedlung
 - [[⛪ Gozreh]] – Hauptgottheit der Iruxi-Druiden
-- [[📅 Iruxi-Traditionen]] – Feste und Rituale im Detail
+- [[📅 Iruxi Traditionen]] – Feste und Rituale im Detail

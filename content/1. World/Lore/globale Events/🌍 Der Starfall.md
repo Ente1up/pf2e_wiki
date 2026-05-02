@@ -102,7 +102,7 @@ Ein elfischer Charakter der alt genug ist könnte den **Exodus selbst erlebt** h
 
 ## 🔗 Verwandte Themen
 
-- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🧝 Elfen]] – Das Elfenvolk im Überblick
+- [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🧝 Elfen|🧝 Elfen]] – Das Elfenvolk im Überblick
 - [[🌐 Sovyrian]] – Die elfische Heimat im Exil
 - [[🏙️ Kyonin]] – Das heutige elfische Königreich
 - [[📅 Remembrance Moon]] – Das jährliche Gedenken an Exodus und Rückkehr
