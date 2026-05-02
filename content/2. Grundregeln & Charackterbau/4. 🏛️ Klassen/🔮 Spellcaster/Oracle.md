@@ -180,6 +180,16 @@ Die **Mystery** ist die Quelle der göttlichen Heimsuchung des Oracles. Sie best
 
 ---
 
+## 📚 Divine Tradition – Zauberauswahl
+
+Der Oracle nutzt dieselbe **Divine Tradition** wie der Cleric – göttliche Heilung, Schutz und Kampf gegen Dunkelheit. Als Spontaneous Caster hat er weniger Zauber insgesamt, aber volle Flexibilität beim Wirken.
+
+> Typische Schulen: Necromancy (Heal/Harm), Abjuration (Schutz), Divination, Enchantment (Command). Details: [[🌀 Zauberschulen & Traditionen]]
+
+Die **Mystery** bestimmt welche Divine-Zauber besonders betont werden – eine Battle-Mystery greift mehr auf Evocation zu, Life-Mystery auf Necromancy/Healing.
+
+---
+
 ## 📈 Progression – Oracle über alle Level
 
 ### Spellcasting-Proficiency-Steigerungen
@@ -306,10 +316,10 @@ Die **Mystery** ist die Quelle der göttlichen Heimsuchung des Oracles. Sie best
 ## 🔗 Verwandte Themen
 
 - [[1. Klassen - Übersicht]]
-- [[Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
-- [[Zauberschulen & Traditionen]] – Divine Tradition im Detail
-- [[Zauberslots & Vorbereitung]] – Spontaneous Caster erklärt
-- [[Konzentration & Fokuszauber]] – Revelation Spells im Detail
+- [[🔮 Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
+- [[🌀 Zauberschulen & Traditionen]] – Divine Tradition im Detail
+- [[📖 Zauberslots & Vorbereitung]] – Spontaneous Caster erklärt
+- [[✨ Konzentration & Fokuszauber]] – Revelation Spells im Detail
 - [[Zustände & Conditions]] – Curse-Effekte und ihre Auswirkungen
-- [[Feats & Talente]] – Oracle Class Feats im Detail
+- [[1. Feats Übersicht]] – Oracle Class Feats im Detail
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Oracle

@@ -166,6 +166,16 @@ Zusätzlich zum Conscious Mind wählt der Psychic einen **Subconscious Mind** �
 
 ---
 
+## 🌀 Occult Tradition – Zauberauswahl
+
+Der Psychic nutzt die **Occult Tradition** – wie der Bard, aber mit anderem Fokus: weniger Gruppen-Buff, mehr mentale Kontrolle und Cantrip-Schaden.
+
+> Typische Schulen: Enchantment (Geisteskontrolle), Illusion, Divination, Necromancy. Details: [[🌀 Zauberschulen & Traditionen]]
+
+Der **Conscious Mind** bestimmt welche Schulen besonders betont werden – Oscillating Wave greift auf Evocation zu, Infinite Eye auf Divination/Illusion.
+
+---
+
 ## 📜 Spontaneous Casting & Signature Spells
 
 Als **Spontaneous Caster** mit der **Occult Tradition**:
@@ -309,10 +319,10 @@ Beide nutzen die **Occult Tradition** und sind Spontaneous Caster – aber völl
 ## 🔗 Verwandte Themen
 
 - [[1. Klassen - Übersicht]]
-- [[Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
-- [[Zauberschulen & Traditionen]] – Occult Tradition im Detail
-- [[Zauberslots & Vorbereitung]] – Spontaneous Caster erklärt
-- [[Konzentration & Fokuszauber]] – Amps und Fokuspunkte im Detail
+- [[🔮 Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
+- [[🌀 Zauberschulen & Traditionen]] – Occult Tradition im Detail
+- [[📖 Zauberslots & Vorbereitung]] – Spontaneous Caster erklärt
+- [[✨ Konzentration & Fokuszauber]] – Amps und Fokuspunkte im Detail
 - [[Zustände & Conditions]] – Stupefied erklärt
-- [[Feats & Talente]] – Psychic Class Feats im Detail
+- [[1. Feats Übersicht]] – Psychic Class Feats im Detail
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Psychic

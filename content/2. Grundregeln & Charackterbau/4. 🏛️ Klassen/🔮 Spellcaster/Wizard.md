@@ -301,10 +301,10 @@ Der Wizard erhält Spell-Slots nach folgendem Schema:
 ## 🔗 Verwandte Themen
 
 - [[1. Klassen - Übersicht]] – Alle Klassen im Vergleich
-- [[Grundlegende Kampfregeln Magie]]] – Spell Attack Roll, Saving Throws, DC
-- [[Zauberschulen & Traditionen]] – Arcane Tradition im Detail
-- [[Zauberslots & Vorbereitung]] – Prepared vs. Spontaneous Caster
-- [[Konzentration & Fokuszauber]] – Arcane School Fokuszauber
+- [[🔮 Grundlegende Kampfregeln Magie]]] – Spell Attack Roll, Saving Throws, DC
+- [[🌀 Zauberschulen & Traditionen]] – Arcane Tradition im Detail
+- [[📖 Zauberslots & Vorbereitung]] – Prepared vs. Spontaneous Caster
+- [[✨ Konzentration & Fokuszauber]] – Arcane School Fokuszauber
 - [[Rettungswürfe]] – Wie Feinde gegen Wizard-Zauber würfeln
-- [[Feats & Talente]] – Wizard Class Feats im Detail
+- [[1. Feats Übersicht]] – Wizard Class Feats im Detail
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Wizard

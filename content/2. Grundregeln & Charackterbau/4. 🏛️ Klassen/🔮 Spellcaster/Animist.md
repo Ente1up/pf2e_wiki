@@ -318,9 +318,9 @@ Beide sind WIS-basierte Prepared Caster mit 8 HP und Naturverbindung – aber fu
 
 
 - [[1. Klassen - Übersicht]]
-- [[Grundlegende Kampfregeln Magie]]
-- [[Zauberschulen & Traditionen]] – Primal und Occult Tradition im Detail
-- [[Zauberslots & Vorbereitung]] – Prepared Caster erklärt
-- [[Konzentration & Fokuszauber]] – Apparition-Fokuszauber im Detail
-- [[Feats & Talente]] – Animist Class Feats im Detail
+- [[🔮 Grundlegende Kampfregeln Magie]]
+- [[🌀 Zauberschulen & Traditionen]] – Primal und Occult Tradition im Detail
+- [[📖 Zauberslots & Vorbereitung]] – Prepared Caster erklärt
+- [[✨ Konzentration & Fokuszauber]] – Apparition-Fokuszauber im Detail
+- [[1. Feats Übersicht]] – Animist Class Feats im Detail
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Animist

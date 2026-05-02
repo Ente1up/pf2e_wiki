@@ -289,9 +289,9 @@ Jede Bloodline gibt spezifische Fähigkeiten – hier am Beispiel der **Draconic
 ## 🔗 Verwandte Themen
 
 - [[1. Klassen - Übersicht]]
-- [[Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
-- [[Zauberschulen & Traditionen]] – Alle vier Traditionen im Detail
-- [[Zauberslots & Vorbereitung]] – Prepared vs. Spontaneous Caster erklärt
-- [[Konzentration & Fokuszauber]] – Bloodline Fokuszauber
-- [[Feats & Talente]] – Sorcerer Class Feats im Detail
+- [[🔮 Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
+- [[🌀 Zauberschulen & Traditionen]] – Alle vier Traditionen im Detail
+- [[📖 Zauberslots & Vorbereitung]] – Prepared vs. Spontaneous Caster erklärt
+- [[✨ Konzentration & Fokuszauber]] – Bloodline Fokuszauber
+- [[1. Feats Übersicht]] – Sorcerer Class Feats im Detail
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Sorcerer

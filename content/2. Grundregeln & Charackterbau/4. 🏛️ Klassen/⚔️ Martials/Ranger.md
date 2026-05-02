@@ -250,7 +250,7 @@ Bei Level 1 wählt der Ranger eine **Hunter's Edge**, die seinen Kampfstil grund
 - [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Erfolgsstufen
 - [[Waffeneigenschaften]] – Agile, Volley, Deadly etc.
 - [[Tiergefährten]] – Animal Companion im Detail
-- [[Feats & Talente]] – Ranger Class Feats im Detail
+- [[1. Feats Übersicht]] – Ranger Class Feats im Detail
 - [[2. ]] – Ranger als Dedication-Archetype
 
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Ranger

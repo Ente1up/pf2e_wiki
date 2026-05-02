@@ -309,10 +309,10 @@ Beide sind WIS-basierte Prepared Caster mit 8 HP – aber fundamental unterschie
 ## 🔗 Verwandte Themen
 
 - [[1. Klassen - Übersicht]]
-- [[Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
-- [[Zauberschulen & Traditionen]] – Primal Tradition im Detail
-- [[Zauberslots & Vorbereitung]] – Prepared Caster erklärt
-- [[Konzentration & Fokuszauber]] – Order Fokuszauber im Detail
+- [[🔮 Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
+- [[🌀 Zauberschulen & Traditionen]] – Primal Tradition im Detail
+- [[📖 Zauberslots & Vorbereitung]] – Prepared Caster erklärt
+- [[✨ Konzentration & Fokuszauber]] – Order Fokuszauber im Detail
 - [[Tiergefährten]] – Animal Companion im Detail
-- [[Feats & Talente]] – Druid Class Feats im Detail
+- [[1. Feats Übersicht]] – Druid Class Feats im Detail
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Druid

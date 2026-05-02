@@ -172,6 +172,23 @@ Jede Gottheit hat **Domains** – thematische Bereiche die dem Cleric Fokuszaube
 
 ---
 
+## 📚 Divine Tradition – Zauberauswahl
+
+Als **Divine Caster** nutzt der Cleric die göttliche Zauberliste – Schwerpunkt auf Heilung, Schutz und göttlichem Kampf:
+
+| Kategorie | Typische Zauber |
+|-----------|----------------|
+| **Heilung** | Heal, Restoration, Raise Dead, Breath of Life |
+| **Schutz** | Shield, Sanctuary, Bless, Consecrate |
+| **Schaden** | Harm, Divine Lance, Searing Light, Flame Strike |
+| **Kontrolle** | Command, Bind Undead, Spiritual Weapon |
+| **Wissen** | Augury, Divination, Detect Alignment |
+| **Buff** | Heroism, Freedom of Movement, Holy Aura |
+
+> 💡 Divine hat die stärksten **Heilzauber** aller Traditionen und einzigartige Anti-Untoten-Magie – aber weniger rohen Schadensoutput als Arcane oder Primal. Welche Schulen (Necromancy, Abjuration, Divination…) in der Divine Tradition stark vertreten sind: [[🌀 Zauberschulen & Traditionen]]
+
+---
+
 ## 📈 Progression – Cleric über alle Level
 
 ### Spellcasting-Proficiency-Steigerungen
@@ -305,9 +322,9 @@ Jede Gottheit hat **Domains** – thematische Bereiche die dem Cleric Fokuszaube
 ## 🔗 Verwandte Themen
 
 - [[1. Klassen - Übersicht]]
-- [[Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
-- [[Zauberschulen & Traditionen]] – Divine Tradition im Detail
-- [[Zauberslots & Vorbereitung]] – Prepared vs. Spontaneous erklärt
-- [[Konzentration & Fokuszauber]] – Domain Fokuszauber im Detail
-- [[Feats & Talente]] – Cleric Class Feats im Detail
+- [[🔮 Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
+- [[🌀 Zauberschulen & Traditionen]] – Divine Tradition im Detail
+- [[📖 Zauberslots & Vorbereitung]] – Prepared vs. Spontaneous erklärt
+- [[✨ Konzentration & Fokuszauber]] – Domain Fokuszauber im Detail
+- [[1. Feats Übersicht]] – Cleric Class Feats im Detail
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Cleric

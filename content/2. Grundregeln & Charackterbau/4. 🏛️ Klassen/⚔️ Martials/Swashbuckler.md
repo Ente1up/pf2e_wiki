@@ -285,6 +285,6 @@ Ein **Finisher** ist eine spezielle Angriffsaktion die nur mit aktivem **Panache
 - [[Attribute & Level System]] – HP, Proficiency, Ability Boosts
 - [[Grundlegende Kampfregeln (physische Waffen)]] – Flanking, MAP, Strikes
 - [[Waffeneigenschaften]] – Finesse, Agile, Reach
-- [[Feats & Talente]] – Swashbuckler Class Feats im Detail
+- [[1. Feats Übersicht]] – Swashbuckler Class Feats im Detail
 - [[Fertigkeiten & Skills]] – Acrobatics, Deception, Intimidation, Athletics
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Swashbuckler

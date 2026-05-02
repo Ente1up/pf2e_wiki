@@ -289,9 +289,9 @@ Beide sind Prepared Caster mit 6 HP – aber fundamental unterschiedlich im Flav
 ## 🔗 Verwandte Themen
 
 - [[1. Klassen - Übersicht]]
-- [[Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
-- [[Zauberschulen & Traditionen]] – Alle vier Traditionen im Detail
-- [[Zauberslots & Vorbereitung]] – Prepared Caster erklärt
-- [[Konzentration & Fokuszauber]] – Hexes und Patron-Fokuszauber im Detail
-- [[Feats & Talente]] – Witch Class Feats im Detail
+- [[🔮 Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
+- [[🌀 Zauberschulen & Traditionen]] – Alle vier Traditionen im Detail
+- [[📖 Zauberslots & Vorbereitung]] – Prepared Caster erklärt
+- [[✨ Konzentration & Fokuszauber]] – Hexes und Patron-Fokuszauber im Detail
+- [[1. Feats Übersicht]] – Witch Class Feats im Detail
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Witch

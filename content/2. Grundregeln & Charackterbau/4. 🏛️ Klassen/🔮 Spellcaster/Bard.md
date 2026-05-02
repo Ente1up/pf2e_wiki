@@ -302,10 +302,10 @@ Der Bard ist der stärkste **soziale Charakter** im Spiel:
 ## 🔗 Verwandte Themen
 
 - [[1. Klassen - Übersicht]]
-- [[Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
-- [[Zauberschulen & Traditionen]] – Occult Tradition im Detail
-- [[Zauberslots & Vorbereitung]] – Spontaneous Caster erklärt
-- [[Konzentration & Fokuszauber]] – Composition Spells im Detail
+- [[🔮 Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
+- [[🌀 Zauberschulen & Traditionen]] – Occult Tradition im Detail
+- [[📖 Zauberslots & Vorbereitung]] – Spontaneous Caster erklärt
+- [[✨ Konzentration & Fokuszauber]] – Composition Spells im Detail
 - [[Fertigkeiten & Skills]] – Performance, Diplomacy, Deception
-- [[Feats & Talente]] – Bard Class Feats im Detail
+- [[1. Feats Übersicht]] – Bard Class Feats im Detail
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Bard

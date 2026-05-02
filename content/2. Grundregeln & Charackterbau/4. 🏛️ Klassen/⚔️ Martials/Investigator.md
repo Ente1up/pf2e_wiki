@@ -294,5 +294,5 @@ Beide Klassen sind DEX/INT-adjacent, Skill-fokussiert und mit 8 HP/Level – abe
 - [[Attribute & Level System]] – HP, Proficiency, Ability Boosts
 - [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Aktionen
 - [[Waffeneigenschaften]] – Finesse, Agile
-- [[Feats & Talente]] – Investigator Class Feats im Detail
+- [[1. Feats Übersicht]] – Investigator Class Feats im Detail
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Investigator

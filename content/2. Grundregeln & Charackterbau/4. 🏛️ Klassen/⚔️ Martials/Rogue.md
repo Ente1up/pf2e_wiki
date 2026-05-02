@@ -250,5 +250,5 @@ Der Rogue ist der **stärkste Skill-Charakter** im Spiel:
 - [[Grundlegende Kampfregeln (physische Waffen)]] – Flanking, Flat-Footed, MAP
 - [[Fertigkeiten & Skills]] – Skill-System im Detail
 - [[Waffeneigenschaften]] – Finesse, Agile, Deadly
-- [[Feats & Talente]] – Rogue Class Feats im Detail
+- [[1. Feats Übersicht]] – Rogue Class Feats im Detail
 - [[6. 🎒 Ausrüstung & Starterkits]] – Starterkit für Rogue
