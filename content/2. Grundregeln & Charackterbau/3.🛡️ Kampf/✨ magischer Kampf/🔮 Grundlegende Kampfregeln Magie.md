@@ -148,6 +148,6 @@ Zaubern in der Nähe eines Feindes ist riskant:
 - [[Grundlegende Kampfregeln (physische Waffen)]] – Vergleich mit physischen Angriffen
 - [[🌀 Zauberschulen & Traditionen]] – Arcane, Divine, Occult, Primal
 - [[📖 Zauberslots & Vorbereitung]] – Prepared vs. Spontaneous Caster
-- [[Rettungswürfe]] – Fortitude, Reflex, Will im Detail
+- [[5. Rettungswürfe]] – Fortitude, Reflex, Will im Detail
 - [[✨ Konzentration & Fokuszauber]] – Sustained Spells, Focus Points
 - [[Schadenstypen & Resistenzen]] – Energie- und physische Schadenstypen

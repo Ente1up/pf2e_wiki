@@ -85,7 +85,7 @@ Die **Druidic Order** ist das Herzstück des Druids und definiert seinen komplet
 ### 🐺 Animal Order
 - Erhält einen **Animal Companion** (permanenter Tiergefährte)
 - Der Begleiter wächst mit dem Druid und wird durch Feats weiter gestärkt
-- Kann dem Begleiter als **freie Aktion** (statt 1 Aktion) Befehle geben ⭐
+- Kann dem Begleiter als **◇** (statt ◆) Befehle geben ⭐
 - Fokuszauber: *Heal Animal* – heilt den Tiergefährten
 - Ideal für: Spieler die mit einem mächtigen Begleiter kämpfen wollen
 
@@ -154,7 +154,7 @@ Der Tiergefährte des Druids ist mächtiger als der des Rangers:
 
 | Merkmal | Animal Order Druid | Ranger |
 |---------|-------------------|--------|
-| **Befehl** | **Freie Aktion** ⭐ | 1 Aktion |
+| **Befehl** | **◇** ⭐ | ◆ |
 | **Heilung** | Goodberry + Heal Animal | Nur durch Items/Zauber |
 | **Wachstum** | Gleiche Feats | Gleiche Feats |
 | **Stärke** | Etwas robuster | Standard |
@@ -200,7 +200,7 @@ Die **Primal Tradition** umfasst:
 | 1 | **Primal Spellcasting** | Prepared Caster, Primal Tradition. |
 | 1 | **Druidic Order** | Wahl der Order: Animal, Leaf, Storm, Wild, Fungal oder Wave. |
 | 1 | **Druidic Language** | Spricht die geheime Sprache der Druiden (Druidic). |
-| 1 | **Shield Block** | Reaktion: Schaden mit Schild abfangen (kein Metallschild!). |
+| 1 | **Shield Block** | ↺: Schaden mit Schild abfangen (kein Metallschild!). |
 | 1 | **Wild Empathy** | Kann mit Tieren kommunizieren (einfache Botschaften). |
 | 1 | **Druid Feat** | +1 Class Feat |
 | 2 | **Druid Feat** | +1 Class Feat |
@@ -209,7 +209,7 @@ Die **Primal Tradition** umfasst:
 | 3 | **Skill Increase** | +1 Skill Increase |
 | 4 | **Druid Feat** | +1 Class Feat |
 | 4 | **Skill Feat** | +1 Skill Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Lightning Reflexes** | Reflex-Save wird **Expert**. |
 | 5 | **Skill Increase** | +1 Skill Increase |
@@ -231,7 +231,7 @@ Die **Primal Tradition** umfasst:
 | 11 | **General Feat** | +1 General Feat |
 | 11 | **Primal Hierophant** | Erhält einen **Rank 10 Spell Slot** (wie Wizard bei Level 19, aber früher als Fokus-Upgrade). |
 | 11 | **Skill Increase** | +1 Skill Increase |
-| 11 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[Attribute & Level System]] |
+| 11 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. Attribute & Level System]] |
 | 12 | **Druid Feat** | +1 Class Feat |
 | 12 | **Skill Feat** | +1 Skill Feat |
 | 13 | **Ancestry Feat** | +1 Ancestry Feat |

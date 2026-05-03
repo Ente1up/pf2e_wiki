@@ -79,9 +79,9 @@ Schusswaffen haben eine **Reload-Eigenschaft** die angibt wie viele Aktionen das
 | Reload | Aktionskosten | Typische Waffe |
 |--------|--------------|----------------|
 | **0** | Kein Nachladen nötig | Repeating Crossbow, bestimmte Pistolen |
-| **1** | 1 Aktion (◆) | Flintlock Pistol, viele Pistolen |
-| **2** | 2 Aktionen (◆◆) | Musket, Rifle |
-| **3** | 3 Aktionen (◆◆◆) | Schwere Scharfschützenwaffen |
+| **1** | ◆ | Flintlock Pistol, viele Pistolen |
+| **2** | ◆◆ | Musket, Rifle |
+| **3** | ◆◆◆ | Schwere Scharfschützenwaffen |
 
 > ⚠️ Das Nachladen ist die größte taktische Herausforderung des Gunslingers. Wer nicht plant **wann** er nachlädt, verliert wertvolle Aktionen im falschen Moment.
 
@@ -129,7 +129,7 @@ Bei Level 1 wählt der Gunslinger seinen **Way** – dieser definiert seinen Kam
 **Deeds** sind spezielle Aktionen des Gunslingers die seinen Kampf spektakulär machen. Sie werden in drei Kategorien eingeteilt:
 
 ### Initiative Deeds (Level 1)
-Freie Aktion zu Beginn des ersten Zuges – kostet keine Aktionen:
+◇ zu Beginn des ersten Zuges – kostet keine Aktionen:
 - **Called Shot**: Markiert einen Körperteil des Ziels für Sondereffekte beim nächsten Treffer
 - **Warning Shot**: Schuss in die Luft der Feinde einschüchtert
 
@@ -175,7 +175,7 @@ Mächtigere Versionen der Deeds mit verstärkten Effekten.
 | Level | Feature | Beschreibung |
 |-------|---------|-------------|
 | 1 | **Gunslinger's Way** | Wahl des Ways: Drifter, Gunner, Investigator, Sniper oder Vanguard. |
-| 1 | **初 Initiative Deed** | Freie Aktion zu Beginn des ersten Kampfzuges. |
+| 1 | **初 Initiative Deed** | ◇ zu Beginn des ersten Kampfzuges. |
 | 1 | **Gunslinger Feat** | +1 Class Feat |
 | 2 | **Gunslinger Feat** | +1 Class Feat |
 | 2 | **Skill Feat** | +1 Skill Feat |
@@ -184,7 +184,7 @@ Mächtigere Versionen der Deeds mit verstärkten Effekten.
 | 3 | **Stubborn** | Will-Save: Bei Misserfolg kann erneut gewürfelt werden (1×/Runde). |
 | 4 | **Gunslinger Feat** | +1 Class Feat |
 | 4 | **Skill Feat** | +1 Skill Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Gunslinger Weapon Mastery** | Firearms & Crossbows: **Master**. Critical Specialization für alle Schusswaffen. |
 | 5 | **Skill Increase** | +1 Skill Increase |
@@ -193,7 +193,7 @@ Mächtigere Versionen der Deeds mit verstärkten Effekten.
 | 7 | **General Feat** | +1 General Feat |
 | 7 | **Skill Increase** | +1 Skill Increase |
 | 7 | **Vigilant Senses** | Perception wird **Master**. |
-| 7 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[Attribute & Level System]] |
+| 7 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. Attribute & Level System]] |
 | 7 | **Evasion** | Reflex-Save wird **Master**. Bei Erfolg gilt als kritischer Erfolg. |
 | 8 | **Gunslinger Feat** | +1 Class Feat |
 | 8 | **Skill Feat** | +1 Skill Feat |
@@ -219,7 +219,7 @@ Mächtigere Versionen der Deeds mit verstärkten Effekten.
 | 14 | **Skill Feat** | +1 Skill Feat |
 | 15 | **Ability Boosts** | +4 Attribut-Boosts |
 | 15 | **General Feat** | +1 General Feat |
-| 15 | **Greater Weapon Specialization** | Erhöhter Schadenszuwachs → siehe [[Attribute & Level System]] |
+| 15 | **Greater Weapon Specialization** | Erhöhter Schadenszuwachs → siehe [[1. Attribute & Level System]] |
 | 15 | **Improved Evasion** | Reflex-Save wird **Legendary**. Kritischer Misserfolg gilt als Misserfolg. |
 | 15 | **Skill Increase** | +1 Skill Increase |
 | 16 | **Gunslinger Feat** | +1 Class Feat |
@@ -270,7 +270,7 @@ Mächtigere Versionen der Deeds mit verstärkten Effekten.
 ## 🔗 Verwandte Themen
 
 - [[1. Klassen - Übersicht]] – Alle Klassen im Vergleich
-- [[Attribute & Level System]] – HP, Proficiency, Ability Boosts
+- [[1. Attribute & Level System]] – HP, Proficiency, Ability Boosts
 - [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Reload
 - [[Waffeneigenschaften]] – Reload, Kickback, Concussive, Capacity
 - [[1. Feats Übersicht]] – Gunslinger Class Feats im Detail

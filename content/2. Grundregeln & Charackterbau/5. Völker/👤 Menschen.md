@@ -102,4 +102,4 @@ Menschen passen zu **allen Klassen** gleichermaßen – ihr Bonus-Feat und die f
 
 - [[Völker – Übersicht]] – Alle spielbaren Ancestries
 - [[Charaktererstellung]] – Ancestry im Build-Prozess
-- [[Attribute & Level System]] – Attribut-Boosts erklärt
+- [[1. Attribute & Level System]] – Attribut-Boosts erklärt

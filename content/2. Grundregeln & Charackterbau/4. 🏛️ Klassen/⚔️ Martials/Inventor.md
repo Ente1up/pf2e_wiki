@@ -101,7 +101,7 @@ Bei Level 1 wählt der Inventor seine **Innovation** – seine persönliche Erfi
 | Modifikation | Effekt |
 |-------------|--------|
 | Integrated Weapon | Waffe ist in die Rüstung eingebaut |
-| Jump Jets | Kurzer Sprung als 1 Aktion (kein AoO-Risiko) |
+| Jump Jets | Kurzer Sprung als ◆ (kein AoO-Risiko) |
 | Layered Mesh | Erhöhter Rüstungsbonus auf AC |
 | Magnetized Plating | Gegner mit metallischen Waffen haben Malus auf Angriffe |
 | Tensile Absorption | Reduziert erlittenen Schaden einmal pro Runde |
@@ -111,7 +111,7 @@ Bei Level 1 wählt der Inventor seine **Innovation** – seine persönliche Erfi
 - Ähnlich dem Animal Companion des Rangers aber aus Metall und Zahnrädern
 - Kämpft an der Seite des Inventors
 - Kann als Waffe, Schild oder eigenständiger Kämpfer fungieren
-- Benötigt 1 Aktion (◆) pro Runde für Befehle
+- Benötigt ◆ pro Runde für Befehle
 
 ---
 
@@ -126,7 +126,7 @@ Viele der mächtigsten Inventor-Fähigkeiten haben den **Unstable**-Trait. Das b
 4. Bei **Misserfolg**: Innovation wird **beschädigt** → Unstable-Fähigkeiten nicht mehr nutzbar bis repariert
 
 ### Reparieren:
-- **Interact-Aktion** (◆) im Kampf: Kurze Notfallreparatur, stellt Funktion wieder her
+- **Interact-Aktion** ◆ im Kampf: Kurze Notfallreparatur, stellt Funktion wieder her
 - **10 Minuten außerhalb Kampf**: Vollständige Reparatur
 
 ### Feats die Unstable verbessern:
@@ -141,7 +141,7 @@ Viele der mächtigsten Inventor-Fähigkeiten haben den **Unstable**-Trait. Das b
 
 **Overdrive** ist eine zuverlässigere Alternative zu Unstable:
 
-- Kostet **1 Aktion (◆)**
+- Kostet **◆**
 - Führt einen **Crafting-Check** aus (DC 20 bei Level 1, steigt)
 - Bei **Erfolg**: +1W4 Schadensbonus auf alle Strikes für 1 Minute
 - Bei **kritischem Erfolg**: +1W6 statt +1W4
@@ -191,10 +191,10 @@ Der Inventor verbessert seine Innovation durch **Modification-Feats** die bei ge
 | 2 | **Skill Feat** | +1 Skill Feat |
 | 3 | **General Feat** | +1 General Feat |
 | 3 | **Skill Increase** | +1 Skill Increase |
-| 3 | **Explode** | Kann Instabilitäten kontrolliert nutzen: Flächenschaden um sich selbst als Reaktion. |
+| 3 | **Explode** | Kann Instabilitäten kontrolliert nutzen: Flächenschaden um sich selbst als ↺. |
 | 4 | **Inventor Feat** | +1 Class Feat |
 | 4 | **Skill Feat** | +1 Skill Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Inventor Weapon Expertise** | Martial Weapons & Innovation: **Expert**. Perception: Expert. |
 | 5 | **Skill Increase** | +1 Skill Increase |
@@ -204,7 +204,7 @@ Der Inventor verbessert seine Innovation durch **Modification-Feats** die bei ge
 | 7 | **General Feat** | +1 General Feat |
 | 7 | **Resolve** | Will-Save wird **Master**. |
 | 7 | **Skill Increase** | +1 Skill Increase |
-| 7 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[Attribute & Level System]] |
+| 7 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. Attribute & Level System]] |
 | 8 | **Inventor Feat** | +1 Class Feat |
 | 8 | **Skill Feat** | +1 Skill Feat |
 | 9 | **Ancestry Feat** | +1 Ancestry Feat |
@@ -227,7 +227,7 @@ Der Inventor verbessert seine Innovation durch **Modification-Feats** die bei ge
 | 14 | **Skill Feat** | +1 Skill Feat |
 | 15 | **Ability Boosts** | +4 Attribut-Boosts |
 | 15 | **General Feat** | +1 General Feat |
-| 15 | **Greater Weapon Specialization** | Erhöhter Schadenszuwachs → siehe [[Attribute & Level System]] |
+| 15 | **Greater Weapon Specialization** | Erhöhter Schadenszuwachs → siehe [[1. Attribute & Level System]] |
 | 15 | **Revolutionary Innovation** | Wählt eine weitere Advanced Modification. Unstable Flat Check DC sinkt auf **13**. |
 | 15 | **Skill Increase** | +1 Skill Increase |
 | 16 | **Inventor Feat** | +1 Class Feat |
@@ -252,7 +252,7 @@ Der Inventor verbessert seine Innovation durch **Modification-Feats** die bei ge
 | Level | Meilenstein |
 |-------|------------|
 | **1** | Innovation + Overdrive – sofort einzigartiger Spielstil |
-| **3** | Explode – kontrollierter Flächenschaden als Reaktion |
+| **3** | Explode – kontrollierter Flächenschaden als ↺ |
 | **7** | Breakthrough Innovation + Unstable DC 15 |
 | **9** | Innovation Master + Lightning Reflexes |
 | **11** | Overdrive Mastery – deutlich höherer Schadensbonus |
@@ -279,7 +279,7 @@ Der Inventor verbessert seine Innovation durch **Modification-Feats** die bei ge
 ## 🔗 Verwandte Themen
 
 - [[1. Klassen - Übersicht]]
-- [[Attribute & Level System]] – HP, Proficiency, Ability Boosts
+- [[1. Attribute & Level System]] – HP, Proficiency, Ability Boosts
 - [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Aktionen
 - [[Waffeneigenschaften]] – Modifikations-Traits der Innovation
 - [[1. Feats Übersicht]] – Inventor Class Feats & Modification Feats im Detail

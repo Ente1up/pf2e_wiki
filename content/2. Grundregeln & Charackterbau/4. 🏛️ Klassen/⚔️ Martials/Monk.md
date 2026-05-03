@@ -179,7 +179,7 @@ Der Monk ist der **schnellste Kämpfer** im Spiel:
 
 | Level | Feature | Beschreibung |
 |-------|---------|-------------|
-| 1 | **Flurry of Blows** | 1 Aktion für 2 Unarmed Strikes. Kernmechanik des Monks. |
+| 1 | **Flurry of Blows** | ◆ für 2 Unarmed Strikes. Kernmechanik des Monks. |
 | 1 | **Powerful Fist** | Unarmed Attacks verursachen 1W6 statt 1W4 Schaden. |
 | 1 | **Monk Feat** | +1 Class Feat |
 | 2 | **Monk Feat** | +1 Class Feat |
@@ -190,7 +190,7 @@ Der Monk ist der **schnellste Kämpfer** im Spiel:
 | 3 | **Skill Increase** | +1 Skill Increase |
 | 4 | **Monk Feat** | +1 Class Feat |
 | 4 | **Skill Feat** | +1 Skill Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Alertness** | Perception wird **Expert**. |
 | 5 | **Expert Strikes** | Unarmed Attacks: **Expert**. |
@@ -202,7 +202,7 @@ Der Monk ist der **schnellste Kämpfer** im Spiel:
 | 7 | **Iron Lungs** | — |
 | 7 | **Master Saves** | Fortitude, Reflex und Will werden alle **Master** gleichzeitig. ⭐ |
 | 7 | **Skill Increase** | +1 Skill Increase |
-| 7 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[Attribute & Level System]] |
+| 7 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. Attribute & Level System]] |
 | 8 | **Monk Feat** | +1 Class Feat |
 | 8 | **Skill Feat** | +1 Skill Feat |
 | 9 | **Ancestry Feat** | +1 Ancestry Feat |
@@ -225,7 +225,7 @@ Der Monk ist der **schnellste Kämpfer** im Spiel:
 | 14 | **Skill Feat** | +1 Skill Feat |
 | 15 | **Ability Boosts** | +4 Attribut-Boosts |
 | 15 | **General Feat** | +1 General Feat |
-| 15 | **Greater Weapon Specialization** | Erhöhter Schadenszuwachs → siehe [[Attribute & Level System]] |
+| 15 | **Greater Weapon Specialization** | Erhöhter Schadenszuwachs → siehe [[1. Attribute & Level System]] |
 | 15 | **Incredible Movement** | +25 Fuß Speed. |
 | 15 | **Legendary Reflex** | Reflex-Save wird **Legendary**. |
 | 15 | **Skill Increase** | +1 Skill Increase |
@@ -252,7 +252,7 @@ Der Monk ist der **schnellste Kämpfer** im Spiel:
 
 | Level | Meilenstein |
 |-------|------------|
-| **1** | Flurry of Blows – 2 Strikes für 1 Aktion, einzigartig |
+| **1** | Flurry of Blows – 2 Strikes für ◆, einzigartig |
 | **3** | Mystic Strikes – Unarmed gilt als magisch |
 | **3** | +10 Fuß Speed – beginnt die Bewegungsüberlegenheit |
 | **7** | **Alle drei Saves Master gleichzeitig** – defensiver Höhepunkt |
@@ -280,7 +280,7 @@ Der Monk ist der **schnellste Kämpfer** im Spiel:
 ## 🔗 Verwandte Themen
 
 - [[1. Klassen - Übersicht]]
-- [[Attribute & Level System]] – HP, Proficiency, Ability Boosts
+- [[1. Attribute & Level System]] – HP, Proficiency, Ability Boosts
 - [[Grundlegende Kampfregeln (physische Waffen)]] – MAP, Flanking, Strikes
 - [[✨ Konzentration & Fokuszauber]] – Ki-Fokuszauber im Detail
 - [[Waffeneigenschaften]] – Agile, Finesse, Monk

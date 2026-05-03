@@ -126,7 +126,7 @@ Elfen bieten eine einzigartige Perspektive: **Ein Charakter der die Welt als lan
 
 ## 🔗 Verwandte Themen
 
-- [[Pathfinder 2e/Pathfinder 2e Wiki/1. World/Lore/Völker/🧝 Elfen|Ancestry: Elfen]] – Mechanische Regeln
+- [[Pathfinder 2e/Pathfinder 2e Wiki/1. World/Lore/1. Völker/🧝 Elfen|Ancestry: Elfen]] – Mechanische Regeln
 - [[🌍 Der Starfall]] – Das Ereignis das die elfische Geschichte spaltete
 - [[🌐 Sovyrian]] – Die Heimat des Exils
 - [[🏙️ Kyonin]] – Das elfische Königreich in Avistan

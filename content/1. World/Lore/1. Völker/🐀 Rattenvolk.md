@@ -106,4 +106,4 @@ Ein Charakter der **Gemeinschaft über alles stellt und Wege findet wo andere W�
 - [[🏙️ Katapesh]] – Historischer Handelsknoten mit dunkler Ysoki-Vergangenheit
 - [[🌏 Tian Xia]] – Vermuteter Ursprungskontinent
 - [[🕳️ Darklands]] – Heimat wilder Ysoki-Stämme
-- [[Pathfinder 2e/Pathfinder 2e Wiki/1. World/Lore/Völker/🐀 Rattenvolk|Ancestry: Rattenvolk]] – Mechanische Regeln
+- [[Pathfinder 2e/Pathfinder 2e Wiki/1. World/Lore/1. Völker/🐀 Rattenvolk|Ancestry: Rattenvolk]] – Mechanische Regeln

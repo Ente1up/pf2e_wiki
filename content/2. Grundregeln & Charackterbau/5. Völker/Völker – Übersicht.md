@@ -86,5 +86,5 @@ Die **Ancestry** (Abstammung) ist einer der drei Grundpfeiler der Charaktererste
 ## 🔗 Verwandte Themen
 
 - [[Charaktererstellung]] – Ancestry im Build-Prozess
-- [[Attribute & Level System]] – Attribut-Boosts erklärt
+- [[1. Attribute & Level System]] – Attribut-Boosts erklärt
 - [[Feats & Talente – Übersicht]] – Ancestry Feats im Kontext

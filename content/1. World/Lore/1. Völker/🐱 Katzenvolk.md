@@ -124,5 +124,5 @@ Ein Charakter mit **tiefer Verbindung zur Natur und einem Herz voller Wanderlust
 
 ## 🔗 Verwandte Notizen
 
-- [[Pathfinder 2e/Pathfinder 2e Wiki/1. World/Lore/Völker/🐱 Katzenvolk|Ancestry: Katzenvolk]] – Mechanische Regeln
+- [[Pathfinder 2e/Pathfinder 2e Wiki/1. World/Lore/1. Völker/🐱 Katzenvolk|Ancestry: Katzenvolk]] – Mechanische Regeln
 - [[🌿 Mwangi Expanse]] – Ursprungsregion der Amurrun

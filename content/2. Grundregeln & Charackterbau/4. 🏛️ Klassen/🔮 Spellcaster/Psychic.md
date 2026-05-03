@@ -151,7 +151,7 @@ Zusätzlich zum Conscious Mind wählt der Psychic einen **Subconscious Mind** �
 
 ## 🌊 Unleash Psyche – Ausbruch der Kraft
 
-**Unleash Psyche** ist eine mächtige Fähigkeit die der Psychic ab Level 1 als freie Aktion nutzen kann:
+**Unleash Psyche** ist eine mächtige Fähigkeit die der Psychic ab Level 1 als ◇ nutzen kann:
 
 ### Effekte:
 - **+2 auf Spell Attack Rolls** für Occult Zauber
@@ -207,7 +207,7 @@ Als **Spontaneous Caster** mit der **Occult Tradition**:
 | 1 | **Conscious Mind** | Wahl des Conscious Mind – bestimmt Amps und Bonus-Zauber. |
 | 1 | **Subconscious Mind** | Wahl des Subconscious Mind – bestimmt Key Ability und Spielstil-Bonus. |
 | 1 | **Occult Spellcasting** | Spontaneous Caster, Occult Tradition. |
-| 1 | **Unleash Psyche** | Freie Aktion: Unbegrenzte Amps, +2 Spell Attack – Preis: Stupefied 2. |
+| 1 | **Unleash Psyche** | ◇: Unbegrenzte Amps, +2 Spell Attack – Preis: Stupefied 2. |
 | 1 | **Psychic Feat** | +1 Class Feat |
 | 2 | **Psychic Feat** | +1 Class Feat |
 | 2 | **Skill Feat** | +1 Skill Feat |
@@ -216,7 +216,7 @@ Als **Spontaneous Caster** mit der **Occult Tradition**:
 | 3 | **Skill Increase** | +1 Skill Increase |
 | 4 | **Psychic Feat** | +1 Class Feat |
 | 4 | **Skill Feat** | +1 Skill Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Lightning Reflexes** | Reflex-Save wird **Expert**. |
 | 5 | **Skill Increase** | +1 Skill Increase |
@@ -239,7 +239,7 @@ Als **Spontaneous Caster** mit der **Occult Tradition**:
 | 11 | **Alertness** | Perception wird **Expert**. |
 | 11 | **General Feat** | +1 General Feat |
 | 11 | **Skill Increase** | +1 Skill Increase |
-| 11 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[Attribute & Level System]] |
+| 11 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. Attribute & Level System]] |
 | 12 | **Psychic Feat** | +1 Class Feat |
 | 12 | **Skill Feat** | +1 Skill Feat |
 | 13 | **Ancestry Feat** | +1 Ancestry Feat |

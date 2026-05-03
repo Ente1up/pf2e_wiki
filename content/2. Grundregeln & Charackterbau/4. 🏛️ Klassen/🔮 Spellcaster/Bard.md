@@ -77,7 +77,7 @@ Was den Bard einzigartig macht ist sein **Composition-System**: Mächtige Zauber
 
 ## 🎵 Compositions – Die Kernmechanik
 
-**Compositions** sind der einzigartigste Aspekt des Bards. Es sind spezielle Zauber mit dem **Composition**-Trait die als **freie Aktion oder Reaktion** gewirkt werden können – zusätzlich zu den normalen 3 Aktionen der Runde.
+**Compositions** sind der einzigartigste Aspekt des Bards. Es sind spezielle Zauber mit dem **Composition**-Trait die als **◇ oder ↺** gewirkt werden können – zusätzlich zu den normalen 3 Aktionen der Runde.
 
 ### Funktionsweise:
 - Compositions kosten **keine regulären Aktionen** ⭐
@@ -89,10 +89,10 @@ Was den Bard einzigartig macht ist sein **Composition-System**: Mächtige Zauber
 
 | Composition | Kosten | Effekt |
 |-------------|--------|--------|
-| **Inspire Courage** | Freie Aktion + Fokuspunkt | +1 auf Angriff, Schaden und Saves gegen Fear für alle Verbündeten in Hörweite. ⭐ |
-| **Inspire Defense** | Freie Aktion + Fokuspunkt | +1 auf AC und Saves für alle Verbündeten in Hörweite. |
-| **Inspire Competence** | Freie Aktion + Fokuspunkt | +2 auf einen Skill-Check eines Verbündeten. |
-| **Counter Performance** | Reaktion + Fokuspunkt | Würfelt gegen einen Fear- oder Sonic-Effekt für alle in der Nähe. |
+| **Inspire Courage** | ◇ + Fokuspunkt | +1 auf Angriff, Schaden und Saves gegen Fear für alle Verbündeten in Hörweite. ⭐ |
+| **Inspire Defense** | ◇ + Fokuspunkt | +1 auf AC und Saves für alle Verbündeten in Hörweite. |
+| **Inspire Competence** | ◇ + Fokuspunkt | +2 auf einen Skill-Check eines Verbündeten. |
+| **Counter Performance** | ↺ + Fokuspunkt | Würfelt gegen einen Fear- oder Sonic-Effekt für alle in der Nähe. |
 | **Lingering Composition** | Fokuspunkt (Feat) | Inspire Courage hält mehrere Runden ohne Sustain an. |
 
 > ⭐ **Inspire Courage** ist einer der stärksten Buff-Zauber im Spiel – +1 auf Angriff bedeutet bei 4 Verbündeten über eine lange Begegnung Dutzende zusätzliche Treffer.
@@ -204,7 +204,7 @@ Der Bard ist der stärkste **soziale Charakter** im Spiel:
 | 3 | **Skill Increase** | +1 Skill Increase |
 | 4 | **Bard Feat** | +1 Class Feat |
 | 4 | **Skill Feat** | +1 Skill Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Lightning Reflexes** | Reflex-Save wird **Expert**. |
 | 5 | **Skill Increase** | +1 Skill Increase |

@@ -76,7 +76,7 @@ Der Fighter ist mit **jeder Waffe** spielbar, aber einige Builds kristallisieren
 
 ### 🗡️ Sword & Board (Schwert + Schild)
 - Longsword oder Bastard Sword + Schild
-- Fokus auf **Shield Block** Reaktion und hohe AC
+- Fokus auf **Shield Block** ↺ und hohe AC
 - Sehr tanky, guter Schutz für die Gruppe
 
 ### ⚔️ Two-Handed (Zweihandschwert / Großaxt)
@@ -123,8 +123,8 @@ Der Fighter ist mit **jeder Waffe** spielbar, aber einige Builds kristallisieren
 
 | Level | Feature | Beschreibung |
 |-------|---------|-------------|
-| 1 | **Attack of Opportunity** | Reaktion: Greift einen Feind an der sich in Reichweite bewegt oder eine manipulierende Aktion ausführt. Einzigartig mächtig. |
-| 1 | **Shield Block** | Reaktion: Kann Schaden mit einem gehaltenen Schild abfangen (Schild nimmt den Schaden statt des Charakters). |
+| 1 | **Attack of Opportunity** | ↺: Greift einen Feind an der sich in Reichweite bewegt oder eine manipulierende Aktion ausführt. Einzigartig mächtig. |
+| 1 | **Shield Block** | ↺: Kann Schaden mit einem gehaltenen Schild abfangen (Schild nimmt den Schaden statt des Charakters). |
 | 1 | **Fighter Feat** | Wahl eines Class Feats aus der Fighter-Liste |
 | 2 | **Fighter Feat** | +1 Class Feat |
 | 2 | **Skill Feat** | +1 Skill Feat |
@@ -133,7 +133,7 @@ Der Fighter ist mit **jeder Waffe** spielbar, aber einige Builds kristallisieren
 | 3 | **Skill Increase** | Eine Fertigkeit um eine Stufe erhöhen |
 | 4 | **Fighter Feat** | +1 Class Feat |
 | 4 | **Skill Feat** | +1 Skill Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts (alle 5 Level) → siehe [[Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts (alle 5 Level) → siehe [[1. Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Fighter Weapon Mastery** | Martial Weapons: Master, Advanced Weapons: Expert. Außerdem: **Critical Specialization** für gewählte Waffengruppe. |
 | 5 | **Skill Increase** | +1 Skill Increase |
@@ -190,7 +190,7 @@ Der Fighter ist mit **jeder Waffe** spielbar, aber einige Builds kristallisieren
 
 | Level | Meilenstein |
 |-------|------------|
-| **1** | Attack of Opportunity – einzigartige Reaktion die kaum eine andere Klasse bekommt |
+| **1** | Attack of Opportunity – einzigartige ↺ die kaum eine andere Klasse bekommt |
 | **3** | Bravery – quasi immun gegen Fear-Effekte |
 | **5** | Fighter Weapon Mastery + Critical Specialization |
 | **7** | Weapon Specialization – konstanter Schadenszuwachs |
@@ -204,7 +204,7 @@ Der Fighter ist mit **jeder Waffe** spielbar, aber einige Builds kristallisieren
 ## 🔗 Verwandte Themen
 
 - [[1. Klassen - Übersicht]] – Alle Klassen im Vergleich
-- [[Attribute & Level System]] – Ability Boosts, Proficiency-Tabellen
+- [[1. Attribute & Level System]] – Ability Boosts, Proficiency-Tabellen
 - [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Erfolgsstufen
 - [[Waffeneigenschaften]] – Agile, Reach, Two-Hand, Finesse etc.
 - [[Fighter Feats]] – Fighter Class Feats im Detail

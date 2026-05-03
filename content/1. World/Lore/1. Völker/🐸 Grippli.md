@@ -120,6 +120,6 @@ Ein Charakter, der **Geduld als Stärke versteht** und in dem Moment zuschlägt,
 
 ## 🔗 Verwandte Notizen
 
-- [[Pathfinder 2e/Pathfinder 2e Wiki/1. World/Lore/Völker/🐸 Grippli|Ancestry: Grippli]] – Mechanische Regeln
+- [[Pathfinder 2e/Pathfinder 2e Wiki/1. World/Lore/1. Völker/🐸 Grippli|Ancestry: Grippli]] – Mechanische Regeln
 - [[🌿 Mwangi Expanse]] – Hauptheimat der Gripplis
 - [[✨ First World]] – Mythologische Ursprungswelt

@@ -140,7 +140,7 @@ Ein **Finisher** ist eine spezielle Angriffsaktion die nur mit aktivem **Panache
 | **Lethal Finisher** *(Level 14)* | Massiver Strike mit erhöhtem kritischen Bereich |
 | **Impossible Finisher** *(Level 18)* | Teleportiert zum Ziel und führt mächtigen Strike aus |
 
-> 💡 Finisher gelten als **1–2 Aktionen** je nach Typ. Der Swashbuckler plant seinen Zug um: erst Panache aufbauen, dann Finisher einsetzen.
+> 💡 Finisher gelten als **◆–◆◆** je nach Typ. Der Swashbuckler plant seinen Zug um: erst Panache aufbauen, dann Finisher einsetzen.
 
 ---
 
@@ -191,7 +191,7 @@ Ein **Finisher** ist eine spezielle Angriffsaktion die nur mit aktivem **Panache
 | 3 | **Vivacious Speed** | +10 Fuß Speed mit Panache, +5 ohne. |
 | 4 | **Swashbuckler Feat** | +1 Class Feat |
 | 4 | **Skill Feat** | +1 Skill Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Exemplary Finisher** | Finisher mit kritischem Erfolg: Zusatzeffekt je nach Style (Stun, Bleed, etc.) |
 | 5 | **Skill Increase** | +1 Skill Increase |
@@ -204,7 +204,7 @@ Ein **Finisher** ist eine spezielle Angriffsaktion die nur mit aktivem **Panache
 | 7 | **Skill Increase** | +1 Skill Increase |
 | 7 | **Vigilant Senses** | Perception wird **Master**. |
 | 7 | **Vivacious Speed** | Steigt auf +15/+10 Fuß. |
-| 7 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[Attribute & Level System]] |
+| 7 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. Attribute & Level System]] |
 | 8 | **Swashbuckler Feat** | +1 Class Feat |
 | 8 | **Skill Feat** | +1 Skill Feat |
 | 9 | **Ancestry Feat** | +1 Ancestry Feat |
@@ -229,7 +229,7 @@ Ein **Finisher** ist eine spezielle Angriffsaktion die nur mit aktivem **Panache
 | 14 | **Skill Feat** | +1 Skill Feat |
 | 15 | **Ability Boosts** | +4 Attribut-Boosts |
 | 15 | **General Feat** | +1 General Feat |
-| 15 | **Greater Weapon Specialization** | Erhöhter Schadenszuwachs → siehe [[Attribute & Level System]] |
+| 15 | **Greater Weapon Specialization** | Erhöhter Schadenszuwachs → siehe [[1. Attribute & Level System]] |
 | 15 | **Incredible Senses** | Perception wird **Legendary**. |
 | 15 | **Skill Increase** | +1 Skill Increase |
 | 15 | **Vivacious Speed** | Steigt auf +25/+20 Fuß. |
@@ -282,7 +282,7 @@ Ein **Finisher** ist eine spezielle Angriffsaktion die nur mit aktivem **Panache
 ## 🔗 Verwandte Themen
 
 - [[1. Klassen - Übersicht]]
-- [[Attribute & Level System]] – HP, Proficiency, Ability Boosts
+- [[1. Attribute & Level System]] – HP, Proficiency, Ability Boosts
 - [[Grundlegende Kampfregeln (physische Waffen)]] – Flanking, MAP, Strikes
 - [[Waffeneigenschaften]] – Finesse, Agile, Reach
 - [[1. Feats Übersicht]] – Swashbuckler Class Feats im Detail

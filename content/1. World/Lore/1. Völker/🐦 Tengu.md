@@ -120,6 +120,6 @@ Ein Charakter der **Wissen wie Schätze sammelt** und überall Verbindungen knü
 
 ## 🔗 Verwandte Notizen
 
-- [[Pathfinder 2e/Pathfinder 2e Wiki/1. World/Lore/Völker/🐦 Tengu|Ancestry: Tengu]] – Mechanische Regeln
+- [[Pathfinder 2e/Pathfinder 2e Wiki/1. World/Lore/1. Völker/🐦 Tengu|Ancestry: Tengu]] – Mechanische Regeln
 - [[🌏 Tian Xia]] – Ursprungskontinent
 - [[🏙️ Absalom]] – Größte Tengu-Gemeinschaft des Inner Sea

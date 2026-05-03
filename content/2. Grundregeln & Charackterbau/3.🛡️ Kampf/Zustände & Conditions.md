@@ -258,7 +258,7 @@ Conditions lassen sich grob in vier Kategorien einteilen:
 - Nahkampfangriffe gegen Prone-Ziel: +2 auf Treffer
 - Fernkampfangriffe gegen Prone-Ziel: −2 auf Treffer
 - Bewegung nur durch **Crawl** (5 Fuß pro Aktion statt normal)
-- Aufstehen kostet **1 Aktion** und provoziert AoO
+- Aufstehen kostet **◆** und provoziert AoO
 - **Endet**: Durch Aufstehen (Stand Up, 1 Aktion)
 
 ---
@@ -283,7 +283,7 @@ Conditions lassen sich grob in vier Kategorien einteilen:
 - Hat einen **Wert** (Sickened 1–4)
 - −Wert auf alle Würfe und AC
 - Kann keine Nahrung oder Tränke konsumieren
-- Kann **1 Aktion** aufwenden um einen **Fortitude-Save** zu versuchen (DC der Quelle)
+- Kann **◆** aufwenden um einen **Fortitude-Save** zu versuchen (DC der Quelle)
 - **Endet**: Durch erfolgreichen Fortitude-Save oder Ablauf der Dauer
 
 ---
@@ -396,7 +396,7 @@ Manche Conditions haben einen numerischen Wert der ihre Stärke angibt:
 
 - [[Grundlegende Kampfregeln (physische Waffen)]] – Flat-Footed, Prone im Kampf
 - [[Grundlegende Kampfregeln (Magie)]] – Conditions durch Zauber
-- [[Rettungswürfe]] – Wie Conditions durch Saves vermieden werden
+- [[5. Rettungswürfe]] – Wie Conditions durch Saves vermieden werden
 - [[Klasse - Barbarian]] – Fatigued nach Rage
 - [[Klasse - Rogue]] – Sneak Attack durch Flat-Footed
 - [[Klasse - Oracle]] – Curse-Conditions

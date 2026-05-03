@@ -113,7 +113,7 @@ Bei Level 1 wählt der Investigator seine **Methodology** – die Schule des Den
 - Ideal für: Spieler die Utility und Schadensoptionen durch Alchemie wollen
 
 ### 🧪 Empiricism
-- **Recall Knowledge** als freie Aktion einmal pro Runde (statt 1 Aktion)
+- **Recall Knowledge** als ◇ einmal pro Runde (statt ◆)
 - Jedes erfolgreiche Recall Knowledge gibt zusätzliche nützliche Information
 - Ideal für: Wissenssammler, Spieler die viele Fertigkeiten maximal nutzen wollen
 
@@ -123,7 +123,7 @@ Bei Level 1 wählt der Investigator seine **Methodology** – die Schule des Den
 - Ideal für: Heiler-adjacent Builds, Detektiv-Fantasie
 
 ### 🌐 Interrogation
-- **Demoralize** und **Bon Mot** als freie Aktionen einmal pro Runde
+- **Demoralize** und **Bon Mot** als ◇ einmal pro Runde
 - Bonus auf Social Skills bei der Befragung von Zeugen und Verdächtigen
 - Ideal für: Face-Charaktere, soziale Kampagnen, CHA-Hybridbuilds
 
@@ -137,7 +137,7 @@ Der Investigator ist neben dem Rogue der stärkste Skill-Charakter:
 |---------|------|
 | **Startfertigkeiten** | 6 + INT-Modifier |
 | **Skill Increases** | Jedes Level (wie der Rogue) |
-| **Recall Knowledge** | Kernfähigkeit – oft freie Aktion durch Feats/Methodology |
+| **Recall Knowledge** | Kernfähigkeit – oft ◇ durch Feats/Methodology |
 | **Legendary Skills** | Möglich (wie Rogue) |
 
 ### Recall Knowledge im Kampf
@@ -191,7 +191,7 @@ Abseits des Kampfes ist der Investigator einzigartig stark:
 | 3 | **Keen Recollection** | Recall Knowledge auch in Fertigkeiten in denen man Untrained ist, ohne Malus. |
 | 4 | **Investigator Feat** | +1 Class Feat |
 | 4 | **Skill Feat** | +1 Skill Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Skill Increase** | +1 Skill Increase |
 | 5 | **Skillful Lessons** | Martial Weapons: **Expert**. +1W6 → **+2W6** Stratagem-Schaden. |
@@ -200,7 +200,7 @@ Abseits des Kampfes ist der Investigator einzigartig stark:
 | 7 | **General Feat** | +1 General Feat |
 | 7 | **Skill Increase** | +1 Skill Increase |
 | 7 | **Vigilant Senses** | Perception wird **Master**. |
-| 7 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[Attribute & Level System]] |
+| 7 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. Attribute & Level System]] |
 | 8 | **Investigator Feat** | +1 Class Feat |
 | 8 | **Skill Feat** | +1 Skill Feat |
 | 9 | **Ancestry Feat** | +1 Ancestry Feat |
@@ -226,7 +226,7 @@ Abseits des Kampfes ist der Investigator einzigartig stark:
 | 14 | **Skill Feat** | +1 Skill Feat |
 | 15 | **Ability Boosts** | +4 Attribut-Boosts |
 | 15 | **General Feat** | +1 General Feat |
-| 15 | **Greater Weapon Specialization** | Erhöhter Schadenszuwachs → siehe [[Attribute & Level System]] |
+| 15 | **Greater Weapon Specialization** | Erhöhter Schadenszuwachs → siehe [[1. Attribute & Level System]] |
 | 15 | **Skill Increase** | +1 Skill Increase |
 | 15 | **Skillful Lessons** | +3W6 → **+4W6** Stratagem-Schaden. |
 | 16 | **Investigator Feat** | +1 Class Feat |
@@ -291,7 +291,7 @@ Beide Klassen sind DEX/INT-adjacent, Skill-fokussiert und mit 8 HP/Level – abe
 ## 🔗 Verwandte Themen
 
 - [[1. Klassen - Übersicht]]
-- [[Attribute & Level System]] – HP, Proficiency, Ability Boosts
+- [[1. Attribute & Level System]] – HP, Proficiency, Ability Boosts
 - [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Aktionen
 - [[Waffeneigenschaften]] – Finesse, Agile
 - [[1. Feats Übersicht]] – Investigator Class Feats im Detail

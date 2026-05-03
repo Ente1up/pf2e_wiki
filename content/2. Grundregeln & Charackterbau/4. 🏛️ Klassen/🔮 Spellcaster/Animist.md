@@ -174,7 +174,7 @@ Je mehr Apparitions der Animist gleichzeitig channelt, desto größer die **spir
 
 Der Animist kann seine Verbindung zu einer Apparition **vertiefen** (Attunement):
 
-- Kostet **1 Aktion (◆)**
+- Kostet **◆**
 - Gibt Zugang zu einer mächtigeren Version des Apparition-Fokuszaubers
 - Verstärkt passiven Bonus der Apparition
 - Nur eine Apparition kann gleichzeitig vertieft sein
@@ -218,7 +218,7 @@ Der Animist kann seine Verbindung zu einer Apparition **vertiefen** (Attunement)
 | 3 | **Skill Increase** | +1 Skill Increase |
 | 4 | **Animist Feat** | +1 Class Feat |
 | 4 | **Skill Feat** | +1 Skill Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Expert Perception** | Perception wird **Expert**. |
 | 5 | **Lightning Reflexes** | Reflex-Save wird **Expert**. |
@@ -240,7 +240,7 @@ Der Animist kann seine Verbindung zu einer Apparition **vertiefen** (Attunement)
 | 10 | **Skill Feat** | +1 Skill Feat |
 | 11 | **General Feat** | +1 General Feat |
 | 11 | **Skill Increase** | +1 Skill Increase |
-| 11 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[Attribute & Level System]] |
+| 11 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. Attribute & Level System]] |
 | 12 | **Animist Feat** | +1 Class Feat |
 | 12 | **Skill Feat** | +1 Skill Feat |
 | 13 | **Ancestry Feat** | +1 Ancestry Feat |

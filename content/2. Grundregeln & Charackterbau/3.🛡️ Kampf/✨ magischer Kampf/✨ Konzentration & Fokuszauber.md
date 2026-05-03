@@ -32,7 +32,7 @@ Manche Zauber halten nicht automatisch an – sie müssen aktiv **aufrechterhalt
 
 ### Sustain a Spell ◆
 
-- Kostet **1 Aktion** pro Runde
+- Kostet **◆** pro Runde
 - Hält den Zauber bis zum **Ende der aktuellen Runde** aktiv
 - Ohne Sustain endet der Zauber am Ende der Runde automatisch
 
@@ -121,4 +121,4 @@ Fokuszauber skalieren automatisch – sie sind immer auf **halbes Charakterlevel
 
 - [[🔮 Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, Aktionskosten
 - [[📖 Zauberslots & Vorbereitung]] – Prepared vs. Spontaneous, Heightening
-- [[Aktionen & Aktionssymbole]] – Aktionsökonomie im Kampf
+- [[3. Aktionen & Aktionssymbole]] – Aktionsökonomie im Kampf

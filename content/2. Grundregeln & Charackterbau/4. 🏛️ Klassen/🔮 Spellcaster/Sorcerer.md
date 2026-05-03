@@ -191,7 +191,7 @@ Jede Bloodline gibt spezifische Fähigkeiten – hier am Beispiel der **Draconic
 | 3 | **Skill Increase** | +1 Skill Increase |
 | 4 | **Skill Feat** | +1 Skill Feat |
 | 4 | **Sorcerer Feat** | +1 Class Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Bloodline Breadth** | +1 bekannter Zauber auf jedem Spell Rank 1–4. ⭐ |
 | 5 | **Lightning Reflexes** | Reflex-Save wird **Expert**. |

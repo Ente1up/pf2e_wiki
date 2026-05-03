@@ -147,6 +147,6 @@ Narrativ: Goblin-Charaktere öffnen Tür zum **Comic-Relief-Reservoir** – aber
 
 - [[⛪ Lamashtu]] – Mutter-Gottheit vieler Goblin-Stämme
 - [[📜 Die Goblinblut-Kriege]] – Prägendes Ereignis moderner Goblin-Geschichte
-- [[Pathfinder 2e/Pathfinder 2e Wiki/1. World/Lore/Völker/⚔️ Hobgoblin]] – Große goblinoide Geschwister
+- [[Pathfinder 2e/Pathfinder 2e Wiki/1. World/Lore/1. Völker/⚔️ Hobgoblin]] – Große goblinoide Geschwister
 - [[🏙️ Absalom]] – Heimat wachsender Goblin-Gemeinschaft
 - [[📅 Burn Night]] – Wichtigstes Goblin-Fest
