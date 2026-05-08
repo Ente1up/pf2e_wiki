@@ -63,13 +63,13 @@ Kobolds sind ein **kleines, schlaues und drakonisches Volk** das sich als Nachfa
 
 ## ⚔️ Typische Klassen
 
-- [[Sorcerer]] – Drakonische Bloodline
-- [[Rogue]] – Fallenmeister und Hinterhalt
-- [[Inventor]] – Kobold-Ingenieurskunst
+- [[🔥 Sorcerer]] – Drakonische Bloodline
+- [[🗝️ Rogue]] – Fallenmeister und Hinterhalt
+- [[⚙️ Inventor]] – Kobold-Ingenieurskunst
 - [[Alchemist]] – Gift und alchemische Bomben
 
 ---
 
 ## 🔗 Verwandte Themen
-- [[Völker – Übersicht]]
-- [[Charaktererstellung]]
+- [[👥 Völker – Übersicht]]
+- [[1. 👤 Charaktererstellung]]

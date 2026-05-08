@@ -93,16 +93,16 @@ Das **Bleaching** ist ein gnomisches Phänomen:
 
 ## ⚔️ Typische Klassen
 
-- [[Bard]] – Gnomische Kreativität und CHA-Fokus
-- [[Sorcerer]] – Fey-Bloodline perfekt thematisch
-- [[Inventor]] – Gnomische Ingenieurskunst und Verrücktheit
-- [[Witch]] – Verbindung zum First World als Patron-Quelle
+- [[🎵 Bard]] – Gnomische Kreativität und CHA-Fokus
+- [[🔥 Sorcerer]] – Fey-Bloodline perfekt thematisch
+- [[⚙️ Inventor]] – Gnomische Ingenieurskunst und Verrücktheit
+- [[🧙 Witch]] – Verbindung zum First World als Patron-Quelle
 
 ---
 
 ## 🔗 Verwandte Themen
 
-- [[Völker – Übersicht]] – Alle spielbaren Ancestries
-- [[Charaktererstellung]] – Ancestry im Build-Prozess
-- [[1. Attribute & Level System]] – Attribut-Boosts erklärt
+- [[👥 Völker – Übersicht]] – Alle spielbaren Ancestries
+- [[1. 👤 Charaktererstellung]] – Ancestry im Build-Prozess
+- [[1. 📊 Attribute & Level System]] – Attribut-Boosts erklärt
 - [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/🌈 Gnome]] – Tiefere Lore zum Gnomenvolk

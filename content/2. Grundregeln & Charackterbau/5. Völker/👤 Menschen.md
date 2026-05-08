@@ -92,14 +92,14 @@ Menschen sind auf **ganz Golarion** verbreitet und dominieren die meisten große
 ## ⚔️ Typische Klassen
 
 Menschen passen zu **allen Klassen** gleichermaßen – ihr Bonus-Feat und die flexiblen Attribut-Boosts machen sie universell. Besonders häufig:
-- [[Fighter]], [[Ranger]] – militärische Traditionen
-- [[Cleric]] – vielfältige Gottesverehrung
-- [[Wizard]] – menschliche Akademien und Magieschulen
+- [[⚔️ Fighter]], [[🏹 Ranger]] – militärische Traditionen
+- [[✝️ Cleric]] – vielfältige Gottesverehrung
+- [[📖 Wizard]] – menschliche Akademien und Magieschulen
 
 ---
 
 ## 🔗 Verwandte Themen
 
-- [[Völker – Übersicht]] – Alle spielbaren Ancestries
-- [[Charaktererstellung]] – Ancestry im Build-Prozess
-- [[1. Attribute & Level System]] – Attribut-Boosts erklärt
+- [[👥 Völker – Übersicht]] – Alle spielbaren Ancestries
+- [[1. 👤 Charaktererstellung]] – Ancestry im Build-Prozess
+- [[1. 📊 Attribute & Level System]] – Attribut-Boosts erklärt

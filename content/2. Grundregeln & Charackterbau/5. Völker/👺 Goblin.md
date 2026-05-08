@@ -84,14 +84,14 @@ Goblins haben keine stabile Nation – sie leben in Stämmen oder integriert in 
 ## ⚔️ Typische Klassen
 
 - [[Alchemist]] – Goblin-Chemie ist chaotisch aber effektiv
-- [[Rogue]] – Klein, schnell, gemein
-- [[Barbarian]] – Goblin-Rage ist besonders furchteinflößend (für die Größe)
-- [[Bard]] – Goblin-Lieder sind schrecklich aber irgendwie mitreißend
+- [[🗝️ Rogue]] – Klein, schnell, gemein
+- [[🪓 Barbarian]] – Goblin-Rage ist besonders furchteinflößend (für die Größe)
+- [[🎵 Bard]] – Goblin-Lieder sind schrecklich aber irgendwie mitreißend
 
 ---
 
 ## 🔗 Verwandte Themen
 
-- [[Völker – Übersicht]] – Alle spielbaren Ancestries
-- [[Charaktererstellung]] – Ancestry im Build-Prozess
-- [[1. Attribute & Level System]] – Attribut-Boosts erklärt
+- [[👥 Völker – Übersicht]] – Alle spielbaren Ancestries
+- [[1. 👤 Charaktererstellung]] – Ancestry im Build-Prozess
+- [[1. 📊 Attribute & Level System]] – Attribut-Boosts erklärt

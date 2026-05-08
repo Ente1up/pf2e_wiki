@@ -190,7 +190,7 @@ Die Witch ist ein **Prepared Caster** wie der Wizard – aber mit einem wichtige
 | 3 | **Skill Increase** | +1 Skill Increase |
 | 4 | **Skill Feat** | +1 Skill Feat |
 | 4 | **Witch Feat** | +1 Class Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. 📊 Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Lightning Reflexes** | Reflex-Save wird **Expert**. |
 | 5 | **Skill Increase** | +1 Skill Increase |
@@ -211,7 +211,7 @@ Die Witch ist ein **Prepared Caster** wie der Wizard – aber mit einem wichtige
 | 11 | **Alertness** | Perception wird **Expert**. |
 | 11 | **General Feat** | +1 General Feat |
 | 11 | **Skill Increase** | +1 Skill Increase |
-| 11 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. Attribute & Level System]] |
+| 11 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. 📊 Attribute & Level System]] |
 | 12 | **Skill Feat** | +1 Skill Feat |
 | 12 | **Witch Feat** | +1 Class Feat |
 | 13 | **Ancestry Feat** | +1 Ancestry Feat |
@@ -288,10 +288,10 @@ Beide sind Prepared Caster mit 6 HP – aber fundamental unterschiedlich im Flav
 
 ## 🔗 Verwandte Themen
 
-- [[1. Klassen - Übersicht]]
+- [[1. 📋 Klassen - Übersicht]]
 - [[🔮 Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
 - [[🌀 Zauberschulen & Traditionen]] – Alle vier Traditionen im Detail
 - [[📖 Zauberslots & Vorbereitung]] – Prepared Caster erklärt
 - [[✨ Konzentration & Fokuszauber]] – Hexes und Patron-Fokuszauber im Detail
-- [[1. Feats Übersicht]] – Witch Class Feats im Detail
+- [[1. ⭐ Feats Übersicht]] – Witch Class Feats im Detail
 - [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Witch

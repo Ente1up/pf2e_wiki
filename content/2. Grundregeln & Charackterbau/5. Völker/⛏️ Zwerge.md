@@ -86,16 +86,16 @@ Zwerge leben primär in Bergfestungen und unterirdischen Städten:
 
 ## ⚔️ Typische Klassen
 
-- [[Fighter]] – Zwergische Kampftradition mit Äxten und Hämmern
-- [[Cleric]] – Torag als Hauptgottheit der Zwerge
+- [[⚔️ Fighter]] – Zwergische Kampftradition mit Äxten und Hämmern
+- [[✝️ Cleric]] – Torag als Hauptgottheit der Zwerge
 - [[Champion]] – Gottgeweihte Verteidiger des Clans
-- [[Inventor]] – Zwergische Ingenieurskunst
+- [[⚙️ Inventor]] – Zwergische Ingenieurskunst
 
 ---
 
 ## 🔗 Verwandte Themen
 
-- [[Völker – Übersicht]] – Alle spielbaren Ancestries
-- [[Charaktererstellung]] – Ancestry im Build-Prozess
-- [[1. Attribute & Level System]] – Attribut-Boosts erklärt
+- [[👥 Völker – Übersicht]] – Alle spielbaren Ancestries
+- [[1. 👤 Charaktererstellung]] – Ancestry im Build-Prozess
+- [[1. 📊 Attribute & Level System]] – Attribut-Boosts erklärt
 - [[Pathfinder 2e/Pathfinder 2e Wiki/2. Grundregeln & Charackterbau/5. Völker/⛏️ Zwerge]]- tiefere Lore

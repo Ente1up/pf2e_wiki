@@ -114,8 +114,8 @@ Die **AC** eines Charakters setzt sich zusammen aus:
 
 ## 🔗 Verwandte Themen
 
-- [[3. Aktionen & Aktionssymbole]] – Alle verfügbaren Kampfaktionen im Überblick
+- [[3. ⚡ Aktionen & Aktionssymbole]] – Alle verfügbaren Kampfaktionen im Überblick
 - [[Trefferchance & Rüstungsklasse]] – AC im Detail
-- [[Waffeneigenschaften]] – Agile, Finesse, Reach, Two-Hand, etc.
+- [[⚔️ Waffeneigenschaften]] – Agile, Finesse, Reach, Two-Hand, etc.
 - [[Schadenstypen & Resistenzen]] – Physisch, Energie, Schwächen
 - [[Kritische Treffer & Waffenspezifizierungen]] – Critical Specialization Effects

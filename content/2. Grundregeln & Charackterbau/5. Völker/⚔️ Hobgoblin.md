@@ -63,13 +63,13 @@ Hobgoblins sind ein **größeres, disziplinierteres und militaristischeres Gegen
 
 ## ⚔️ Typische Klassen
 
-- [[Fighter]] – Militärische Ausbildung von Geburt an
+- [[⚔️ Fighter]] – Militärische Ausbildung von Geburt an
 - [[Champion]] – Hobgoblin-Kriegerorden
-- [[Investigator]] – Taktische Analyse und Planung
-- [[Ranger]] – Hobgoblin-Scouts und Späher
+- [[🔍 Investigator]] – Taktische Analyse und Planung
+- [[🏹 Ranger]] – Hobgoblin-Scouts und Späher
 
 ---
 
 ## 🔗 Verwandte Themen
-- [[Völker – Übersicht]]
-- [[Charaktererstellung]]
+- [[👥 Völker – Übersicht]]
+- [[1. 👤 Charaktererstellung]]

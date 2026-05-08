@@ -184,7 +184,7 @@ Mächtigere Versionen der Deeds mit verstärkten Effekten.
 | 3 | **Stubborn** | Will-Save: Bei Misserfolg kann erneut gewürfelt werden (1×/Runde). |
 | 4 | **Gunslinger Feat** | +1 Class Feat |
 | 4 | **Skill Feat** | +1 Skill Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. 📊 Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Gunslinger Weapon Mastery** | Firearms & Crossbows: **Master**. Critical Specialization für alle Schusswaffen. |
 | 5 | **Skill Increase** | +1 Skill Increase |
@@ -193,7 +193,7 @@ Mächtigere Versionen der Deeds mit verstärkten Effekten.
 | 7 | **General Feat** | +1 General Feat |
 | 7 | **Skill Increase** | +1 Skill Increase |
 | 7 | **Vigilant Senses** | Perception wird **Master**. |
-| 7 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. Attribute & Level System]] |
+| 7 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. 📊 Attribute & Level System]] |
 | 7 | **Evasion** | Reflex-Save wird **Master**. Bei Erfolg gilt als kritischer Erfolg. |
 | 8 | **Gunslinger Feat** | +1 Class Feat |
 | 8 | **Skill Feat** | +1 Skill Feat |
@@ -219,7 +219,7 @@ Mächtigere Versionen der Deeds mit verstärkten Effekten.
 | 14 | **Skill Feat** | +1 Skill Feat |
 | 15 | **Ability Boosts** | +4 Attribut-Boosts |
 | 15 | **General Feat** | +1 General Feat |
-| 15 | **Greater Weapon Specialization** | Erhöhter Schadenszuwachs → siehe [[1. Attribute & Level System]] |
+| 15 | **Greater Weapon Specialization** | Erhöhter Schadenszuwachs → siehe [[1. 📊 Attribute & Level System]] |
 | 15 | **Improved Evasion** | Reflex-Save wird **Legendary**. Kritischer Misserfolg gilt als Misserfolg. |
 | 15 | **Skill Increase** | +1 Skill Increase |
 | 16 | **Gunslinger Feat** | +1 Class Feat |
@@ -269,9 +269,9 @@ Mächtigere Versionen der Deeds mit verstärkten Effekten.
 
 ## 🔗 Verwandte Themen
 
-- [[1. Klassen - Übersicht]] – Alle Klassen im Vergleich
-- [[1. Attribute & Level System]] – HP, Proficiency, Ability Boosts
-- [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Reload
-- [[Waffeneigenschaften]] – Reload, Kickback, Concussive, Capacity
-- [[1. Feats Übersicht]] – Gunslinger Class Feats im Detail
+- [[1. 📋 Klassen - Übersicht]] – Alle Klassen im Vergleich
+- [[1. 📊 Attribute & Level System]] – HP, Proficiency, Ability Boosts
+- [[🗡️ Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Reload
+- [[⚔️ Waffeneigenschaften]] – Reload, Kickback, Concussive, Capacity
+- [[1. ⭐ Feats Übersicht]] – Gunslinger Class Feats im Detail
 - [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Gunslinger

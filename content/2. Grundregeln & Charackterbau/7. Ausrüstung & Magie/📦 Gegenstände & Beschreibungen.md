@@ -121,4 +121,4 @@ Einmalige Nutzung eines Zaubers — auch ohne Klasse dieses Zauberers. Rang-1-Sc
 ## 🔗 Verwandte Themen
 
 - [[4. 🎒 Ausrüstung & Starterkits]] — Starterkits pro Klasse
-- [[1. Charaktererstellung]] — Ausrüstung im Build-Prozess
+- [[1. 👤 Charaktererstellung]] — Ausrüstung im Build-Prozess

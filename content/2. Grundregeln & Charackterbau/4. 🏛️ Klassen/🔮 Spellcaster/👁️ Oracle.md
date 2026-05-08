@@ -219,7 +219,7 @@ Die **Mystery** bestimmt welche Divine-Zauber besonders betont werden – eine B
 | 3 | **Skill Increase** | +1 Skill Increase |
 | 4 | **Oracle Feat** | +1 Class Feat |
 | 4 | **Skill Feat** | +1 Skill Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. 📊 Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Lightning Reflexes** | Reflex-Save wird **Expert**. |
 | 5 | **Skill Increase** | +1 Skill Increase |
@@ -240,7 +240,7 @@ Die **Mystery** bestimmt welche Divine-Zauber besonders betont werden – eine B
 | 11 | **Alertness** | Perception wird **Expert**. |
 | 11 | **General Feat** | +1 General Feat |
 | 11 | **Skill Increase** | +1 Skill Increase |
-| 11 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. Attribute & Level System]] |
+| 11 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. 📊 Attribute & Level System]] |
 | 12 | **Oracle Feat** | +1 Class Feat |
 | 12 | **Skill Feat** | +1 Skill Feat |
 | 13 | **Ancestry Feat** | +1 Ancestry Feat |
@@ -315,11 +315,11 @@ Die **Mystery** bestimmt welche Divine-Zauber besonders betont werden – eine B
 
 ## 🔗 Verwandte Themen
 
-- [[1. Klassen - Übersicht]]
+- [[1. 📋 Klassen - Übersicht]]
 - [[🔮 Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
 - [[🌀 Zauberschulen & Traditionen]] – Divine Tradition im Detail
 - [[📖 Zauberslots & Vorbereitung]] – Spontaneous Caster erklärt
 - [[✨ Konzentration & Fokuszauber]] – Revelation Spells im Detail
-- [[Zustände & Conditions]] – Curse-Effekte und ihre Auswirkungen
-- [[1. Feats Übersicht]] – Oracle Class Feats im Detail
+- [[😵 Zustände & Conditions]] – Curse-Effekte und ihre Auswirkungen
+- [[1. ⭐ Feats Übersicht]] – Oracle Class Feats im Detail
 - [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Oracle

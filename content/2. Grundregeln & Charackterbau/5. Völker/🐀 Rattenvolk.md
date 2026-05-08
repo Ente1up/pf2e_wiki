@@ -65,12 +65,12 @@ Ratfolk (auch **Ysoki** genannt) sind ein **kleines, cleveres und geselliges Vol
 ## ⚔️ Typische Klassen
 
 - [[Alchemist]] – Ratfolk-Chemie und Erfindungsgeist
-- [[Investigator]] – Ratfolk-Intelligenz und Detektivarbeit
-- [[Rogue]] – Kleine Hände, große Taschen
-- [[Inventor]] – Ratfolk-Ingenieurskunst
+- [[🔍 Investigator]] – Ratfolk-Intelligenz und Detektivarbeit
+- [[🗝️ Rogue]] – Kleine Hände, große Taschen
+- [[⚙️ Inventor]] – Ratfolk-Ingenieurskunst
 
 ---
 
 ## 🔗 Verwandte Themen
-- [[Völker – Übersicht]]
-- [[Charaktererstellung]]
+- [[👥 Völker – Übersicht]]
+- [[1. 👤 Charaktererstellung]]

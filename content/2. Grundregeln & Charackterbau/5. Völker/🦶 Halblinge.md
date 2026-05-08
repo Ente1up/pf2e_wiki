@@ -84,15 +84,15 @@ Halblinge haben keine eigene Nation – sie leben überall:
 
 ## ⚔️ Typische Klassen
 
-- [[Rogue]] – Kleine Hände, große Talente
-- [[Ranger]] – Beweglich und anpassungsfähig
-- [[Bard]] – Gesellige Geschichtenerzähler
-- [[Swashbuckler]] – Wendige Duellanten
+- [[🗝️ Rogue]] – Kleine Hände, große Talente
+- [[🏹 Ranger]] – Beweglich und anpassungsfähig
+- [[🎵 Bard]] – Gesellige Geschichtenerzähler
+- [[🤺 Swashbuckler]] – Wendige Duellanten
 
 ---
 
 ## 🔗 Verwandte Themen
 
-- [[Völker – Übersicht]] – Alle spielbaren Ancestries
-- [[Charaktererstellung]] – Ancestry im Build-Prozess
-- [[1. Attribute & Level System]] – Attribut-Boosts erklärt
+- [[👥 Völker – Übersicht]] – Alle spielbaren Ancestries
+- [[1. 👤 Charaktererstellung]] – Ancestry im Build-Prozess
+- [[1. 📊 Attribute & Level System]] – Attribut-Boosts erklärt

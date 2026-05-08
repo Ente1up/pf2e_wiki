@@ -63,13 +63,13 @@ Gripplis sind ein **kleines, froschähnliches Volk** das in tropischen Sümpfen 
 
 ## ⚔️ Typische Klassen
 
-- [[Ranger]] – Hinterhalt und Giftpfeile
-- [[Druid]] – Naturverbindung im Regenwald
-- [[Rogue]] – Kleiner, giftiger Hinterhälter
+- [[🏹 Ranger]] – Hinterhalt und Giftpfeile
+- [[🌳 Druid]] – Naturverbindung im Regenwald
+- [[🗝️ Rogue]] – Kleiner, giftiger Hinterhälter
 - [[Alchemist]] – Grippli-Giftexpertise
 
 ---
 
 ## 🔗 Verwandte Themen
-- [[Völker – Übersicht]]
-- [[Charaktererstellung]]
+- [[👥 Völker – Übersicht]]
+- [[1. 👤 Charaktererstellung]]

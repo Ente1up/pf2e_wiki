@@ -65,13 +65,13 @@ Das Echsenvolk (auch **Iruxi** in ihrer eigenen Sprache) ist ein **uraltes, natu
 
 ## ⚔️ Typische Klassen
 
-- [[Druid]] – Tiefe Naturverbindung
-- [[Ranger]] – Sumpf- und Wildnisjäger
+- [[🌳 Druid]] – Tiefe Naturverbindung
+- [[🏹 Ranger]] – Sumpf- und Wildnisjäger
 - [[Champion]] – Iruxi-Kriegerorden
-- [[Monk]] – Alte Kampfkünste des Echsenvolks
+- [[👊 Monk]] – Alte Kampfkünste des Echsenvolks
 
 ---
 
 ## 🔗 Verwandte Themen
-- [[Völker – Übersicht]]
-- [[Charaktererstellung]]
+- [[👥 Völker – Übersicht]]
+- [[1. 👤 Charaktererstellung]]

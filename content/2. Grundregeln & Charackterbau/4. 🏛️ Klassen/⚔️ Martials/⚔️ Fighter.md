@@ -133,7 +133,7 @@ Der Fighter ist mit **jeder Waffe** spielbar, aber einige Builds kristallisieren
 | 3 | **Skill Increase** | Eine Fertigkeit um eine Stufe erhöhen |
 | 4 | **Fighter Feat** | +1 Class Feat |
 | 4 | **Skill Feat** | +1 Skill Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts (alle 5 Level) → siehe [[1. Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts (alle 5 Level) → siehe [[1. 📊 Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Fighter Weapon Mastery** | Martial Weapons: Master, Advanced Weapons: Expert. Außerdem: **Critical Specialization** für gewählte Waffengruppe. |
 | 5 | **Skill Increase** | +1 Skill Increase |
@@ -203,10 +203,10 @@ Der Fighter ist mit **jeder Waffe** spielbar, aber einige Builds kristallisieren
 
 ## 🔗 Verwandte Themen
 
-- [[1. Klassen - Übersicht]] – Alle Klassen im Vergleich
-- [[1. Attribute & Level System]] – Ability Boosts, Proficiency-Tabellen
-- [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Erfolgsstufen
-- [[Waffeneigenschaften]] – Agile, Reach, Two-Hand, Finesse etc.
-- [[Fighter Feats]] – Fighter Class Feats im Detail
+- [[1. 📋 Klassen - Übersicht]] – Alle Klassen im Vergleich
+- [[1. 📊 Attribute & Level System]] – Ability Boosts, Proficiency-Tabellen
+- [[🗡️ Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Erfolgsstufen
+- [[⚔️ Waffeneigenschaften]] – Agile, Reach, Two-Hand, Finesse etc.
+- [[9. 🏛️ Class Feats#Fighter]] – Fighter Class Feats im Detail
 - [[Rüstungen & AC]] – Rüstungstypen und ihre Boni
 - [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Fighter

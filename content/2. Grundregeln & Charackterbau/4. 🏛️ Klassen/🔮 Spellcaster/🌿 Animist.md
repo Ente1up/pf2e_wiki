@@ -218,7 +218,7 @@ Der Animist kann seine Verbindung zu einer Apparition **vertiefen** (Attunement)
 | 3 | **Skill Increase** | +1 Skill Increase |
 | 4 | **Animist Feat** | +1 Class Feat |
 | 4 | **Skill Feat** | +1 Skill Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. 📊 Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Expert Perception** | Perception wird **Expert**. |
 | 5 | **Lightning Reflexes** | Reflex-Save wird **Expert**. |
@@ -240,7 +240,7 @@ Der Animist kann seine Verbindung zu einer Apparition **vertiefen** (Attunement)
 | 10 | **Skill Feat** | +1 Skill Feat |
 | 11 | **General Feat** | +1 General Feat |
 | 11 | **Skill Increase** | +1 Skill Increase |
-| 11 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. Attribute & Level System]] |
+| 11 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. 📊 Attribute & Level System]] |
 | 12 | **Animist Feat** | +1 Class Feat |
 | 12 | **Skill Feat** | +1 Skill Feat |
 | 13 | **Ancestry Feat** | +1 Ancestry Feat |
@@ -317,10 +317,10 @@ Beide sind WIS-basierte Prepared Caster mit 8 HP und Naturverbindung – aber fu
 ## 🔗 Verwandte Themen
 
 
-- [[1. Klassen - Übersicht]]
+- [[1. 📋 Klassen - Übersicht]]
 - [[🔮 Grundlegende Kampfregeln Magie]]
 - [[🌀 Zauberschulen & Traditionen]] – Primal und Occult Tradition im Detail
 - [[📖 Zauberslots & Vorbereitung]] – Prepared Caster erklärt
 - [[✨ Konzentration & Fokuszauber]] – Apparition-Fokuszauber im Detail
-- [[1. Feats Übersicht]] – Animist Class Feats im Detail
+- [[1. ⭐ Feats Übersicht]] – Animist Class Feats im Detail
 - [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Animist

@@ -121,4 +121,4 @@ Fokuszauber skalieren automatisch – sie sind immer auf **halbes Charakterlevel
 
 - [[🔮 Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, Aktionskosten
 - [[📖 Zauberslots & Vorbereitung]] – Prepared vs. Spontaneous, Heightening
-- [[3. Aktionen & Aktionssymbole]] – Aktionsökonomie im Kampf
+- [[3. ⚡ Aktionen & Aktionssymbole]] – Aktionsökonomie im Kampf

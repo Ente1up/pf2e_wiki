@@ -196,7 +196,7 @@ Der Wizard erhält Spell-Slots nach folgendem Schema:
 | 3 | **Skill Increase** | +1 Skill Increase |
 | 4 | **Skill Feat** | +1 Skill Feat |
 | 4 | **Wizard Feat** | +1 Class Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. 📊 Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Lightning Reflexes** | Reflex-Save wird **Expert**. |
 | 5 | **Skill Increase** | +1 Skill Increase |
@@ -300,11 +300,11 @@ Der Wizard erhält Spell-Slots nach folgendem Schema:
 
 ## 🔗 Verwandte Themen
 
-- [[1. Klassen - Übersicht]] – Alle Klassen im Vergleich
+- [[1. 📋 Klassen - Übersicht]] – Alle Klassen im Vergleich
 - [[🔮 Grundlegende Kampfregeln Magie]]] – Spell Attack Roll, Saving Throws, DC
 - [[🌀 Zauberschulen & Traditionen]] – Arcane Tradition im Detail
 - [[📖 Zauberslots & Vorbereitung]] – Prepared vs. Spontaneous Caster
 - [[✨ Konzentration & Fokuszauber]] – Arcane School Fokuszauber
-- [[5. Rettungswürfe]] – Wie Feinde gegen Wizard-Zauber würfeln
-- [[1. Feats Übersicht]] – Wizard Class Feats im Detail
+- [[5. 🛡️ Rettungswürfe]] – Wie Feinde gegen Wizard-Zauber würfeln
+- [[1. ⭐ Feats Übersicht]] – Wizard Class Feats im Detail
 - [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Wizard

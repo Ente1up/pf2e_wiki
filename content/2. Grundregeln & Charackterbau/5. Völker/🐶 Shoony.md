@@ -63,13 +63,13 @@ Shoonys sind ein **kleines, hundeähnliches Volk** das für seine **Freundlichke
 
 ## ⚔️ Typische Klassen
 
-- [[Cleric]] – Shoony-Spiritualität und Gemeinschaft
-- [[Ranger]] – Beschützer der Heimat
-- [[Bard]] – Shoony-Geschichtenerzähler
+- [[✝️ Cleric]] – Shoony-Spiritualität und Gemeinschaft
+- [[🏹 Ranger]] – Beschützer der Heimat
+- [[🎵 Bard]] – Shoony-Geschichtenerzähler
 - [[Champion]] – Verteidiger der Gemeinschaft
 
 ---
 
 ## 🔗 Verwandte Themen
-- [[Völker – Übersicht]]
-- [[Charaktererstellung]]
+- [[👥 Völker – Übersicht]]
+- [[1. 👤 Charaktererstellung]]

@@ -209,7 +209,7 @@ Die **Primal Tradition** umfasst:
 | 3 | **Skill Increase** | +1 Skill Increase |
 | 4 | **Druid Feat** | +1 Class Feat |
 | 4 | **Skill Feat** | +1 Skill Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. 📊 Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Lightning Reflexes** | Reflex-Save wird **Expert**. |
 | 5 | **Skill Increase** | +1 Skill Increase |
@@ -231,7 +231,7 @@ Die **Primal Tradition** umfasst:
 | 11 | **General Feat** | +1 General Feat |
 | 11 | **Primal Hierophant** | Erhält einen **Rank 10 Spell Slot** (wie Wizard bei Level 19, aber früher als Fokus-Upgrade). |
 | 11 | **Skill Increase** | +1 Skill Increase |
-| 11 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. Attribute & Level System]] |
+| 11 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. 📊 Attribute & Level System]] |
 | 12 | **Druid Feat** | +1 Class Feat |
 | 12 | **Skill Feat** | +1 Skill Feat |
 | 13 | **Ancestry Feat** | +1 Ancestry Feat |
@@ -308,11 +308,11 @@ Beide sind WIS-basierte Prepared Caster mit 8 HP – aber fundamental unterschie
 
 ## 🔗 Verwandte Themen
 
-- [[1. Klassen - Übersicht]]
+- [[1. 📋 Klassen - Übersicht]]
 - [[🔮 Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
 - [[🌀 Zauberschulen & Traditionen]] – Primal Tradition im Detail
 - [[📖 Zauberslots & Vorbereitung]] – Prepared Caster erklärt
 - [[✨ Konzentration & Fokuszauber]] – Order Fokuszauber im Detail
 - [[Tiergefährten]] – Animal Companion im Detail
-- [[1. Feats Übersicht]] – Druid Class Feats im Detail
+- [[1. ⭐ Feats Übersicht]] – Druid Class Feats im Detail
 - [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Druid

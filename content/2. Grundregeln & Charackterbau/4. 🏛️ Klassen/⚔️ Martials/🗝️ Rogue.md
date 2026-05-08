@@ -166,7 +166,7 @@ Der Rogue ist der **stärkste Skill-Charakter** im Spiel:
 | 3 | **Skill Increase** | +1 Skill Increase (jedes Level!) |
 | 4 | **Rogue Feat** | +1 Class Feat |
 | 4 | **Skill Feat** | +1 Skill Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. 📊 Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Sneak Attack** | Steigt auf **+2W6** |
 | 5 | **Weapon Tricks** | Martial Weapons: **Expert**. Critical Specialization für alle Waffen bei Flat-Footed Zielen. |
@@ -175,7 +175,7 @@ Der Rogue ist der **stärkste Skill-Charakter** im Spiel:
 | 7 | **Evasion** | Reflex-Save wird **Master**. Bei Erfolg gilt es als kritischer Erfolg. |
 | 7 | **General Feat** | +1 General Feat |
 | 7 | **Vigilant Senses** | Perception wird **Master**. |
-| 7 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. Attribute & Level System]] |
+| 7 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. 📊 Attribute & Level System]] |
 | 8 | **Rogue Feat** | +1 Class Feat |
 | 8 | **Skill Feat** | +1 Skill Feat |
 | 9 | **Ancestry Feat** | +1 Ancestry Feat |
@@ -198,7 +198,7 @@ Der Rogue ist der **stärkste Skill-Charakter** im Spiel:
 | 14 | **Skill Feat** | +1 Skill Feat |
 | 15 | **Ability Boosts** | +4 Attribut-Boosts |
 | 15 | **General Feat** | +1 General Feat |
-| 15 | **Greater Weapon Specialization** | Erhöhter Schadenszuwachs → siehe [[1. Attribute & Level System]] |
+| 15 | **Greater Weapon Specialization** | Erhöhter Schadenszuwachs → siehe [[1. 📊 Attribute & Level System]] |
 | 15 | **Masterful Hunter** | — |
 | 16 | **Rogue Feat** | +1 Class Feat |
 | 16 | **Skill Feat** | +1 Skill Feat |
@@ -245,10 +245,10 @@ Der Rogue ist der **stärkste Skill-Charakter** im Spiel:
 
 ## 🔗 Verwandte Themen
 
-- [[1. Klassen - Übersicht]]
-- [[1. Attribute & Level System]] – Ability Boosts, Proficiency
-- [[Grundlegende Kampfregeln (physische Waffen)]] – Flanking, Flat-Footed, MAP
-- [[Fertigkeiten & Skills]] – Skill-System im Detail
-- [[Waffeneigenschaften]] – Finesse, Agile, Deadly
-- [[1. Feats Übersicht]] – Rogue Class Feats im Detail
+- [[1. 📋 Klassen - Übersicht]]
+- [[1. 📊 Attribute & Level System]] – Ability Boosts, Proficiency
+- [[🗡️ Grundlegende Kampfregeln (physische Waffen)]] – Flanking, Flat-Footed, MAP
+- [[1. 📊 Skills Übersicht]] – Skill-System im Detail
+- [[⚔️ Waffeneigenschaften]] – Finesse, Agile, Deadly
+- [[1. ⭐ Feats Übersicht]] – Rogue Class Feats im Detail
 - [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Rogue

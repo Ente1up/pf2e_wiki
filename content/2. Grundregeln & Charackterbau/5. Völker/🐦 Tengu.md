@@ -62,13 +62,13 @@ Tengu sind ein **vogelähnliches Volk** mit Schnäbeln, Federn und einem ausgepr
 
 ## ⚔️ Typische Klassen
 
-- [[Fighter]] – Tengu Sword Training ist legendär
-- [[Rogue]] – Geschick und Sprachtalent
-- [[Bard]] – Kommunikation und Wissen
-- [[Investigator]] – Sammelleidenschaft für Informationen
+- [[⚔️ Fighter]] – Tengu Sword Training ist legendär
+- [[🗝️ Rogue]] – Geschick und Sprachtalent
+- [[🎵 Bard]] – Kommunikation und Wissen
+- [[🔍 Investigator]] – Sammelleidenschaft für Informationen
 
 ---
 
 ## 🔗 Verwandte Themen
-- [[Völker – Übersicht]]
-- [[Charaktererstellung]]
+- [[👥 Völker – Übersicht]]
+- [[1. 👤 Charaktererstellung]]

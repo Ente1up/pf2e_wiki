@@ -175,7 +175,7 @@ Das **Instinct** definiert die Quelle und den Flavour der Rage sowie einen einzi
 | 3 | **Deny Advantage** | Feinde gleichen oder niedrigeren Levels können den Barbarian nicht Flat-Footed machen durch Flanking/Hidden. |
 | 4 | **Barbarian Feat** | +1 Class Feat |
 | 4 | **Skill Feat** | +1 Skill Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. 📊 Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Brutality** | Martial Weapons: **Expert**. Critical Specialization für alle Waffen während Rage. |
 | 5 | **Skill Increase** | +1 Skill Increase |
@@ -185,7 +185,7 @@ Das **Instinct** definiert die Quelle und den Flavour der Rage sowie einen einzi
 | 7 | **Juggernaut** | Fortitude-Save wird **Master**. Bei Erfolg gilt es als kritischer Erfolg. |
 | 7 | **Rage Damage** | Erhöht auf **+3** Nahkampfschaden während Rage. |
 | 7 | **Skill Increase** | +1 Skill Increase |
-| 7 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. Attribute & Level System]] |
+| 7 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. 📊 Attribute & Level System]] |
 | 7 | **Vigilant Senses** | Perception wird **Master**. |
 | 8 | **Barbarian Feat** | +1 Class Feat |
 | 8 | **Skill Feat** | +1 Skill Feat |
@@ -209,7 +209,7 @@ Das **Instinct** definiert die Quelle und den Flavour der Rage sowie einen einzi
 | 14 | **Skill Feat** | +1 Skill Feat |
 | 15 | **Ability Boosts** | +4 Attribut-Boosts |
 | 15 | **General Feat** | +1 General Feat |
-| 15 | **Greater Weapon Specialization** | Erhöhter Schadenszuwachs → siehe [[1. Attribute & Level System]] |
+| 15 | **Greater Weapon Specialization** | Erhöhter Schadenszuwachs → siehe [[1. 📊 Attribute & Level System]] |
 | 15 | **Indomitable Will** | Will-Save wird **Master**. |
 | 15 | **Rage Damage** | Erhöht auf **+4** Nahkampfschaden während Rage. |
 | 15 | **Skill Increase** | +1 Skill Increase |
@@ -261,10 +261,10 @@ Das **Instinct** definiert die Quelle und den Flavour der Rage sowie einen einzi
 
 ## 🔗 Verwandte Themen
 
-- [[1. Klassen - Übersicht]] – Alle Klassen im Vergleich
-- [[1. Attribute & Level System]] – HP, Proficiency, Ability Boosts
-- [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Erfolgsstufen
-- [[Zustände & Conditions]] – Fatigued, Flat-Footed, Slowed
-- [[Waffeneigenschaften]] – Two-Hand, Brutal, etc.
-- [[1. Feats Übersicht]] – Barbarian Class Feats im Detail
+- [[1. 📋 Klassen - Übersicht]] – Alle Klassen im Vergleich
+- [[1. 📊 Attribute & Level System]] – HP, Proficiency, Ability Boosts
+- [[🗡️ Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Erfolgsstufen
+- [[😵 Zustände & Conditions]] – Fatigued, Flat-Footed, Slowed
+- [[⚔️ Waffeneigenschaften]] – Two-Hand, Brutal, etc.
+- [[1. ⭐ Feats Übersicht]] – Barbarian Class Feats im Detail
 - [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Barbarian

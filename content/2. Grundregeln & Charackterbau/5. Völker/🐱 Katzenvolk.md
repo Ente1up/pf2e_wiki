@@ -63,13 +63,13 @@ Catfolk (auch **Amurrun** genannt) sind ein **katzenhaftes, neugieriges und frei
 
 ## ⚔️ Typische Klassen
 
-- [[Rogue]] – Beweglichkeit und Sinne
-- [[Ranger]] – Natürlicher Jäger
-- [[Swashbuckler]] – Elegant und wendig
-- [[Monk]] – Katzenkampfkünste
+- [[🗝️ Rogue]] – Beweglichkeit und Sinne
+- [[🏹 Ranger]] – Natürlicher Jäger
+- [[🤺 Swashbuckler]] – Elegant und wendig
+- [[👊 Monk]] – Katzenkampfkünste
 
 ---
 
 ## 🔗 Verwandte Themen
-- [[Völker – Übersicht]]
-- [[Charaktererstellung]]
+- [[👥 Völker – Übersicht]]
+- [[1. 👤 Charaktererstellung]]

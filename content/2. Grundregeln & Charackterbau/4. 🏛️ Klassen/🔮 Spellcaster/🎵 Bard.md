@@ -158,7 +158,7 @@ Als **Spontaneous Caster** kennt der Bard ein festes Repertoire:
 | Rank 2+ | 2 Zauber pro neuem Rank |
 | **Signature Spells** | 1 pro Rank – automatisches Heightening |
 
-> Der Bard funktioniert wie der Sorcerer bezüglich Spontaneous Casting und Signature Spells – siehe [[Klasse - Sorcerer]] für Details.
+> Der Bard funktioniert wie der Sorcerer bezüglich Spontaneous Casting und Signature Spells – siehe [[🔥 Sorcerer]] für Details.
 
 ---
 
@@ -204,7 +204,7 @@ Der Bard ist der stärkste **soziale Charakter** im Spiel:
 | 3 | **Skill Increase** | +1 Skill Increase |
 | 4 | **Bard Feat** | +1 Class Feat |
 | 4 | **Skill Feat** | +1 Skill Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. 📊 Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Lightning Reflexes** | Reflex-Save wird **Expert**. |
 | 5 | **Skill Increase** | +1 Skill Increase |
@@ -301,11 +301,11 @@ Der Bard ist der stärkste **soziale Charakter** im Spiel:
 
 ## 🔗 Verwandte Themen
 
-- [[1. Klassen - Übersicht]]
+- [[1. 📋 Klassen - Übersicht]]
 - [[🔮 Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
 - [[🌀 Zauberschulen & Traditionen]] – Occult Tradition im Detail
 - [[📖 Zauberslots & Vorbereitung]] – Spontaneous Caster erklärt
 - [[✨ Konzentration & Fokuszauber]] – Composition Spells im Detail
-- [[Fertigkeiten & Skills]] – Performance, Diplomacy, Deception
-- [[1. Feats Übersicht]] – Bard Class Feats im Detail
+- [[1. 📊 Skills Übersicht]] – Performance, Diplomacy, Deception
+- [[1. ⭐ Feats Übersicht]] – Bard Class Feats im Detail
 - [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Bard

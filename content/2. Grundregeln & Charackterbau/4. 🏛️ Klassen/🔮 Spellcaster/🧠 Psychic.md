@@ -216,7 +216,7 @@ Als **Spontaneous Caster** mit der **Occult Tradition**:
 | 3 | **Skill Increase** | +1 Skill Increase |
 | 4 | **Psychic Feat** | +1 Class Feat |
 | 4 | **Skill Feat** | +1 Skill Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. 📊 Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Lightning Reflexes** | Reflex-Save wird **Expert**. |
 | 5 | **Skill Increase** | +1 Skill Increase |
@@ -239,7 +239,7 @@ Als **Spontaneous Caster** mit der **Occult Tradition**:
 | 11 | **Alertness** | Perception wird **Expert**. |
 | 11 | **General Feat** | +1 General Feat |
 | 11 | **Skill Increase** | +1 Skill Increase |
-| 11 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. Attribute & Level System]] |
+| 11 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. 📊 Attribute & Level System]] |
 | 12 | **Psychic Feat** | +1 Class Feat |
 | 12 | **Skill Feat** | +1 Skill Feat |
 | 13 | **Ancestry Feat** | +1 Ancestry Feat |
@@ -318,11 +318,11 @@ Beide nutzen die **Occult Tradition** und sind Spontaneous Caster – aber völl
 
 ## 🔗 Verwandte Themen
 
-- [[1. Klassen - Übersicht]]
+- [[1. 📋 Klassen - Übersicht]]
 - [[🔮 Grundlegende Kampfregeln Magie]] – Spell Attack Roll, Saving Throws, DC
 - [[🌀 Zauberschulen & Traditionen]] – Occult Tradition im Detail
 - [[📖 Zauberslots & Vorbereitung]] – Spontaneous Caster erklärt
 - [[✨ Konzentration & Fokuszauber]] – Amps und Fokuspunkte im Detail
-- [[Zustände & Conditions]] – Stupefied erklärt
-- [[1. Feats Übersicht]] – Psychic Class Feats im Detail
+- [[😵 Zustände & Conditions]] – Stupefied erklärt
+- [[1. ⭐ Feats Übersicht]] – Psychic Class Feats im Detail
 - [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Psychic

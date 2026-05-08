@@ -191,7 +191,7 @@ Abseits des Kampfes ist der Investigator einzigartig stark:
 | 3 | **Keen Recollection** | Recall Knowledge auch in Fertigkeiten in denen man Untrained ist, ohne Malus. |
 | 4 | **Investigator Feat** | +1 Class Feat |
 | 4 | **Skill Feat** | +1 Skill Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. 📊 Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Skill Increase** | +1 Skill Increase |
 | 5 | **Skillful Lessons** | Martial Weapons: **Expert**. +1W6 → **+2W6** Stratagem-Schaden. |
@@ -200,7 +200,7 @@ Abseits des Kampfes ist der Investigator einzigartig stark:
 | 7 | **General Feat** | +1 General Feat |
 | 7 | **Skill Increase** | +1 Skill Increase |
 | 7 | **Vigilant Senses** | Perception wird **Master**. |
-| 7 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. Attribute & Level System]] |
+| 7 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. 📊 Attribute & Level System]] |
 | 8 | **Investigator Feat** | +1 Class Feat |
 | 8 | **Skill Feat** | +1 Skill Feat |
 | 9 | **Ancestry Feat** | +1 Ancestry Feat |
@@ -226,7 +226,7 @@ Abseits des Kampfes ist der Investigator einzigartig stark:
 | 14 | **Skill Feat** | +1 Skill Feat |
 | 15 | **Ability Boosts** | +4 Attribut-Boosts |
 | 15 | **General Feat** | +1 General Feat |
-| 15 | **Greater Weapon Specialization** | Erhöhter Schadenszuwachs → siehe [[1. Attribute & Level System]] |
+| 15 | **Greater Weapon Specialization** | Erhöhter Schadenszuwachs → siehe [[1. 📊 Attribute & Level System]] |
 | 15 | **Skill Increase** | +1 Skill Increase |
 | 15 | **Skillful Lessons** | +3W6 → **+4W6** Stratagem-Schaden. |
 | 16 | **Investigator Feat** | +1 Class Feat |
@@ -290,9 +290,9 @@ Beide Klassen sind DEX/INT-adjacent, Skill-fokussiert und mit 8 HP/Level – abe
 
 ## 🔗 Verwandte Themen
 
-- [[1. Klassen - Übersicht]]
-- [[1. Attribute & Level System]] – HP, Proficiency, Ability Boosts
-- [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Aktionen
-- [[Waffeneigenschaften]] – Finesse, Agile
-- [[1. Feats Übersicht]] – Investigator Class Feats im Detail
+- [[1. 📋 Klassen - Übersicht]]
+- [[1. 📊 Attribute & Level System]] – HP, Proficiency, Ability Boosts
+- [[🗡️ Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Aktionen
+- [[⚔️ Waffeneigenschaften]] – Finesse, Agile
+- [[1. ⭐ Feats Übersicht]] – Investigator Class Feats im Detail
 - [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Investigator

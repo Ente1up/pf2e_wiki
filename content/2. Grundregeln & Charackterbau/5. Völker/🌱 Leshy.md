@@ -62,12 +62,12 @@ Leshys sind **lebende Pflanzen** – kleine humanoide Wesen die von Druiden oder
 
 ## ⚔️ Typische Klassen
 
-- [[Druid]] – Natürlichste Wahl für einen lebenden Pflanzen
-- [[Ranger]] – Naturverbundener Beschützer
-- [[Cleric]] – Göttliche Naturverbindung
+- [[🌳 Druid]] – Natürlichste Wahl für einen lebenden Pflanzen
+- [[🏹 Ranger]] – Naturverbundener Beschützer
+- [[✝️ Cleric]] – Göttliche Naturverbindung
 
 ---
 
 ## 🔗 Verwandte Themen
-- [[Völker – Übersicht]]
-- [[Charaktererstellung]]
+- [[👥 Völker – Übersicht]]
+- [[1. 👤 Charaktererstellung]]

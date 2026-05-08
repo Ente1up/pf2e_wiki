@@ -162,7 +162,7 @@ Bei Level 1 wählt der Ranger eine **Hunter's Edge**, die seinen Kampfstil grund
 | 3 | **Skill Increase** | +1 Skill Increase |
 | 4 | **Ranger Feat** | +1 Class Feat |
 | 4 | **Skill Feat** | +1 Skill Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. 📊 Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Ranger Weapon Expertise** | Martial Weapons: **Expert**. Critical Specialization für gewählte Waffengruppe. |
 | 5 | **Skill Increase** | +1 Skill Increase |
@@ -172,7 +172,7 @@ Bei Level 1 wählt der Ranger eine **Hunter's Edge**, die seinen Kampfstil grund
 | 7 | **General Feat** | +1 General Feat |
 | 7 | **Skill Increase** | +1 Skill Increase |
 | 7 | **Vigilant Senses** | Perception wird **Master**. |
-| 7 | **Weapon Specialization** | +2/+3/+4 Schaden je nach Proficiency → siehe [[1. Attribute & Level System]] |
+| 7 | **Weapon Specialization** | +2/+3/+4 Schaden je nach Proficiency → siehe [[1. 📊 Attribute & Level System]] |
 | 8 | **Ranger Feat** | +1 Class Feat |
 | 8 | **Skill Feat** | +1 Skill Feat |
 | 9 | **Ancestry Feat** | +1 Ancestry Feat |
@@ -196,7 +196,7 @@ Bei Level 1 wählt der Ranger eine **Hunter's Edge**, die seinen Kampfstil grund
 | 14 | **Skill Feat** | +1 Skill Feat |
 | 15 | **Ability Boosts** | +4 Attribut-Boosts |
 | 15 | **General Feat** | +1 General Feat |
-| 15 | **Greater Weapon Specialization** | Erhöhter Schadenszuwachs → siehe [[1. Attribute & Level System]] |
+| 15 | **Greater Weapon Specialization** | Erhöhter Schadenszuwachs → siehe [[1. 📊 Attribute & Level System]] |
 | 15 | **Improved Evasion** | Reflex-Save wird **Legendary**. Bei kritischem Misserfolg gilt es nur als Misserfolg. |
 | 15 | **Incredible Senses** | Perception wird **Legendary**. |
 | 15 | **Skill Increase** | +1 Skill Increase |
@@ -245,12 +245,12 @@ Bei Level 1 wählt der Ranger eine **Hunter's Edge**, die seinen Kampfstil grund
 
 ## 🔗 Verwandte Themen
 
-- [[1. Klassen - Übersicht]]
-- [[1. Attribute & Level System]] – Ability Boosts, Weapon Specialization
-- [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Erfolgsstufen
-- [[Waffeneigenschaften]] – Agile, Volley, Deadly etc.
+- [[1. 📋 Klassen - Übersicht]]
+- [[1. 📊 Attribute & Level System]] – Ability Boosts, Weapon Specialization
+- [[🗡️ Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Erfolgsstufen
+- [[⚔️ Waffeneigenschaften]] – Agile, Volley, Deadly etc.
 - [[Tiergefährten]] – Animal Companion im Detail
-- [[1. Feats Übersicht]] – Ranger Class Feats im Detail
-- [[2. ]] – Ranger als Dedication-Archetype
+- [[1. ⭐ Feats Übersicht]] – Ranger Class Feats im Detail
+- [[2. 🔄 Archetypen & Multiclassing]] – Ranger als Dedication-Archetype
 
 - [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Ranger

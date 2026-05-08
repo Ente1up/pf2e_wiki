@@ -194,7 +194,7 @@ Der Inventor verbessert seine Innovation durch **Modification-Feats** die bei ge
 | 3 | **Explode** | Kann Instabilitäten kontrolliert nutzen: Flächenschaden um sich selbst als ↺. |
 | 4 | **Inventor Feat** | +1 Class Feat |
 | 4 | **Skill Feat** | +1 Skill Feat |
-| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. Attribute & Level System]] |
+| 5 | **Ability Boosts** | +4 Attribut-Boosts → siehe [[1. 📊 Attribute & Level System]] |
 | 5 | **Ancestry Feat** | +1 Ancestry Feat |
 | 5 | **Inventor Weapon Expertise** | Martial Weapons & Innovation: **Expert**. Perception: Expert. |
 | 5 | **Skill Increase** | +1 Skill Increase |
@@ -204,7 +204,7 @@ Der Inventor verbessert seine Innovation durch **Modification-Feats** die bei ge
 | 7 | **General Feat** | +1 General Feat |
 | 7 | **Resolve** | Will-Save wird **Master**. |
 | 7 | **Skill Increase** | +1 Skill Increase |
-| 7 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. Attribute & Level System]] |
+| 7 | **Weapon Specialization** | +2/+3/+4 Schaden → siehe [[1. 📊 Attribute & Level System]] |
 | 8 | **Inventor Feat** | +1 Class Feat |
 | 8 | **Skill Feat** | +1 Skill Feat |
 | 9 | **Ancestry Feat** | +1 Ancestry Feat |
@@ -227,7 +227,7 @@ Der Inventor verbessert seine Innovation durch **Modification-Feats** die bei ge
 | 14 | **Skill Feat** | +1 Skill Feat |
 | 15 | **Ability Boosts** | +4 Attribut-Boosts |
 | 15 | **General Feat** | +1 General Feat |
-| 15 | **Greater Weapon Specialization** | Erhöhter Schadenszuwachs → siehe [[1. Attribute & Level System]] |
+| 15 | **Greater Weapon Specialization** | Erhöhter Schadenszuwachs → siehe [[1. 📊 Attribute & Level System]] |
 | 15 | **Revolutionary Innovation** | Wählt eine weitere Advanced Modification. Unstable Flat Check DC sinkt auf **13**. |
 | 15 | **Skill Increase** | +1 Skill Increase |
 | 16 | **Inventor Feat** | +1 Class Feat |
@@ -278,11 +278,11 @@ Der Inventor verbessert seine Innovation durch **Modification-Feats** die bei ge
 
 ## 🔗 Verwandte Themen
 
-- [[1. Klassen - Übersicht]]
-- [[1. Attribute & Level System]] – HP, Proficiency, Ability Boosts
-- [[Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Aktionen
-- [[Waffeneigenschaften]] – Modifikations-Traits der Innovation
-- [[1. Feats Übersicht]] – Inventor Class Feats & Modification Feats im Detail
-- [[2. ]] – Inventor als Dedication-Archetype
+- [[1. 📋 Klassen - Übersicht]]
+- [[1. 📊 Attribute & Level System]] – HP, Proficiency, Ability Boosts
+- [[🗡️ Grundlegende Kampfregeln (physische Waffen)]] – Strike, MAP, Aktionen
+- [[⚔️ Waffeneigenschaften]] – Modifikations-Traits der Innovation
+- [[1. ⭐ Feats Übersicht]] – Inventor Class Feats & Modification Feats im Detail
+- [[2. 🔄 Archetypen & Multiclassing]] – Inventor als Dedication-Archetype
 
 - [[4. 🎒 Ausrüstung & Starterkits]] – Starterkit für Inventor

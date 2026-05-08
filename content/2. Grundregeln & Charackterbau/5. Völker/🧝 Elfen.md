@@ -87,15 +87,15 @@ Elfen leben in abgelegenen, meist naturverbundenen Gebieten:
 
 ## ⚔️ Typische Klassen
 
-- [[Wizard]] – Elfische Magieschulen sind weltberühmt
-- [[Ranger]] – Waldverbundene Bogenschützen
-- [[Druid]] – Naturverbindung und Primal-Magie
-- [[Bard]] – Jahrtausende altes kulturelles Erbe
+- [[📖 Wizard]] – Elfische Magieschulen sind weltberühmt
+- [[🏹 Ranger]] – Waldverbundene Bogenschützen
+- [[🌳 Druid]] – Naturverbindung und Primal-Magie
+- [[🎵 Bard]] – Jahrtausende altes kulturelles Erbe
 
 ---
 
 ## 🔗 Verwandte Themen
 
-- [[Völker – Übersicht]] – Alle spielbaren Ancestries
-- [[Charaktererstellung]] – Ancestry im Build-Prozess
-- [[1. Attribute & Level System]] – Attribut-Boosts erklärt
+- [[👥 Völker – Übersicht]] – Alle spielbaren Ancestries
+- [[1. 👤 Charaktererstellung]] – Ancestry im Build-Prozess
+- [[1. 📊 Attribute & Level System]] – Attribut-Boosts erklärt

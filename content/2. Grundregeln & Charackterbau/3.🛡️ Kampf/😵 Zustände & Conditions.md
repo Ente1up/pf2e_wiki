@@ -394,10 +394,10 @@ Manche Conditions haben einen numerischen Wert der ihre Stärke angibt:
 
 ## 🔗 Verwandte Themen
 
-- [[Grundlegende Kampfregeln (physische Waffen)]] – Flat-Footed, Prone im Kampf
-- [[Grundlegende Kampfregeln (Magie)]] – Conditions durch Zauber
-- [[5. Rettungswürfe]] – Wie Conditions durch Saves vermieden werden
-- [[Klasse - Barbarian]] – Fatigued nach Rage
-- [[Klasse - Rogue]] – Sneak Attack durch Flat-Footed
-- [[Klasse - Oracle]] – Curse-Conditions
-- [[Klasse - Psychic]] – Stupefied durch Unleash Psyche
+- [[🗡️ Grundlegende Kampfregeln (physische Waffen)]] – Flat-Footed, Prone im Kampf
+- [[🔮 Grundlegende Kampfregeln Magie]] – Conditions durch Zauber
+- [[5. 🛡️ Rettungswürfe]] – Wie Conditions durch Saves vermieden werden
+- [[🪓 Barbarian]] – Fatigued nach Rage
+- [[🗝️ Rogue]] – Sneak Attack durch Flat-Footed
+- [[👁️ Oracle]] – Curse-Conditions
+- [[🧠 Psychic]] – Stupefied durch Unleash Psyche

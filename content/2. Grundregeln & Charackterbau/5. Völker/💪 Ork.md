@@ -66,13 +66,13 @@ Orks sind ein **kräftiges, leidenschaftliches und kampferprobtes Volk** das lan
 
 ## ⚔️ Typische Klassen
 
-- [[Barbarian]] – Ferocity + Rage = legendäre Kombination
-- [[Fighter]] – Orks als geborene Krieger
+- [[🪓 Barbarian]] – Ferocity + Rage = legendäre Kombination
+- [[⚔️ Fighter]] – Orks als geborene Krieger
 - [[Champion]] – Gorums Auserwählte
-- [[Monk]] – Orkische Kampfkünste
+- [[👊 Monk]] – Orkische Kampfkünste
 
 ---
 
 ## 🔗 Verwandte Themen
-- [[Völker – Übersicht]]
-- [[Charaktererstellung]]
+- [[👥 Völker – Übersicht]]
+- [[1. 👤 Charaktererstellung]]
