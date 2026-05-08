@@ -394,6 +394,8 @@ Manche Conditions haben einen numerischen Wert der ihre Stärke angibt:
 
 ## 🔗 Verwandte Themen
 
+- [[🔄 Encounter-Ablauf]] – Wann Conditions in einem Zug greifen (Beginn/Ende)
+- [[🎯 Initiative & Kampfstart]] – Off-Guard bei Überraschung
 - [[🗡️ Grundlegende Kampfregeln (physische Waffen)]] – Flat-Footed, Prone im Kampf
 - [[🔮 Grundlegende Kampfregeln Magie]] – Conditions durch Zauber
 - [[5. 🛡️ Rettungswürfe]] – Wie Conditions durch Saves vermieden werden

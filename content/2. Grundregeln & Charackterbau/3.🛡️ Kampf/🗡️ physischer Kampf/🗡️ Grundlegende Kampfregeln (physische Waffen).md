@@ -114,6 +114,8 @@ Die **AC** eines Charakters setzt sich zusammen aus:
 
 ## 🔗 Verwandte Themen
 
+- [[🎯 Initiative & Kampfstart]] – Wie Initiative gewürfelt wird, Überraschungsrunde
+- [[🔄 Encounter-Ablauf]] – Gesamtstruktur einer Kampfrunde
 - [[3. ⚡ Aktionen & Aktionssymbole]] – Alle verfügbaren Kampfaktionen im Überblick
 - [[Trefferchance & Rüstungsklasse]] – AC im Detail
 - [[⚔️ Waffeneigenschaften]] – Agile, Finesse, Reach, Two-Hand, etc.
